@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-23 22:28:25 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-07-23 23:31:31 UTC",
+  "total_matches": 29,
   "matches": [
     {
       "title": "MSG vs LDN - MSG won",
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "GAW vs SFU - Preview",
+      "title": "SFU vs GAW - SFU opt to bat",
       "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SFU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs SFU - Preview",
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SFU vs GAW - SFU opt to bat",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs San Francisco Unicorns 2nd Match",
+      "title": "San Francisco Unicorns vs Guyana Amazon Warriors LIVE 2nd Match",
       "team1": {
-        "name": "Guyana Amazon Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "San Francisco Unicorns 2nd Match",
+        "name": "San Francisco Unicorns",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Guyana Amazon Warriors vs San Francisco Unicorns 2nd Match",
+      "team2": {
+        "name": "Guyana Amazon Warriors LIVE 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "San Francisco Unicorns vs Guyana Amazon Warriors LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -212,6 +212,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Surrey vs Leicestershire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Leicestershire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Worcestershire vs Derbyshire Group B",
       "team1": {
         "name": "Worcestershire",
@@ -261,19 +274,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Kent vs Northamptonshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Leicestershire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Leicestershire Group A",
       "status": "Match Details"
     },
     {
@@ -378,45 +378,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Match • London, Lord's 100 Manchester Super Giants MSG 138-9 (100 Balls) London Spirit LDN 131-6 (100 Balls) Manchester Super Giants won by 7 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 193-8 (20) Jaffna Kings JKS 133 (17.5) Galle Gallants won by 60 runs",
-      "team1": {
-        "name": "10th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 193",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Jaffna Kings JKS 133 (17.5) Galle Gallants won by 60 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "10th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 193-8 (20) Jaffna Kings JKS 133 (17.5) Galle Gallants won by 60 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Guyana, Providence Stadium Lahore Qalandars LHQ 171-7 (20) Perth Scorchers XI PRS XI 155-7 (20) Lahore Qalandars won by 16 runs",
-      "team1": {
-        "name": "1st Match • Guyana, Providence Stadium Lahore Qalandars LHQ 171",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Perth Scorchers XI PRS XI 155",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Guyana, Providence Stadium Lahore Qalandars LHQ 171-7 (20) Perth Scorchers XI PRS XI 155-7 (20) Lahore Qalandars won by 16 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Nettleworth, The John Fretwell Sporting Complex Warwickshire WARKS 282 (49.5) Nottinghamshire NOTTS 283-7 (48.3) Nottinghamshire won by 3 wkts",
-      "team1": {
-        "name": "Group A • Nettleworth, The John Fretwell Sporting Complex Warwickshire WARKS 282 (49.5) Nottinghamshire NOTTS 283",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "7 (48.3) Nottinghamshire won by 3 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Nettleworth, The John Fretwell Sporting Complex Warwickshire WARKS 282 (49.5) Nottinghamshire NOTTS 283-7 (48.3) Nottinghamshire won by 3 wkts",
       "status": "Match Details"
     }
   ]
