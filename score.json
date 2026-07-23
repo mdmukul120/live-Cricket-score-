@@ -1,202 +1,475 @@
 {
   "status": "success",
-  "last_updated": "2026-07-23 16:34:26 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-07-23 16:41:37 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "ZIMvsIND-IND won",
-      "details": "ZIMvsIND-IND won",
-      "status": "Live/Scheduled"
+      "title": "ZIM vs IND - IND won",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "ZIM vs IND - IND won",
+      "status": "Match Details"
     },
     {
-      "title": "LDNvsMSG-Preview",
-      "details": "LDNvsMSG-Preview",
-      "status": "Live/Scheduled"
+      "title": "LDN vs MSG - Preview",
+      "team1": {
+        "name": "LDN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDN vs MSG - Preview",
+      "status": "Match Details"
     },
     {
-      "title": "LDNWvsMSGW-MSGW won",
-      "details": "LDNWvsMSGW-MSGW won",
-      "status": "Live/Scheduled"
+      "title": "LDNW vs MSGW - MSGW won",
+      "team1": {
+        "name": "LDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDNW vs MSGW - MSGW won",
+      "status": "Match Details"
     },
     {
-      "title": "NEPvsNED-NED won",
-      "details": "NEPvsNED-NED won",
-      "status": "Live/Scheduled"
+      "title": "NEP vs NED - NED won",
+      "team1": {
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NED",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NEP vs NED - NED won",
+      "status": "Match Details"
     },
     {
-      "title": "GAGvsJKS-Need 133 off 71b",
-      "details": "GAGvsJKS-Need 133 off 71b",
-      "status": "Live/Scheduled"
+      "title": "GAG vs JKS - Need 112 off 64b",
+      "team1": {
+        "name": "GAG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JKS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAG vs JKS - Need 112 off 64b",
+      "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs India1st T20I",
-      "details": "Zimbabwe vs India1st T20I",
-      "status": "Live/Scheduled"
+      "title": "Zimbabwe vs India 1st T20I",
+      "team1": {
+        "name": "Zimbabwe",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "India 1st T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Zimbabwe vs India 1st T20I",
+      "status": "Match Details"
     },
     {
-      "title": "Nepal vs Netherlands117th Match",
-      "details": "Nepal vs Netherlands117th Match",
-      "status": "Live/Scheduled"
+      "title": "Nepal vs Netherlands 117th Match",
+      "team1": {
+        "name": "Nepal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Netherlands 117th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nepal vs Netherlands 117th Match",
+      "status": "Match Details"
     },
     {
-      "title": "Southern Brave vs Welsh Fire2nd Match",
-      "details": "Southern Brave vs Welsh Fire2nd Match",
-      "status": "Live/Scheduled"
+      "title": "Southern Brave vs Welsh Fire 2nd Match",
+      "team1": {
+        "name": "Southern Brave",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Welsh Fire 2nd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Southern Brave vs Welsh Fire 2nd Match",
+      "status": "Match Details"
     },
     {
-      "title": "London Spirit vs Manchester Super Giants3rd Match",
-      "details": "London Spirit vs Manchester Super Giants3rd Match",
-      "status": "Live/Scheduled"
+      "title": "London Spirit vs Manchester Super Giants 3rd Match",
+      "team1": {
+        "name": "London Spirit",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manchester Super Giants 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "London Spirit vs Manchester Super Giants 3rd Match",
+      "status": "Match Details"
     },
     {
-      "title": "Lahore Qalandars vs Perth Scorchers XILIVE1st Match",
-      "details": "Lahore Qalandars vs Perth Scorchers XILIVE1st Match",
-      "status": "Live/Scheduled"
+      "title": "Lahore Qalandars vs Perth Scorchers XI LIVE 1st Match",
+      "team1": {
+        "name": "Lahore Qalandars",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Perth Scorchers XI LIVE 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lahore Qalandars vs Perth Scorchers XI LIVE 1st Match",
+      "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs San Francisco Unicorns2nd Match",
-      "details": "Guyana Amazon Warriors vs San Francisco Unicorns2nd Match",
-      "status": "Live/Scheduled"
+      "title": "Guyana Amazon Warriors vs San Francisco Unicorns 2nd Match",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "San Francisco Unicorns 2nd Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Guyana Amazon Warriors vs San Francisco Unicorns 2nd Match",
+      "status": "Match Details"
     },
     {
-      "title": "Lahore Qalandars vs Desert Vipers3rd Match",
-      "details": "Lahore Qalandars vs Desert Vipers3rd Match",
-      "status": "Live/Scheduled"
+      "title": "Lahore Qalandars vs Desert Vipers 3rd Match",
+      "team1": {
+        "name": "Lahore Qalandars",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Desert Vipers 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lahore Qalandars vs Desert Vipers 3rd Match",
+      "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Dambulla Sixers8th Match",
-      "details": "Galle Gallants vs Dambulla Sixers8th Match",
-      "status": "Live/Scheduled"
+      "title": "Galle Gallants vs Dambulla Sixers 8th Match",
+      "team1": {
+        "name": "Galle Gallants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dambulla Sixers 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Galle Gallants vs Dambulla Sixers 8th Match",
+      "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Kandy Royals9th Match",
-      "details": "Colombo Kaps vs Kandy Royals9th Match",
-      "status": "Live/Scheduled"
+      "title": "Colombo Kaps vs Kandy Royals 9th Match",
+      "team1": {
+        "name": "Colombo Kaps",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kandy Royals 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Colombo Kaps vs Kandy Royals 9th Match",
+      "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Jaffna KingsLIVE10th Match",
-      "details": "Galle Gallants vs Jaffna KingsLIVE10th Match",
-      "status": "Live/Scheduled"
+      "title": "Galle Gallants vs Jaffna Kings LIVE 10th Match",
+      "team1": {
+        "name": "Galle Gallants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jaffna Kings LIVE 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Galle Gallants vs Jaffna Kings LIVE 10th Match",
+      "status": "Match Details"
     },
     {
-      "title": "India U19 vs Sri Lanka U192nd unofficial Test",
-      "details": "India U19 vs Sri Lanka U192nd unofficial Test",
-      "status": "Live/Scheduled"
+      "title": "India U19 vs Sri Lanka U19 2nd unofficial Test",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Sri Lanka U19 2nd unofficial Test",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "India U19 vs Sri Lanka U19 2nd unofficial Test",
+      "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs SussexGroup B",
-      "details": "Glamorgan vs SussexGroup B",
-      "status": "Live/Scheduled"
+      "title": "Glamorgan vs Sussex Group B",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Sussex Group B",
+      "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs LeicestershireGroup A",
-      "details": "Gloucestershire vs LeicestershireGroup A",
-      "status": "Live/Scheduled"
+      "title": "Gloucestershire vs Leicestershire Group A",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Leicestershire Group A",
+      "status": "Match Details"
     },
     {
-      "title": "Warwickshire vs NottinghamshireLIVEGroup A",
-      "details": "Warwickshire vs NottinghamshireLIVEGroup A",
-      "status": "Live/Scheduled"
+      "title": "Warwickshire vs Nottinghamshire LIVE Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Nottinghamshire LIVE Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Nottinghamshire LIVE Group A",
+      "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs YorkshireGroup B",
-      "details": "Glamorgan vs YorkshireGroup B",
-      "status": "Live/Scheduled"
+      "title": "Glamorgan vs Yorkshire Group B",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Glamorgan vs Yorkshire Group B",
+      "status": "Match Details"
     },
     {
-      "title": "Hampshire vs MiddlesexGroup B",
-      "details": "Hampshire vs MiddlesexGroup B",
-      "status": "Live/Scheduled"
+      "title": "Hampshire vs Middlesex Group B",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Middlesex Group B",
+      "status": "Match Details"
     },
     {
-      "title": "Kent vs NorthamptonshireGroup A",
-      "details": "Kent vs NorthamptonshireGroup A",
-      "status": "Live/Scheduled"
+      "title": "Kent vs Northamptonshire Group A",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northamptonshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Northamptonshire Group A",
+      "status": "Match Details"
     },
     {
-      "title": "Surrey vs LeicestershireGroup A",
-      "details": "Surrey vs LeicestershireGroup A",
-      "status": "Live/Scheduled"
+      "title": "Surrey vs Leicestershire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Leicestershire Group A",
+      "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs DerbyshireGroup B",
-      "details": "Worcestershire vs DerbyshireGroup B",
-      "status": "Live/Scheduled"
+      "title": "Worcestershire vs Derbyshire Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Derbyshire Group B",
+      "status": "Match Details"
     },
     {
-      "title": "Durham vs SussexGroup B",
-      "details": "Durham vs SussexGroup B",
-      "status": "Live/Scheduled"
+      "title": "Durham vs Sussex Group B",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Durham vs Sussex Group B",
+      "status": "Match Details"
     },
     {
-      "title": "Somerset vs GloucestershireGroup A",
-      "details": "Somerset vs GloucestershireGroup A",
-      "status": "Live/Scheduled"
+      "title": "Somerset vs Gloucestershire Group A",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gloucestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Somerset vs Gloucestershire Group A",
+      "status": "Match Details"
     },
     {
-      "title": "London Spirit Women vs Manchester Super Giants Women3rd Match",
-      "details": "London Spirit Women vs Manchester Super Giants Women3rd Match",
-      "status": "Live/Scheduled"
+      "title": "London Spirit Women vs Manchester Super Giants Women 3rd Match",
+      "team1": {
+        "name": "London Spirit Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manchester Super Giants Women 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "London Spirit Women vs Manchester Super Giants Women 3rd Match",
+      "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix Women vs Trent Rockets Women4th Match",
-      "details": "Birmingham Phoenix Women vs Trent Rockets Women4th Match",
-      "status": "Live/Scheduled"
+      "title": "Birmingham Phoenix Women vs Trent Rockets Women 4th Match",
+      "team1": {
+        "name": "Birmingham Phoenix Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trent Rockets Women 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Birmingham Phoenix Women vs Trent Rockets Women 4th Match",
+      "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs Pakistan Women1st ODI",
-      "details": "Sri Lanka Women vs Pakistan Women1st ODI",
-      "status": "Live/Scheduled"
+      "title": "Sri Lanka Women vs Pakistan Women 1st ODI",
+      "team1": {
+        "name": "Sri Lanka Women",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Pakistan Women 1st ODI",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Sri Lanka Women vs Pakistan Women 1st ODI",
+      "status": "Match Details"
     },
     {
-      "title": "Tanzania Women vs Uganda Women5th Match",
-      "details": "Tanzania Women vs Uganda Women5th Match",
-      "status": "Live/Scheduled"
+      "title": "Tanzania Women vs Uganda Women 5th Match",
+      "team1": {
+        "name": "Tanzania Women",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Uganda Women 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania Women vs Uganda Women 5th Match",
+      "status": "Match Details"
     },
     {
-      "title": "Namibia Women vs Hong Kong, China Women6th Match",
-      "details": "Namibia Women vs Hong Kong, China Women6th Match",
-      "status": "Live/Scheduled"
+      "title": "Namibia Women vs Hong Kong, China Women 6th Match",
+      "team1": {
+        "name": "Namibia Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hong Kong, China Women 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Namibia Women vs Hong Kong, China Women 6th Match",
+      "status": "Match Details"
     },
     {
-      "title": "1st T20I • Harare, Harare Sports ClubZimbabweZIM125-7 (20)IndiaIND126-3 (13.2)India won by 7 wkts",
-      "details": "1st T20I • Harare, Harare Sports ClubZimbabweZIM125-7 (20)IndiaIND126-3 (13.2)India won by 7 wkts",
-      "status": "Live/Scheduled"
+      "title": "1st T20I • Harare, Harare Sports Club Zimbabwe ZIM 125-7 (20) India IND 126-3 (13.2) India won by 7 wkts",
+      "team1": {
+        "name": "1st T20I • Harare, Harare Sports Club Zimbabwe ZIM 125",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "7 (20) India IND 126",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "1st T20I • Harare, Harare Sports Club Zimbabwe ZIM 125-7 (20) India IND 126-3 (13.2) India won by 7 wkts",
+      "status": "Match Details"
     },
     {
-      "title": "117th Match • Utrecht, Sportpark MaarschalkerweerdNepalNEP157 (44.4)NetherlandsNED158-4 (44.1)Netherlands won by 6 wkts",
-      "details": "117th Match • Utrecht, Sportpark MaarschalkerweerdNepalNEP157 (44.4)NetherlandsNED158-4 (44.1)Netherlands won by 6 wkts",
-      "status": "Live/Scheduled"
+      "title": "117th Match • Utrecht, Sportpark Maarschalkerweerd Nepal NEP 157 (44.4) Netherlands NED 158-4 (44.1) Netherlands won by 6 wkts",
+      "team1": {
+        "name": "117th Match • Utrecht, Sportpark Maarschalkerweerd Nepal NEP 157 (44.4) Netherlands NED 158",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (44.1) Netherlands won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "117th Match • Utrecht, Sportpark Maarschalkerweerd Nepal NEP 157 (44.4) Netherlands NED 158-4 (44.1) Netherlands won by 6 wkts",
+      "status": "Match Details"
     },
     {
-      "title": "10th Match • Dambulla, Rangiri Dambulla International StadiumGalle GallantsGAG193-8 (20)Jaffna KingsJKS61-5 (8)Jaffna Kings need 133 runs in 72 balls",
-      "details": "10th Match • Dambulla, Rangiri Dambulla International StadiumGalle GallantsGAG193-8 (20)Jaffna KingsJKS61-5 (8)Jaffna Kings need 133 runs in 72 balls",
-      "status": "Live/Scheduled"
+      "title": "9th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 192-9 (20) Kandy Royals KRL 169-8 (20) Colombo Kaps won by 23 runs",
+      "team1": {
+        "name": "9th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 192",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Kandy Royals KRL 169",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "9th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 192-9 (20) Kandy Royals KRL 169-8 (20) Colombo Kaps won by 23 runs",
+      "status": "Match Details"
     },
     {
-      "title": "9th Match • Dambulla, Rangiri Dambulla International StadiumColombo KapsCLK192-9 (20)Kandy RoyalsKRL169-8 (20)Colombo Kaps won by 23 runs",
-      "details": "9th Match • Dambulla, Rangiri Dambulla International StadiumColombo KapsCLK192-9 (20)Kandy RoyalsKRL169-8 (20)Colombo Kaps won by 23 runs",
-      "status": "Live/Scheduled"
+      "title": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86-3 (59 Balls) Manchester Super Giants Women won by 7 wkts",
+      "team1": {
+        "name": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (59 Balls) Manchester Super Giants Women won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86-3 (59 Balls) Manchester Super Giants Women won by 7 wkts",
+      "status": "Match Details"
     },
     {
-      "title": "1st Match • Guyana, Providence StadiumLahore QalandarsLHQ171-7 (20)Perth Scorchers XIPRS XI64-2 (8)Perth Scorchers XI need 108 runs in 72 balls",
-      "details": "1st Match • Guyana, Providence StadiumLahore QalandarsLHQ171-7 (20)Perth Scorchers XIPRS XI64-2 (8)Perth Scorchers XI need 108 runs in 72 balls",
-      "status": "Live/Scheduled"
-    },
-    {
-      "title": "Group A • Nettleworth, The John Fretwell Sporting ComplexWarwickshireWARKS282 (49.5)NottinghamshireNOTTS212-5 (36)Nottinghamshire need 71 runs in 84 balls",
-      "details": "Group A • Nettleworth, The John Fretwell Sporting ComplexWarwickshireWARKS282 (49.5)NottinghamshireNOTTS212-5 (36)Nottinghamshire need 71 runs in 84 balls",
-      "status": "Live/Scheduled"
-    },
-    {
-      "title": "3rd Match • London, Lord's100London Spirit WomenLDNW80 (91 Balls)Manchester Super Giants WomenMSGW86-3 (59 Balls)Manchester Super Giants Women won by 7 wkts",
-      "details": "3rd Match • London, Lord's100London Spirit WomenLDNW80 (91 Balls)Manchester Super Giants WomenMSGW86-3 (59 Balls)Manchester Super Giants Women won by 7 wkts",
-      "status": "Live/Scheduled"
-    },
-    {
-      "title": "1st ODI • Hambantota, Mahinda Rajapaksa International StadiumSri Lanka WomenSLW210-9 (50)Pakistan WomenPAKW211-5 (43)Pakistan Women won by 5 wkts",
-      "details": "1st ODI • Hambantota, Mahinda Rajapaksa International StadiumSri Lanka WomenSLW210-9 (50)Pakistan WomenPAKW211-5 (43)Pakistan Women won by 5 wkts",
-      "status": "Live/Scheduled"
+      "title": "1st ODI • Hambantota, Mahinda Rajapaksa International Stadium Sri Lanka Women SLW 210-9 (50) Pakistan Women PAKW 211-5 (43) Pakistan Women won by 5 wkts",
+      "team1": {
+        "name": "1st ODI • Hambantota, Mahinda Rajapaksa International Stadium Sri Lanka Women SLW 210",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "9 (50) Pakistan Women PAKW 211",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "1st ODI • Hambantota, Mahinda Rajapaksa International Stadium Sri Lanka Women SLW 210-9 (50) Pakistan Women PAKW 211-5 (43) Pakistan Women won by 5 wkts",
+      "status": "Match Details"
     }
   ]
 }
