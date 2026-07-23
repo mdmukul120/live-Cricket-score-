@@ -4,11 +4,15 @@ on:
   schedule:
     # প্রতি ৫ মিনিট পর পর অটোমেটিক চলবে
     - cron: '*/5 * * * *'
-  workflow_dispatch: # হাত দিয়ে ম্যানুয়ালি রান করার জন্য অপশন
+  workflow_dispatch: # ম্যানুয়ালি রান করার জন্য অপশন
 
 jobs:
   build-and-scrape:
     runs-on: ubuntu-latest
+
+    # Write permission দেওয়া হলো যাতে score.json পুশ করা যায়
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repository
