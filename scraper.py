@@ -56,7 +56,7 @@ def scrape_scores():
 
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Cricbuzz Mobile HTML Elements Parsing (Multiple fallbacks)
+        # Cricbuzz Mobile HTML Elements Parsing
         match_blocks = soup.find_all('div', class_=re.compile(r'cb-mtch-lst|ui-section|cb-col-100'))
 
         for block in match_blocks:
@@ -67,7 +67,7 @@ def scrape_scores():
                 if not title:
                     continue
 
-                # স্কোর এক্সট্র্যাক্ট করার চেষ্টা
+                # স্কোর এক্সট্র্যাক্ট করা
                 score_elements = block.find_all('div', class_=re.compile(r'cb-scr-wgt|cb-ovr-flo|cb-text-vms'))
                 score_text = " ".join([s.text.strip() for s in score_elements if s.text.strip()])
                 
@@ -90,7 +90,7 @@ def scrape_scores():
             except Exception:
                 continue
 
-        # যদি কন্টেইনার দিয়ে কোনো ব্লক না পায় (যেমন আপনার ক্ষেত্রে হয়েছিল)
+        # ব্যাকআপ নেভিগেশন স্ট্রাকচার
         if not matches:
             all_links = soup.find_all('a')
             for link in all_links:
@@ -105,7 +105,7 @@ def scrape_scores():
                             "title": text,
                             "team1": teams_data["team1"],
                             "team2": teams_data["team2"],
-                            "score": text, # লিঙ্ক থেকে পাওয়া সম্পূর্ণ স্কোর সামারি
+                            "score": text,
                             "status": "Match Details"
                         })
 
@@ -125,4 +125,4 @@ if __name__ == "__main__":
     with open('score.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         
-    print(f"Scraping completed. Total matches found: {data.get('total_matches', import
+    print(f"Scraping completed. Total matches found: {data.get('total_matches', 0)}")
