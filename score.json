@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-07-23 17:07:40 UTC",
+  "last_updated": "2026-07-23 18:37:26 UTC",
   "total_matches": 36,
   "matches": [
-    {
-      "title": "ZIM vs IND - IND won",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "ZIM vs IND - IND won",
-      "status": "Match Details"
-    },
     {
       "title": "MSG vs LDN - LDN opt to bowl",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MSG vs LDN - LDN opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs IND - IND won",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "ZIM vs IND - IND won",
       "status": "Match Details"
     },
     {
@@ -43,29 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "NEP vs NED - NED won",
+      "title": "BRM vs TRE - Preview",
       "team1": {
-        "name": "NEP",
+        "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "NED",
+        "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NEP vs NED - NED won",
+      "score": "BRM vs TRE - Preview",
       "status": "Match Details"
     },
     {
-      "title": "GAG vs JKS - Need 87 off 34b",
+      "title": "GAW vs SFU - Preview",
       "team1": {
-        "name": "GAG",
+        "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "JKS",
+        "name": "SFU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAG vs JKS - Need 87 off 34b",
+      "score": "GAW vs SFU - Preview",
       "status": "Match Details"
     },
     {
@@ -108,29 +108,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants vs London Spirit 3rd Match",
+      "title": "Manchester Super Giants vs London Spirit LIVE 3rd Match",
       "team1": {
         "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "London Spirit 3rd Match",
+        "name": "London Spirit LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants vs London Spirit 3rd Match",
+      "score": "Manchester Super Giants vs London Spirit LIVE 3rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Lahore Qalandars vs Perth Scorchers XI LIVE 1st Match",
+      "title": "Birmingham Phoenix vs Trent Rockets 4th Match",
+      "team1": {
+        "name": "Birmingham Phoenix",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trent Rockets 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Birmingham Phoenix vs Trent Rockets 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lahore Qalandars vs Perth Scorchers XI 1st Match",
       "team1": {
         "name": "Lahore Qalandars",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Perth Scorchers XI LIVE 1st Match",
+        "name": "Perth Scorchers XI 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lahore Qalandars vs Perth Scorchers XI LIVE 1st Match",
+      "score": "Lahore Qalandars vs Perth Scorchers XI 1st Match",
       "status": "Match Details"
     },
     {
@@ -160,19 +173,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Dambulla Sixers 8th Match",
-      "team1": {
-        "name": "Galle Gallants",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dambulla Sixers 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Galle Gallants vs Dambulla Sixers 8th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Colombo Kaps vs Kandy Royals 9th Match",
       "team1": {
         "name": "Colombo Kaps",
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Jaffna Kings LIVE 10th Match",
+      "title": "Galle Gallants vs Jaffna Kings 10th Match",
       "team1": {
         "name": "Galle Gallants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jaffna Kings LIVE 10th Match",
+        "name": "Jaffna Kings 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Galle Gallants vs Jaffna Kings LIVE 10th Match",
+      "score": "Galle Gallants vs Jaffna Kings 10th Match",
       "status": "Match Details"
     },
     {
@@ -212,42 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Sussex Group B",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Leicestershire Group A",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Nottinghamshire LIVE Group A",
+      "title": "Warwickshire vs Nottinghamshire Group A",
       "team1": {
         "name": "Warwickshire",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "Nottinghamshire LIVE Group A",
+        "name": "Nottinghamshire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Warwickshire vs Nottinghamshire LIVE Group A",
+      "score": "Warwickshire vs Nottinghamshire Group A",
       "status": "Match Details"
     },
     {
@@ -433,6 +407,32 @@
       "status": "Match Details"
     },
     {
+      "title": "1st Match • Guyana, Providence Stadium Lahore Qalandars LHQ 171-7 (20) Perth Scorchers XI PRS XI 155-7 (20) Lahore Qalandars won by 16 runs",
+      "team1": {
+        "name": "1st Match • Guyana, Providence Stadium Lahore Qalandars LHQ 171",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Perth Scorchers XI PRS XI 155",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Guyana, Providence Stadium Lahore Qalandars LHQ 171-7 (20) Perth Scorchers XI PRS XI 155-7 (20) Lahore Qalandars won by 16 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 193-8 (20) Jaffna Kings JKS 133 (17.5) Galle Gallants won by 60 runs",
+      "team1": {
+        "name": "10th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 193",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Jaffna Kings JKS 133 (17.5) Galle Gallants won by 60 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 193-8 (20) Jaffna Kings JKS 133 (17.5) Galle Gallants won by 60 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "9th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 192-9 (20) Kandy Royals KRL 169-8 (20) Colombo Kaps won by 23 runs",
       "team1": {
         "name": "9th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 192",
@@ -446,6 +446,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Group A • Nettleworth, The John Fretwell Sporting Complex Warwickshire WARKS 282 (49.5) Nottinghamshire NOTTS 283-7 (48.3) Nottinghamshire won by 3 wkts",
+      "team1": {
+        "name": "Group A • Nettleworth, The John Fretwell Sporting Complex Warwickshire WARKS 282 (49.5) Nottinghamshire NOTTS 283",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "7 (48.3) Nottinghamshire won by 3 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Nettleworth, The John Fretwell Sporting Complex Warwickshire WARKS 282 (49.5) Nottinghamshire NOTTS 283-7 (48.3) Nottinghamshire won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86-3 (59 Balls) Manchester Super Giants Women won by 7 wkts",
       "team1": {
         "name": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86",
@@ -456,19 +469,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86-3 (59 Balls) Manchester Super Giants Women won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st ODI • Hambantota, Mahinda Rajapaksa International Stadium Sri Lanka Women SLW 210-9 (50) Pakistan Women PAKW 211-5 (43) Pakistan Women won by 5 wkts",
-      "team1": {
-        "name": "1st ODI • Hambantota, Mahinda Rajapaksa International Stadium Sri Lanka Women SLW 210",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "9 (50) Pakistan Women PAKW 211",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "1st ODI • Hambantota, Mahinda Rajapaksa International Stadium Sri Lanka Women SLW 210-9 (50) Pakistan Women PAKW 211-5 (43) Pakistan Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
