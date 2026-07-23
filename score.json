@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-23 21:17:38 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-07-23 22:28:25 UTC",
+  "total_matches": 32,
   "matches": [
     {
       "title": "MSG vs LDN - MSG won",
@@ -212,6 +212,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Worcestershire vs Derbyshire Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Derbyshire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Glamorgan vs Yorkshire Group B",
       "team1": {
         "name": "Glamorgan",
@@ -261,19 +274,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Surrey vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Derbyshire Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Derbyshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Derbyshire Group B",
       "status": "Match Details"
     },
     {
@@ -368,19 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "117th Match • Utrecht, Sportpark Maarschalkerweerd Nepal NEP 157 (44.4) Netherlands NED 158-4 (44.1) Netherlands won by 6 wkts",
-      "team1": {
-        "name": "117th Match • Utrecht, Sportpark Maarschalkerweerd Nepal NEP 157 (44.4) Netherlands NED 158",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (44.1) Netherlands won by 6 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "117th Match • Utrecht, Sportpark Maarschalkerweerd Nepal NEP 157 (44.4) Netherlands NED 158-4 (44.1) Netherlands won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "3rd Match • London, Lord's 100 Manchester Super Giants MSG 138-9 (100 Balls) London Spirit LDN 131-6 (100 Balls) Manchester Super Giants won by 7 runs",
       "team1": {
         "name": "3rd Match • London, Lord's 100 Manchester Super Giants MSG 138",
@@ -430,19 +417,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Group A • Nettleworth, The John Fretwell Sporting Complex Warwickshire WARKS 282 (49.5) Nottinghamshire NOTTS 283-7 (48.3) Nottinghamshire won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86-3 (59 Balls) Manchester Super Giants Women won by 7 wkts",
-      "team1": {
-        "name": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (59 Balls) Manchester Super Giants Women won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • London, Lord's 100 London Spirit Women LDNW 80 (91 Balls) Manchester Super Giants Women MSGW 86-3 (59 Balls) Manchester Super Giants Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
