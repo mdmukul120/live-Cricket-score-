@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 # Cricbuzz Live Scores URL
-URL = "https://www.cricbuzz.com/live-cricket-scores"
+URL = "https://www.cricbuzz.com/"
 
 # Cloudflare / Bot protection এড়াতে User-Agent
 HEADERS = {
