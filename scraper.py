@@ -3,48 +3,65 @@ from bs4 import BeautifulSoup
 import json
 from datetime import datetime
 
-# Cricbuzz Live Scores URL
-URL = "https://bdcrictime.com/live-scores"
+# Cricbuzz Live Scores Mobile Page URL (এটি পার্স করা সহজ ও ব্লকিং কম হয়)
+URL = "https://m.cricbuzz.com/cricket-match/live-scores"
 
-# Cloudflare / Bot protection এড়াতে User-Agent
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept-Language': 'en-US,en;q=0.9',
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.5',
 }
 
 def scrape_scores():
+    matches = []
     try:
-        response = requests.get(URL, headers=HEADERS, timeout=10)
+        response = requests.get(URL, headers=HEADERS, timeout=15)
         if response.status_code != 200:
-            return {"status": "error", "message": f"HTTP Error {response.status_code}"}
+            return {"status": "error", "message": f"HTTP Status {response.status_code}"}
 
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        matches = []
-        # Cricbuzz এর লিকুইড কার্ড বা ম্যাচের কন্টেইনারগুলো খুঁজে বের করা
-        match_cards = soup.find_all('div', class_='cb-mtch-lst')
+        # Cricbuzz Mobile HTML Elements Parsing
+        containers = soup.find_all('div', class_='ui-section') or soup.find_all('div', class_='cb-col-100')
+        
+        # Desktop & Mobile Fallback tags
+        match_blocks = soup.select('.cb-mtch-lst') or soup.select('a[href*="/cricket-scores/"]') or soup.select('.cb-col-100.cb-col')
 
-        for card in match_cards:
+        for block in match_blocks:
             try:
-                # ম্যাচের শিরোনাম ও হেডার
-                header = card.find('h2') or card.find('h3')
+                text_content = block.get_text(separator=' ', strip=True)
+                if not text_content or len(text_content) < 10:
+                    continue
+
+                # Title extraction
+                header = block.find('h3') or block.find('h2') or block.find('h4')
                 title = header.text.strip() if header else "Cricket Match"
 
-                # বর্তমান স্কোরের বিবরণ
-                scores = card.find_all('div', class_='cb-scr-wgt-lh')
-                score_text = " ".join([s.text.strip() for s in scores]) if scores else "Score not available"
-
-                # ম্যাচের স্ট্যাটাস (যেমন: Live, Completed, Toss)
-                status = card.find('div', class_='cb-text-complete') or card.find('div', class_='cb-text-live')
-                status_text = status.text.strip() if status else "In Progress"
+                # Status / Result
+                status_elem = block.find('div', class_='cb-text-complete') or block.find('div', class_='cb-text-live') or block.find('div', class_='cb-text-preview')
+                status = status_elem.text.strip() if status_elem else "In Progress"
 
                 matches.append({
                     "title": title,
-                    "score": score_text,
-                    "status": status_text
+                    "details": text_content[:200],  # গুরুত্বপূর্ণ সামারি ডেটা
+                    "status": status
                 })
             except Exception:
                 continue
+
+        # যদি কোনো ব্লকে তথ্য না পাওয়া যায় তবে ব্যাকআপ স্ট্রাকচার ব্যবহার
+        if not matches:
+            all_links = soup.find_all('a')
+            for link in all_links:
+                href = link.get('href', '')
+                if '/live-cricket-scores/' in href or '/cricket-scores/' in href:
+                    text = link.get_text(strip=True)
+                    if text and len(text) > 15:
+                        matches.append({
+                            "title": text,
+                            "details": text,
+                            "status": "Live/Scheduled"
+                        })
 
         return {
             "status": "success",
@@ -59,8 +76,7 @@ def scrape_scores():
 if __name__ == "__main__":
     data = scrape_scores()
     
-    # JSON ফাইলে রাইট করা
     with open('score.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         
-    print("Scraping completed and saved to score.json")
+    print(f"Scraping completed. Total matches found: {data.get('total_matches', 0)}")
