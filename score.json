@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-24 04:27:44 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-07-24 07:12:03 UTC",
+  "total_matches": 31,
   "matches": [
     {
       "title": "MSG vs LDN - MSG won",
@@ -92,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nepal vs Netherlands 117th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Romania vs France 1st Match",
+      "team1": {
+        "name": "Romania",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "France 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Romania vs France 1st Match",
       "status": "Match Details"
     },
     {
@@ -339,6 +352,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "Sri Lanka Women vs Pakistan Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lanka Women vs Pakistan Women 2nd ODI",
+      "team1": {
+        "name": "Sri Lanka Women",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Pakistan Women 2nd ODI",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Sri Lanka Women vs Pakistan Women 2nd ODI",
       "status": "Match Details"
     },
     {
