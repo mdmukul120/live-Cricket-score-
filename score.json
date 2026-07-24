@@ -1,47 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-07-24 19:52:31 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-07-24 20:59:34 UTC",
+  "total_matches": 46,
   "matches": [
-    {
-      "title": "BRM vs TRE - Need 92 off 36b",
-      "team1": {
-        "name": "BRM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BRM vs TRE - Need 92 off 36b",
-      "status": "Match Details"
-    },
-    {
-      "title": "BRMW vs TREW - TREW won",
-      "team1": {
-        "name": "BRMW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BRMW vs TREW - TREW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "LHQ vs DV - LHQ won",
-      "team1": {
-        "name": "LHQ",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DV",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LHQ vs DV - LHQ won",
-      "status": "Match Details"
-    },
     {
       "title": "ZIM vs IND - Preview",
       "team1": {
@@ -56,6 +17,19 @@
       "status": "Match Details"
     },
     {
+      "title": "BRM vs TRE - BRM won",
+      "team1": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TRE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BRM vs TRE - BRM won",
+      "status": "Match Details"
+    },
+    {
       "title": "WI vs PAK - Preview",
       "team1": {
         "name": "WI",
@@ -66,6 +40,32 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "WI vs PAK - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SUL vs SOU - Preview",
+      "team1": {
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SOU",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SUL vs SOU - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLW vs PAKW - Preview",
+      "team1": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "SLW vs PAKW - Preview",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix vs Trent Rockets LIVE 4th Match",
+      "title": "Birmingham Phoenix vs Trent Rockets 4th Match",
       "team1": {
         "name": "Birmingham Phoenix",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets LIVE 4th Match",
+        "name": "Trent Rockets 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix vs Trent Rockets LIVE 4th Match",
+      "score": "Birmingham Phoenix vs Trent Rockets 4th Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Gloucestershire LIVE Group A",
+      "title": "Somerset vs Gloucestershire Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Gloucestershire LIVE Group A",
+        "name": "Gloucestershire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Somerset vs Gloucestershire LIVE Group A",
+      "score": "Somerset vs Gloucestershire Group A",
       "status": "Match Details"
     },
     {
@@ -459,6 +459,19 @@
       "status": "Match Details"
     },
     {
+      "title": "4th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 214-4 (100 Balls) Trent Rockets TRE 204-7 (100 Balls) Birmingham Phoenix won by 10 runs",
+      "team1": {
+        "name": "4th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 214",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (100 Balls) Trent Rockets TRE 204",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 214-4 (100 Balls) Trent Rockets TRE 204-7 (100 Balls) Birmingham Phoenix won by 10 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "3rd Match • Guyana, Providence Stadium Lahore Qalandars LHQ 176-4 (20) Desert Vipers DV 138-9 (20) Lahore Qalandars won by 38 runs",
       "team1": {
         "name": "3rd Match • Guyana, Providence Stadium Lahore Qalandars LHQ 176",
@@ -469,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Match • Guyana, Providence Stadium Lahore Qalandars LHQ 176-4 (20) Desert Vipers DV 138-9 (20) Lahore Qalandars won by 38 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 352-7 (50) Gloucestershire GLOUCS 317 (47.4) Somerset won by 35 runs",
+      "team1": {
+        "name": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 352",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Gloucestershire GLOUCS 317 (47.4) Somerset won by 35 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 352-7 (50) Gloucestershire GLOUCS 317 (47.4) Somerset won by 35 runs",
       "status": "Match Details"
     },
     {
