@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-07-23 23:31:31 UTC",
+  "last_updated": "2026-07-24 01:03:06 UTC",
   "total_matches": 29,
   "matches": [
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SFU vs GAW - SFU opt to bat",
+      "title": "SFU vs GAW - Need 134 to win",
       "team1": {
         "name": "SFU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SFU vs GAW - SFU opt to bat",
+      "score": "SFU vs GAW - Need 134 to win",
       "status": "Match Details"
     },
     {
@@ -212,32 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Leicestershire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Derbyshire Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Derbyshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Derbyshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Glamorgan vs Yorkshire Group B",
       "team1": {
         "name": "Glamorgan",
@@ -274,6 +248,32 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Kent vs Northamptonshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Leicestershire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Leicestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Derbyshire Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Derbyshire Group B",
       "status": "Match Details"
     },
     {
