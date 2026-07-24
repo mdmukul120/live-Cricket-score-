@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-24 12:59:07 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-07-24 15:02:53 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "BRM vs TRE - Preview",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "BRMW vs TREW - Preview",
+      "title": "BRMW vs TREW - TREW opt to bowl",
       "team1": {
         "name": "BRMW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRMW vs TREW - Preview",
+      "score": "BRMW vs TREW - TREW opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "LHQ vs DV - Preview",
+      "title": "LHQ vs DV - LHQ opt to bat",
       "team1": {
         "name": "LHQ",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LHQ vs DV - Preview",
+      "score": "LHQ vs DV - LHQ opt to bat",
       "status": "Match Details"
     },
     {
@@ -56,29 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SLW vs PAKW - Preview",
+      "title": "WI vs PAK - Preview",
       "team1": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "PAKW",
+        "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "SLW vs PAKW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zimbabwe vs India 1st T20I",
-      "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "India 1st T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Zimbabwe vs India 1st T20I",
+      "score": "WI vs PAK - Preview",
       "status": "Match Details"
     },
     {
@@ -92,6 +79,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Zimbabwe vs India 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Indies vs Pakistan 1st Test",
+      "team1": {
+        "name": "West Indies",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Pakistan 1st Test",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "West Indies vs Pakistan 1st Test",
       "status": "Match Details"
     },
     {
@@ -173,55 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Lahore Qalandars vs Perth Scorchers XI 1st Match",
+      "title": "Sunrisers Leeds vs Southern Brave 5th Match",
       "team1": {
-        "name": "Lahore Qalandars",
+        "name": "Sunrisers Leeds",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Perth Scorchers XI 1st Match",
+        "name": "Southern Brave 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lahore Qalandars vs Perth Scorchers XI 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "San Francisco Unicorns vs Guyana Amazon Warriors 2nd Match",
-      "team1": {
-        "name": "San Francisco Unicorns",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Guyana Amazon Warriors 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "San Francisco Unicorns vs Guyana Amazon Warriors 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lahore Qalandars vs Desert Vipers 3rd Match",
-      "team1": {
-        "name": "Lahore Qalandars",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Desert Vipers 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lahore Qalandars vs Desert Vipers 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Colombo Kaps vs Kandy Royals 9th Match",
-      "team1": {
-        "name": "Colombo Kaps",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kandy Royals 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Colombo Kaps vs Kandy Royals 9th Match",
+      "score": "Sunrisers Leeds vs Southern Brave 5th Match",
       "status": "Match Details"
     },
     {
@@ -248,6 +209,58 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Galle Gallants vs Kandy Royals 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Dambulla Sixers vs Colombo Kaps 12th Match",
+      "team1": {
+        "name": "Dambulla Sixers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Colombo Kaps 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Dambulla Sixers vs Colombo Kaps 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lahore Qalandars vs Perth Scorchers XI 1st Match",
+      "team1": {
+        "name": "Lahore Qalandars",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Perth Scorchers XI 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lahore Qalandars vs Perth Scorchers XI 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "San Francisco Unicorns vs Guyana Amazon Warriors 2nd Match",
+      "team1": {
+        "name": "San Francisco Unicorns",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "San Francisco Unicorns vs Guyana Amazon Warriors 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lahore Qalandars vs Desert Vipers LIVE 3rd Match",
+      "team1": {
+        "name": "Lahore Qalandars",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Desert Vipers LIVE 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lahore Qalandars vs Desert Vipers LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Worcestershire Group B",
+      "title": "Derbyshire vs Worcestershire LIVE Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Worcestershire Group B",
+        "name": "Worcestershire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Derbyshire vs Worcestershire Group B",
+      "score": "Derbyshire vs Worcestershire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -342,42 +355,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Gloucestershire Group A",
+      "title": "Somerset vs Gloucestershire LIVE Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Gloucestershire Group A",
+        "name": "Gloucestershire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Somerset vs Gloucestershire Group A",
+      "score": "Somerset vs Gloucestershire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "London Spirit Women vs Manchester Super Giants Women 3rd Match",
-      "team1": {
-        "name": "London Spirit Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Manchester Super Giants Women 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "London Spirit Women vs Manchester Super Giants Women 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Birmingham Phoenix Women vs Trent Rockets Women 4th Match",
+      "title": "Birmingham Phoenix Women vs Trent Rockets Women LIVE 4th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women 4th Match",
+        "name": "Trent Rockets Women LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix Women vs Trent Rockets Women 4th Match",
+      "score": "Birmingham Phoenix Women vs Trent Rockets Women LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -394,6 +394,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Welsh Fire Women vs MI London Women 6th Match",
+      "team1": {
+        "name": "Welsh Fire Women",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "MI London Women 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Welsh Fire Women vs MI London Women 6th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sri Lanka Women vs Pakistan Women 2nd ODI",
       "team1": {
         "name": "Sri Lanka Women",
@@ -407,29 +420,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda Women vs Tanzania Women LIVE 5th Match",
+      "title": "Uganda Women vs Tanzania Women 5th Match",
       "team1": {
         "name": "Uganda Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Tanzania Women LIVE 5th Match",
+        "name": "Tanzania Women 5th Match",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "Uganda Women vs Tanzania Women LIVE 5th Match",
+      "score": "Uganda Women vs Tanzania Women 5th Match",
       "status": "Match Details"
     },
     {
-      "title": "Namibia Women vs Hong Kong, China Women 6th Match",
+      "title": "Hong Kong, China Women vs Namibia Women 6th Match",
       "team1": {
-        "name": "Namibia Women",
+        "name": "Hong Kong, China Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hong Kong, China Women 6th Match",
+        "name": "Namibia Women 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Namibia Women vs Hong Kong, China Women 6th Match",
+      "score": "Hong Kong, China Women vs Namibia Women 6th Match",
       "status": "Match Details"
     },
     {
@@ -482,6 +495,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Estonia Women vs Finland Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Windhoek, High Performance Oval Uganda Women UGAW 132-6 (20) Tanzania Women TANW 127-8 (20) Uganda Women won by 5 runs",
+      "team1": {
+        "name": "5th Match • Windhoek, High Performance Oval Uganda Women UGAW 132",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "6 (20) Tanzania Women TANW 127",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "5th Match • Windhoek, High Performance Oval Uganda Women UGAW 132-6 (20) Tanzania Women TANW 127-8 (20) Uganda Women won by 5 runs",
       "status": "Match Details"
     }
   ]
