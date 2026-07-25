@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 22:07:21 UTC",
+  "last_updated": "2026-07-25 23:11:38 UTC",
   "total_matches": 43,
   "matches": [
     {
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "GAW vs DV - Preview",
+      "title": "DV vs GAW - GAW opt to bowl",
       "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs DV - Preview",
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "DV vs GAW - GAW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs Desert Vipers 4th Match",
+      "title": "Desert Vipers vs Guyana Amazon Warriors LIVE 4th Match",
       "team1": {
-        "name": "Guyana Amazon Warriors",
+        "name": "Desert Vipers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Desert Vipers 4th Match",
+        "name": "Guyana Amazon Warriors LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Guyana Amazon Warriors vs Desert Vipers 4th Match",
+      "score": "Desert Vipers vs Guyana Amazon Warriors LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -248,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "San Francisco Unicorns vs Perth Scorchers XI 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Lahore Qalandars 6th Match",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lahore Qalandars 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Guyana Amazon Warriors vs Lahore Qalandars 6th Match",
       "status": "Match Details"
     },
     {
@@ -300,6 +313,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Galle Gallants vs Dambulla Sixers 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Glamorgan Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Middlesex vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Warwickshire Group A",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire Group A",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Somerset vs Warwickshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Northamptonshire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northamptonshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Northamptonshire Group A",
       "status": "Match Details"
     },
     {
@@ -365,45 +417,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Leicestershire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Glamorgan Group B",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Middlesex vs Glamorgan Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Warwickshire Group A",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire Group A",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Somerset vs Warwickshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Northamptonshire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northamptonshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Northamptonshire Group A",
       "status": "Match Details"
     },
     {
@@ -534,19 +547,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire WEF 167-5 (100 Balls) MI London MIL 152-6 (100 Balls) Welsh Fire won by 15 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Leeds, Headingley 100 Sunrisers Leeds SUL 187-5 (100 Balls) Southern Brave SOU 182-5 (100 Balls) Sunrisers Leeds won by 5 runs",
-      "team1": {
-        "name": "5th Match • Leeds, Headingley 100 Sunrisers Leeds SUL 187",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (100 Balls) Southern Brave SOU 182",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Leeds, Headingley 100 Sunrisers Leeds SUL 187-5 (100 Balls) Southern Brave SOU 182-5 (100 Balls) Sunrisers Leeds won by 5 runs",
       "status": "Match Details"
     },
     {
