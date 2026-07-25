@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 14:23:22 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-07-25 15:39:18 UTC",
+  "total_matches": 53,
   "matches": [
     {
-      "title": "IND vs ZIM - Need 99 off 23b",
+      "title": "IND vs ZIM - IND won",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,24 +13,11 @@
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "IND vs ZIM - Need 99 off 23b",
+      "score": "IND vs ZIM - IND won",
       "status": "Match Details"
     },
     {
-      "title": "WI vs PAK - WI opt to bat",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "WI vs PAK - WI opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "SUL vs SOU - SOU opt to bowl",
+      "title": "SUL vs SOU - Need 120 off 62b",
       "team1": {
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +26,37 @@
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs SOU - SOU opt to bowl",
+      "score": "SUL vs SOU - Need 120 off 62b",
       "status": "Match Details"
     },
     {
-      "title": "WELW vs MILW - MILW opt to bowl",
+      "title": "WI vs PAK - Rain",
+      "team1": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "WI vs PAK - Rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "WEF vs MIL - Preview",
+      "team1": {
+        "name": "WEF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WEF vs MIL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "WELW vs MILW - Need 136 off 67b",
       "team1": {
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,33 +65,20 @@
         "name": "MILW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WELW vs MILW - MILW opt to bowl",
+      "score": "WELW vs MILW - Need 136 off 67b",
       "status": "Match Details"
     },
     {
-      "title": "CLK vs DAS - DAS opt to bowl",
-      "team1": {
-        "name": "CLK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DAS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "CLK vs DAS - DAS opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "India vs Zimbabwe LIVE 2nd T20I",
+      "title": "India vs Zimbabwe 2nd T20I",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Zimbabwe LIVE 2nd T20I",
+        "name": "Zimbabwe 2nd T20I",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "India vs Zimbabwe LIVE 2nd T20I",
+      "score": "India vs Zimbabwe 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan LIVE 1st Test",
+      "title": "West Indies vs Pakistan 1st Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 1st Test",
+        "name": "Pakistan 1st Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan LIVE 1st Test",
+      "score": "West Indies vs Pakistan 1st Test",
       "status": "Match Details"
     },
     {
@@ -225,19 +225,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets vs London Spirit 8th Match",
-      "team1": {
-        "name": "Trent Rockets",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "London Spirit 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Trent Rockets vs London Spirit 8th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Kandy Royals vs Galle Gallants 11th Match",
       "team1": {
         "name": "Kandy Royals",
@@ -329,6 +316,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Surrey vs Leicestershire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Leicestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Worcestershire Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Glamorgan vs Yorkshire Group B",
       "team1": {
         "name": "Glamorgan",
@@ -365,32 +378,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Northamptonshire vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Leicestershire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Worcestershire Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -602,19 +589,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China Women vs Namibia Women 6th Match",
-      "team1": {
-        "name": "Hong Kong, China Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Namibia Women 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China Women vs Namibia Women 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Tanzania Women vs Namibia Women 7th Match",
       "team1": {
         "name": "Tanzania Women",
@@ -664,6 +638,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Estonia Women vs Finland Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I • Harare, Harare Sports Club India IND 219-5 (20) Zimbabwe ZIM 129 (17.5) India won by 90 runs",
+      "team1": {
+        "name": "2nd T20I • Harare, Harare Sports Club India IND 219",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "5 (20) Zimbabwe ZIM 129 (17.5) India won by 90 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "2nd T20I • Harare, Harare Sports Club India IND 219-5 (20) Zimbabwe ZIM 129 (17.5) India won by 90 runs",
       "status": "Match Details"
     },
     {
