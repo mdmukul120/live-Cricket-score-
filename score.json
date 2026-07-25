@@ -1,19 +1,32 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 10:24:45 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-07-25 11:45:49 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "ZIM vs IND - Preview",
+      "title": "IND vs ZIM - ZIM opt to bowl",
       "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ZIM vs IND - Preview",
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "IND vs ZIM - ZIM opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SULW vs SOUW - Need 101 off 84b",
+      "team1": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SULW vs SOUW - Need 101 off 84b",
       "status": "Match Details"
     },
     {
@@ -30,19 +43,6 @@
       "status": "Match Details"
     },
     {
-      "title": "NED vs NAM - NAM opt to bowl",
-      "team1": {
-        "name": "NED",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NED vs NAM - NAM opt to bowl",
-      "status": "Match Details"
-    },
-    {
       "title": "SUL vs SOU - Preview",
       "team1": {
         "name": "SUL",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - Need 143 to win",
+      "title": "PAKW vs SLW - SLW won",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -65,20 +65,33 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - Need 143 to win",
+      "score": "PAKW vs SLW - SLW won",
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs India 2nd T20I",
+      "title": "India vs Zimbabwe LIVE 2nd T20I",
+      "team1": {
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Zimbabwe LIVE 2nd T20I",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "India vs Zimbabwe LIVE 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe vs India 3rd T20I",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "India 2nd T20I",
+        "name": "India 3rd T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Zimbabwe vs India 2nd T20I",
+      "score": "Zimbabwe vs India 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -144,6 +157,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "Romania vs Austria 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Turkey vs Romania 4th Match",
+      "team1": {
+        "name": "Turkey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Romania 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Turkey vs Romania 4th Match",
       "status": "Match Details"
     },
     {
@@ -342,45 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Northamptonshire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northamptonshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Northamptonshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Yorkshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Hampshire Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Essex vs Derbyshire Group B",
       "team1": {
         "name": "Essex",
@@ -446,6 +433,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Surrey vs Northamptonshire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northamptonshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Northamptonshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Yorkshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Hampshire Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Birmingham Phoenix Women vs Trent Rockets Women 4th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
@@ -498,29 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women LIVE 2nd ODI",
+      "title": "Pakistan Women vs Sri Lanka Women 2nd ODI",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka Women LIVE 2nd ODI",
+        "name": "Sri Lanka Women 2nd ODI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women LIVE 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uganda Women vs Tanzania Women 5th Match",
-      "team1": {
-        "name": "Uganda Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tanzania Women 5th Match",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "Uganda Women vs Tanzania Women 5th Match",
+      "score": "Pakistan Women vs Sri Lanka Women 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -586,6 +599,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Estonia Women vs Finland Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 273-5 (50) Sri Lanka Women SLW 275-2 (46.5) Sri Lanka Women won by 8 wkts",
+      "team1": {
+        "name": "2nd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 273",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "5 (50) Sri Lanka Women SLW 275",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "2nd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 273-5 (50) Sri Lanka Women SLW 275-2 (46.5) Sri Lanka Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
