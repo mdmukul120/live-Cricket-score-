@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 17:40:30 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-07-25 18:40:54 UTC",
+  "total_matches": 49,
   "matches": [
-    {
-      "title": "IND vs ZIM - IND won",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "IND vs ZIM - IND won",
-      "status": "Match Details"
-    },
     {
       "title": "WI vs PAK - WI opt to bat",
       "team1": {
@@ -30,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "WEF vs MIL - MIL opt to bowl",
+      "title": "WEF vs MIL - Need 154 off 92b",
       "team1": {
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +26,20 @@
         "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WEF vs MIL - MIL opt to bowl",
+      "score": "WEF vs MIL - Need 154 off 92b",
+      "status": "Match Details"
+    },
+    {
+      "title": "IND vs ZIM - IND won",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "IND vs ZIM - IND won",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Dambulla Sixers LIVE 12th Match",
+      "title": "Colombo Kaps vs Dambulla Sixers 12th Match",
       "team1": {
         "name": "Colombo Kaps",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dambulla Sixers LIVE 12th Match",
+        "name": "Dambulla Sixers 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Colombo Kaps vs Dambulla Sixers LIVE 12th Match",
+      "score": "Colombo Kaps vs Dambulla Sixers 12th Match",
       "status": "Match Details"
     },
     {
@@ -313,71 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Galle Gallants vs Dambulla Sixers 14th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Yorkshire Group B",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Glamorgan vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Hampshire Group B",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Kent Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northamptonshire vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Leicestershire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Worcestershire Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -667,6 +602,19 @@
       "status": "Match Details"
     },
     {
+      "title": "12th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 197-5 (20) Dambulla Sixers DAS 176-8 (20) Colombo Kaps won by 21 runs",
+      "team1": {
+        "name": "12th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 197",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Dambulla Sixers DAS 176",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "12th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 197-5 (20) Dambulla Sixers DAS 176-8 (20) Colombo Kaps won by 21 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "11th Match • Dambulla, Rangiri Dambulla International Stadium Kandy Royals KRL 165-6 (20) Galle Gallants GAG 154-8 (20) Kandy Royals won by 11 runs",
       "team1": {
         "name": "11th Match • Dambulla, Rangiri Dambulla International Stadium Kandy Royals KRL 165",
@@ -690,19 +638,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 177-4 (100 Balls) MI London Women MILW 117 (92 Balls) Welsh Fire Women won by 60 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 116 (100 Balls) Southern Brave Women SOUW 117-5 (96 Balls) Southern Brave Women won by 5 wkts",
-      "team1": {
-        "name": "5th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 116 (100 Balls) Southern Brave Women SOUW 117",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (96 Balls) Southern Brave Women won by 5 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 116 (100 Balls) Southern Brave Women SOUW 117-5 (96 Balls) Southern Brave Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
