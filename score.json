@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 15:39:18 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-07-25 16:36:03 UTC",
+  "total_matches": 56,
   "matches": [
     {
       "title": "IND vs ZIM - IND won",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SUL vs SOU - Need 120 off 62b",
+      "title": "SUL vs SOU - SUL won",
       "team1": {
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs SOU - Need 120 off 62b",
+      "score": "SUL vs SOU - SUL won",
       "status": "Match Details"
     },
     {
-      "title": "WI vs PAK - Rain",
+      "title": "WI vs PAK - WI opt to bat",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -39,7 +39,7 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Rain",
+      "score": "WI vs PAK - WI opt to bat",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "WELW vs MILW - Need 136 off 67b",
+      "title": "WELW vs MILW - WELW won",
       "team1": {
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "MILW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WELW vs MILW - Need 136 off 67b",
+      "score": "WELW vs MILW - WELW won",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Netherlands vs Namibia LIVE 118th Match",
+      "title": "Netherlands vs Namibia 118th Match",
       "team1": {
         "name": "Netherlands",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Namibia LIVE 118th Match",
+        "name": "Namibia 118th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Netherlands vs Namibia LIVE 118th Match",
+      "score": "Netherlands vs Namibia 118th Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds vs Southern Brave LIVE 5th Match",
+      "title": "Sunrisers Leeds vs Southern Brave 5th Match",
       "team1": {
         "name": "Sunrisers Leeds",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave LIVE 5th Match",
+        "name": "Southern Brave 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds vs Southern Brave LIVE 5th Match",
+      "score": "Sunrisers Leeds vs Southern Brave 5th Match",
       "status": "Match Details"
     },
     {
@@ -537,16 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs MI London Women LIVE 6th Match",
+      "title": "Welsh Fire Women vs MI London Women 6th Match",
       "team1": {
         "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "MI London Women LIVE 6th Match",
+        "name": "MI London Women 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire Women vs MI London Women LIVE 6th Match",
+      "score": "Welsh Fire Women vs MI London Women 6th Match",
       "status": "Match Details"
     },
     {
@@ -654,6 +654,32 @@
       "status": "Match Details"
     },
     {
+      "title": "118th Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 251-6 (50) Namibia NAM 193 (47.5) Netherlands won by 58 runs",
+      "team1": {
+        "name": "118th Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 251",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (50) Namibia NAM 193 (47.5) Netherlands won by 58 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "118th Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 251-6 (50) Namibia NAM 193 (47.5) Netherlands won by 58 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Leeds, Headingley 100 Sunrisers Leeds SUL 187-5 (100 Balls) Southern Brave SOU 182-5 (100 Balls) Sunrisers Leeds won by 5 runs",
+      "team1": {
+        "name": "5th Match • Leeds, Headingley 100 Sunrisers Leeds SUL 187",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (100 Balls) Southern Brave SOU 182",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Leeds, Headingley 100 Sunrisers Leeds SUL 187-5 (100 Balls) Southern Brave SOU 182-5 (100 Balls) Sunrisers Leeds won by 5 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "11th Match • Dambulla, Rangiri Dambulla International Stadium Kandy Royals KRL 165-6 (20) Galle Gallants GAG 154-8 (20) Kandy Royals won by 11 runs",
       "team1": {
         "name": "11th Match • Dambulla, Rangiri Dambulla International Stadium Kandy Royals KRL 165",
@@ -664,6 +690,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "11th Match • Dambulla, Rangiri Dambulla International Stadium Kandy Royals KRL 165-6 (20) Galle Gallants GAG 154-8 (20) Kandy Royals won by 11 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 177-4 (100 Balls) MI London Women MILW 117 (92 Balls) Welsh Fire Women won by 60 runs",
+      "team1": {
+        "name": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 177",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (100 Balls) MI London Women MILW 117 (92 Balls) Welsh Fire Women won by 60 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 177-4 (100 Balls) MI London Women MILW 117 (92 Balls) Welsh Fire Women won by 60 runs",
       "status": "Match Details"
     },
     {
