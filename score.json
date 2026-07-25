@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 06:39:37 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-07-25 08:52:12 UTC",
+  "total_matches": 35,
   "matches": [
     {
       "title": "ZIM vs IND - Preview",
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "NAM vs NED - Preview",
+      "title": "NED vs NAM - NAM opt to bowl",
       "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NAM vs NED - Preview",
+      "team2": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NED vs NAM - NAM opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - SLW opt to bowl",
+      "title": "PAKW vs SLW - Need 254 to win",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -65,7 +65,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - SLW opt to bowl",
+      "score": "PAKW vs SLW - Need 254 to win",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs Netherlands 118th Match",
+      "title": "Netherlands vs Namibia 118th Match",
       "team1": {
-        "name": "Namibia",
+        "name": "Netherlands",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Netherlands 118th Match",
+        "name": "Namibia 118th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Namibia vs Netherlands 118th Match",
+      "score": "Netherlands vs Namibia 118th Match",
       "status": "Match Details"
     },
     {
-      "title": "Romania vs France 1st Match",
+      "title": "France vs Romania 1st Match",
       "team1": {
-        "name": "Romania",
+        "name": "France",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "France 1st Match",
+        "name": "Romania 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Romania vs France 1st Match",
+      "score": "France vs Romania 1st Match",
       "status": "Match Details"
     },
     {
@@ -131,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Austria vs Turkey 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Romania vs Austria 3rd Match",
+      "team1": {
+        "name": "Romania",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Austria 3rd Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Romania vs Austria 3rd Match",
       "status": "Match Details"
     },
     {
@@ -225,32 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Leicestershire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Worcestershire Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Glamorgan vs Yorkshire Group B",
       "team1": {
         "name": "Glamorgan",
@@ -287,6 +274,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Northamptonshire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Leicestershire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Leicestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Worcestershire Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -394,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia Women vs Tanzania Women 7th Match",
+      "title": "Tanzania Women vs Namibia Women 7th Match",
       "team1": {
-        "name": "Namibia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tanzania Women 7th Match",
+        "name": "Tanzania Women",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "Namibia Women vs Tanzania Women 7th Match",
+      "team2": {
+        "name": "Namibia Women 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania Women vs Namibia Women 7th Match",
       "status": "Match Details"
     },
     {
