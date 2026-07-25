@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 08:52:12 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-07-25 10:24:45 UTC",
+  "total_matches": 45,
   "matches": [
     {
       "title": "ZIM vs IND - Preview",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - Need 254 to win",
+      "title": "PAKW vs SLW - Need 143 to win",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -65,7 +65,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - Need 254 to win",
+      "score": "PAKW vs SLW - Need 143 to win",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Netherlands vs Namibia 118th Match",
+      "title": "Netherlands vs Namibia LIVE 118th Match",
       "team1": {
         "name": "Netherlands",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Namibia 118th Match",
+        "name": "Namibia LIVE 118th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Netherlands vs Namibia 118th Match",
+      "score": "Netherlands vs Namibia LIVE 118th Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Kandy Royals 11th Match",
+      "title": "Kandy Royals vs Galle Gallants LIVE 11th Match",
       "team1": {
-        "name": "Galle Gallants",
+        "name": "Kandy Royals",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kandy Royals 11th Match",
+        "name": "Galle Gallants LIVE 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Galle Gallants vs Kandy Royals 11th Match",
+      "score": "Kandy Royals vs Galle Gallants LIVE 11th Match",
       "status": "Match Details"
     },
     {
@@ -209,6 +209,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Dambulla Sixers vs Colombo Kaps 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kandy Royals vs Jaffna Kings 13th Match",
+      "team1": {
+        "name": "Kandy Royals",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jaffna Kings 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kandy Royals vs Jaffna Kings 13th Match",
       "status": "Match Details"
     },
     {
@@ -329,6 +342,110 @@
       "status": "Match Details"
     },
     {
+      "title": "Surrey vs Northamptonshire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northamptonshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Northamptonshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Yorkshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Hampshire Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Derbyshire Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Derbyshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Kent Group A",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gloucestershire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Lancashire Group A",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Leicestershire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Glamorgan Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Middlesex vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Warwickshire Group A",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire Group A",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Somerset vs Warwickshire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Birmingham Phoenix Women vs Trent Rockets Women 4th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
@@ -342,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Southern Brave Women 5th Match",
+      "title": "Sunrisers Leeds Women vs Southern Brave Women LIVE 5th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave Women 5th Match",
+        "name": "Southern Brave Women LIVE 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs Southern Brave Women 5th Match",
+      "score": "Sunrisers Leeds Women vs Southern Brave Women LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -365,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Welsh Fire Women vs MI London Women 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Manchester Super Giants Women vs Birmingham Phoenix Women 7th Match",
+      "team1": {
+        "name": "Manchester Super Giants Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Birmingham Phoenix Women 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Manchester Super Giants Women vs Birmingham Phoenix Women 7th Match",
       "status": "Match Details"
     },
     {
