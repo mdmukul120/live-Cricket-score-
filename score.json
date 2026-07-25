@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 01:04:58 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-07-25 04:25:30 UTC",
+  "total_matches": 34,
   "matches": [
     {
       "title": "ZIM vs IND - Preview",
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SLW vs PAKW - Preview",
+      "title": "PAKW vs SLW - SLW opt to bowl",
       "team1": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "SLW vs PAKW - Preview",
+      "team2": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAKW vs SLW - SLW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -196,19 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Dambulla Sixers vs Colombo Kaps 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "San Francisco Unicorns vs Guyana Amazon Warriors 2nd Match",
-      "team1": {
-        "name": "San Francisco Unicorns",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Guyana Amazon Warriors 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "San Francisco Unicorns vs Guyana Amazon Warriors 2nd Match",
       "status": "Match Details"
     },
     {
@@ -368,16 +355,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs Pakistan Women 2nd ODI",
+      "title": "Pakistan Women vs Sri Lanka Women 2nd ODI",
       "team1": {
-        "name": "Sri Lanka Women",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Pakistan Women 2nd ODI",
+        "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Sri Lanka Women vs Pakistan Women 2nd ODI",
+      "team2": {
+        "name": "Sri Lanka Women 2nd ODI",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan Women vs Sri Lanka Women 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -456,58 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Estonia Women vs Finland Women 2nd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 214-4 (100 Balls) Trent Rockets TRE 204-7 (100 Balls) Birmingham Phoenix won by 10 runs",
-      "team1": {
-        "name": "4th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 214",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (100 Balls) Trent Rockets TRE 204",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 214-4 (100 Balls) Trent Rockets TRE 204-7 (100 Balls) Birmingham Phoenix won by 10 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 352-7 (50) Gloucestershire GLOUCS 317 (47.4) Somerset won by 35 runs",
-      "team1": {
-        "name": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 352",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (50) Gloucestershire GLOUCS 317 (47.4) Somerset won by 35 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 352-7 (50) Gloucestershire GLOUCS 317 (47.4) Somerset won by 35 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Chester-le-Street, Riverside Ground Durham DUR 352-5 (50) Sussex SUS 280 (43.5) Durham won by 72 runs",
-      "team1": {
-        "name": "Group B • Chester",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "le",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group B • Chester-le-Street, Riverside Ground Durham DUR 352-5 (50) Sussex SUS 280 (43.5) Durham won by 72 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 113-7 (20) Namibia Women NAMW 116-5 (18.2) Namibia Women won by 5 wkts",
-      "team1": {
-        "name": "6th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 113",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (20) Namibia Women NAMW 116",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 113-7 (20) Namibia Women NAMW 116-5 (18.2) Namibia Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
