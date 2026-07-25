@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 16:36:03 UTC",
-  "total_matches": 56,
+  "last_updated": "2026-07-25 17:40:30 UTC",
+  "total_matches": 54,
   "matches": [
     {
       "title": "IND vs ZIM - IND won",
@@ -14,19 +14,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "IND vs ZIM - IND won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SUL vs SOU - SUL won",
-      "team1": {
-        "name": "SUL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SOU",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SUL vs SOU - SUL won",
       "status": "Match Details"
     },
     {
@@ -43,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "WEF vs MIL - Preview",
+      "title": "WEF vs MIL - MIL opt to bowl",
       "team1": {
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +39,20 @@
         "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WEF vs MIL - Preview",
+      "score": "WEF vs MIL - MIL opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SUL vs SOU - SUL won",
+      "team1": {
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SOU",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SUL vs SOU - SUL won",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan 1st Test",
+      "title": "West Indies vs Pakistan LIVE 1st Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan 1st Test",
+        "name": "Pakistan LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan 1st Test",
+      "score": "West Indies vs Pakistan LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire vs MI London 6th Match",
+      "title": "Welsh Fire vs MI London LIVE 6th Match",
       "team1": {
         "name": "Welsh Fire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "MI London 6th Match",
+        "name": "MI London LIVE 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire vs MI London 6th Match",
+      "score": "Welsh Fire vs MI London LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -222,6 +222,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Manchester Super Giants vs Birmingham Phoenix 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trent Rockets vs London Spirit 8th Match",
+      "team1": {
+        "name": "Trent Rockets",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "London Spirit 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trent Rockets vs London Spirit 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Desert Vipers 4th Match",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Desert Vipers 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Guyana Amazon Warriors vs Desert Vipers 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "San Francisco Unicorns vs Perth Scorchers XI 5th Match",
+      "team1": {
+        "name": "San Francisco Unicorns",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Perth Scorchers XI 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "San Francisco Unicorns vs Perth Scorchers XI 5th Match",
       "status": "Match Details"
     },
     {
@@ -277,71 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Lahore Qalandars vs Desert Vipers 3rd Match",
-      "team1": {
-        "name": "Lahore Qalandars",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Desert Vipers 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lahore Qalandars vs Desert Vipers 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Guyana Amazon Warriors vs Desert Vipers 4th Match",
-      "team1": {
-        "name": "Guyana Amazon Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Desert Vipers 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Guyana Amazon Warriors vs Desert Vipers 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "San Francisco Unicorns vs Perth Scorchers XI 5th Match",
-      "team1": {
-        "name": "San Francisco Unicorns",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Perth Scorchers XI 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "San Francisco Unicorns vs Perth Scorchers XI 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Leicestershire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Worcestershire Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Glamorgan vs Yorkshire Group B",
       "team1": {
         "name": "Glamorgan",
@@ -378,6 +352,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Northamptonshire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Leicestershire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Leicestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Worcestershire Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -508,19 +508,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Worcestershire vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Birmingham Phoenix Women vs Trent Rockets Women 4th Match",
-      "team1": {
-        "name": "Birmingham Phoenix Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trent Rockets Women 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Birmingham Phoenix Women vs Trent Rockets Women 4th Match",
       "status": "Match Details"
     },
     {
@@ -716,19 +703,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "5th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 116 (100 Balls) Southern Brave Women SOUW 117-5 (96 Balls) Southern Brave Women won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 273-5 (50) Sri Lanka Women SLW 275-2 (46.5) Sri Lanka Women won by 8 wkts",
-      "team1": {
-        "name": "2nd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 273",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "5 (50) Sri Lanka Women SLW 275",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "2nd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 273-5 (50) Sri Lanka Women SLW 275-2 (46.5) Sri Lanka Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
