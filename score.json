@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 21:04:20 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-07-25 22:07:21 UTC",
+  "total_matches": 43,
   "matches": [
     {
-      "title": "WI vs PAK - WI opt to bat",
+      "title": "ZIM vs IND - Preview",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "ZIM vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "WI vs PAK - Stumps",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,59 +26,46 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - WI opt to bat",
+      "score": "WI vs PAK - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "WEF vs MIL - WEF won",
+      "title": "GAW vs DV - Preview",
       "team1": {
-        "name": "WEF",
+        "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MIL",
+        "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WEF vs MIL - WEF won",
+      "score": "GAW vs DV - Preview",
       "status": "Match Details"
     },
     {
-      "title": "IND vs ZIM - IND won",
+      "title": "KRL vs JKS - Preview",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "KRL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "JKS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "IND vs ZIM - IND won",
+      "score": "KRL vs JKS - Preview",
       "status": "Match Details"
     },
     {
-      "title": "SUL vs SOU - SUL won",
+      "title": "MSG vs BRM - Preview",
       "team1": {
-        "name": "SUL",
+        "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SOU",
+        "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs SOU - SUL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "WELW vs MILW - WELW won",
-      "team1": {
-        "name": "WELW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MILW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WELW vs MILW - WELW won",
+      "score": "MSG vs BRM - Preview",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan LIVE 1st Test",
+      "title": "West Indies vs Pakistan 1st Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 1st Test",
+        "name": "Pakistan 1st Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan LIVE 1st Test",
+      "score": "West Indies vs Pakistan 1st Test",
       "status": "Match Details"
     },
     {
@@ -303,45 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Glamorgan Group B",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Middlesex vs Glamorgan Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Warwickshire Group A",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire Group A",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Somerset vs Warwickshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Northamptonshire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northamptonshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Northamptonshire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Sussex vs Yorkshire Group B",
       "team1": {
         "name": "Sussex",
@@ -404,6 +365,45 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Leicestershire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Glamorgan Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Middlesex vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Warwickshire Group A",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire Group A",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Somerset vs Warwickshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Northamptonshire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northamptonshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Northamptonshire Group A",
       "status": "Match Details"
     },
     {
@@ -524,19 +524,6 @@
       "status": "Match Details"
     },
     {
-      "title": "118th Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 251-6 (50) Namibia NAM 193 (47.5) Netherlands won by 58 runs",
-      "team1": {
-        "name": "118th Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 251",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (50) Namibia NAM 193 (47.5) Netherlands won by 58 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "118th Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 251-6 (50) Namibia NAM 193 (47.5) Netherlands won by 58 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire WEF 167-5 (100 Balls) MI London MIL 152-6 (100 Balls) Welsh Fire won by 15 runs",
       "team1": {
         "name": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire WEF 167",
@@ -573,19 +560,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "12th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 197-5 (20) Dambulla Sixers DAS 176-8 (20) Colombo Kaps won by 21 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 177-4 (100 Balls) MI London Women MILW 117 (92 Balls) Welsh Fire Women won by 60 runs",
-      "team1": {
-        "name": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 177",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "4 (100 Balls) MI London Women MILW 117 (92 Balls) Welsh Fire Women won by 60 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 177-4 (100 Balls) MI London Women MILW 117 (92 Balls) Welsh Fire Women won by 60 runs",
       "status": "Match Details"
     }
   ]
