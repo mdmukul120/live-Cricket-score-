@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-25 23:11:38 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-07-26 00:15:34 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "ZIM vs IND - Preview",
@@ -316,6 +316,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Essex vs Derbyshire Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Derbyshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Kent Group A",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gloucestershire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Lancashire Group A",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Leicestershire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Middlesex vs Glamorgan Group B",
       "team1": {
         "name": "Middlesex",
@@ -378,45 +417,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Worcestershire vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Derbyshire Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Derbyshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Kent Group A",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gloucestershire vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Lancashire Group A",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Leicestershire vs Lancashire Group A",
       "status": "Match Details"
     },
     {
@@ -547,19 +547,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "6th Match • Cardiff, Sophia Gardens 100 Welsh Fire WEF 167-5 (100 Balls) MI London MIL 152-6 (100 Balls) Welsh Fire won by 15 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "12th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 197-5 (20) Dambulla Sixers DAS 176-8 (20) Colombo Kaps won by 21 runs",
-      "team1": {
-        "name": "12th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 197",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Dambulla Sixers DAS 176",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "12th Match • Dambulla, Rangiri Dambulla International Stadium Colombo Kaps CLK 197-5 (20) Dambulla Sixers DAS 176-8 (20) Colombo Kaps won by 21 runs",
       "status": "Match Details"
     }
   ]
