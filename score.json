@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-26 12:01:19 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-07-26 13:50:18 UTC",
+  "total_matches": 45,
   "matches": [
     {
-      "title": "IND vs ZIM - IND opt to bat",
+      "title": "IND vs ZIM - Drink",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "IND vs ZIM - IND opt to bat",
+      "score": "IND vs ZIM - Drink",
       "status": "Match Details"
     },
     {
-      "title": "WI vs PAK - Stumps",
+      "title": "WI vs PAK - WI opt to bat",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -26,11 +26,11 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Stumps",
+      "score": "WI vs PAK - WI opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "MSG vs BRM - Preview",
+      "title": "MSG vs BRM - Delay",
       "team1": {
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs BRM - Preview",
+      "score": "MSG vs BRM - Delay",
       "status": "Match Details"
     },
     {
-      "title": "TREW vs LDNW - Preview",
+      "title": "TREW vs LDNW - LDNW opt to bowl",
       "team1": {
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TREW vs LDNW - Preview",
+      "score": "TREW vs LDNW - LDNW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,55 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Zimbabwe LIVE 3rd T20I",
+      "title": "India vs Zimbabwe 3rd T20I",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Zimbabwe LIVE 3rd T20I",
+        "name": "Zimbabwe 3rd T20I",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "India vs Zimbabwe LIVE 3rd T20I",
+      "score": "India vs Zimbabwe 3rd T20I",
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan 1st Test",
+      "title": "West Indies vs Pakistan LIVE 1st Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan 1st Test",
+        "name": "Pakistan LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan 1st Test",
+      "score": "West Indies vs Pakistan LIVE 1st Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Netherlands vs Namibia 118th Match",
+      "team1": {
+        "name": "Netherlands",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Namibia 118th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Netherlands vs Namibia 118th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Namibia vs Nepal 119th Match",
+      "team1": {
+        "name": "Namibia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal 119th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Namibia vs Nepal 119th Match",
       "status": "Match Details"
     },
     {
@@ -134,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Turkey vs Romania LIVE 4th Match",
+      "title": "Turkey vs Romania 4th Match",
       "team1": {
         "name": "Turkey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Romania LIVE 4th Match",
+        "name": "Romania 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Turkey vs Romania LIVE 4th Match",
+      "score": "Turkey vs Romania 4th Match",
       "status": "Match Details"
     },
     {
@@ -170,32 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Israel vs Romania 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Netherlands vs Namibia 118th Match",
-      "team1": {
-        "name": "Netherlands",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Namibia 118th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Netherlands vs Namibia 118th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Namibia vs Nepal 119th Match",
-      "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 119th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Namibia vs Nepal 119th Match",
       "status": "Match Details"
     },
     {
@@ -290,19 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Kandy Royals vs Galle Gallants 11th Match",
-      "team1": {
-        "name": "Kandy Royals",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Galle Gallants 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kandy Royals vs Galle Gallants 11th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Colombo Kaps vs Dambulla Sixers 12th Match",
       "team1": {
         "name": "Colombo Kaps",
@@ -316,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Kandy Royals LIVE 13th Match",
+      "title": "Jaffna Kings vs Kandy Royals 13th Match",
       "team1": {
         "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kandy Royals LIVE 13th Match",
+        "name": "Kandy Royals 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Kandy Royals LIVE 13th Match",
+      "score": "Jaffna Kings vs Kandy Royals 13th Match",
       "status": "Match Details"
     },
     {
@@ -342,45 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Derbyshire LIVE Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Derbyshire LIVE Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Gloucestershire LIVE Group A",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Gloucestershire LIVE Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Kent vs Gloucestershire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lancashire vs Leicestershire LIVE Group A",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire LIVE Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Lancashire vs Leicestershire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Glamorgan vs Middlesex Group B",
       "team1": {
         "name": "Glamorgan",
@@ -394,29 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Warwickshire LIVE Group A",
+      "title": "Somerset vs Warwickshire Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire LIVE Group A",
+        "name": "Warwickshire Group A",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Somerset vs Warwickshire LIVE Group A",
+      "score": "Somerset vs Warwickshire Group A",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Surrey LIVE Group A",
+      "title": "Northamptonshire vs Surrey Group A",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Surrey LIVE Group A",
+        "name": "Surrey Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northamptonshire vs Surrey LIVE Group A",
+      "score": "Northamptonshire vs Surrey Group A",
       "status": "Match Details"
     },
     {
@@ -433,42 +381,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Hampshire LIVE Group B",
+      "title": "Worcestershire vs Hampshire Group B",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE Group B",
+        "name": "Hampshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Hampshire LIVE Group B",
+      "score": "Worcestershire vs Hampshire Group B",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women 2nd ODI",
+      "title": "Essex vs Derbyshire Group B",
       "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sri Lanka Women 2nd ODI",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women 2nd ODI",
+      "score": "Essex vs Derbyshire Group B",
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Southern Brave Women 5th Match",
+      "title": "Kent vs Gloucestershire Group A",
       "team1": {
-        "name": "Sunrisers Leeds Women",
+        "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave Women 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Gloucestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Sunrisers Leeds Women vs Southern Brave Women 5th Match",
+      "score": "Kent vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Leicestershire Group A",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Lancashire vs Leicestershire Group A",
       "status": "Match Details"
     },
     {
@@ -498,42 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets Women vs London Spirit Women 8th Match",
+      "title": "Trent Rockets Women vs London Spirit Women LIVE 8th Match",
       "team1": {
         "name": "Trent Rockets Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "London Spirit Women 8th Match",
+        "name": "London Spirit Women LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets Women vs London Spirit Women 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Switzerland Women vs Jersey Women 1st Match",
-      "team1": {
-        "name": "Switzerland Women",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Jersey Women 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Switzerland Women vs Jersey Women 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jersey Women vs Spain Women 2nd Match",
-      "team1": {
-        "name": "Jersey Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain Women 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jersey Women vs Spain Women 2nd Match",
+      "score": "Trent Rockets Women vs London Spirit Women LIVE 8th Match",
       "status": "Match Details"
     },
     {
@@ -576,6 +511,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Switzerland Women vs Jersey Women 1st Match",
+      "team1": {
+        "name": "Switzerland Women",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Jersey Women 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Switzerland Women vs Jersey Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jersey Women vs Spain Women 2nd Match",
+      "team1": {
+        "name": "Jersey Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain Women 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jersey Women vs Spain Women 2nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Estonia Women vs Finland Women 2nd T20I",
       "team1": {
         "name": "Estonia Women",
@@ -602,29 +563,29 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 221-7 (20) Turkey TKY 94-8 (20) Austria won by 127 runs",
+      "title": "13th Match • Dambulla, Rangiri Dambulla International Stadium Jaffna Kings JKS 199-4 (20) Kandy Royals KRL 106 (18.2) Jaffna Kings won by 93 runs",
       "team1": {
-        "name": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 221",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "7 (20) Turkey TKY 94",
+        "name": "13th Match • Dambulla, Rangiri Dambulla International Stadium Jaffna Kings JKS 199",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 221-7 (20) Turkey TKY 94-8 (20) Austria won by 127 runs",
+      "team2": {
+        "name": "4 (20) Kandy Royals KRL 106 (18.2) Jaffna Kings won by 93 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "13th Match • Dambulla, Rangiri Dambulla International Stadium Jaffna Kings JKS 199-4 (20) Kandy Royals KRL 106 (18.2) Jaffna Kings won by 93 runs",
       "status": "Match Details"
     },
     {
-      "title": "8th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 114-7 (20) Uganda Women UGAW 115-8 (17.4) Uganda Women won by 2 wkts",
+      "title": "Group B • Radlett, Brunton Memorial Ground Glamorgan GLAM 66 (20.5) Middlesex MDX 67-2 (9.1) Middlesex won by 8 wkts",
       "team1": {
-        "name": "8th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 114",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (20) Uganda Women UGAW 115",
+        "name": "Group B • Radlett, Brunton Memorial Ground Glamorgan GLAM 66 (20.5) Middlesex MDX 67",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "8th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 114-7 (20) Uganda Women UGAW 115-8 (17.4) Uganda Women won by 2 wkts",
+      "team2": {
+        "name": "2 (9.1) Middlesex won by 8 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Radlett, Brunton Memorial Ground Glamorgan GLAM 66 (20.5) Middlesex MDX 67-2 (9.1) Middlesex won by 8 wkts",
       "status": "Match Details"
     }
   ]
