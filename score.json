@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-26 21:39:36 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-07-26 22:42:13 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "WI vs PAK - Stumps",
@@ -264,6 +264,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Essex vs Derbyshire Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Derbyshire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Kent vs Gloucestershire Group A",
       "team1": {
         "name": "Kent",
@@ -352,19 +365,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Worcestershire vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Derbyshire Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Derbyshire Group B",
       "status": "Match Details"
     },
     {
@@ -472,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "7th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 187-5 (100 Balls) Birmingham Phoenix BRM 100 (97 Balls) Manchester Super Giants won by 87 runs",
+      "title": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220-6 (20) Dambulla Sixers DAS 176-7 (20) Galle Gallants won by 44 runs",
       "team1": {
-        "name": "7th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 187",
+        "name": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (100 Balls) Birmingham Phoenix BRM 100 (97 Balls) Manchester Super Giants won by 87 runs",
+        "name": "6 (20) Dambulla Sixers DAS 176",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "7th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 187-5 (100 Balls) Birmingham Phoenix BRM 100 (97 Balls) Manchester Super Giants won by 87 runs",
+      "score": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220-6 (20) Dambulla Sixers DAS 176-7 (20) Galle Gallants won by 44 runs",
       "status": "Match Details"
     },
     {
@@ -498,29 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220-6 (20) Dambulla Sixers DAS 176-7 (20) Galle Gallants won by 44 runs",
+      "title": "Group A • Leicester, Grace Road Lancashire LANCS 383-4 (50) Leicestershire LEIC 362-8 (50) Lancashire won by 21 runs",
       "team1": {
-        "name": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Dambulla Sixers DAS 176",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220-6 (20) Dambulla Sixers DAS 176-7 (20) Galle Gallants won by 44 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Chelmsford, County Ground Essex ESS 257-7 (50) Derbyshire DERBY 248-9 (50) Essex won by 9 runs",
-      "team1": {
-        "name": "Group B • Chelmsford, County Ground Essex ESS 257",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (50) Derbyshire DERBY 248",
+        "name": "Group A • Leicester, Grace Road Lancashire LANCS 383",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Group B • Chelmsford, County Ground Essex ESS 257-7 (50) Derbyshire DERBY 248-9 (50) Essex won by 9 runs",
+      "team2": {
+        "name": "4 (50) Leicestershire LEIC 362",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Leicester, Grace Road Lancashire LANCS 383-4 (50) Leicestershire LEIC 362-8 (50) Lancashire won by 21 runs",
       "status": "Match Details"
     },
     {
@@ -537,6 +524,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Group B • Chelmsford, County Ground Essex ESS 257-7 (50) Derbyshire DERBY 248-9 (50) Essex won by 9 runs",
+      "team1": {
+        "name": "Group B • Chelmsford, County Ground Essex ESS 257",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Derbyshire DERBY 248",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Chelmsford, County Ground Essex ESS 257-7 (50) Derbyshire DERBY 248-9 (50) Essex won by 9 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "Group B • Worcester, New Road Worcestershire WORCS 307-8 (50) Hampshire HAM 303 (49.4) Worcestershire won by 4 runs",
       "team1": {
         "name": "Group B • Worcester, New Road Worcestershire WORCS 307",
@@ -547,71 +547,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Group B • Worcester, New Road Worcestershire WORCS 307-8 (50) Hampshire HAM 303 (49.4) Worcestershire won by 4 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212-4 (36.1) Gloucestershire won by 6 wkts",
-      "team1": {
-        "name": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "4 (36.1) Gloucestershire won by 6 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212-4 (36.1) Gloucestershire won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Guildford, Woodbridge Road Northamptonshire NHNTS 254-8 (50) Surrey SUR 258-4 (43.1) Surrey won by 6 wkts",
-      "team1": {
-        "name": "Group A • Guildford, Woodbridge Road Northamptonshire NHNTS 254",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "8 (50) Surrey SUR 258",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group A • Guildford, Woodbridge Road Northamptonshire NHNTS 254-8 (50) Surrey SUR 258-4 (43.1) Surrey won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Leicester, Grace Road Lancashire LANCS 383-4 (50) Leicestershire LEIC 362-8 (50) Lancashire won by 21 runs",
-      "team1": {
-        "name": "Group A • Leicester, Grace Road Lancashire LANCS 383",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "4 (50) Leicestershire LEIC 362",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Leicester, Grace Road Lancashire LANCS 383-4 (50) Leicestershire LEIC 362-8 (50) Lancashire won by 21 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Hove, County Ground Yorkshire YORKS 325-7 (48) Sussex SUS 140 (27.5) Yorkshire won by 184 runs (DLS method)",
-      "team1": {
-        "name": "Group B • Hove, County Ground Yorkshire YORKS 325",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "7 (48) Sussex SUS 140 (27.5) Yorkshire won by 184 runs (DLS method)",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group B • Hove, County Ground Yorkshire YORKS 325-7 (48) Sussex SUS 140 (27.5) Yorkshire won by 184 runs (DLS method)",
-      "status": "Match Details"
-    },
-    {
-      "title": "8th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 142-7 (100 Balls) London Spirit Women LDNW 146-5 (97 Balls) London Spirit Women won by 5 wkts",
-      "team1": {
-        "name": "8th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 142",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (100 Balls) London Spirit Women LDNW 146",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "8th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 142-7 (100 Balls) London Spirit Women LDNW 146-5 (97 Balls) London Spirit Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
