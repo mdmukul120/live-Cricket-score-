@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-26 17:16:43 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-07-26 18:16:26 UTC",
+  "total_matches": 51,
   "matches": [
     {
-      "title": "WI vs PAK - Trail by 310",
+      "title": "WI vs PAK - Trail by 230",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,7 +13,7 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Trail by 310",
+      "score": "WI vs PAK - Trail by 230",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "GAG vs DAS - Need 93 off 24b",
+      "title": "GAG vs DAS - GAG won",
       "team1": {
         "name": "GAG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "DAS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAG vs DAS - Need 93 off 24b",
+      "score": "GAG vs DAS - GAG won",
       "status": "Match Details"
     },
     {
@@ -199,55 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Desert Vipers vs Guyana Amazon Warriors 4th Match",
+      "title": "Southern Brave vs MI London 9th Match",
       "team1": {
-        "name": "Desert Vipers",
+        "name": "Southern Brave",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors 4th Match",
+        "name": "MI London 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Desert Vipers vs Guyana Amazon Warriors 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "San Francisco Unicorns vs Perth Scorchers XI LIVE 5th Match",
-      "team1": {
-        "name": "San Francisco Unicorns",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Perth Scorchers XI LIVE 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "San Francisco Unicorns vs Perth Scorchers XI LIVE 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Guyana Amazon Warriors vs Lahore Qalandars 6th Match",
-      "team1": {
-        "name": "Guyana Amazon Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lahore Qalandars 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Guyana Amazon Warriors vs Lahore Qalandars 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Colombo Kaps vs Dambulla Sixers 12th Match",
-      "team1": {
-        "name": "Colombo Kaps",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dambulla Sixers 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Colombo Kaps vs Dambulla Sixers 12th Match",
+      "score": "Southern Brave vs MI London 9th Match",
       "status": "Match Details"
     },
     {
@@ -264,29 +225,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Dambulla Sixers LIVE 14th Match",
+      "title": "Galle Gallants vs Dambulla Sixers 14th Match",
       "team1": {
         "name": "Galle Gallants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dambulla Sixers LIVE 14th Match",
+        "name": "Dambulla Sixers 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Galle Gallants vs Dambulla Sixers LIVE 14th Match",
+      "score": "Galle Gallants vs Dambulla Sixers 14th Match",
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Derbyshire LIVE Group B",
+      "title": "Desert Vipers vs Guyana Amazon Warriors 4th Match",
+      "team1": {
+        "name": "Desert Vipers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Desert Vipers vs Guyana Amazon Warriors 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "San Francisco Unicorns vs Perth Scorchers XI 5th Match",
+      "team1": {
+        "name": "San Francisco Unicorns",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Perth Scorchers XI 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "San Francisco Unicorns vs Perth Scorchers XI 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Lahore Qalandars 6th Match",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lahore Qalandars 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Guyana Amazon Warriors vs Lahore Qalandars 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Derbyshire Group B",
       "team1": {
         "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Derbyshire LIVE Group B",
+        "name": "Derbyshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Essex vs Derbyshire LIVE Group B",
+      "score": "Essex vs Derbyshire Group B",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Leicestershire LIVE Group A",
+      "title": "Lancashire vs Leicestershire Group A",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire LIVE Group A",
+        "name": "Leicestershire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Lancashire vs Leicestershire LIVE Group A",
+      "score": "Lancashire vs Leicestershire Group A",
       "status": "Match Details"
     },
     {
@@ -368,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Hampshire LIVE Group B",
+      "title": "Worcestershire vs Hampshire Group B",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE Group B",
+        "name": "Hampshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Hampshire LIVE Group B",
+      "score": "Worcestershire vs Hampshire Group B",
       "status": "Match Details"
     },
     {
@@ -498,19 +498,6 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground Romania ROM 142-6 (20) Austria AUT 143-7 (17.3) Austria won by 3 wkts",
-      "team1": {
-        "name": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground Romania ROM 142",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Austria AUT 143",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground Romania ROM 142-6 (20) Austria AUT 143-7 (17.3) Austria won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "7th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 187-5 (100 Balls) Birmingham Phoenix BRM 100 (97 Balls) Manchester Super Giants won by 87 runs",
       "team1": {
         "name": "7th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 187",
@@ -521,6 +508,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "7th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 187-5 (100 Balls) Birmingham Phoenix BRM 100 (97 Balls) Manchester Super Giants won by 87 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220-6 (20) Dambulla Sixers DAS 176-7 (20) Galle Gallants won by 44 runs",
+      "team1": {
+        "name": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Dambulla Sixers DAS 176",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "14th Match • Dambulla, Rangiri Dambulla International Stadium Galle Gallants GAG 220-6 (20) Dambulla Sixers DAS 176-7 (20) Galle Gallants won by 44 runs",
       "status": "Match Details"
     },
     {
@@ -537,29 +537,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212-4 (36.1) Gloucestershire won by 6 wkts",
+      "title": "5th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 152-8 (20) Perth Scorchers XI PRS XI 147-9 (20) San Francisco Unicorns won by 5 runs",
       "team1": {
-        "name": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "5th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 152",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "4 (36.1) Gloucestershire won by 6 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "8 (20) Perth Scorchers XI PRS XI 147",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212-4 (36.1) Gloucestershire won by 6 wkts",
+      "score": "5th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 152-8 (20) Perth Scorchers XI PRS XI 147-9 (20) San Francisco Unicorns won by 5 runs",
       "status": "Match Details"
     },
     {
-      "title": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 337-8 (50) Warwickshire WARKS 212 (39.4) Somerset won by 125 runs",
+      "title": "Group B • Worcester, New Road Worcestershire WORCS 307-8 (50) Hampshire HAM 303 (49.4) Worcestershire won by 4 runs",
       "team1": {
-        "name": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 337",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Group B • Worcester, New Road Worcestershire WORCS 307",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "8 (50) Warwickshire WARKS 212 (39.4) Somerset won by 125 runs",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "8 (50) Hampshire HAM 303 (49.4) Worcestershire won by 4 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 337-8 (50) Warwickshire WARKS 212 (39.4) Somerset won by 125 runs",
+      "score": "Group B • Worcester, New Road Worcestershire WORCS 307-8 (50) Hampshire HAM 303 (49.4) Worcestershire won by 4 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Leicester, Grace Road Lancashire LANCS 383-4 (50) Leicestershire LEIC 362-8 (50) Lancashire won by 21 runs",
+      "team1": {
+        "name": "Group A • Leicester, Grace Road Lancashire LANCS 383",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (50) Leicestershire LEIC 362",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Leicester, Grace Road Lancashire LANCS 383-4 (50) Leicestershire LEIC 362-8 (50) Lancashire won by 21 runs",
       "status": "Match Details"
     },
     {
@@ -573,6 +586,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group A • Guildford, Woodbridge Road Northamptonshire NHNTS 254-8 (50) Surrey SUR 258-4 (43.1) Surrey won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Chelmsford, County Ground Essex ESS 257-7 (50) Derbyshire DERBY 248-9 (50) Essex won by 9 runs",
+      "team1": {
+        "name": "Group B • Chelmsford, County Ground Essex ESS 257",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Derbyshire DERBY 248",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Chelmsford, County Ground Essex ESS 257-7 (50) Derbyshire DERBY 248-9 (50) Essex won by 9 runs",
       "status": "Match Details"
     },
     {
@@ -599,6 +625,32 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Group B • Hove, County Ground Yorkshire YORKS 325-7 (48) Sussex SUS 140 (27.5) Yorkshire won by 184 runs (DLS method)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212-4 (36.1) Gloucestershire won by 6 wkts",
+      "team1": {
+        "name": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (36.1) Gloucestershire won by 6 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212-4 (36.1) Gloucestershire won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 337-8 (50) Warwickshire WARKS 212 (39.4) Somerset won by 125 runs",
+      "team1": {
+        "name": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 337",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (50) Warwickshire WARKS 212 (39.4) Somerset won by 125 runs",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 337-8 (50) Warwickshire WARKS 212 (39.4) Somerset won by 125 runs",
       "status": "Match Details"
     },
     {
