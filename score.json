@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-07-26 14:57:14 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-07-26 16:10:02 UTC",
+  "total_matches": 45,
   "matches": [
-    {
-      "title": "IND vs ZIM - IND won",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "IND vs ZIM - IND won",
-      "status": "Match Details"
-    },
     {
       "title": "WI vs PAK - WI opt to bat",
       "team1": {
@@ -30,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MSG vs BRM - BRM opt to bowl",
+      "title": "MSG vs BRM - Need 132 off 50b",
       "team1": {
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +26,24 @@
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs BRM - BRM opt to bowl",
+      "score": "MSG vs BRM - Need 132 off 50b",
       "status": "Match Details"
     },
     {
-      "title": "TREW vs LDNW - LDNW opt to bowl",
+      "title": "IND vs ZIM - IND won",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "IND vs ZIM - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "TREW vs LDNW - LDNW won",
       "team1": {
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TREW vs LDNW - LDNW opt to bowl",
+      "score": "TREW vs LDNW - LDNW won",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan LIVE 1st Test",
+      "title": "West Indies vs Pakistan 1st Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 1st Test",
+        "name": "Pakistan 1st Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan LIVE 1st Test",
+      "score": "West Indies vs Pakistan 1st Test",
       "status": "Match Details"
     },
     {
@@ -118,19 +118,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Namibia vs Nepal 119th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Austria vs Turkey 2nd Match",
-      "team1": {
-        "name": "Austria",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Turkey 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Austria vs Turkey 2nd Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants vs Birmingham Phoenix LIVE 7th Match",
+      "title": "Manchester Super Giants vs Birmingham Phoenix 7th Match",
       "team1": {
         "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix LIVE 7th Match",
+        "name": "Birmingham Phoenix 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants vs Birmingham Phoenix LIVE 7th Match",
+      "score": "Manchester Super Giants vs Birmingham Phoenix 7th Match",
       "status": "Match Details"
     },
     {
@@ -316,6 +303,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Essex vs Derbyshire LIVE Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Derbyshire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Derbyshire LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Gloucestershire Group A",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gloucestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Leicestershire LIVE Group A",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire LIVE Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Lancashire vs Leicestershire LIVE Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Glamorgan vs Middlesex Group B",
       "team1": {
         "name": "Glamorgan",
@@ -381,45 +407,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Derbyshire LIVE Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Derbyshire LIVE Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Gloucestershire LIVE Group A",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Gloucestershire LIVE Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Kent vs Gloucestershire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lancashire vs Leicestershire LIVE Group A",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire LIVE Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Lancashire vs Leicestershire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Welsh Fire Women vs MI London Women 6th Match",
       "team1": {
         "name": "Welsh Fire Women",
@@ -446,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets Women vs London Spirit Women LIVE 8th Match",
+      "title": "Trent Rockets Women vs London Spirit Women 8th Match",
       "team1": {
         "name": "Trent Rockets Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "London Spirit Women LIVE 8th Match",
+        "name": "London Spirit Women 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets Women vs London Spirit Women LIVE 8th Match",
+      "score": "Trent Rockets Women vs London Spirit Women 8th Match",
       "status": "Match Details"
     },
     {
@@ -469,19 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Southern Brave Women vs MI London Women 9th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China Women vs Uganda Women 8th Match",
-      "team1": {
-        "name": "Hong Kong, China Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda Women 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China Women vs Uganda Women 8th Match",
       "status": "Match Details"
     },
     {
@@ -534,19 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Jersey Women vs Spain Women 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Estonia Women vs Finland Women 2nd T20I",
-      "team1": {
-        "name": "Estonia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Finland Women 2nd T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Estonia Women vs Finland Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -612,6 +573,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group B • Radlett, Brunton Memorial Ground Glamorgan GLAM 66 (20.5) Middlesex MDX 67-2 (9.1) Middlesex won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212-4 (36.1) Gloucestershire won by 6 wkts",
+      "team1": {
+        "name": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (36.1) Gloucestershire won by 6 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Bristol, County Ground Kent KENT 208 (48.4) Gloucestershire GLOUCS 212-4 (36.1) Gloucestershire won by 6 wkts",
       "status": "Match Details"
     }
   ]
