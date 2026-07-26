@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-07-26 09:05:28 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-07-26 10:52:32 UTC",
+  "total_matches": 48,
   "matches": [
     {
-      "title": "ZIM vs IND - Preview",
+      "title": "IND vs ZIM - IND opt to bat",
       "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ZIM vs IND - Preview",
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "IND vs ZIM - IND opt to bat",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MSGW vs BRMW - Preview",
+      "title": "MSGW vs BRMW - Delay",
       "team1": {
         "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +52,20 @@
         "name": "BRMW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSGW vs BRMW - Preview",
+      "score": "MSGW vs BRMW - Delay",
       "status": "Match Details"
     },
     {
-      "title": "KRL vs JKS - Preview",
+      "title": "JKS vs KRL - JKS opt to bat",
       "team1": {
-        "name": "KRL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "KRL vs JKS - Preview",
+      "team2": {
+        "name": "KRL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKS vs KRL - JKS opt to bat",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs India 3rd T20I",
+      "title": "India vs Zimbabwe 3rd T20I",
       "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "India 3rd T20I",
+        "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Zimbabwe vs India 3rd T20I",
+      "team2": {
+        "name": "Zimbabwe 3rd T20I",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "India vs Zimbabwe 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -105,19 +105,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "West Indies vs Pakistan 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "France vs Romania 1st Match",
-      "team1": {
-        "name": "France",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Romania 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "France vs Romania 1st Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kandy Royals vs Jaffna Kings 13th Match",
+      "title": "Jaffna Kings vs Kandy Royals LIVE 13th Match",
       "team1": {
-        "name": "Kandy Royals",
+        "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jaffna Kings 13th Match",
+        "name": "Kandy Royals LIVE 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kandy Royals vs Jaffna Kings 13th Match",
+      "score": "Jaffna Kings vs Kandy Royals LIVE 13th Match",
       "status": "Match Details"
     },
     {
@@ -342,107 +329,107 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Northamptonshire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northamptonshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Northamptonshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Yorkshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Hampshire Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Derbyshire Group B",
+      "title": "Essex vs Derbyshire LIVE Group B",
       "team1": {
         "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Derbyshire Group B",
+        "name": "Derbyshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Essex vs Derbyshire Group B",
+      "score": "Essex vs Derbyshire LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Kent Group A",
+      "title": "Kent vs Gloucestershire LIVE Group A",
       "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gloucestershire vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Lancashire Group A",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Leicestershire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Glamorgan Group B",
-      "team1": {
-        "name": "Middlesex",
+        "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Gloucestershire LIVE Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Middlesex vs Glamorgan Group B",
+      "score": "Kent vs Gloucestershire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Warwickshire Group A",
+      "title": "Lancashire vs Leicestershire LIVE Group A",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire LIVE Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Lancashire vs Leicestershire LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Middlesex LIVE Group B",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Middlesex LIVE Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Middlesex LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Warwickshire LIVE Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire Group A",
+        "name": "Warwickshire LIVE Group A",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Somerset vs Warwickshire Group A",
+      "score": "Somerset vs Warwickshire LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Surrey LIVE Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey LIVE Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northamptonshire vs Surrey LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Sussex LIVE Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex LIVE Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Sussex LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Hampshire LIVE Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Hampshire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -602,19 +589,6 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 144-9 (20) Romania ROM 149-3 (16.5) Romania won by 7 wkts",
-      "team1": {
-        "name": "1st Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 144",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Romania ROM 149",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 144-9 (20) Romania ROM 149-3 (16.5) Romania won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "8th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 114-7 (20) Uganda Women UGAW 115-8 (17.4) Uganda Women won by 2 wkts",
       "team1": {
         "name": "8th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 114",
@@ -625,19 +599,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "8th Match • Windhoek, High Performance Oval Hong Kong, China Women HKC W 114-7 (20) Uganda Women UGAW 115-8 (17.4) Uganda Women won by 2 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match • Windhoek, High Performance Oval Tanzania Women TANW 96-5 (20) Namibia Women NAMW 100-1 (13.4) Namibia Women won by 9 wkts",
-      "team1": {
-        "name": "7th Match • Windhoek, High Performance Oval Tanzania Women TANW 96",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "5 (20) Namibia Women NAMW 100",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Match • Windhoek, High Performance Oval Tanzania Women TANW 96-5 (20) Namibia Women NAMW 100-1 (13.4) Namibia Women won by 9 wkts",
       "status": "Match Details"
     },
     {
