@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-27 08:47:45 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-07-27 12:02:42 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "WI vs PAK - Stumps",
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NAM vs NEP - Delay",
+      "title": "NAM vs NEP - NEP opt to bowl",
       "team1": {
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "NEP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NAM vs NEP - Delay",
+      "score": "NAM vs NEP - NEP opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "GAW vs LHQ - GAW won",
+      "title": "SFU vs DV - Preview",
       "team1": {
-        "name": "GAW",
+        "name": "SFU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "LHQ",
+        "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs LHQ - GAW won",
+      "score": "SFU vs DV - Preview",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs Nepal 119th Match",
+      "title": "Namibia vs Nepal LIVE 119th Match",
       "team1": {
         "name": "Namibia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal 119th Match",
+        "name": "Nepal LIVE 119th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Namibia vs Nepal 119th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Romania vs Austria 3rd Match",
-      "team1": {
-        "name": "Romania",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Austria 3rd Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Romania vs Austria 3rd Match",
+      "score": "Namibia vs Nepal LIVE 119th Match",
       "status": "Match Details"
     },
     {
@@ -170,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Austria vs Israel 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Turkey vs Israel 8th Match",
+      "team1": {
+        "name": "Turkey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Israel 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Turkey vs Israel 8th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants Women vs Birmingham Phoenix Women 7th Match",
+      "title": "Lancashire vs Kent Group A",
       "team1": {
-        "name": "Manchester Super Giants Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Birmingham Phoenix Women 7th Match",
+        "name": "Kent Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants Women vs Birmingham Phoenix Women 7th Match",
+      "score": "Lancashire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Leicestershire Group A",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Leicestershire Group A",
       "status": "Match Details"
     },
     {
@@ -433,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China Women vs Tanzania Women 9th Match",
+      "title": "Tanzania Women vs Hong Kong, China Women 9th Match",
       "team1": {
-        "name": "Hong Kong, China Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tanzania Women 9th Match",
+        "name": "Tanzania Women",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "Hong Kong, China Women vs Tanzania Women 9th Match",
+      "team2": {
+        "name": "Hong Kong, China Women 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania Women vs Hong Kong, China Women 9th Match",
       "status": "Match Details"
     },
     {
@@ -469,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Namibia Women vs Hong Kong, China Women 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tanzania Women vs Uganda Women 12th Match",
+      "team1": {
+        "name": "Tanzania Women",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Uganda Women 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania Women vs Uganda Women 12th Match",
       "status": "Match Details"
     },
     {
@@ -508,6 +534,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Switzerland Women vs Spain Women 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Brazil Women vs Jersey Women 4th Match",
+      "team1": {
+        "name": "Brazil Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jersey Women 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil Women vs Jersey Women 4th Match",
       "status": "Match Details"
     }
   ]
