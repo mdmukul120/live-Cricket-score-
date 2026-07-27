@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-27 05:07:59 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-07-27 08:47:45 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "WI vs PAK - Stumps",
@@ -17,45 +17,6 @@
       "status": "Match Details"
     },
     {
-      "title": "GAW vs LHQ - GAW won",
-      "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "LHQ",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs LHQ - GAW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "LDN vs TRE - TRE won",
-      "team1": {
-        "name": "LDN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDN vs TRE - TRE won",
-      "status": "Match Details"
-    },
-    {
-      "title": "IND vs ZIM - IND won",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "IND vs ZIM - IND won",
-      "status": "Match Details"
-    },
-    {
       "title": "SOU vs MIL - Preview",
       "team1": {
         "name": "SOU",
@@ -66,6 +27,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SOU vs MIL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "NAM vs NEP - Delay",
+      "team1": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NAM vs NEP - Delay",
+      "status": "Match Details"
+    },
+    {
+      "title": "SOUW vs MILW - Preview",
+      "team1": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MILW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOUW vs MILW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "GAW vs LHQ - GAW won",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LHQ",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs LHQ - GAW won",
       "status": "Match Details"
     },
     {
@@ -157,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Israel vs Romania 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Austria vs Israel 7th Match",
+      "team1": {
+        "name": "Austria",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Israel 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Austria vs Israel 7th Match",
       "status": "Match Details"
     },
     {
@@ -264,6 +277,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Worcestershire vs Hampshire Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Derbyshire Group B",
       "team1": {
         "name": "Essex",
@@ -355,19 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Hampshire Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Manchester Super Giants Women vs Birmingham Phoenix Women 7th Match",
       "team1": {
         "name": "Manchester Super Giants Women",
@@ -446,6 +459,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Namibia Women vs Hong Kong, China Women 11th Match",
+      "team1": {
+        "name": "Namibia Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hong Kong, China Women 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Namibia Women vs Hong Kong, China Women 11th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Switzerland Women vs Jersey Women 1st Match",
       "team1": {
         "name": "Switzerland Women",
@@ -472,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Guyana, Providence Stadium Guyana Amazon Warriors GAW 164-9 (20) Lahore Qalandars LHQ 111 (17.2) Guyana Amazon Warriors won by 53 runs",
+      "title": "Switzerland Women vs Spain Women 3rd Match",
       "team1": {
-        "name": "6th Match • Guyana, Providence Stadium Guyana Amazon Warriors GAW 164",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Switzerland Women",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "9 (20) Lahore Qalandars LHQ 111 (17.2) Guyana Amazon Warriors won by 53 runs",
+        "name": "Spain Women 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "6th Match • Guyana, Providence Stadium Guyana Amazon Warriors GAW 164-9 (20) Lahore Qalandars LHQ 111 (17.2) Guyana Amazon Warriors won by 53 runs",
+      "score": "Switzerland Women vs Spain Women 3rd Match",
       "status": "Match Details"
     }
   ]
