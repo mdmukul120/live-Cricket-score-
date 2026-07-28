@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 12:08:33 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-07-28 14:37:32 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "WI vs PAK - Stumps",
+      "title": "WI vs PAK - Lead by 191",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,7 +13,7 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Stumps",
+      "score": "WI vs PAK - Lead by 191",
       "status": "Match Details"
     },
     {
@@ -27,6 +27,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SUL vs MSG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SULW vs MSGW - MSGW opt to bowl",
+      "team1": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SULW vs MSGW - MSGW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,29 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SULW vs MSGW - Preview",
-      "team1": {
-        "name": "SULW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MSGW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SULW vs MSGW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "West Indies vs Pakistan 1st Test",
+      "title": "West Indies vs Pakistan LIVE 1st Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan 1st Test",
+        "name": "Pakistan LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan 1st Test",
+      "score": "West Indies vs Pakistan LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "France vs Austria 9th Match",
+      "title": "France vs Austria LIVE 9th Match",
       "team1": {
         "name": "France",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Austria 9th Match",
+        "name": "Austria LIVE 9th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "France vs Austria 9th Match",
+      "score": "France vs Austria LIVE 9th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Jaffna Kings 15th Match",
+      "title": "Welsh Fire vs Trent Rockets 11th Match",
       "team1": {
-        "name": "Colombo Kaps",
+        "name": "Welsh Fire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Trent Rockets 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Welsh Fire vs Trent Rockets 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jaffna Kings vs Colombo Kaps LIVE 15th Match",
+      "team1": {
+        "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jaffna Kings 15th Match",
+        "name": "Colombo Kaps LIVE 15th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Colombo Kaps vs Jaffna Kings 15th Match",
+      "score": "Jaffna Kings vs Colombo Kaps LIVE 15th Match",
       "status": "Match Details"
     },
     {
@@ -235,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Galle Gallants vs Kandy Royals 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Colombo Kaps vs Dambulla Sixers 17th Match",
+      "team1": {
+        "name": "Colombo Kaps",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dambulla Sixers 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Colombo Kaps vs Dambulla Sixers 17th Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +287,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Desert Vipers vs Perth Scorchers XI 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lahore Qalandars vs San Francisco Unicorns 9th Match",
+      "team1": {
+        "name": "Lahore Qalandars",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "San Francisco Unicorns 9th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Lahore Qalandars vs San Francisco Unicorns 9th Match",
       "status": "Match Details"
     },
     {
@@ -355,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women 10th Match",
+      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 10th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women 10th Match",
+        "name": "Manchester Super Giants Women LIVE 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women 10th Match",
+      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 10th Match",
       "status": "Match Details"
     },
     {
@@ -378,6 +417,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Welsh Fire Women vs Trent Rockets Women 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "MI London Women vs London Spirit Women 12th Match",
+      "team1": {
+        "name": "MI London Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "London Spirit Women 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MI London Women vs London Spirit Women 12th Match",
       "status": "Match Details"
     },
     {
@@ -420,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania Women vs Uganda Women 12th Match",
+      "title": "Uganda Women vs Tanzania Women 12th Match",
       "team1": {
-        "name": "Tanzania Women",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Uganda Women 12th Match",
+        "name": "Uganda Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tanzania Women vs Uganda Women 12th Match",
+      "team2": {
+        "name": "Tanzania Women 12th Match",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Uganda Women vs Tanzania Women 12th Match",
       "status": "Match Details"
     },
     {
@@ -485,6 +537,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Switzerland Women vs Brazil Women 6th Match",
+      "team1": {
+        "name": "Switzerland Women",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Brazil Women 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Switzerland Women vs Brazil Women 6th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Switzerland Women vs Jersey Women Only T20I",
       "team1": {
         "name": "Switzerland Women",
@@ -498,16 +563,16 @@
       "status": "Match Details"
     },
     {
-      "title": "7th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 96 (19.2) Austria AUT 99-3 (10) Austria won by 7 wkts",
+      "title": "8th Match • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 123-7 (20) Israel ISR 88 (14.4) Turkey won by 9 runs (2nd innings reduced to 15 ovs due to rain, DLS target 98)",
       "team1": {
-        "name": "7th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 96 (19.2) Austria AUT 99",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "8th Match • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 123",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (10) Austria won by 7 wkts",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "7 (20) Israel ISR 88 (14.4) Turkey won by 9 runs (2nd innings reduced to 15 o",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "7th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 96 (19.2) Austria AUT 99-3 (10) Austria won by 7 wkts",
+      "score": "8th Match • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 123-7 (20) Israel ISR 88 (14.4) Turkey won by 9 runs (2nd innings reduced to 15 ovs due to rain, DLS target 98)",
       "status": "Match Details"
     },
     {
