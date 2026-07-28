@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 19:26:13 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-07-28 20:45:52 UTC",
+  "total_matches": 48,
   "matches": [
     {
-      "title": "WI vs PAK - Tea",
+      "title": "WI vs PAK - WI won",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,11 +13,11 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Tea",
+      "score": "WI vs PAK - WI won",
       "status": "Match Details"
     },
     {
-      "title": "MSG vs SUL - Need 143 off 72b",
+      "title": "MSG vs SUL - SUL won",
       "team1": {
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,46 +26,46 @@
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs SUL - Need 143 off 72b",
+      "score": "MSG vs SUL - SUL won",
       "status": "Match Details"
     },
     {
-      "title": "SULW vs MSGW - MSGW won",
+      "title": "DV vs PRS XI - Preview",
       "team1": {
-        "name": "SULW",
+        "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MSGW",
+        "name": "PRS XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs MSGW - MSGW won",
+      "score": "DV vs PRS XI - Preview",
       "status": "Match Details"
     },
     {
-      "title": "SOU vs MIL - MIL won",
+      "title": "WEF vs TRE - Preview",
       "team1": {
-        "name": "SOU",
+        "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MIL",
+        "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOU vs MIL - MIL won",
+      "score": "WEF vs TRE - Preview",
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - SLW won",
+      "title": "WELW vs TREW - Preview",
       "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "WELW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PAKW vs SLW - SLW won",
+      "score": "WELW vs TREW - Preview",
       "status": "Match Details"
     },
     {
@@ -173,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants vs Sunrisers Leeds LIVE 10th Match",
+      "title": "Manchester Super Giants vs Sunrisers Leeds 10th Match",
       "team1": {
         "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds LIVE 10th Match",
+        "name": "Sunrisers Leeds 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants vs Sunrisers Leeds LIVE 10th Match",
+      "score": "Manchester Super Giants vs Sunrisers Leeds 10th Match",
       "status": "Match Details"
     },
     {
@@ -524,6 +524,19 @@
       "status": "Match Details"
     },
     {
+      "title": "1st Test • Tarouba, Trinidad, Brian Lara Stadium West Indies WI 311 & 181 Pakistan PAK 282 & 120 West Indies won by 90 runs",
+      "team1": {
+        "name": "1st Test • Tarouba, Trinidad, Brian Lara Stadium West Indies WI 311 & 181 Pakistan PAK 282 & 120 West Indies won by 90 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Test • Tarouba, Trinidad, Brian Lara Stadium West Indies WI 311 & 181 Pakistan PAK 282 & 120 West Indies won by 90 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166-7 (20) Austria AUT 85 (14) France won by 81 runs",
       "team1": {
         "name": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166",
@@ -534,6 +547,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166-7 (20) Austria AUT 85 (14) France won by 81 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Leeds, Headingley 100 Manchester Super Giants MSG 181-3 (100 Balls) Sunrisers Leeds SUL 186-2 (88 Balls) Sunrisers Leeds won by 8 wkts",
+      "team1": {
+        "name": "10th Match • Leeds, Headingley 100 Manchester Super Giants MSG 181",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (100 Balls) Sunrisers Leeds SUL 186",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Leeds, Headingley 100 Manchester Super Giants MSG 181-3 (100 Balls) Sunrisers Leeds SUL 186-2 (88 Balls) Sunrisers Leeds won by 8 wkts",
       "status": "Match Details"
     },
     {
