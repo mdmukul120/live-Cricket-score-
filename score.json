@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 07:20:23 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-07-28 10:02:58 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "SUL vs MSG - Preview",
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - SLW opt to bowl",
+      "title": "PAKW vs SLW - Need 27 to win",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -39,7 +39,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - SLW opt to bowl",
+      "score": "PAKW vs SLW - Need 27 to win",
       "status": "Match Details"
     },
     {
@@ -92,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Namibia vs Nepal 119th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nepal vs Netherlands 120th Match",
+      "team1": {
+        "name": "Nepal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Netherlands 120th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nepal vs Netherlands 120th Match",
       "status": "Match Details"
     },
     {
@@ -212,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Galle Gallants vs Kandy Royals 16th Match",
+      "team1": {
+        "name": "Galle Gallants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kandy Royals 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Galle Gallants vs Kandy Royals 16th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "San Francisco Unicorns vs Desert Vipers 7th Match",
       "team1": {
         "name": "San Francisco Unicorns",
@@ -238,29 +264,81 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Kent Group A",
+      "title": "Kent vs Lancashire Group A",
       "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent Group A",
+        "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lancashire vs Kent Group A",
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Lancashire Group A",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Leicestershire Group A",
+      "title": "Leicestershire vs Nottinghamshire Group A",
       "team1": {
-        "name": "Nottinghamshire",
+        "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire Group A",
+        "name": "Nottinghamshire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Leicestershire Group A",
+      "score": "Leicestershire vs Nottinghamshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Glamorgan Group B",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Durham vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Essex Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sussex vs Essex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Surrey Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Surrey Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warwickshire vs Surrey Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Worcestershire Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -420,55 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 106-7 (20) Romania ROM 107-3 (10.1) Romania won by 7 wkts",
+      "title": "7th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 96 (19.2) Austria AUT 99-3 (10) Austria won by 7 wkts",
       "team1": {
-        "name": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 106",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 96 (19.2) Austria AUT 99",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "7 (20) Romania ROM 107",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "3 (10) Austria won by 7 wkts",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 106-7 (20) Romania ROM 107-3 (10.1) Romania won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 151-7 (20) Desert Vipers DV 152-1 (16.1) Desert Vipers won by 9 wkts",
-      "team1": {
-        "name": "7th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 151",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "7 (20) Desert Vipers DV 152",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 151-7 (20) Desert Vipers DV 152-1 (16.1) Desert Vipers won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match •  Windhoek, Namibia Cricket Ground Uganda Women UGAW 147-4 (20) Namibia Women NAMW 148-4 (18.5) Namibia Women won by 6 wkts",
-      "team1": {
-        "name": "10th Match •  Windhoek, Namibia Cricket Ground Uganda Women UGAW 147",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "4 (20) Namibia Women NAMW 148",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "10th Match •  Windhoek, Namibia Cricket Ground Uganda Women UGAW 147-4 (20) Namibia Women NAMW 148-4 (18.5) Namibia Women won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Embrach, Embrach Cricket Ground Spain Women ESPW 127-6 (20) Jersey Women JERW 128-5 (13.5) Jersey Women won by 5 wkts",
-      "team1": {
-        "name": "2nd Match • Embrach, Embrach Cricket Ground Spain Women ESPW 127",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Jersey Women JERW 128",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Embrach, Embrach Cricket Ground Spain Women ESPW 127-6 (20) Jersey Women JERW 128-5 (13.5) Jersey Women won by 5 wkts",
+      "score": "7th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 96 (19.2) Austria AUT 99-3 (10) Austria won by 7 wkts",
       "status": "Match Details"
     }
   ]
