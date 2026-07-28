@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 04:29:45 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-07-28 07:20:23 UTC",
+  "total_matches": 36,
   "matches": [
-    {
-      "title": "SOU vs MIL - MIL won",
-      "team1": {
-        "name": "SOU",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MIL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SOU vs MIL - MIL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SOUW vs MILW - SOUW won",
-      "team1": {
-        "name": "SOUW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MILW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SOUW vs MILW - SOUW won",
-      "status": "Match Details"
-    },
     {
       "title": "SUL vs MSG - Preview",
       "team1": {
@@ -40,6 +14,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SUL vs MSG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SOU vs MIL - MIL won",
+      "team1": {
+        "name": "SOU",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOU vs MIL - MIL won",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "WI vs PAK - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "SULW vs MSGW - Preview",
+      "team1": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SULW vs MSGW - Preview",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Austria vs Israel 7th Match",
+      "title": "Israel vs Austria 7th Match",
       "team1": {
-        "name": "Austria",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Israel 7th Match",
+        "name": "Israel",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Austria vs Israel 7th Match",
+      "team2": {
+        "name": "Austria 7th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Israel vs Austria 7th Match",
       "status": "Match Details"
     },
     {
@@ -157,6 +157,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "France vs Austria 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Israel vs France 10th Match",
+      "team1": {
+        "name": "Israel",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "France 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Israel vs France 10th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women 3rd ODI",
+      "title": "Pakistan Women vs Sri Lanka Women LIVE 3rd ODI",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka Women 3rd ODI",
+        "name": "Sri Lanka Women LIVE 3rd ODI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women 3rd ODI",
+      "score": "Pakistan Women vs Sri Lanka Women LIVE 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -391,6 +404,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Brazil Women vs Jersey Women 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Switzerland Women vs Jersey Women Only T20I",
+      "team1": {
+        "name": "Switzerland Women",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Jersey Women Only T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Switzerland Women vs Jersey Women Only T20I",
       "status": "Match Details"
     },
     {
