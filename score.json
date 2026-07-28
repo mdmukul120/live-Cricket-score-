@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 21:51:00 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-07-28 22:53:39 UTC",
+  "total_matches": 43,
   "matches": [
     {
       "title": "WI vs PAK - WI won",
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "DV vs PRS XI - Preview",
+      "title": "PRS XI vs DV - DV opt to bowl",
       "team1": {
-        "name": "DV",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "PRS XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DV vs PRS XI - Preview",
+      "team2": {
+        "name": "DV",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PRS XI vs DV - DV opt to bowl",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Desert Vipers vs Perth Scorchers XI 8th Match",
+      "title": "Perth Scorchers XI vs Desert Vipers 8th Match",
       "team1": {
-        "name": "Desert Vipers",
+        "name": "Perth Scorchers XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Perth Scorchers XI 8th Match",
+        "name": "Desert Vipers 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Desert Vipers vs Perth Scorchers XI 8th Match",
+      "score": "Perth Scorchers XI vs Desert Vipers 8th Match",
       "status": "Match Details"
     },
     {
@@ -303,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Glamorgan Group B",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Durham vs Glamorgan Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Sussex vs Essex Group B",
       "team1": {
         "name": "Sussex",
@@ -352,6 +339,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Yorkshire vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Glamorgan Group B",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Durham vs Glamorgan Group B",
       "status": "Match Details"
     },
     {
@@ -524,19 +524,6 @@
       "status": "Match Details"
     },
     {
-      "title": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166-7 (20) Austria AUT 85 (14) France won by 81 runs",
-      "team1": {
-        "name": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Austria AUT 85 (14) France won by 81 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166-7 (20) Austria AUT 85 (14) France won by 81 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "10th Match • Leeds, Headingley 100 Manchester Super Giants MSG 181-3 (100 Balls) Sunrisers Leeds SUL 186-2 (88 Balls) Sunrisers Leeds won by 8 wkts",
       "team1": {
         "name": "10th Match • Leeds, Headingley 100 Manchester Super Giants MSG 181",
@@ -573,45 +560,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Group A • Farington, Farington Cricket Ground Kent KENT 223 (46.5) Lancashire LANCS 227-4 (47.5) Lancashire won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Nottingham, Trent Bridge Leicestershire LEIC 199 (48.2) Nottinghamshire NOTTS 200-5 (42.3) Nottinghamshire won by 5 wkts",
-      "team1": {
-        "name": "Group A • Nottingham, Trent Bridge Leicestershire LEIC 199 (48.2) Nottinghamshire NOTTS 200",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "5 (42.3) Nottinghamshire won by 5 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Nottingham, Trent Bridge Leicestershire LEIC 199 (48.2) Nottinghamshire NOTTS 200-5 (42.3) Nottinghamshire won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 142-4 (100 Balls) Manchester Super Giants Women MSGW 147-6 (96 Balls) Manchester Super Giants Women won by 4 wkts",
-      "team1": {
-        "name": "10th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 142",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (100 Balls) Manchester Super Giants Women MSGW 147",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "10th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 142-4 (100 Balls) Manchester Super Giants Women MSGW 147-6 (96 Balls) Manchester Super Giants Women won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Embrach, Embrach Cricket Ground Brazil Women BRAW 243-3 (20) Jersey Women JERW 156-7 (20) Brazil Women won by 87 runs",
-      "team1": {
-        "name": "4th Match • Embrach, Embrach Cricket Ground Brazil Women BRAW 243",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (20) Jersey Women JERW 156",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Embrach, Embrach Cricket Ground Brazil Women BRAW 243-3 (20) Jersey Women JERW 156-7 (20) Brazil Women won by 87 runs",
       "status": "Match Details"
     }
   ]
