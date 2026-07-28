@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 16:23:10 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-07-28 17:54:01 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "WI vs PAK - Lunch",
+      "title": "WI vs PAK - Need 152 to win",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,24 +13,24 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Lunch",
+      "score": "WI vs PAK - Need 152 to win",
       "status": "Match Details"
     },
     {
-      "title": "SUL vs MSG - Preview",
+      "title": "MSG vs SUL - SUL opt to bowl",
       "team1": {
-        "name": "SUL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs MSG - Preview",
+      "team2": {
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MSG vs SUL - SUL opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "SULW vs MSGW - Need 46 off 27b",
+      "title": "SULW vs MSGW - MSGW won",
       "team1": {
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs MSGW - Need 46 off 27b",
+      "score": "SULW vs MSGW - MSGW won",
       "status": "Match Details"
     },
     {
@@ -69,42 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan 1st Test",
+      "title": "West Indies vs Pakistan LIVE 1st Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan 1st Test",
+        "name": "Pakistan LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Namibia vs Nepal 119th Match",
-      "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 119th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Namibia vs Nepal 119th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nepal vs Netherlands 120th Match",
-      "team1": {
-        "name": "Nepal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Netherlands 120th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nepal vs Netherlands 120th Match",
+      "score": "West Indies vs Pakistan LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -134,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "France vs Austria LIVE 9th Match",
+      "title": "France vs Austria 9th Match",
       "team1": {
         "name": "France",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Austria LIVE 9th Match",
+        "name": "Austria 9th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "France vs Austria LIVE 9th Match",
+      "score": "France vs Austria 9th Match",
       "status": "Match Details"
     },
     {
@@ -173,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nepal vs Netherlands 120th Match",
+      "team1": {
+        "name": "Nepal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Netherlands 120th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nepal vs Netherlands 120th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Southern Brave vs MI London 9th Match",
       "team1": {
         "name": "Southern Brave",
@@ -186,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds vs Manchester Super Giants 10th Match",
+      "title": "Manchester Super Giants vs Sunrisers Leeds LIVE 10th Match",
       "team1": {
-        "name": "Sunrisers Leeds",
+        "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants 10th Match",
+        "name": "Sunrisers Leeds LIVE 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds vs Manchester Super Giants 10th Match",
+      "score": "Manchester Super Giants vs Sunrisers Leeds LIVE 10th Match",
       "status": "Match Details"
     },
     {
@@ -212,42 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Colombo Kaps LIVE 15th Match",
+      "title": "MI London vs London Spirit 12th Match",
       "team1": {
-        "name": "Jaffna Kings",
+        "name": "MI London",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Colombo Kaps LIVE 15th Match",
+        "name": "London Spirit 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Colombo Kaps LIVE 15th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Galle Gallants vs Kandy Royals 16th Match",
-      "team1": {
-        "name": "Galle Gallants",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kandy Royals 16th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Galle Gallants vs Kandy Royals 16th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Colombo Kaps vs Dambulla Sixers 17th Match",
-      "team1": {
-        "name": "Colombo Kaps",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dambulla Sixers 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Colombo Kaps vs Dambulla Sixers 17th Match",
+      "score": "MI London vs London Spirit 12th Match",
       "status": "Match Details"
     },
     {
@@ -290,29 +251,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Lancashire LIVE Group A",
+      "title": "Jaffna Kings vs Colombo Kaps 15th Match",
+      "team1": {
+        "name": "Jaffna Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Colombo Kaps 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jaffna Kings vs Colombo Kaps 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Galle Gallants vs Kandy Royals 16th Match",
+      "team1": {
+        "name": "Galle Gallants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kandy Royals 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Galle Gallants vs Kandy Royals 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Colombo Kaps vs Dambulla Sixers 17th Match",
+      "team1": {
+        "name": "Colombo Kaps",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dambulla Sixers 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Colombo Kaps vs Dambulla Sixers 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Lancashire Group A",
       "team1": {
         "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lancashire LIVE Group A",
+        "name": "Lancashire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Kent vs Lancashire LIVE Group A",
+      "score": "Kent vs Lancashire Group A",
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Nottinghamshire LIVE Group A",
+      "title": "Leicestershire vs Nottinghamshire Group A",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Nottinghamshire LIVE Group A",
+        "name": "Nottinghamshire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Leicestershire vs Nottinghamshire LIVE Group A",
+      "score": "Leicestershire vs Nottinghamshire Group A",
       "status": "Match Details"
     },
     {
@@ -368,29 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Southern Brave Women vs MI London Women 9th Match",
+      "title": "Pakistan Women vs Sri Lanka Women 3rd ODI",
       "team1": {
-        "name": "Southern Brave Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Pakistan Women",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "MI London Women 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Sri Lanka Women 3rd ODI",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Southern Brave Women vs MI London Women 9th Match",
+      "score": "Pakistan Women vs Sri Lanka Women 3rd ODI",
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 10th Match",
+      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women 10th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women LIVE 10th Match",
+        "name": "Manchester Super Giants Women 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 10th Match",
+      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women 10th Match",
       "status": "Match Details"
     },
     {
@@ -417,45 +417,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MI London Women vs London Spirit Women 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan Women vs Sri Lanka Women 3rd ODI",
-      "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Sri Lanka Women 3rd ODI",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Pakistan Women vs Sri Lanka Women 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China Women vs Namibia Women 11th Match",
-      "team1": {
-        "name": "Hong Kong, China Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Namibia Women 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China Women vs Namibia Women 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uganda Women vs Tanzania Women 12th Match",
-      "team1": {
-        "name": "Uganda Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tanzania Women 12th Match",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "Uganda Women vs Tanzania Women 12th Match",
       "status": "Match Details"
     },
     {
@@ -524,6 +485,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Hong Kong, China Women vs Namibia Women 11th Match",
+      "team1": {
+        "name": "Hong Kong, China Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Namibia Women 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China Women vs Namibia Women 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda Women vs Tanzania Women 12th Match",
+      "team1": {
+        "name": "Uganda Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tanzania Women 12th Match",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Uganda Women vs Tanzania Women 12th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Switzerland Women vs Jersey Women Only T20I",
       "team1": {
         "name": "Switzerland Women",
@@ -534,6 +521,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Switzerland Women vs Jersey Women Only T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166-7 (20) Austria AUT 85 (14) France won by 81 runs",
+      "team1": {
+        "name": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Austria AUT 85 (14) France won by 81 runs",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "9th Match • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166-7 (20) Austria AUT 85 (14) France won by 81 runs",
       "status": "Match Details"
     },
     {
@@ -550,16 +550,55 @@
       "status": "Match Details"
     },
     {
-      "title": "11th Match •  Windhoek, Namibia Cricket Ground Hong Kong, China Women HKC W 120-6 (20) Namibia Women NAMW 124-2 (13.4) Namibia Women won by 8 wkts",
+      "title": "15th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 202-5 (20) Colombo Kaps CLK 183-9 (20) Jaffna Kings won by 19 runs",
       "team1": {
-        "name": "11th Match •  Windhoek, Namibia Cricket Ground Hong Kong, China Women HKC W 120",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (20) Namibia Women NAMW 124",
+        "name": "15th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 202",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "11th Match •  Windhoek, Namibia Cricket Ground Hong Kong, China Women HKC W 120-6 (20) Namibia Women NAMW 124-2 (13.4) Namibia Women won by 8 wkts",
+      "team2": {
+        "name": "5 (20) Colombo Kaps CLK 183",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "15th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 202-5 (20) Colombo Kaps CLK 183-9 (20) Jaffna Kings won by 19 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Farington, Farington Cricket Ground Kent KENT 223 (46.5) Lancashire LANCS 227-4 (47.5) Lancashire won by 6 wkts",
+      "team1": {
+        "name": "Group A • Farington, Farington Cricket Ground Kent KENT 223 (46.5) Lancashire LANCS 227",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (47.5) Lancashire won by 6 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Farington, Farington Cricket Ground Kent KENT 223 (46.5) Lancashire LANCS 227-4 (47.5) Lancashire won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Nottingham, Trent Bridge Leicestershire LEIC 199 (48.2) Nottinghamshire NOTTS 200-5 (42.3) Nottinghamshire won by 5 wkts",
+      "team1": {
+        "name": "Group A • Nottingham, Trent Bridge Leicestershire LEIC 199 (48.2) Nottinghamshire NOTTS 200",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "5 (42.3) Nottinghamshire won by 5 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Nottingham, Trent Bridge Leicestershire LEIC 199 (48.2) Nottinghamshire NOTTS 200-5 (42.3) Nottinghamshire won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 142-4 (100 Balls) Manchester Super Giants Women MSGW 147-6 (96 Balls) Manchester Super Giants Women won by 4 wkts",
+      "team1": {
+        "name": "10th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 142",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (100 Balls) Manchester Super Giants Women MSGW 147",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Leeds, Headingley 100 Sunrisers Leeds Women SULW 142-4 (100 Balls) Manchester Super Giants Women MSGW 147-6 (96 Balls) Manchester Super Giants Women won by 4 wkts",
       "status": "Match Details"
     },
     {
@@ -573,19 +612,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th Match • Embrach, Embrach Cricket Ground Brazil Women BRAW 243-3 (20) Jersey Women JERW 156-7 (20) Brazil Women won by 87 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 189-5 (20) Spain Women ESPW 190-2 (17.4) Spain Women won by 8 wkts",
-      "team1": {
-        "name": "3rd Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 189",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "5 (20) Spain Women ESPW 190",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 189-5 (20) Spain Women ESPW 190-2 (17.4) Spain Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
