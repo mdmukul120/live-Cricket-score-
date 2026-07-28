@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 10:02:58 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-07-28 12:08:33 UTC",
+  "total_matches": 42,
   "matches": [
+    {
+      "title": "WI vs PAK - Stumps",
+      "team1": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "WI vs PAK - Stumps",
+      "status": "Match Details"
+    },
     {
       "title": "SUL vs MSG - Preview",
       "team1": {
@@ -30,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - Need 27 to win",
+      "title": "PAKW vs SLW - SLW won",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -39,20 +52,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - Need 27 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "WI vs PAK - Stumps",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "WI vs PAK - Stumps",
+      "score": "PAKW vs SLW - SLW won",
       "status": "Match Details"
     },
     {
@@ -105,19 +105,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nepal vs Netherlands 120th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "France vs Turkey 5th Match",
-      "team1": {
-        "name": "France",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Turkey 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "France vs Turkey 5th Match",
       "status": "Match Details"
     },
     {
@@ -183,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Israel vs France 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC Semi Final 1",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Semi Final 1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Semi Final 1",
       "status": "Match Details"
     },
     {
@@ -264,29 +264,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Lancashire Group A",
+      "title": "Kent vs Lancashire LIVE Group A",
       "team1": {
         "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lancashire Group A",
+        "name": "Lancashire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Kent vs Lancashire Group A",
+      "score": "Kent vs Lancashire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Nottinghamshire Group A",
+      "title": "Leicestershire vs Nottinghamshire LIVE Group A",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Nottinghamshire Group A",
+        "name": "Nottinghamshire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Leicestershire vs Nottinghamshire Group A",
+      "score": "Leicestershire vs Nottinghamshire LIVE Group A",
       "status": "Match Details"
     },
     {
@@ -368,29 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women LIVE 3rd ODI",
+      "title": "Welsh Fire Women vs Trent Rockets Women 11th Match",
+      "team1": {
+        "name": "Welsh Fire Women",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Trent Rockets Women 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Welsh Fire Women vs Trent Rockets Women 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan Women vs Sri Lanka Women 3rd ODI",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka Women LIVE 3rd ODI",
+        "name": "Sri Lanka Women 3rd ODI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women LIVE 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Tanzania Women vs Hong Kong, China Women 9th Match",
-      "team1": {
-        "name": "Tanzania Women",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Hong Kong, China Women 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tanzania Women vs Hong Kong, China Women 9th Match",
+      "score": "Pakistan Women vs Sri Lanka Women 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia Women vs Hong Kong, China Women 11th Match",
+      "title": "Hong Kong, China Women vs Namibia Women 11th Match",
       "team1": {
-        "name": "Namibia Women",
+        "name": "Hong Kong, China Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hong Kong, China Women 11th Match",
+        "name": "Namibia Women 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Namibia Women vs Hong Kong, China Women 11th Match",
+      "score": "Hong Kong, China Women vs Namibia Women 11th Match",
       "status": "Match Details"
     },
     {
@@ -430,19 +430,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Tanzania Women vs Uganda Women 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Switzerland Women vs Jersey Women 1st Match",
-      "team1": {
-        "name": "Switzerland Women",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Jersey Women 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Switzerland Women vs Jersey Women 1st Match",
       "status": "Match Details"
     },
     {
@@ -485,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Brazil Women vs Spain Women 5th Match",
+      "team1": {
+        "name": "Brazil Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain Women 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil Women vs Spain Women 5th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Switzerland Women vs Jersey Women Only T20I",
       "team1": {
         "name": "Switzerland Women",
@@ -508,6 +508,45 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "7th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 96 (19.2) Austria AUT 99-3 (10) Austria won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 187 (40) Sri Lanka Women SLW 191-2 (37.2) Sri Lanka Women won by 8 wkts",
+      "team1": {
+        "name": "3rd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 187 (40) Sri Lanka Women SLW 191",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "2 (37.2) Sri Lanka Women won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "3rd ODI • Hambantota, Mahinda Rajapaksa International Stadium Pakistan Women PAKW 187 (40) Sri Lanka Women SLW 191-2 (37.2) Sri Lanka Women won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match •  Windhoek, Namibia Cricket Ground Hong Kong, China Women HKC W 120-6 (20) Namibia Women NAMW 124-2 (13.4) Namibia Women won by 8 wkts",
+      "team1": {
+        "name": "11th Match •  Windhoek, Namibia Cricket Ground Hong Kong, China Women HKC W 120",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "6 (20) Namibia Women NAMW 124",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match •  Windhoek, Namibia Cricket Ground Hong Kong, China Women HKC W 120-6 (20) Namibia Women NAMW 124-2 (13.4) Namibia Women won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 189-5 (20) Spain Women ESPW 190-2 (17.4) Spain Women won by 8 wkts",
+      "team1": {
+        "name": "3rd Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 189",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "5 (20) Spain Women ESPW 190",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 189-5 (20) Spain Women ESPW 190-2 (17.4) Spain Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
