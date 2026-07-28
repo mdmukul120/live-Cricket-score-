@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 01:09:44 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-07-28 04:29:45 UTC",
+  "total_matches": 34,
   "matches": [
-    {
-      "title": "WI vs PAK - Stumps",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "WI vs PAK - Stumps",
-      "status": "Match Details"
-    },
     {
       "title": "SOU vs MIL - MIL won",
       "team1": {
@@ -27,19 +14,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SOU vs MIL - MIL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NAM vs NEP - NAM won",
-      "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NAM vs NEP - NAM won",
       "status": "Match Details"
     },
     {
@@ -56,16 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "SFU vs DV - Need 101 to win",
+      "title": "SUL vs MSG - Preview",
       "team1": {
-        "name": "SFU",
+        "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "DV",
+        "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SFU vs DV - Need 101 to win",
+      "score": "SUL vs MSG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAKW vs SLW - SLW opt to bowl",
+      "team1": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAKW vs SLW - SLW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "WI vs PAK - Stumps",
+      "team1": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "WI vs PAK - Stumps",
       "status": "Match Details"
     },
     {
@@ -199,29 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs Lahore Qalandars 6th Match",
-      "team1": {
-        "name": "Guyana Amazon Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lahore Qalandars 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Guyana Amazon Warriors vs Lahore Qalandars 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "San Francisco Unicorns vs Desert Vipers LIVE 7th Match",
+      "title": "San Francisco Unicorns vs Desert Vipers 7th Match",
       "team1": {
         "name": "San Francisco Unicorns",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Desert Vipers LIVE 7th Match",
+        "name": "Desert Vipers 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "San Francisco Unicorns vs Desert Vipers LIVE 7th Match",
+      "score": "San Francisco Unicorns vs Desert Vipers 7th Match",
       "status": "Match Details"
     },
     {
@@ -290,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs Pakistan Women 3rd ODI",
+      "title": "Pakistan Women vs Sri Lanka Women 3rd ODI",
       "team1": {
-        "name": "Sri Lanka Women",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Pakistan Women 3rd ODI",
+        "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Sri Lanka Women vs Pakistan Women 3rd ODI",
+      "team2": {
+        "name": "Sri Lanka Women 3rd ODI",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan Women vs Sri Lanka Women 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -407,16 +394,55 @@
       "status": "Match Details"
     },
     {
-      "title": "9th Match • Southampton, The Rose Bowl 100 Southern Brave SOU 129-9 (100 Balls) MI London MIL 130-7 (100 Balls) MI London won by 3 wkts",
+      "title": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 106-7 (20) Romania ROM 107-3 (10.1) Romania won by 7 wkts",
       "team1": {
-        "name": "9th Match • Southampton, The Rose Bowl 100 Southern Brave SOU 129",
+        "name": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 106",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (100 Balls) MI London MIL 130",
+        "name": "7 (20) Romania ROM 107",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "9th Match • Southampton, The Rose Bowl 100 Southern Brave SOU 129-9 (100 Balls) MI London MIL 130-7 (100 Balls) MI London won by 3 wkts",
+      "score": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 106-7 (20) Romania ROM 107-3 (10.1) Romania won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "7th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 151-7 (20) Desert Vipers DV 152-1 (16.1) Desert Vipers won by 9 wkts",
+      "team1": {
+        "name": "7th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 151",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "7 (20) Desert Vipers DV 152",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "7th Match • Guyana, Providence Stadium San Francisco Unicorns SFU 151-7 (20) Desert Vipers DV 152-1 (16.1) Desert Vipers won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match •  Windhoek, Namibia Cricket Ground Uganda Women UGAW 147-4 (20) Namibia Women NAMW 148-4 (18.5) Namibia Women won by 6 wkts",
+      "team1": {
+        "name": "10th Match •  Windhoek, Namibia Cricket Ground Uganda Women UGAW 147",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "4 (20) Namibia Women NAMW 148",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match •  Windhoek, Namibia Cricket Ground Uganda Women UGAW 147-4 (20) Namibia Women NAMW 148-4 (18.5) Namibia Women won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Embrach, Embrach Cricket Ground Spain Women ESPW 127-6 (20) Jersey Women JERW 128-5 (13.5) Jersey Women won by 5 wkts",
+      "team1": {
+        "name": "2nd Match • Embrach, Embrach Cricket Ground Spain Women ESPW 127",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Jersey Women JERW 128",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Embrach, Embrach Cricket Ground Spain Women ESPW 127-6 (20) Jersey Women JERW 128-5 (13.5) Jersey Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
