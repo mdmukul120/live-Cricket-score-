@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-29 13:22:48 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-07-29 15:28:39 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "WEF vs TRE - TRE opt to bowl",
+      "title": "WEF vs TRE - Innings Break",
       "team1": {
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,11 +13,11 @@
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WEF vs TRE - TRE opt to bowl",
+      "score": "WEF vs TRE - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "NED vs NEP - Innings Break",
+      "title": "NED vs NEP - Need 122 to win",
       "team1": {
         "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "NEP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NED vs NEP - Innings Break",
+      "score": "NED vs NEP - Need 122 to win",
       "status": "Match Details"
     },
     {
-      "title": "MILW vs LDNW - Preview",
+      "title": "MILW vs LDNW - Innings Break",
       "team1": {
         "name": "MILW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MILW vs LDNW - Preview",
+      "score": "MILW vs LDNW - Innings Break",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "WI vs PAK - WI won",
+      "title": "LHQ vs SFU - Innings Break",
       "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "LHQ",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "SFU",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WI vs PAK - WI won",
+      "score": "LHQ vs SFU - Innings Break",
       "status": "Match Details"
     },
     {
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "West Indies vs Pakistan 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Turkey vs Israel 8th Match",
-      "team1": {
-        "name": "Turkey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Israel 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Turkey vs Israel 8th Match",
       "status": "Match Details"
     },
     {
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Semi Final 1",
+      "title": "Turkey vs France Semi Final 1",
       "team1": {
-        "name": "TBC",
+        "name": "Turkey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Semi Final 1",
+        "name": "France Semi Final 1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC Semi Final 1",
+      "score": "Turkey vs France Semi Final 1",
       "status": "Match Details"
     },
     {
@@ -160,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Netherlands vs Nepal 120th Match",
+      "title": "Netherlands vs Nepal LIVE 120th Match",
       "team1": {
         "name": "Netherlands",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal 120th Match",
+        "name": "Nepal LIVE 120th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Netherlands vs Nepal 120th Match",
+      "score": "Netherlands vs Nepal LIVE 120th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +264,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Dambulla Sixers 17th Match",
+      "title": "Dambulla Sixers vs Colombo Kaps LIVE 17th Match",
       "team1": {
-        "name": "Colombo Kaps",
+        "name": "Dambulla Sixers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dambulla Sixers 17th Match",
+        "name": "Colombo Kaps LIVE 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Colombo Kaps vs Dambulla Sixers 17th Match",
+      "score": "Dambulla Sixers vs Colombo Kaps LIVE 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jaffna Kings vs Kandy Royals 18th Match",
+      "team1": {
+        "name": "Jaffna Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kandy Royals 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jaffna Kings vs Kandy Royals 18th Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Durham Group B",
+      "title": "Glamorgan vs Durham LIVE Group B",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Durham Group B",
+        "name": "Durham LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Durham Group B",
+      "score": "Glamorgan vs Durham LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -368,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Yorkshire Group B",
+      "title": "Worcestershire vs Yorkshire LIVE Group B",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Yorkshire Group B",
+        "name": "Yorkshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Yorkshire Group B",
+      "score": "Worcestershire vs Yorkshire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -433,6 +433,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Southern Brave Women vs Birmingham Phoenix Women 13th Match",
+      "team1": {
+        "name": "Southern Brave Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Birmingham Phoenix Women 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Southern Brave Women vs Birmingham Phoenix Women 13th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Argentina Women vs Canada Women 1st T20I",
       "team1": {
         "name": "Argentina Women",
@@ -443,19 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Argentina Women vs Canada Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Brazil Women vs Jersey Women 4th Match",
-      "team1": {
-        "name": "Brazil Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jersey Women 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brazil Women vs Jersey Women 4th Match",
       "status": "Match Details"
     },
     {
@@ -560,6 +560,19 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "Jersey Women vs Switzerland Women Only T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 130-6 (20) France FRA 131-4 (14.3) France won by 6 wkts",
+      "team1": {
+        "name": "10th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 130",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) France FRA 131",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Ilfov County, Moara Vlasiei Cricket Ground Israel ISR 130-6 (20) France FRA 131-4 (14.3) France won by 6 wkts",
       "status": "Match Details"
     },
     {
