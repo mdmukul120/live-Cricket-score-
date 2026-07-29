@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-29 11:37:00 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-07-29 13:22:48 UTC",
+  "total_matches": 46,
   "matches": [
     {
-      "title": "WEF vs TRE - Preview",
+      "title": "WEF vs TRE - TRE opt to bowl",
       "team1": {
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,11 +13,11 @@
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WEF vs TRE - Preview",
+      "score": "WEF vs TRE - TRE opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "NED vs NEP - NEP opt to bowl",
+      "title": "NED vs NEP - Innings Break",
       "team1": {
         "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,33 +26,20 @@
         "name": "NEP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NED vs NEP - NEP opt to bowl",
+      "score": "NED vs NEP - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "WELW vs TREW - TREW opt to bowl",
+      "title": "MILW vs LDNW - Preview",
       "team1": {
-        "name": "WELW",
+        "name": "MILW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TREW",
+        "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WELW vs TREW - TREW opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "WI vs PAK - WI won",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "WI vs PAK - WI won",
+      "score": "MILW vs LDNW - Preview",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MIL vs LDN - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "WI vs PAK - WI won",
+      "team1": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "WI vs PAK - WI won",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Netherlands vs Nepal LIVE 120th Match",
+      "title": "Netherlands vs Nepal 120th Match",
       "team1": {
         "name": "Netherlands",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal LIVE 120th Match",
+        "name": "Nepal 120th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Netherlands vs Nepal LIVE 120th Match",
+      "score": "Netherlands vs Nepal 120th Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Kandy Royals LIVE 16th Match",
+      "title": "Galle Gallants vs Kandy Royals 16th Match",
       "team1": {
         "name": "Galle Gallants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kandy Royals LIVE 16th Match",
+        "name": "Kandy Royals 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Galle Gallants vs Kandy Royals LIVE 16th Match",
+      "score": "Galle Gallants vs Kandy Royals 16th Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Durham LIVE Group B",
+      "title": "Glamorgan vs Durham Group B",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Durham LIVE Group B",
+        "name": "Durham Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Durham LIVE Group B",
+      "score": "Glamorgan vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -368,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Yorkshire LIVE Group B",
+      "title": "Worcestershire vs Yorkshire Group B",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Yorkshire LIVE Group B",
+        "name": "Yorkshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Yorkshire LIVE Group B",
+      "score": "Worcestershire vs Yorkshire Group B",
       "status": "Match Details"
     },
     {
@@ -394,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women 3rd ODI",
-      "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Sri Lanka Women 3rd ODI",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Pakistan Women vs Sri Lanka Women 3rd ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Sunrisers Leeds Women vs Manchester Super Giants Women 10th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
@@ -420,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs Trent Rockets Women LIVE 11th Match",
+      "title": "Welsh Fire Women vs Trent Rockets Women 11th Match",
       "team1": {
         "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Trent Rockets Women LIVE 11th Match",
+        "name": "Trent Rockets Women 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire Women vs Trent Rockets Women LIVE 11th Match",
+      "score": "Welsh Fire Women vs Trent Rockets Women 11th Match",
       "status": "Match Details"
     },
     {
@@ -511,6 +498,19 @@
       "status": "Match Details"
     },
     {
+      "title": "TBC vs TBC Final",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Final",
+      "status": "Match Details"
+    },
+    {
       "title": "Uganda Women vs Tanzania Women 12th Match",
       "team1": {
         "name": "Uganda Women",
@@ -537,16 +537,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Switzerland Women vs Jersey Women Only T20I",
+      "title": "Namibia Women vs Uganda Women Final",
       "team1": {
-        "name": "Switzerland Women",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Jersey Women Only T20I",
+        "name": "Namibia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Switzerland Women vs Jersey Women Only T20I",
+      "team2": {
+        "name": "Uganda Women Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Namibia Women vs Uganda Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jersey Women vs Switzerland Women Only T20I",
+      "team1": {
+        "name": "Jersey Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Switzerland Women Only T20I",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Jersey Women vs Switzerland Women Only T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "16th Match • Pallekele, Pallekele International Cricket Stadium Galle Gallants GAG 208-3 (20) Kandy Royals KRL 214-4 (18.5) Kandy Royals won by 6 wkts",
+      "team1": {
+        "name": "16th Match • Pallekele, Pallekele International Cricket Stadium Galle Gallants GAG 208",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (20) Kandy Royals KRL 214",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "16th Match • Pallekele, Pallekele International Cricket Stadium Galle Gallants GAG 208-3 (20) Kandy Royals KRL 214-4 (18.5) Kandy Royals won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 129-3 (100 Balls) Trent Rockets Women TREW 132-2 (83 Balls) Trent Rockets Women won by 8 wkts",
+      "team1": {
+        "name": "11th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 129",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "3 (100 Balls) Trent Rockets Women TREW 132",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 129-3 (100 Balls) Trent Rockets Women TREW 132-2 (83 Balls) Trent Rockets Women won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Only T20I • Embrach, Embrach Cricket Ground Jersey Women JERW 206-5 (20) Switzerland Women SUIW 140-8 (20) Jersey Women won by 66 runs",
+      "team1": {
+        "name": "Only T20I • Embrach, Embrach Cricket Ground Jersey Women JERW 206",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Switzerland Women SUIW 140",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Only T20I • Embrach, Embrach Cricket Ground Jersey Women JERW 206-5 (20) Switzerland Women SUIW 140-8 (20) Jersey Women won by 66 runs",
       "status": "Match Details"
     }
   ]
