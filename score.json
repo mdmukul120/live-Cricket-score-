@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-07-29 09:17:08 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-07-29 11:37:00 UTC",
+  "total_matches": 42,
   "matches": [
-    {
-      "title": "WI vs PAK - WI won",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "WI vs PAK - WI won",
-      "status": "Match Details"
-    },
     {
       "title": "WEF vs TRE - Preview",
       "team1": {
@@ -30,33 +17,20 @@
       "status": "Match Details"
     },
     {
-      "title": "MSG vs SUL - SUL won",
+      "title": "NED vs NEP - NEP opt to bowl",
       "team1": {
-        "name": "MSG",
+        "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SUL",
+        "name": "NEP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs SUL - SUL won",
+      "score": "NED vs NEP - NEP opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "PRS XI vs DV - DV won",
-      "team1": {
-        "name": "PRS XI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DV",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PRS XI vs DV - DV won",
-      "status": "Match Details"
-    },
-    {
-      "title": "WELW vs TREW - Preview",
+      "title": "WELW vs TREW - TREW opt to bowl",
       "team1": {
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +39,33 @@
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WELW vs TREW - Preview",
+      "score": "WELW vs TREW - TREW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "WI vs PAK - WI won",
+      "team1": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "WI vs PAK - WI won",
+      "status": "Match Details"
+    },
+    {
+      "title": "MIL vs LDN - Preview",
+      "team1": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LDN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MIL vs LDN - Preview",
       "status": "Match Details"
     },
     {
@@ -144,6 +144,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TBC vs TBC Semi Final 2",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC Final",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Final",
       "status": "Match Details"
     },
     {
@@ -251,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Kandy Royals 16th Match",
+      "title": "Galle Gallants vs Kandy Royals LIVE 16th Match",
       "team1": {
         "name": "Galle Gallants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kandy Royals 16th Match",
+        "name": "Kandy Royals LIVE 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Galle Gallants vs Kandy Royals 16th Match",
+      "score": "Galle Gallants vs Kandy Royals LIVE 16th Match",
       "status": "Match Details"
     },
     {
@@ -274,6 +287,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Colombo Kaps vs Dambulla Sixers 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lankan Lions vs Afghanistan Pathans 1st Match",
+      "team1": {
+        "name": "Sri Lankan Lions",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Afghanistan Pathans 1st Match",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Sri Lankan Lions vs Afghanistan Pathans 1st Match",
       "status": "Match Details"
     },
     {
@@ -303,55 +329,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Glamorgan Group B",
+      "title": "Glamorgan vs Durham LIVE Group B",
       "team1": {
-        "name": "Durham",
+        "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Glamorgan Group B",
+        "name": "Durham LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Glamorgan Group B",
+      "score": "Glamorgan vs Durham LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Essex Group B",
+      "title": "Essex vs Sussex LIVE Group B",
       "team1": {
-        "name": "Sussex",
+        "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex Group B",
+        "name": "Sussex LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sussex vs Essex Group B",
+      "score": "Essex vs Sussex LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Warwickshire vs Surrey Group A",
+      "title": "Warwickshire vs Surrey LIVE Group A",
       "team1": {
         "name": "Warwickshire",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "Surrey Group A",
+        "name": "Surrey LIVE Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Warwickshire vs Surrey Group A",
+      "score": "Warwickshire vs Surrey LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Worcestershire Group B",
+      "title": "Worcestershire vs Yorkshire LIVE Group B",
       "team1": {
-        "name": "Yorkshire",
+        "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Worcestershire Group B",
+        "name": "Yorkshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Worcestershire Group B",
+      "score": "Worcestershire vs Yorkshire LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Nottinghamshire Group A",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Nottinghamshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Lancashire vs Nottinghamshire Group A",
       "status": "Match Details"
     },
     {
@@ -381,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs Trent Rockets Women 11th Match",
+      "title": "Welsh Fire Women vs Trent Rockets Women LIVE 11th Match",
       "team1": {
         "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Trent Rockets Women 11th Match",
+        "name": "Trent Rockets Women LIVE 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire Women vs Trent Rockets Women 11th Match",
+      "score": "Welsh Fire Women vs Trent Rockets Women LIVE 11th Match",
       "status": "Match Details"
     },
     {
@@ -417,19 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Argentina Women vs Canada Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Switzerland Women vs Spain Women 3rd Match",
-      "team1": {
-        "name": "Switzerland Women",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Spain Women 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Switzerland Women vs Spain Women 3rd Match",
       "status": "Match Details"
     },
     {
@@ -482,19 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TBC vs TBC 3rd place play-off",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China Women vs Namibia Women 11th Match",
-      "team1": {
-        "name": "Hong Kong, China Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Namibia Women 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China Women vs Namibia Women 11th Match",
       "status": "Match Details"
     },
     {
