@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-29 06:16:08 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-07-29 09:17:08 UTC",
+  "total_matches": 41,
   "matches": [
     {
       "title": "WI vs PAK - WI won",
@@ -82,19 +82,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Israel vs Austria 7th Match",
-      "team1": {
-        "name": "Israel",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Austria 7th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Israel vs Austria 7th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Turkey vs Israel 8th Match",
       "team1": {
         "name": "Turkey",
@@ -147,16 +134,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Nepal vs Netherlands 120th Match",
+      "title": "TBC vs TBC Semi Final 2",
       "team1": {
-        "name": "Nepal",
+        "name": "TBC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Netherlands 120th Match",
+        "name": "TBC Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nepal vs Netherlands 120th Match",
+      "score": "TBC vs TBC Semi Final 2",
+      "status": "Match Details"
+    },
+    {
+      "title": "Netherlands vs Nepal LIVE 120th Match",
+      "team1": {
+        "name": "Netherlands",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal LIVE 120th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Netherlands vs Nepal LIVE 120th Match",
       "status": "Match Details"
     },
     {
@@ -472,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "TBC vs TBC 3rd place play-off",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC 3rd place play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC 3rd place play-off",
+      "status": "Match Details"
+    },
+    {
       "title": "Hong Kong, China Women vs Namibia Women 11th Match",
       "team1": {
         "name": "Hong Kong, China Women",
@@ -498,6 +511,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Hong Kong, China Women vs Tanzania Women 3rd Place Play-off",
+      "team1": {
+        "name": "Hong Kong, China Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tanzania Women 3rd Place Play",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Hong Kong, China Women vs Tanzania Women 3rd Place Play-off",
+      "status": "Match Details"
+    },
+    {
       "title": "Switzerland Women vs Jersey Women Only T20I",
       "team1": {
         "name": "Switzerland Women",
@@ -508,19 +534,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Switzerland Women vs Jersey Women Only T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "8th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 112-6 (20) Desert Vipers DV 116-9 (19.5) Desert Vipers won by 1 wkt",
-      "team1": {
-        "name": "8th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 112",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Desert Vipers DV 116",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "8th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 112-6 (20) Desert Vipers DV 116-9 (19.5) Desert Vipers won by 1 wkt",
       "status": "Match Details"
     }
   ]
