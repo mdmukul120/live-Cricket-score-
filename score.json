@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-28 23:57:57 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-07-29 03:28:56 UTC",
+  "total_matches": 40,
   "matches": [
     {
       "title": "WI vs PAK - WI won",
@@ -14,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "WI vs PAK - WI won",
+      "status": "Match Details"
+    },
+    {
+      "title": "WEF vs TRE - Preview",
+      "team1": {
+        "name": "WEF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TRE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WEF vs TRE - Preview",
       "status": "Match Details"
     },
     {
@@ -30,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PRS XI vs DV - DV opt to bowl",
+      "title": "PRS XI vs DV - DV won",
       "team1": {
         "name": "PRS XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,20 +52,7 @@
         "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PRS XI vs DV - DV opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "WEF vs TRE - Preview",
-      "team1": {
-        "name": "WEF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WEF vs TRE - Preview",
+      "score": "PRS XI vs DV - DV won",
       "status": "Match Details"
     },
     {
@@ -199,29 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "San Francisco Unicorns vs Desert Vipers 7th Match",
-      "team1": {
-        "name": "San Francisco Unicorns",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Desert Vipers 7th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "San Francisco Unicorns vs Desert Vipers 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Perth Scorchers XI vs Desert Vipers LIVE 8th Match",
+      "title": "Perth Scorchers XI vs Desert Vipers 8th Match",
       "team1": {
         "name": "Perth Scorchers XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Desert Vipers LIVE 8th Match",
+        "name": "Desert Vipers 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Perth Scorchers XI vs Desert Vipers LIVE 8th Match",
+      "score": "Perth Scorchers XI vs Desert Vipers 8th Match",
       "status": "Match Details"
     },
     {
@@ -524,29 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Test • Tarouba, Trinidad, Brian Lara Stadium West Indies WI 311 & 181 Pakistan PAK 282 & 120 West Indies won by 90 runs",
+      "title": "8th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 112-6 (20) Desert Vipers DV 116-9 (19.5) Desert Vipers won by 1 wkt",
       "team1": {
-        "name": "1st Test • Tarouba, Trinidad, Brian Lara Stadium West Indies WI 311 & 181 Pakistan PAK 282 & 120 West Indies won by 90 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Test • Tarouba, Trinidad, Brian Lara Stadium West Indies WI 311 & 181 Pakistan PAK 282 & 120 West Indies won by 90 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Leeds, Headingley 100 Manchester Super Giants MSG 181-3 (100 Balls) Sunrisers Leeds SUL 186-2 (88 Balls) Sunrisers Leeds won by 8 wkts",
-      "team1": {
-        "name": "10th Match • Leeds, Headingley 100 Manchester Super Giants MSG 181",
+        "name": "8th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 112",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (100 Balls) Sunrisers Leeds SUL 186",
+        "name": "6 (20) Desert Vipers DV 116",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "10th Match • Leeds, Headingley 100 Manchester Super Giants MSG 181-3 (100 Balls) Sunrisers Leeds SUL 186-2 (88 Balls) Sunrisers Leeds won by 8 wkts",
+      "score": "8th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 112-6 (20) Desert Vipers DV 116-9 (19.5) Desert Vipers won by 1 wkt",
       "status": "Match Details"
     }
   ]
