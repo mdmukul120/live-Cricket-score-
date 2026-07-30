@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 18:40:38 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-07-30 20:06:34 UTC",
+  "total_matches": 42,
   "matches": [
     {
-      "title": "SOU vs BRM - BRM opt to bowl",
+      "title": "SOU vs BRM - Need 23 off 7b",
       "team1": {
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOU vs BRM - BRM opt to bowl",
+      "score": "SOU vs BRM - Need 23 off 7b",
       "status": "Match Details"
     },
     {
@@ -264,6 +264,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Glamorgan Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Hampshire Group B",
       "team1": {
         "name": "Essex",
@@ -329,19 +342,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Glamorgan Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Glamorgan Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Gloucestershire vs Surrey Group A",
       "team1": {
         "name": "Gloucestershire",
@@ -394,45 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Spain Women vs Switzerland Women 3rd place play-off",
-      "team1": {
-        "name": "Spain Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Switzerland Women 3rd place play",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Spain Women vs Switzerland Women 3rd place play-off",
-      "status": "Match Details"
-    },
-    {
-      "title": "Brazil Women vs Jersey Women Final",
-      "team1": {
-        "name": "Brazil Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jersey Women Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brazil Women vs Jersey Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Canada Women vs Argentina Women 1st T20I",
-      "team1": {
-        "name": "Canada Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Argentina Women 1st T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Canada Women vs Argentina Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Argentina Women vs Canada Women 2nd T20I",
       "team1": {
         "name": "Argentina Women",
@@ -456,6 +417,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Argentina Women vs Canada Women 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Spain Women vs Switzerland Women 3rd place play-off",
+      "team1": {
+        "name": "Spain Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Switzerland Women 3rd place play",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Spain Women vs Switzerland Women 3rd place play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Brazil Women vs Jersey Women Final",
+      "team1": {
+        "name": "Brazil Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jersey Women Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil Women vs Jersey Women Final",
       "status": "Match Details"
     },
     {
@@ -495,32 +482,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uganda Women vs Namibia Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166-8 (20) Romania ROM 162-7 (20) France won by 4 runs",
-      "team1": {
-        "name": "Final • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Romania ROM 162",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Final • Ilfov County, Moara Vlasiei Cricket Ground France FRA 166-8 (20) Romania ROM 162-7 (20) France won by 4 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Semi Final 2 • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 99 (17.3) Romania ROM 102-4 (11.4) Romania won by 6 wkts",
-      "team1": {
-        "name": "Semi Final 2 • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 99 (17.3) Romania ROM 102",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "4 (11.4) Romania won by 6 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Semi Final 2 • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 99 (17.3) Romania ROM 102-4 (11.4) Romania won by 6 wkts",
       "status": "Match Details"
     },
     {
@@ -586,32 +547,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Final • Windhoek, High Performance Oval Uganda Women UGAW 146-3 (20) Namibia Women NAMW 129-6 (20) Uganda Women won by 17 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Place Play-off • Windhoek, High Performance Oval Hong Kong, China Women HKC W 116-4 (20) Tanzania Women TANW 117-3 (16.5) Tanzania Women won by 7 wkts",
-      "team1": {
-        "name": "3rd Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "off • Windhoek, High Performance Oval Hong Kong, China Women HKC W 116",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "3rd Place Play-off • Windhoek, High Performance Oval Hong Kong, China Women HKC W 116-4 (20) Tanzania Women TANW 117-3 (16.5) Tanzania Women won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd place play-off • Embrach, Embrach Cricket Ground Spain Women ESPW 232-2 (20) Switzerland Women SUIW 156-2 (20) Spain Women won by 76 runs",
-      "team1": {
-        "name": "3rd place play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "off • Embrach, Embrach Cricket Ground Spain Women ESPW 232",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd place play-off • Embrach, Embrach Cricket Ground Spain Women ESPW 232-2 (20) Switzerland Women SUIW 156-2 (20) Spain Women won by 76 runs",
       "status": "Match Details"
     }
   ]
