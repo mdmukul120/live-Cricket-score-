@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 20:06:34 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-07-30 21:21:26 UTC",
+  "total_matches": 40,
   "matches": [
     {
-      "title": "SOU vs BRM - Need 23 off 7b",
+      "title": "SOU vs BRM - SOU won",
       "team1": {
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOU vs BRM - Need 23 off 7b",
+      "score": "SOU vs BRM - SOU won",
       "status": "Match Details"
     },
     {
@@ -69,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan 1st Test",
-      "team1": {
-        "name": "West Indies",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Pakistan 1st Test",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "West Indies vs Pakistan 1st Test",
-      "status": "Match Details"
-    },
-    {
       "title": "Austria vs Romania Semi Final 2",
       "team1": {
         "name": "Austria",
@@ -134,29 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London vs London Spirit 12th Match",
-      "team1": {
-        "name": "MI London",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "London Spirit 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MI London vs London Spirit 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Southern Brave vs Birmingham Phoenix LIVE 13th Match",
+      "title": "Southern Brave vs Birmingham Phoenix 13th Match",
       "team1": {
         "name": "Southern Brave",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix LIVE 13th Match",
+        "name": "Birmingham Phoenix 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Southern Brave vs Birmingham Phoenix LIVE 13th Match",
+      "score": "Southern Brave vs Birmingham Phoenix 13th Match",
       "status": "Match Details"
     },
     {
@@ -485,6 +459,19 @@
       "status": "Match Details"
     },
     {
+      "title": "13th Match • Southampton, The Rose Bowl 100 Southern Brave SOU 128-8 (100 Balls) Birmingham Phoenix BRM 116-9 (100 Balls) Southern Brave won by 12 runs",
+      "team1": {
+        "name": "13th Match • Southampton, The Rose Bowl 100 Southern Brave SOU 128",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (100 Balls) Birmingham Phoenix BRM 116",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "13th Match • Southampton, The Rose Bowl 100 Southern Brave SOU 128-8 (100 Balls) Birmingham Phoenix BRM 116-9 (100 Balls) Southern Brave won by 12 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "18th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 221-6 (20) Kandy Royals KRL 200 (20) Jaffna Kings won by 21 runs",
       "team1": {
         "name": "18th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 221",
@@ -534,19 +521,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "13th Match • Southampton, The Rose Bowl 100 Southern Brave Women SOUW 140-3 (100 Balls) Birmingham Phoenix Women BRMW 116-5 (100 Balls) Southern Brave Women won by 24 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Windhoek, High Performance Oval Uganda Women UGAW 146-3 (20) Namibia Women NAMW 129-6 (20) Uganda Women won by 17 runs",
-      "team1": {
-        "name": "Final • Windhoek, High Performance Oval Uganda Women UGAW 146",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "3 (20) Namibia Women NAMW 129",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Final • Windhoek, High Performance Oval Uganda Women UGAW 146-3 (20) Namibia Women NAMW 129-6 (20) Uganda Women won by 17 runs",
       "status": "Match Details"
     }
   ]
