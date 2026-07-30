@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 15:24:22 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-07-30 17:01:10 UTC",
+  "total_matches": 57,
   "matches": [
     {
-      "title": "SOU vs BRM - Preview",
+      "title": "SOU vs BRM - BRM opt to bowl",
       "team1": {
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,11 +13,11 @@
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOU vs BRM - Preview",
+      "score": "SOU vs BRM - BRM opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "SOUW vs BRMW - Innings Break",
+      "title": "SOUW vs BRMW - SOUW won",
       "team1": {
         "name": "SOUW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "BRMW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOUW vs BRMW - Innings Break",
+      "score": "SOUW vs BRMW - SOUW won",
       "status": "Match Details"
     },
     {
-      "title": "JKS vs KRL - KRL opt to bowl",
+      "title": "JKS vs KRL - Need 84 off 44b",
       "team1": {
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,33 +39,33 @@
         "name": "KRL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKS vs KRL - KRL opt to bowl",
+      "score": "JKS vs KRL - Need 84 off 44b",
       "status": "Match Details"
     },
     {
-      "title": "SLLS vs AFGP - Need 54 off 31b",
+      "title": "SLW vs PAKW - Preview",
       "team1": {
-        "name": "SLLS",
+        "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "AFGP",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "SLLS vs AFGP - Need 54 off 31b",
+      "score": "SLW vs PAKW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "LANCS vs NOTTS - Need 141 to win",
+      "title": "NED vs NAM - Preview",
       "team1": {
-        "name": "LANCS",
+        "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "NOTTS",
+        "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LANCS vs NOTTS - Need 141 to win",
+      "score": "NED vs NAM - Preview",
       "status": "Match Details"
     },
     {
@@ -118,19 +118,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kenya vs Bahrain 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Netherlands vs Nepal 120th Match",
-      "team1": {
-        "name": "Netherlands",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 120th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Netherlands vs Nepal 120th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lankan Lions vs Afghanistan Pathans LIVE 1st Match",
+      "title": "Central Delhi Kings vs Purani Dilli 6 1st Match",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Purani Dilli 6 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs Purani Dilli 6 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lankan Lions vs Afghanistan Pathans 1st Match",
       "team1": {
         "name": "Sri Lankan Lions",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Afghanistan Pathans LIVE 1st Match",
+        "name": "Afghanistan Pathans 1st Match",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Sri Lankan Lions vs Afghanistan Pathans LIVE 1st Match",
+      "score": "Sri Lankan Lions vs Afghanistan Pathans 1st Match",
       "status": "Match Details"
     },
     {
@@ -342,32 +342,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Middlesex Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Worcestershire vs Middlesex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Durham Group B",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Durham Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Derbyshire vs Glamorgan Group B",
       "team1": {
         "name": "Derbyshire",
@@ -417,6 +391,32 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Northamptonshire vs Leicestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Middlesex Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Worcestershire vs Middlesex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Durham Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -511,6 +511,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Argentina Women vs Canada Women 3rd T20I",
+      "team1": {
+        "name": "Argentina Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canada Women 3rd T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Argentina Women vs Canada Women 3rd T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Switzerland Women vs Brazil Women 6th Match",
       "team1": {
         "name": "Switzerland Women",
@@ -576,16 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda Women vs Namibia Women LIVE Final",
+      "title": "Uganda Women vs Namibia Women Final",
       "team1": {
         "name": "Uganda Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Namibia Women LIVE Final",
+        "name": "Namibia Women Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda Women vs Namibia Women LIVE Final",
+      "score": "Uganda Women vs Namibia Women Final",
       "status": "Match Details"
     },
     {
@@ -628,6 +641,45 @@
       "status": "Match Details"
     },
     {
+      "title": "1st Match • Lusaka, Lotus Sports Club Ground Sri Lankan Lions SLLS 153-6 (20) Afghanistan Pathans AFGP 138-6 (20) Sri Lankan Lions won by 15 runs",
+      "team1": {
+        "name": "1st Match • Lusaka, Lotus Sports Club Ground Sri Lankan Lions SLLS 153",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "6 (20) Afghanistan Pathans AFGP 138",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "1st Match • Lusaka, Lotus Sports Club Ground Sri Lankan Lions SLLS 153-6 (20) Afghanistan Pathans AFGP 138-6 (20) Sri Lankan Lions won by 15 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "13th Match • Southampton, The Rose Bowl 100 Southern Brave Women SOUW 140-3 (100 Balls) Birmingham Phoenix Women BRMW 116-5 (100 Balls) Southern Brave Women won by 24 runs",
+      "team1": {
+        "name": "13th Match • Southampton, The Rose Bowl 100 Southern Brave Women SOUW 140",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (100 Balls) Birmingham Phoenix Women BRMW 116",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "13th Match • Southampton, The Rose Bowl 100 Southern Brave Women SOUW 140-3 (100 Balls) Birmingham Phoenix Women BRMW 116-5 (100 Balls) Southern Brave Women won by 24 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Windhoek, High Performance Oval Uganda Women UGAW 146-3 (20) Namibia Women NAMW 129-6 (20) Uganda Women won by 17 runs",
+      "team1": {
+        "name": "Final • Windhoek, High Performance Oval Uganda Women UGAW 146",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "3 (20) Namibia Women NAMW 129",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Windhoek, High Performance Oval Uganda Women UGAW 146-3 (20) Namibia Women NAMW 129-6 (20) Uganda Women won by 17 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "3rd Place Play-off • Windhoek, High Performance Oval Hong Kong, China Women HKC W 116-4 (20) Tanzania Women TANW 117-3 (16.5) Tanzania Women won by 7 wkts",
       "team1": {
         "name": "3rd Place Play",
@@ -638,19 +690,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "3rd Place Play-off • Windhoek, High Performance Oval Hong Kong, China Women HKC W 116-4 (20) Tanzania Women TANW 117-3 (16.5) Tanzania Women won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74-4 (20) Argentina Women ARGW 75-9 (18.4) Argentina Women won by 1 wkt",
-      "team1": {
-        "name": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "4 (20) Argentina Women ARGW 75",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74-4 (20) Argentina Women ARGW 75-9 (18.4) Argentina Women won by 1 wkt",
       "status": "Match Details"
     },
     {
@@ -690,6 +729,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "5th Match • Embrach, Embrach Cricket Ground Spain Women ESPW 142-5 (20) Brazil Women BRAW 143-4 (10.1) Brazil Women won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74-4 (20) Argentina Women ARGW 75-9 (18.4) Argentina Women won by 1 wkt",
+      "team1": {
+        "name": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (20) Argentina Women ARGW 75",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74-4 (20) Argentina Women ARGW 75-9 (18.4) Argentina Women won by 1 wkt",
       "status": "Match Details"
     }
   ]
