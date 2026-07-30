@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 11:28:40 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-07-30 13:10:33 UTC",
+  "total_matches": 54,
   "matches": [
     {
       "title": "SOU vs BRM - Preview",
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Austria vs Romania LIVE Semi Final 2",
+      "title": "Austria vs Romania Semi Final 2",
       "team1": {
         "name": "Austria",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Romania LIVE Semi Final 2",
+        "name": "Romania Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Austria vs Romania LIVE Semi Final 2",
+      "score": "Austria vs Romania Semi Final 2",
       "status": "Match Details"
     },
     {
@@ -225,19 +225,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Kandy Royals 16th Match",
-      "team1": {
-        "name": "Galle Gallants",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kandy Royals 16th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Galle Gallants vs Kandy Royals 16th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Dambulla Sixers vs Colombo Kaps 17th Match",
       "team1": {
         "name": "Dambulla Sixers",
@@ -290,29 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Warwickshire vs Surrey Group A",
+      "title": "Indian Royals vs Bangladesh Tigers 3rd Match",
       "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "Indian Royals",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Surrey Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Bangladesh Tigers 3rd Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Warwickshire vs Surrey Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Yorkshire Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Yorkshire Group B",
+      "score": "Indian Royals vs Bangladesh Tigers 3rd Match",
       "status": "Match Details"
     },
     {
@@ -342,6 +316,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Warwickshire vs Surrey Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Surrey Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warwickshire vs Surrey Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Yorkshire Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Lancashire vs Nottinghamshire LIVE Group A",
       "team1": {
         "name": "Lancashire",
@@ -352,6 +352,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Lancashire vs Nottinghamshire LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Durham Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -420,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Durham Group B",
+      "title": "Gloucestershire vs Surrey Group A",
       "team1": {
-        "name": "Yorkshire",
+        "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Durham Group B",
+        "name": "Surrey Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Yorkshire vs Durham Group B",
+      "score": "Gloucestershire vs Surrey Group A",
       "status": "Match Details"
     },
     {
@@ -589,16 +602,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia Women vs Uganda Women Final",
+      "title": "Uganda Women vs Namibia Women Final",
       "team1": {
-        "name": "Namibia Women",
+        "name": "Uganda Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Uganda Women Final",
+        "name": "Namibia Women Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Namibia Women vs Uganda Women Final",
+      "score": "Uganda Women vs Namibia Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Semi Final 2 • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 99 (17.3) Romania ROM 102-4 (11.4) Romania won by 6 wkts",
+      "team1": {
+        "name": "Semi Final 2 • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 99 (17.3) Romania ROM 102",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "4 (11.4) Romania won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Semi Final 2 • Ilfov County, Moara Vlasiei Cricket Ground Austria AUT 99 (17.3) Romania ROM 102-4 (11.4) Romania won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Semi Final 1 • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 75 (16.4) France FRA 79-3 (8.2) France won by 7 wkts",
+      "team1": {
+        "name": "Semi Final 1 • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 75 (16.4) France FRA 79",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (8.2) France won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Semi Final 1 • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 75 (16.4) France FRA 79-3 (8.2) France won by 7 wkts",
       "status": "Match Details"
     },
     {
@@ -612,6 +651,58 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "3rd Place Play-off • Windhoek, High Performance Oval Hong Kong, China Women HKC W 116-4 (20) Tanzania Women TANW 117-3 (16.5) Tanzania Women won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74-4 (20) Argentina Women ARGW 75-9 (18.4) Argentina Women won by 1 wkt",
+      "team1": {
+        "name": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (20) Argentina Women ARGW 75",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74-4 (20) Argentina Women ARGW 75-9 (18.4) Argentina Women won by 1 wkt",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd place play-off • Embrach, Embrach Cricket Ground Spain Women ESPW 232-2 (20) Switzerland Women SUIW 156-2 (20) Spain Women won by 76 runs",
+      "team1": {
+        "name": "3rd place play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "off • Embrach, Embrach Cricket Ground Spain Women ESPW 232",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd place play-off • Embrach, Embrach Cricket Ground Spain Women ESPW 232-2 (20) Switzerland Women SUIW 156-2 (20) Spain Women won by 76 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "6th Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 76 (18.3) Brazil Women BRAW 80-4 (8.2) Brazil Women won by 6 wkts",
+      "team1": {
+        "name": "6th Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 76 (18.3) Brazil Women BRAW 80",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "4 (8.2) Brazil Women won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 76 (18.3) Brazil Women BRAW 80-4 (8.2) Brazil Women won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Embrach, Embrach Cricket Ground Spain Women ESPW 142-5 (20) Brazil Women BRAW 143-4 (10.1) Brazil Women won by 6 wkts",
+      "team1": {
+        "name": "5th Match • Embrach, Embrach Cricket Ground Spain Women ESPW 142",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Brazil Women BRAW 143",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Embrach, Embrach Cricket Ground Spain Women ESPW 142-5 (20) Brazil Women BRAW 143-4 (10.1) Brazil Women won by 6 wkts",
       "status": "Match Details"
     }
   ]
