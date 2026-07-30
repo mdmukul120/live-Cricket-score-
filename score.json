@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 17:01:10 UTC",
-  "total_matches": 57,
+  "last_updated": "2026-07-30 18:40:38 UTC",
+  "total_matches": 47,
   "matches": [
     {
       "title": "SOU vs BRM - BRM opt to bowl",
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "JKS vs KRL - Need 84 off 44b",
+      "title": "JKS vs KRL - JKS won",
       "team1": {
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "KRL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKS vs KRL - Need 84 off 44b",
+      "score": "JKS vs KRL - JKS won",
       "status": "Match Details"
     },
     {
@@ -134,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire vs Trent Rockets 11th Match",
-      "team1": {
-        "name": "Welsh Fire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Trent Rockets 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Welsh Fire vs Trent Rockets 11th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "MI London vs London Spirit 12th Match",
       "team1": {
         "name": "MI London",
@@ -160,29 +147,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Southern Brave vs Birmingham Phoenix 13th Match",
+      "title": "Southern Brave vs Birmingham Phoenix LIVE 13th Match",
       "team1": {
         "name": "Southern Brave",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix 13th Match",
+        "name": "Birmingham Phoenix LIVE 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Southern Brave vs Birmingham Phoenix 13th Match",
+      "score": "Southern Brave vs Birmingham Phoenix LIVE 13th Match",
       "status": "Match Details"
     },
     {
-      "title": "Lahore Qalandars vs San Francisco Unicorns 9th Match",
+      "title": "Manchester Super Giants vs Trent Rockets 14th Match",
       "team1": {
-        "name": "Lahore Qalandars",
+        "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "San Francisco Unicorns 9th Match",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Trent Rockets 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lahore Qalandars vs San Francisco Unicorns 9th Match",
+      "score": "Manchester Super Giants vs Trent Rockets 14th Match",
       "status": "Match Details"
     },
     {
@@ -199,29 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dambulla Sixers vs Colombo Kaps 17th Match",
-      "team1": {
-        "name": "Dambulla Sixers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Colombo Kaps 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Dambulla Sixers vs Colombo Kaps 17th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jaffna Kings vs Kandy Royals LIVE 18th Match",
+      "title": "Jaffna Kings vs Kandy Royals 18th Match",
       "team1": {
         "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kandy Royals LIVE 18th Match",
+        "name": "Kandy Royals 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Kandy Royals LIVE 18th Match",
+      "score": "Jaffna Kings vs Kandy Royals 18th Match",
       "status": "Match Details"
     },
     {
@@ -277,81 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Durham Group B",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Durham Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Sussex Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Essex vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Surrey Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Surrey Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warwickshire vs Surrey Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Yorkshire Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lancashire vs Nottinghamshire LIVE Group A",
+      "title": "Lancashire vs Nottinghamshire Group A",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Nottinghamshire LIVE Group A",
+        "name": "Nottinghamshire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Lancashire vs Nottinghamshire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Glamorgan Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Glamorgan Group B",
+      "score": "Lancashire vs Nottinghamshire Group A",
       "status": "Match Details"
     },
     {
@@ -420,6 +329,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Glamorgan Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Gloucestershire vs Surrey Group A",
       "team1": {
         "name": "Gloucestershire",
@@ -446,19 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London Women vs London Spirit Women 12th Match",
-      "team1": {
-        "name": "MI London Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "London Spirit Women 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MI London Women vs London Spirit Women 12th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Southern Brave Women vs Birmingham Phoenix Women 13th Match",
       "team1": {
         "name": "Southern Brave Women",
@@ -482,6 +391,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Manchester Super Giants Women vs Trent Rockets Women 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Spain Women vs Switzerland Women 3rd place play-off",
+      "team1": {
+        "name": "Spain Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Switzerland Women 3rd place play",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Spain Women vs Switzerland Women 3rd place play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Brazil Women vs Jersey Women Final",
+      "team1": {
+        "name": "Brazil Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jersey Women Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil Women vs Jersey Women Final",
       "status": "Match Details"
     },
     {
@@ -521,45 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Argentina Women vs Canada Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Switzerland Women vs Brazil Women 6th Match",
-      "team1": {
-        "name": "Switzerland Women",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Brazil Women 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Switzerland Women vs Brazil Women 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Spain Women vs Switzerland Women 3rd place play-off",
-      "team1": {
-        "name": "Spain Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Switzerland Women 3rd place play",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Spain Women vs Switzerland Women 3rd place play-off",
-      "status": "Match Details"
-    },
-    {
-      "title": "Brazil Women vs Jersey Women Final",
-      "team1": {
-        "name": "Brazil Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jersey Women Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brazil Women vs Jersey Women Final",
       "status": "Match Details"
     },
     {
@@ -628,16 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Semi Final 1 • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 75 (16.4) France FRA 79-3 (8.2) France won by 7 wkts",
+      "title": "18th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 221-6 (20) Kandy Royals KRL 200 (20) Jaffna Kings won by 21 runs",
       "team1": {
-        "name": "Semi Final 1 • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 75 (16.4) France FRA 79",
+        "name": "18th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 221",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (8.2) France won by 7 wkts",
+        "name": "6 (20) Kandy Royals KRL 200 (20) Jaffna Kings won by 21 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Semi Final 1 • Ilfov County, Moara Vlasiei Cricket Ground Turkey TKY 75 (16.4) France FRA 79-3 (8.2) France won by 7 wkts",
+      "score": "18th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 221-6 (20) Kandy Royals KRL 200 (20) Jaffna Kings won by 21 runs",
       "status": "Match Details"
     },
     {
@@ -651,6 +547,19 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "1st Match • Lusaka, Lotus Sports Club Ground Sri Lankan Lions SLLS 153-6 (20) Afghanistan Pathans AFGP 138-6 (20) Sri Lankan Lions won by 15 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Preston, Farington Cricket Ground Lancashire LANCS 220 (49.1) Nottinghamshire NOTTS 189 (47.1) Lancashire won by 31 runs",
+      "team1": {
+        "name": "Group A • Preston, Farington Cricket Ground Lancashire LANCS 220 (49.1) Nottinghamshire NOTTS 189 (47.1) Lancashire won by 31 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group A • Preston, Farington Cricket Ground Lancashire LANCS 220 (49.1) Nottinghamshire NOTTS 189 (47.1) Lancashire won by 31 runs",
       "status": "Match Details"
     },
     {
@@ -703,45 +612,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd place play-off • Embrach, Embrach Cricket Ground Spain Women ESPW 232-2 (20) Switzerland Women SUIW 156-2 (20) Spain Women won by 76 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 76 (18.3) Brazil Women BRAW 80-4 (8.2) Brazil Women won by 6 wkts",
-      "team1": {
-        "name": "6th Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 76 (18.3) Brazil Women BRAW 80",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "4 (8.2) Brazil Women won by 6 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Embrach, Embrach Cricket Ground Switzerland Women SUIW 76 (18.3) Brazil Women BRAW 80-4 (8.2) Brazil Women won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Embrach, Embrach Cricket Ground Spain Women ESPW 142-5 (20) Brazil Women BRAW 143-4 (10.1) Brazil Women won by 6 wkts",
-      "team1": {
-        "name": "5th Match • Embrach, Embrach Cricket Ground Spain Women ESPW 142",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Brazil Women BRAW 143",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Embrach, Embrach Cricket Ground Spain Women ESPW 142-5 (20) Brazil Women BRAW 143-4 (10.1) Brazil Women won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74-4 (20) Argentina Women ARGW 75-9 (18.4) Argentina Women won by 1 wkt",
-      "team1": {
-        "name": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "4 (20) Argentina Women ARGW 75",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 74-4 (20) Argentina Women ARGW 75-9 (18.4) Argentina Women won by 1 wkt",
       "status": "Match Details"
     }
   ]
