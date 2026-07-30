@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 22:34:55 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-07-30 23:39:38 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "SOU vs BRM - SOU won",
@@ -160,6 +160,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
+      "team1": {
+        "name": "Desert Vipers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "San Francisco Unicorns Qualifier 1 (2v3)",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
+      "status": "Match Details"
+    },
+    {
       "title": "Jaffna Kings vs Kandy Royals 18th Match",
       "team1": {
         "name": "Jaffna Kings",
@@ -238,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Yorkshire vs Durham Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Durham Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Derbyshire vs Glamorgan Group B",
       "team1": {
         "name": "Derbyshire",
@@ -300,19 +326,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Worcestershire vs Middlesex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Durham Group B",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -469,32 +482,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "13th Match • Southampton, The Rose Bowl 100 Southern Brave SOU 128-8 (100 Balls) Birmingham Phoenix BRM 116-9 (100 Balls) Southern Brave won by 12 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "18th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 221-6 (20) Kandy Royals KRL 200 (20) Jaffna Kings won by 21 runs",
-      "team1": {
-        "name": "18th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 221",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Kandy Royals KRL 200 (20) Jaffna Kings won by 21 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "18th Match • Pallekele, Pallekele International Cricket Stadium Jaffna Kings JKS 221-6 (20) Kandy Royals KRL 200 (20) Jaffna Kings won by 21 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Preston, Farington Cricket Ground Lancashire LANCS 220 (49.1) Nottinghamshire NOTTS 189 (47.1) Lancashire won by 31 runs",
-      "team1": {
-        "name": "Group A • Preston, Farington Cricket Ground Lancashire LANCS 220 (49.1) Nottinghamshire NOTTS 189 (47.1) Lancashire won by 31 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group A • Preston, Farington Cricket Ground Lancashire LANCS 220 (49.1) Nottinghamshire NOTTS 189 (47.1) Lancashire won by 31 runs",
       "status": "Match Details"
     }
   ]
