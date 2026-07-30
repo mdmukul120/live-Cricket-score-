@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 06:46:29 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-07-30 09:23:06 UTC",
+  "total_matches": 41,
   "matches": [
     {
       "title": "MIL vs LDN - LDN won",
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "France vs TBC Final",
+      "title": "France vs Romania Final",
       "team1": {
         "name": "France",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Final",
+        "name": "Romania Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "France vs TBC Final",
+      "score": "France vs Romania Final",
       "status": "Match Details"
     },
     {
@@ -144,6 +144,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Netherlands vs Nepal 120th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Netherlands vs Namibia 121st Match",
+      "team1": {
+        "name": "Netherlands",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Namibia 121st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Netherlands vs Namibia 121st Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +274,19 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Sri Lankan Lions vs Afghanistan Pathans 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan Panthers vs Asian Stars 2nd Match",
+      "team1": {
+        "name": "Pakistan Panthers",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Asian Stars 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pakistan Panthers vs Asian Stars 2nd Match",
       "status": "Match Details"
     },
     {
@@ -459,6 +485,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Switzerland Women vs Spain Women Only T20I",
+      "team1": {
+        "name": "Switzerland Women",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Spain Women Only T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Switzerland Women vs Spain Women Only T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Hong Kong, China Women vs Tanzania Women 3rd Place Play-off",
       "team1": {
         "name": "Hong Kong, China Women",
@@ -495,19 +534,6 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "Jersey Women vs Switzerland Women Only T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 135 (20) Guyana Amazon Warriors GAW 121 (16.1) Perth Scorchers XI won by 14 runs",
-      "team1": {
-        "name": "10th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 135 (20) Guyana Amazon Warriors GAW 121 (16.1) Perth Scorchers XI won by 14 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "10th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 135 (20) Guyana Amazon Warriors GAW 121 (16.1) Perth Scorchers XI won by 14 runs",
       "status": "Match Details"
     }
   ]
