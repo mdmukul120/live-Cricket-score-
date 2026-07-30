@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 01:04:07 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-07-30 04:16:15 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "MIL vs LDN - LDN won",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PRS XI vs GAW - Need 123 to win",
+      "title": "PRS XI vs GAW - PRS XI won",
       "team1": {
         "name": "PRS XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,20 +26,7 @@
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PRS XI vs GAW - Need 123 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "WEF vs TRE - TRE won",
-      "team1": {
-        "name": "WEF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WEF vs TRE - TRE won",
+      "score": "PRS XI vs GAW - PRS XI won",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "NED vs NEP - NED won",
+      "title": "SOU vs BRM - Preview",
       "team1": {
-        "name": "NED",
+        "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "NEP",
+        "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NED vs NEP - NED won",
+      "score": "SOU vs BRM - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SOUW vs BRMW - Preview",
+      "team1": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BRMW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOUW vs BRMW - Preview",
       "status": "Match Details"
     },
     {
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Perth Scorchers XI vs Desert Vipers 8th Match",
-      "team1": {
-        "name": "Perth Scorchers XI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Desert Vipers 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Perth Scorchers XI vs Desert Vipers 8th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Lahore Qalandars vs San Francisco Unicorns 9th Match",
       "team1": {
         "name": "Lahore Qalandars",
@@ -212,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Perth Scorchers XI vs Guyana Amazon Warriors LIVE 10th Match",
+      "title": "Perth Scorchers XI vs Guyana Amazon Warriors 10th Match",
       "team1": {
         "name": "Perth Scorchers XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors LIVE 10th Match",
+        "name": "Guyana Amazon Warriors 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Perth Scorchers XI vs Guyana Amazon Warriors LIVE 10th Match",
+      "score": "Perth Scorchers XI vs Guyana Amazon Warriors 10th Match",
       "status": "Match Details"
     },
     {
@@ -498,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "12th Match • London, Kennington Oval 100 MI London MIL 164-5 (100 Balls) London Spirit LDN 165-3 (89 Balls) London Spirit won by 7 wkts",
+      "title": "10th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 135 (20) Guyana Amazon Warriors GAW 121 (16.1) Perth Scorchers XI won by 14 runs",
       "team1": {
-        "name": "12th Match • London, Kennington Oval 100 MI London MIL 164",
+        "name": "10th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 135 (20) Guyana Amazon Warriors GAW 121 (16.1) Perth Scorchers XI won by 14 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (100 Balls) London Spirit LDN 165",
+        "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "12th Match • London, Kennington Oval 100 MI London MIL 164-5 (100 Balls) London Spirit LDN 165-3 (89 Balls) London Spirit won by 7 wkts",
+      "score": "10th Match • Guyana, Providence Stadium Perth Scorchers XI PRS XI 135 (20) Guyana Amazon Warriors GAW 121 (16.1) Perth Scorchers XI won by 14 runs",
       "status": "Match Details"
     }
   ]
