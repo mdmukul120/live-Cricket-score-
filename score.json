@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-31 18:16:41 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-07-31 19:58:09 UTC",
+  "total_matches": 46,
   "matches": [
     {
-      "title": "MSG vs TRE - TRE opt to bowl",
+      "title": "MSG vs TRE - Need 36 off 36b",
       "team1": {
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs TRE - TRE opt to bowl",
+      "score": "MSG vs TRE - Need 36 off 36b",
       "status": "Match Details"
     },
     {
@@ -433,19 +433,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Canada Women vs Argentina Women 2nd T20I",
-      "team1": {
-        "name": "Canada Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Argentina Women 2nd T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Canada Women vs Argentina Women 2nd T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Argentina Women vs Canada Women 3rd T20I",
       "team1": {
         "name": "Argentina Women",
@@ -485,19 +472,6 @@
       "status": "Match Details"
     },
     {
-      "title": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159-4 (20) Kenya KEN 144-8 (20) Bahrain won by 15 runs",
-      "team1": {
-        "name": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (20) Kenya KEN 144",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159-4 (20) Kenya KEN 144-8 (20) Bahrain won by 15 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "121st Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 183 (48.5) Namibia NAM 186-4 (41) Namibia won by 6 wkts",
       "team1": {
         "name": "121st Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 183 (48.5) Namibia NAM 186",
@@ -521,6 +495,32 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "3rd Match • Lusaka, Lotus Sports Club Ground Indian Royals IR 135-7 (20) Bangladesh Tigers BT 116-6 (20) Indian Royals won by 19 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248-2 (38.5) Leicestershire won by 8 wkts",
+      "team1": {
+        "name": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "2 (38.5) Leicestershire won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248-2 (38.5) Leicestershire won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Worcester, New Road Middlesex MDX 293-7 (50) Worcestershire WORCS 294-6 (48.4) Worcestershire won by 4 wkts",
+      "team1": {
+        "name": "Group B • Worcester, New Road Middlesex MDX 293",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Worcestershire WORCS 294",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Worcester, New Road Middlesex MDX 293-7 (50) Worcestershire WORCS 294-6 (48.4) Worcestershire won by 4 wkts",
       "status": "Match Details"
     },
     {
@@ -573,32 +573,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Group B • Chelmsford, County Ground Essex ESS 317 (49) Hampshire HAM 321-7 (47.4) Hampshire won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248-2 (38.5) Leicestershire won by 8 wkts",
-      "team1": {
-        "name": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "2 (38.5) Leicestershire won by 8 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248-2 (38.5) Leicestershire won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Worcester, New Road Middlesex MDX 293-7 (50) Worcestershire WORCS 294-6 (48.4) Worcestershire won by 4 wkts",
-      "team1": {
-        "name": "Group B • Worcester, New Road Middlesex MDX 293",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (50) Worcestershire WORCS 294",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group B • Worcester, New Road Middlesex MDX 293-7 (50) Worcestershire WORCS 294-6 (48.4) Worcestershire won by 4 wkts",
       "status": "Match Details"
     },
     {
