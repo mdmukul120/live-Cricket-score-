@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-31 04:47:37 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-07-31 07:41:16 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "SOU vs BRM - SOU won",
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - SLW opt to bowl",
+      "title": "PAKW vs SLW - Need 31 off 24b",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -52,7 +52,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - SLW opt to bowl",
+      "score": "PAKW vs SLW - Need 31 off 24b",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Panthers vs Asian Stars 2nd Match",
+      "title": "Asian Stars vs Pakistan Panthers 2nd Match",
       "team1": {
-        "name": "Pakistan Panthers",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Asian Stars 2nd Match",
+        "name": "Asian Stars",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pakistan Panthers vs Asian Stars 2nd Match",
+      "team2": {
+        "name": "Pakistan Panthers 2nd Match",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Asian Stars vs Pakistan Panthers 2nd Match",
       "status": "Match Details"
     },
     {
@@ -225,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Afghanistan Pathans vs Asian Stars 4th Match",
+      "team1": {
+        "name": "Afghanistan Pathans",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Asian Stars 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Afghanistan Pathans vs Asian Stars 4th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Lancashire vs Nottinghamshire Group A",
       "team1": {
         "name": "Lancashire",
@@ -235,6 +248,32 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Lancashire vs Nottinghamshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Middlesex Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Worcestershire vs Middlesex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Durham Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -287,32 +326,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Northamptonshire vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Middlesex Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Worcestershire vs Middlesex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Durham Group B",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -407,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Brazil Women vs Jersey Women Final",
+      "title": "Brazil Women vs Spain Women Final",
       "team1": {
         "name": "Brazil Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jersey Women Final",
+        "name": "Spain Women Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Brazil Women vs Jersey Women Final",
+      "score": "Brazil Women vs Spain Women Final",
       "status": "Match Details"
     },
     {
@@ -456,6 +469,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uganda Women vs Namibia Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124-6 (20) Brazil Women won by 86 runs",
+      "team1": {
+        "name": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Brazil Women won by 86 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124-6 (20) Brazil Women won by 86 runs",
       "status": "Match Details"
     },
     {
