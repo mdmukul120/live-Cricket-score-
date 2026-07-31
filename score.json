@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-31 12:24:52 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-07-31 15:00:09 UTC",
+  "total_matches": 44,
   "matches": [
     {
       "title": "MSG vs TRE - Preview",
@@ -17,20 +17,20 @@
       "status": "Match Details"
     },
     {
-      "title": "MSGW vs TREW - Preview",
+      "title": "TREW vs MSGW - MSGW opt to bowl",
       "team1": {
-        "name": "MSGW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSGW vs TREW - Preview",
+      "team2": {
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TREW vs MSGW - MSGW opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "NED vs NAM - NED opt to bat",
+      "title": "NED vs NAM - Need 61 to win",
       "team1": {
         "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NED vs NAM - NED opt to bat",
+      "score": "NED vs NAM - Need 61 to win",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MDX vs WORCS - WORCS opt to bowl",
+      "title": "MDX vs WORCS - Need 256 to win",
       "team1": {
         "name": "MDX",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "WORCS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDX vs WORCS - WORCS opt to bowl",
+      "score": "MDX vs WORCS - Need 256 to win",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kenya vs Bahrain 1st T20I",
+      "title": "Bahrain vs Kenya 1st T20I",
       "team1": {
-        "name": "Kenya",
+        "name": "Bahrain",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bahrain 1st T20I",
+        "name": "Kenya 1st T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kenya vs Bahrain 1st T20I",
+      "score": "Bahrain vs Kenya 1st T20I",
       "status": "Match Details"
     },
     {
@@ -147,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Birmingham Phoenix vs Welsh Fire 15th Match",
+      "team1": {
+        "name": "Birmingham Phoenix",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Welsh Fire 15th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Birmingham Phoenix vs Welsh Fire 15th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
       "team1": {
         "name": "Desert Vipers",
@@ -170,6 +183,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Jaffna Kings vs Kandy Royals 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Colombo Kaps vs Galle Gallants 19th Match",
+      "team1": {
+        "name": "Colombo Kaps",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Galle Gallants 19th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Colombo Kaps vs Galle Gallants 19th Match",
       "status": "Match Details"
     },
     {
@@ -199,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lankan Lions vs Afghanistan Pathans 1st Match",
+      "title": "West Delhi Lions vs New Delhi Tigers 3rd Match",
       "team1": {
-        "name": "Sri Lankan Lions",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "West Delhi Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Afghanistan Pathans 1st Match",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "New Delhi Tigers 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sri Lankan Lions vs Afghanistan Pathans 1st Match",
+      "score": "West Delhi Lions vs New Delhi Tigers 3rd Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Indian Royals vs Bangladesh Tigers 3rd Match",
+      "title": "Indian Royals vs Bangladesh Tigers LIVE 3rd Match",
       "team1": {
         "name": "Indian Royals",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Bangladesh Tigers 3rd Match",
+        "name": "Bangladesh Tigers LIVE 3rd Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Indian Royals vs Bangladesh Tigers 3rd Match",
+      "score": "Indian Royals vs Bangladesh Tigers LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -355,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Surrey Group A",
+      "title": "Surrey vs Gloucestershire Group A",
       "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey Group A",
+        "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gloucestershire vs Surrey Group A",
+      "team2": {
+        "name": "Gloucestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Gloucestershire Group A",
       "status": "Match Details"
     },
     {
@@ -394,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants Women vs Trent Rockets Women 14th Match",
+      "title": "Trent Rockets Women vs Manchester Super Giants Women LIVE 14th Match",
       "team1": {
-        "name": "Manchester Super Giants Women",
+        "name": "Trent Rockets Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women 14th Match",
+        "name": "Manchester Super Giants Women LIVE 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants Women vs Trent Rockets Women 14th Match",
+      "score": "Trent Rockets Women vs Manchester Super Giants Women LIVE 14th Match",
       "status": "Match Details"
     },
     {
@@ -417,6 +443,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Birmingham Phoenix Women vs Welsh Fire Women 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "London Spirit Women vs Southern Brave Women 16th Match",
+      "team1": {
+        "name": "London Spirit Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Southern Brave Women 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "London Spirit Women vs Southern Brave Women 16th Match",
       "status": "Match Details"
     },
     {
@@ -446,6 +485,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Argentina Women vs Canada Women 4th T20I",
+      "team1": {
+        "name": "Argentina Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canada Women 4th T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Argentina Women vs Canada Women 4th T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Brazil Women vs Spain Women Final",
       "team1": {
         "name": "Brazil Women",
@@ -459,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Switzerland Women vs Spain Women Only T20I",
+      "title": "Spain Women vs Switzerland Women Only T20I",
       "team1": {
-        "name": "Switzerland Women",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Spain Women Only T20I",
+        "name": "Spain Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Switzerland Women vs Spain Women Only T20I",
+      "team2": {
+        "name": "Switzerland Women Only T20I",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Spain Women vs Switzerland Women Only T20I",
       "status": "Match Details"
     },
     {
@@ -485,6 +537,19 @@
       "status": "Match Details"
     },
     {
+      "title": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159-4 (20) Kenya KEN 144-8 (20) Bahrain won by 15 runs",
+      "team1": {
+        "name": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Kenya KEN 144",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159-4 (20) Kenya KEN 144-8 (20) Bahrain won by 15 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "2nd Match • Lusaka, Lotus Sports Club Ground Asian Stars ANS 186-6 (20) Pakistan Panthers PP 101 (20) Asian Stars won by 85 runs",
       "team1": {
         "name": "2nd Match • Lusaka, Lotus Sports Club Ground Asian Stars ANS 186",
@@ -498,29 +563,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 176-7 (20) Sri Lanka Women SLW 177-4 (19) Sri Lanka Women won by 6 wkts",
+      "title": "Only T20I • Embrach, Embrach Cricket Ground Spain Women ESPW 208-3 (20) Switzerland Women SUIW 193-7 (20) Spain Women won by 15 runs",
       "team1": {
-        "name": "1st T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 176",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "7 (20) Sri Lanka Women SLW 177",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "1st T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 176-7 (20) Sri Lanka Women SLW 177-4 (19) Sri Lanka Women won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124-6 (20) Brazil Women won by 86 runs",
-      "team1": {
-        "name": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124",
+        "name": "Only T20I • Embrach, Embrach Cricket Ground Spain Women ESPW 208",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) Brazil Women won by 86 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "3 (20) Switzerland Women SUIW 193",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124-6 (20) Brazil Women won by 86 runs",
+      "score": "Only T20I • Embrach, Embrach Cricket Ground Spain Women ESPW 208-3 (20) Switzerland Women SUIW 193-7 (20) Spain Women won by 15 runs",
       "status": "Match Details"
     }
   ]
