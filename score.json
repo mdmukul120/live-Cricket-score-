@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-07-31 16:51:57 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-07-31 18:16:41 UTC",
+  "total_matches": 48,
   "matches": [
     {
-      "title": "MSG vs TRE - Preview",
+      "title": "MSG vs TRE - TRE opt to bowl",
       "team1": {
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs TRE - Preview",
+      "score": "MSG vs TRE - TRE opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MDX vs WORCS - Need 75 off 60b",
+      "title": "MDX vs WORCS - WORCS won",
       "team1": {
         "name": "MDX",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "WORCS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDX vs WORCS - Need 75 off 60b",
+      "score": "MDX vs WORCS - WORCS won",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants vs Trent Rockets 14th Match",
+      "title": "Manchester Super Giants vs Trent Rockets LIVE 14th Match",
       "team1": {
         "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets 14th Match",
+        "name": "Trent Rockets LIVE 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants vs Trent Rockets 14th Match",
+      "score": "Manchester Super Giants vs Trent Rockets LIVE 14th Match",
       "status": "Match Details"
     },
     {
@@ -147,29 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
+      "title": "London Spirit vs Southern Brave 16th Match",
       "team1": {
-        "name": "Desert Vipers",
+        "name": "London Spirit",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "San Francisco Unicorns Qualifier 1 (2v3)",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jaffna Kings vs Kandy Royals 18th Match",
-      "team1": {
-        "name": "Jaffna Kings",
+        "name": "Southern Brave 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "Kandy Royals 18th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jaffna Kings vs Kandy Royals 18th Match",
+      "score": "London Spirit vs Southern Brave 16th Match",
       "status": "Match Details"
     },
     {
@@ -183,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Colombo Kaps vs Galle Gallants 19th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
+      "team1": {
+        "name": "Desert Vipers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "San Francisco Unicorns Qualifier 1 (2v3)",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
       "status": "Match Details"
     },
     {
@@ -277,55 +277,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Nottinghamshire Group A",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Nottinghamshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Lancashire vs Nottinghamshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Glamorgan LIVE Group B",
+      "title": "Derbyshire vs Glamorgan Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan LIVE Group B",
+        "name": "Glamorgan Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Glamorgan LIVE Group B",
+      "score": "Derbyshire vs Glamorgan Group B",
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Hampshire LIVE Group B",
+      "title": "Essex vs Hampshire Group B",
       "team1": {
         "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hampshire LIVE Group B",
+        "name": "Hampshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Essex vs Hampshire LIVE Group B",
+      "score": "Essex vs Hampshire Group B",
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Kent LIVE Group A",
+      "title": "Somerset vs Kent Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kent LIVE Group A",
+        "name": "Kent Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Kent LIVE Group A",
+      "score": "Somerset vs Kent Group A",
       "status": "Match Details"
     },
     {
@@ -342,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Worcestershire LIVE Group B",
+      "title": "Middlesex vs Worcestershire Group B",
       "team1": {
         "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire LIVE Group B",
+        "name": "Worcestershire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Middlesex vs Worcestershire LIVE Group B",
+      "score": "Middlesex vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -368,29 +355,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Gloucestershire Group A",
+      "title": "Surrey vs Gloucestershire LIVE Group A",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Gloucestershire Group A",
+        "name": "Gloucestershire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Surrey vs Gloucestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Southern Brave Women vs Birmingham Phoenix Women 13th Match",
-      "team1": {
-        "name": "Southern Brave Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Birmingham Phoenix Women 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Southern Brave Women vs Birmingham Phoenix Women 13th Match",
+      "score": "Surrey vs Gloucestershire LIVE Group A",
       "status": "Match Details"
     },
     {
@@ -498,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Argentina Women vs Canada Women 5th T20I",
+      "team1": {
+        "name": "Argentina Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canada Women 5th T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Argentina Women vs Canada Women 5th T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159-4 (20) Kenya KEN 144-8 (20) Bahrain won by 15 runs",
       "team1": {
         "name": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159",
@@ -537,16 +524,29 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Match • Lusaka, Lotus Sports Club Ground Asian Stars ANS 186-6 (20) Pakistan Panthers PP 101 (20) Asian Stars won by 85 runs",
+      "title": "Group B • Repton, Repton School Ground Derbyshire DERBY 315-5 (50) Glamorgan GLAM 271 (47.3) Derbyshire won by 44 runs",
       "team1": {
-        "name": "2nd Match • Lusaka, Lotus Sports Club Ground Asian Stars ANS 186",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Group B • Repton, Repton School Ground Derbyshire DERBY 315",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "6 (20) Pakistan Panthers PP 101 (20) Asian Stars won by 85 runs",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "5 (50) Glamorgan GLAM 271 (47.3) Derbyshire won by 44 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "2nd Match • Lusaka, Lotus Sports Club Ground Asian Stars ANS 186-6 (20) Pakistan Panthers PP 101 (20) Asian Stars won by 85 runs",
+      "score": "Group B • Repton, Repton School Ground Derbyshire DERBY 315-5 (50) Glamorgan GLAM 271 (47.3) Derbyshire won by 44 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Canterbury, St Lawrence Ground Somerset SOM 313-9 (50) Kent KENT 314-8 (48.4) Kent won by 2 wkts",
+      "team1": {
+        "name": "Group A • Canterbury, St Lawrence Ground Somerset SOM 313",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (50) Kent KENT 314",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group A • Canterbury, St Lawrence Ground Somerset SOM 313-9 (50) Kent KENT 314-8 (48.4) Kent won by 2 wkts",
       "status": "Match Details"
     },
     {
@@ -563,6 +563,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Group B • Chelmsford, County Ground Essex ESS 317 (49) Hampshire HAM 321-7 (47.4) Hampshire won by 3 wkts",
+      "team1": {
+        "name": "Group B • Chelmsford, County Ground Essex ESS 317 (49) Hampshire HAM 321",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "7 (47.4) Hampshire won by 3 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Chelmsford, County Ground Essex ESS 317 (49) Hampshire HAM 321-7 (47.4) Hampshire won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248-2 (38.5) Leicestershire won by 8 wkts",
       "team1": {
         "name": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248",
@@ -573,6 +586,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248-2 (38.5) Leicestershire won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Worcester, New Road Middlesex MDX 293-7 (50) Worcestershire WORCS 294-6 (48.4) Worcestershire won by 4 wkts",
+      "team1": {
+        "name": "Group B • Worcester, New Road Middlesex MDX 293",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Worcestershire WORCS 294",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Worcester, New Road Middlesex MDX 293-7 (50) Worcestershire WORCS 294-6 (48.4) Worcestershire won by 4 wkts",
       "status": "Match Details"
     },
     {
