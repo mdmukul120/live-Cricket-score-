@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-07-30 23:39:38 UTC",
+  "last_updated": "2026-07-31 01:15:02 UTC",
   "total_matches": 37,
   "matches": [
     {
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Durham Group B",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Durham Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Derbyshire vs Glamorgan Group B",
       "team1": {
         "name": "Derbyshire",
@@ -326,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Worcestershire vs Middlesex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Durham Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Durham Group B",
       "status": "Match Details"
     },
     {
