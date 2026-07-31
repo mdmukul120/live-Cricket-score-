@@ -1,62 +1,36 @@
 {
   "status": "success",
-  "last_updated": "2026-07-31 07:41:16 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-07-31 10:19:46 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "SOU vs BRM - SOU won",
+      "title": "MSG vs TRE - Preview",
       "team1": {
-        "name": "SOU",
+        "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BRM",
+        "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOU vs BRM - SOU won",
+      "score": "MSG vs TRE - Preview",
       "status": "Match Details"
     },
     {
-      "title": "SOUW vs BRMW - SOUW won",
+      "title": "MSGW vs TREW - Preview",
       "team1": {
-        "name": "SOUW",
+        "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BRMW",
+        "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOUW vs BRMW - SOUW won",
+      "score": "MSGW vs TREW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "JKS vs KRL - JKS won",
-      "team1": {
-        "name": "JKS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "KRL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKS vs KRL - JKS won",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAKW vs SLW - Need 31 off 24b",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "PAKW vs SLW - Need 31 off 24b",
-      "status": "Match Details"
-    },
-    {
-      "title": "NED vs NAM - Preview",
+      "title": "NED vs NAM - NED opt to bat",
       "team1": {
         "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +39,33 @@
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NED vs NAM - Preview",
+      "score": "NED vs NAM - NED opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "Austria vs Romania Semi Final 2",
+      "title": "PAKW vs SLW - SLW won",
       "team1": {
-        "name": "Austria",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Romania Semi Final 2",
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAKW vs SLW - SLW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "MDX vs WORCS - WORCS opt to bowl",
+      "team1": {
+        "name": "MDX",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Austria vs Romania Semi Final 2",
+      "team2": {
+        "name": "WORCS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MDX vs WORCS - WORCS opt to bowl",
       "status": "Match Details"
     },
     {
@@ -108,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Netherlands vs Namibia 121st Match",
+      "title": "Netherlands vs Namibia LIVE 121st Match",
       "team1": {
         "name": "Netherlands",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Namibia 121st Match",
+        "name": "Namibia LIVE 121st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Netherlands vs Namibia 121st Match",
+      "score": "Netherlands vs Namibia LIVE 121st Match",
       "status": "Match Details"
     },
     {
@@ -186,6 +173,19 @@
       "status": "Match Details"
     },
     {
+      "title": "South Delhi Superstarz vs East Delhi Riders 2nd Match",
+      "team1": {
+        "name": "South Delhi Superstarz",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "East Delhi Riders 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Delhi Superstarz vs East Delhi Riders 2nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sri Lankan Lions vs Afghanistan Pathans 1st Match",
       "team1": {
         "name": "Sri Lankan Lions",
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Asian Stars vs Pakistan Panthers 2nd Match",
+      "title": "Asian Stars vs Pakistan Panthers LIVE 2nd Match",
       "team1": {
         "name": "Asian Stars",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Pakistan Panthers 2nd Match",
+        "name": "Pakistan Panthers LIVE 2nd Match",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Asian Stars vs Pakistan Panthers 2nd Match",
+      "score": "Asian Stars vs Pakistan Panthers LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -251,81 +251,81 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Middlesex Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Worcestershire vs Middlesex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Durham Group B",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Durham Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Glamorgan Group B",
+      "title": "Derbyshire vs Glamorgan LIVE Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan Group B",
+        "name": "Glamorgan LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Glamorgan Group B",
+      "score": "Derbyshire vs Glamorgan LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Hampshire Group B",
+      "title": "Essex vs Hampshire LIVE Group B",
       "team1": {
         "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hampshire Group B",
+        "name": "Hampshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Essex vs Hampshire Group B",
+      "score": "Essex vs Hampshire LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Somerset Group A",
+      "title": "Somerset vs Kent LIVE Group A",
       "team1": {
-        "name": "Kent",
+        "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Somerset Group A",
+        "name": "Kent LIVE Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kent vs Somerset Group A",
+      "score": "Somerset vs Kent LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Leicestershire Group A",
+      "title": "Northamptonshire vs Leicestershire LIVE Group A",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire Group A",
+        "name": "Leicestershire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Northamptonshire vs Leicestershire Group A",
+      "score": "Northamptonshire vs Leicestershire LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Worcestershire LIVE Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Worcestershire LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Yorkshire LIVE Group B",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Yorkshire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -342,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women LIVE 1st T20I",
+      "title": "Pakistan Women vs Sri Lanka Women 1st T20I",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka Women LIVE 1st T20I",
+        "name": "Sri Lanka Women 1st T20I",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women LIVE 1st T20I",
+      "score": "Pakistan Women vs Sri Lanka Women 1st T20I",
       "status": "Match Details"
     },
     {
@@ -378,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Manchester Super Giants Women vs Trent Rockets Women 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Birmingham Phoenix Women vs Welsh Fire Women 15th Match",
+      "team1": {
+        "name": "Birmingham Phoenix Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Welsh Fire Women 15th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Birmingham Phoenix Women vs Welsh Fire Women 15th Match",
       "status": "Match Details"
     },
     {
@@ -472,6 +485,19 @@
       "status": "Match Details"
     },
     {
+      "title": "1st T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 176-7 (20) Sri Lanka Women SLW 177-4 (19) Sri Lanka Women won by 6 wkts",
+      "team1": {
+        "name": "1st T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 176",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "7 (20) Sri Lanka Women SLW 177",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "1st T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 176-7 (20) Sri Lanka Women SLW 177-4 (19) Sri Lanka Women won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124-6 (20) Brazil Women won by 86 runs",
       "team1": {
         "name": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124",
@@ -482,19 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Final • Embrach, Embrach Cricket Ground Brazil Women BRAW 210 (19.4) Spain Women ESPW 124-6 (20) Brazil Women won by 86 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 88-8 (20) Argentina Women ARGW 91-4 (19.2) Argentina Women won by 6 wkts",
-      "team1": {
-        "name": "2nd T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 88",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "8 (20) Argentina Women ARGW 91",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd T20I • Quilmes, Buenos Aires, St George's College Ground Canada Women CANW 88-8 (20) Argentina Women ARGW 91-4 (19.2) Argentina Women won by 6 wkts",
       "status": "Match Details"
     }
   ]
