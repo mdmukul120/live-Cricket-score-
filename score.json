@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-07-31 15:00:09 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-07-31 16:51:57 UTC",
+  "total_matches": 46,
   "matches": [
     {
       "title": "MSG vs TRE - Preview",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "TREW vs MSGW - MSGW opt to bowl",
+      "title": "TREW vs MSGW - TREW won",
       "team1": {
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TREW vs MSGW - MSGW opt to bowl",
+      "score": "TREW vs MSGW - TREW won",
       "status": "Match Details"
     },
     {
-      "title": "NED vs NAM - Need 61 to win",
+      "title": "NED vs NAM - NAM won",
       "team1": {
         "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NED vs NAM - Need 61 to win",
+      "score": "NED vs NAM - NAM won",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MDX vs WORCS - Need 256 to win",
+      "title": "MDX vs WORCS - Need 75 off 60b",
       "team1": {
         "name": "MDX",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,7 @@
         "name": "WORCS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDX vs WORCS - Need 256 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "France vs Romania Final",
-      "team1": {
-        "name": "France",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Romania Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "France vs Romania Final",
+      "score": "MDX vs WORCS - Need 75 off 60b",
       "status": "Match Details"
     },
     {
@@ -108,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Netherlands vs Namibia LIVE 121st Match",
+      "title": "Netherlands vs Namibia 121st Match",
       "team1": {
         "name": "Netherlands",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Namibia LIVE 121st Match",
+        "name": "Namibia 121st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Netherlands vs Namibia LIVE 121st Match",
+      "score": "Netherlands vs Namibia 121st Match",
       "status": "Match Details"
     },
     {
@@ -199,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs Purani Dilli 6 1st Match",
+      "title": "Purani Dilli 6 vs Central Delhi Kings LIVE 1st Match",
       "team1": {
-        "name": "Central Delhi Kings",
+        "name": "Purani Dilli 6",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 1st Match",
+        "name": "Central Delhi Kings LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs Purani Dilli 6 1st Match",
+      "score": "Purani Dilli 6 vs Central Delhi Kings LIVE 1st Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Indian Royals vs Bangladesh Tigers LIVE 3rd Match",
+      "title": "Indian Royals vs Bangladesh Tigers 3rd Match",
       "team1": {
         "name": "Indian Royals",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Bangladesh Tigers LIVE 3rd Match",
+        "name": "Bangladesh Tigers 3rd Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Indian Royals vs Bangladesh Tigers LIVE 3rd Match",
+      "score": "Indian Royals vs Bangladesh Tigers 3rd Match",
       "status": "Match Details"
     },
     {
@@ -342,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Leicestershire LIVE Group A",
+      "title": "Northamptonshire vs Leicestershire Group A",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire LIVE Group A",
+        "name": "Leicestershire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Northamptonshire vs Leicestershire LIVE Group A",
+      "score": "Northamptonshire vs Leicestershire Group A",
       "status": "Match Details"
     },
     {
@@ -368,16 +355,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Yorkshire LIVE Group B",
+      "title": "Durham vs Yorkshire Group B",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Yorkshire LIVE Group B",
+        "name": "Yorkshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Yorkshire LIVE Group B",
+      "score": "Durham vs Yorkshire Group B",
       "status": "Match Details"
     },
     {
@@ -394,19 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women 1st T20I",
-      "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Sri Lanka Women 1st T20I",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Pakistan Women vs Sri Lanka Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Southern Brave Women vs Birmingham Phoenix Women 13th Match",
       "team1": {
         "name": "Southern Brave Women",
@@ -420,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets Women vs Manchester Super Giants Women LIVE 14th Match",
+      "title": "Trent Rockets Women vs Manchester Super Giants Women 14th Match",
       "team1": {
         "name": "Trent Rockets Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women LIVE 14th Match",
+        "name": "Manchester Super Giants Women 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets Women vs Manchester Super Giants Women LIVE 14th Match",
+      "score": "Trent Rockets Women vs Manchester Super Giants Women 14th Match",
       "status": "Match Details"
     },
     {
@@ -456,6 +430,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "London Spirit Women vs Southern Brave Women 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan Women vs Sri Lanka Women 1st T20I",
+      "team1": {
+        "name": "Pakistan Women",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Sri Lanka Women 1st T20I",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan Women vs Sri Lanka Women 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Spain Women vs Switzerland Women Only T20I",
+      "team1": {
+        "name": "Spain Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Switzerland Women Only T20I",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Spain Women vs Switzerland Women Only T20I",
       "status": "Match Details"
     },
     {
@@ -498,45 +498,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Brazil Women vs Spain Women Final",
-      "team1": {
-        "name": "Brazil Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain Women Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brazil Women vs Spain Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Spain Women vs Switzerland Women Only T20I",
-      "team1": {
-        "name": "Spain Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Switzerland Women Only T20I",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Spain Women vs Switzerland Women Only T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uganda Women vs Namibia Women Final",
-      "team1": {
-        "name": "Uganda Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Namibia Women Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uganda Women vs Namibia Women Final",
-      "status": "Match Details"
-    },
-    {
       "title": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159-4 (20) Kenya KEN 144-8 (20) Bahrain won by 15 runs",
       "team1": {
         "name": "1st T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 159",
@@ -550,6 +511,32 @@
       "status": "Match Details"
     },
     {
+      "title": "121st Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 183 (48.5) Namibia NAM 186-4 (41) Namibia won by 6 wkts",
+      "team1": {
+        "name": "121st Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 183 (48.5) Namibia NAM 186",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (41) Namibia won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "121st Match • Utrecht, Sportpark Maarschalkerweerd Netherlands NED 183 (48.5) Namibia NAM 186-4 (41) Namibia won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match • Lusaka, Lotus Sports Club Ground Indian Royals IR 135-7 (20) Bangladesh Tigers BT 116-6 (20) Indian Royals won by 19 runs",
+      "team1": {
+        "name": "3rd Match • Lusaka, Lotus Sports Club Ground Indian Royals IR 135",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (20) Bangladesh Tigers BT 116",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "3rd Match • Lusaka, Lotus Sports Club Ground Indian Royals IR 135-7 (20) Bangladesh Tigers BT 116-6 (20) Indian Royals won by 19 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "2nd Match • Lusaka, Lotus Sports Club Ground Asian Stars ANS 186-6 (20) Pakistan Panthers PP 101 (20) Asian Stars won by 85 runs",
       "team1": {
         "name": "2nd Match • Lusaka, Lotus Sports Club Ground Asian Stars ANS 186",
@@ -560,6 +547,45 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "2nd Match • Lusaka, Lotus Sports Club Ground Asian Stars ANS 186-6 (20) Pakistan Panthers PP 101 (20) Asian Stars won by 85 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • York, Clifton Park Ground Durham DUR 165 (48.1) Yorkshire YORKS 167-3 (41) Yorkshire won by 7 wkts",
+      "team1": {
+        "name": "Group B • York, Clifton Park Ground Durham DUR 165 (48.1) Yorkshire YORKS 167",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "3 (41) Yorkshire won by 7 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • York, Clifton Park Ground Durham DUR 165 (48.1) Yorkshire YORKS 167-3 (41) Yorkshire won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248-2 (38.5) Leicestershire won by 8 wkts",
+      "team1": {
+        "name": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "2 (38.5) Leicestershire won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Northampton, County Ground Northamptonshire NHNTS 246 (45.3) Leicestershire LEIC 248-2 (38.5) Leicestershire won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "14th Match • Manchester, Emirates Old Trafford 100 Trent Rockets Women TREW 153-8 (100 Balls) Manchester Super Giants Women MSGW 122 (93 Balls) Trent Rockets Women won by 31 runs",
+      "team1": {
+        "name": "14th Match • Manchester, Emirates Old Trafford 100 Trent Rockets Women TREW 153",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (100 Balls) Manchester Super Giants Women MSGW 122 (93 Balls) Trent Rockets Women won by 31 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "14th Match • Manchester, Emirates Old Trafford 100 Trent Rockets Women TREW 153-8 (100 Balls) Manchester Super Giants Women MSGW 122 (93 Balls) Trent Rockets Women won by 31 runs",
       "status": "Match Details"
     },
     {
