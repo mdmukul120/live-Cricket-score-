@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 22:33:21 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-01 23:36:27 UTC",
+  "total_matches": 37,
   "matches": [
     {
-      "title": "GAW vs SFU - Preview",
+      "title": "GAW vs SFU - GAW opt to bat",
       "team1": {
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,20 @@
         "name": "SFU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs SFU - Preview",
+      "score": "GAW vs SFU - GAW opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "WI vs PAK - Preview",
+      "team1": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "WI vs PAK - Preview",
       "status": "Match Details"
     },
     {
@@ -30,42 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "LDNW vs SOUW - SOUW won",
+      "title": "SLW vs PAKW - Preview",
       "team1": {
-        "name": "LDNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "SOUW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "LDNW vs SOUW - SOUW won",
+      "score": "SLW vs PAKW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "BRM vs WEF - WEF won",
+      "title": "TREW vs SULW - Preview",
       "team1": {
-        "name": "BRM",
+        "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "WEF",
+        "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs WEF - WEF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "WDL vs NDT - WDL won",
-      "team1": {
-        "name": "WDL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NDT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WDL vs NDT - WDL won",
+      "score": "TREW vs SULW - Preview",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs San Francisco Unicorns Final",
+      "title": "Guyana Amazon Warriors vs San Francisco Unicorns LIVE Final",
       "team1": {
         "name": "Guyana Amazon Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "San Francisco Unicorns Final",
+        "name": "San Francisco Unicorns LIVE Final",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Guyana Amazon Warriors vs San Francisco Unicorns Final",
+      "score": "Guyana Amazon Warriors vs San Francisco Unicorns LIVE Final",
       "status": "Match Details"
     },
     {
@@ -482,32 +482,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "16th Match • London, Lord's 100 London Spirit LDN 105 (92 Balls) Southern Brave SOU 111-5 (97 Balls) Southern Brave won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "19th Match • Pallekele, Pallekele International Cricket Stadium Galle Gallants GAG 201-6 (20) Colombo Kaps CLK 188 (19.4) Galle Gallants won by 13 runs",
-      "team1": {
-        "name": "19th Match • Pallekele, Pallekele International Cricket Stadium Galle Gallants GAG 201",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Colombo Kaps CLK 188 (19.4) Galle Gallants won by 13 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "19th Match • Pallekele, Pallekele International Cricket Stadium Galle Gallants GAG 201-6 (20) Colombo Kaps CLK 188 (19.4) Galle Gallants won by 13 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 170-5 (20) New Delhi Tigers NDT 151 (20) West Delhi Lions won by 19 runs",
-      "team1": {
-        "name": "3rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 170",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) New Delhi Tigers NDT 151 (20) West Delhi Lions won by 19 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 170-5 (20) New Delhi Tigers NDT 151 (20) West Delhi Lions won by 19 runs",
       "status": "Match Details"
     }
   ]
