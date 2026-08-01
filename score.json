@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 18:16:04 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-08-01 19:39:06 UTC",
+  "total_matches": 43,
   "matches": [
     {
-      "title": "LDN vs SOU - Innings Break",
+      "title": "LDN vs SOU - SOU won",
       "team1": {
         "name": "LDN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDN vs SOU - Innings Break",
+      "score": "LDN vs SOU - SOU won",
       "status": "Match Details"
     },
     {
@@ -212,19 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Purani Dilli 6 vs Central Delhi Kings 1st Match",
-      "team1": {
-        "name": "Purani Dilli 6",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Central Delhi Kings 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Purani Dilli 6 vs Central Delhi Kings 1st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "East Delhi Riders vs South Delhi Superstarz 2nd Match",
       "team1": {
         "name": "East Delhi Riders",
@@ -287,19 +274,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Surrey vs Gloucestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
@@ -394,6 +368,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Welsh Fire Women vs Birmingham Phoenix Women 15th Match",
       "team1": {
         "name": "Welsh Fire Women",
@@ -459,19 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Argentina Women vs Canada Women 3rd T20I",
-      "team1": {
-        "name": "Argentina Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canada Women 3rd T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Argentina Women vs Canada Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Argentina Women vs Canada Women 4th T20I",
       "team1": {
         "name": "Argentina Women",
@@ -524,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 148-5 (20) Kenya KEN 149-9 (20) Kenya won by 1 wkt",
+      "title": "16th Match • London, Lord's 100 London Spirit LDN 105 (92 Balls) Southern Brave SOU 111-5 (97 Balls) Southern Brave won by 5 wkts",
       "team1": {
-        "name": "2nd T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 148",
+        "name": "16th Match • London, Lord's 100 London Spirit LDN 105 (92 Balls) Southern Brave SOU 111",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (20) Kenya KEN 149",
+        "name": "5 (97 Balls) Southern Brave won by 5 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 148-5 (20) Kenya KEN 149-9 (20) Kenya won by 1 wkt",
+      "score": "16th Match • London, Lord's 100 London Spirit LDN 105 (92 Balls) Southern Brave SOU 111-5 (97 Balls) Southern Brave won by 5 wkts",
       "status": "Match Details"
     },
     {
@@ -586,19 +560,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "16th Match • London, Lord's 100 London Spirit Women LDNW 114-8 (100 Balls) Southern Brave Women SOUW 115-5 (93 Balls) Southern Brave Women won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "15th Match • Birmingham, Edgbaston 100 Welsh Fire Women WELW 144-3 (100 Balls) Birmingham Phoenix Women BRMW 145-3 (99 Balls) Birmingham Phoenix Women won by 7 wkts",
-      "team1": {
-        "name": "15th Match • Birmingham, Edgbaston 100 Welsh Fire Women WELW 144",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "3 (100 Balls) Birmingham Phoenix Women BRMW 145",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "15th Match • Birmingham, Edgbaston 100 Welsh Fire Women WELW 144-3 (100 Balls) Birmingham Phoenix Women BRMW 145-3 (99 Balls) Birmingham Phoenix Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
