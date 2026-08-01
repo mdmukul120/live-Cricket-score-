@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 19:39:06 UTC",
+  "last_updated": "2026-08-01 20:33:30 UTC",
   "total_matches": 43,
   "matches": [
     {
@@ -277,6 +277,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Worcestershire Group B",
       "team1": {
         "name": "Essex",
@@ -365,19 +378,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Gloucestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
