@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 21:32:17 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-08-01 22:33:21 UTC",
+  "total_matches": 39,
   "matches": [
+    {
+      "title": "GAW vs SFU - Preview",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SFU",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs SFU - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "LDN vs SOU - SOU won",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "LDN vs SOU - SOU won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BRM vs WEF - WEF won",
-      "team1": {
-        "name": "BRM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "WEF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BRM vs WEF - WEF won",
       "status": "Match Details"
     },
     {
@@ -43,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "BRM vs WEF - WEF won",
+      "team1": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "WEF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BRM vs WEF - WEF won",
+      "status": "Match Details"
+    },
+    {
       "title": "WDL vs NDT - WDL won",
       "team1": {
         "name": "WDL",
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "WDL vs NDT - WDL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "GAW vs SFU - Preview",
-      "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SFU",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs SFU - Preview",
       "status": "Match Details"
     },
     {
@@ -251,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Worcestershire Group B",
       "team1": {
         "name": "Essex",
@@ -339,19 +352,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Gloucestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
@@ -485,19 +485,6 @@
       "status": "Match Details"
     },
     {
-      "title": "15th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 137-9 (100 Balls) Welsh Fire WEF 138-3 (96 Balls) Welsh Fire won by 7 wkts",
-      "team1": {
-        "name": "15th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (100 Balls) Welsh Fire WEF 138",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "15th Match • Birmingham, Edgbaston 100 Birmingham Phoenix BRM 137-9 (100 Balls) Welsh Fire WEF 138-3 (96 Balls) Welsh Fire won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "19th Match • Pallekele, Pallekele International Cricket Stadium Galle Gallants GAG 201-6 (20) Colombo Kaps CLK 188 (19.4) Galle Gallants won by 13 runs",
       "team1": {
         "name": "19th Match • Pallekele, Pallekele International Cricket Stadium Galle Gallants GAG 201",
@@ -521,19 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 170-5 (20) New Delhi Tigers NDT 151 (20) West Delhi Lions won by 19 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "16th Match • London, Lord's 100 London Spirit Women LDNW 114-8 (100 Balls) Southern Brave Women SOUW 115-5 (93 Balls) Southern Brave Women won by 5 wkts",
-      "team1": {
-        "name": "16th Match • London, Lord's 100 London Spirit Women LDNW 114",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (100 Balls) Southern Brave Women SOUW 115",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "16th Match • London, Lord's 100 London Spirit Women LDNW 114-8 (100 Balls) Southern Brave Women SOUW 115-5 (93 Balls) Southern Brave Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
