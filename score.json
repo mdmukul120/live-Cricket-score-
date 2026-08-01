@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 01:11:35 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-01 04:37:10 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "MSG vs TRE - TRE won",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "DV vs SFU - Need 64 off 72b",
+      "title": "DV vs SFU - SFU won",
       "team1": {
         "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "SFU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DV vs SFU - Need 64 off 72b",
+      "score": "DV vs SFU - SFU won",
       "status": "Match Details"
     },
     {
@@ -160,29 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Desert Vipers vs San Francisco Unicorns LIVE Qualifier 1 (2v3)",
+      "title": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
       "team1": {
         "name": "Desert Vipers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "San Francisco Unicorns LIVE Qualifier 1 (2v3)",
+        "name": "San Francisco Unicorns Qualifier 1 (2v3)",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Desert Vipers vs San Francisco Unicorns LIVE Qualifier 1 (2v3)",
+      "score": "Desert Vipers vs San Francisco Unicorns Qualifier 1 (2v3)",
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs TBC Final",
+      "title": "Guyana Amazon Warriors vs San Francisco Unicorns Final",
       "team1": {
         "name": "Guyana Amazon Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "San Francisco Unicorns Final",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Guyana Amazon Warriors vs TBC Final",
+      "score": "Guyana Amazon Warriors vs San Francisco Unicorns Final",
       "status": "Match Details"
     },
     {
@@ -277,45 +277,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Kent Group A",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Leicestershire Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Worcestershire Group B",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Durham vs Yorkshire Group B",
       "team1": {
         "name": "Durham",
@@ -352,6 +313,45 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Essex vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Kent Group A",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kent Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Leicestershire Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Northamptonshire vs Leicestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Worcestershire Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -420,6 +420,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Sri Lanka Women vs Pakistan Women 2nd T20I",
+      "team1": {
+        "name": "Sri Lanka Women",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Pakistan Women 2nd T20I",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Sri Lanka Women vs Pakistan Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Spain Women vs Switzerland Women Only T20I",
       "team1": {
         "name": "Spain Women",
@@ -472,42 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "14th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 137-3 (100 Balls) Trent Rockets TRE 140-4 (87 Balls) Trent Rockets won by 6 wkts",
+      "title": "Qualifier 1 (2v3) • Guyana, Providence Stadium Desert Vipers DV 122-7 (20) San Francisco Unicorns SFU 126-2 (16.1) San Francisco Unicorns won by 8 wkts",
       "team1": {
-        "name": "14th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 137",
+        "name": "Qualifier 1 (2v3) • Guyana, Providence Stadium Desert Vipers DV 122",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (100 Balls) Trent Rockets TRE 140",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7 (20) San Francisco Unicorns SFU 126",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "14th Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants MSG 137-3 (100 Balls) Trent Rockets TRE 140-4 (87 Balls) Trent Rockets won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 202-4 (20) Central Delhi Kings CDK 204-6 (19.1) Central Delhi Kings won by 4 wkts",
-      "team1": {
-        "name": "1st Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 202",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (20) Central Delhi Kings CDK 204",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 202-4 (20) Central Delhi Kings CDK 204-6 (19.1) Central Delhi Kings won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Bristol, County Ground Surrey SUR 311-5 (50) Gloucestershire GLOUCS 292 (49) Surrey won by 19 runs",
-      "team1": {
-        "name": "Group A • Bristol, County Ground Surrey SUR 311",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (50) Gloucestershire GLOUCS 292 (49) Surrey won by 19 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Bristol, County Ground Surrey SUR 311-5 (50) Gloucestershire GLOUCS 292 (49) Surrey won by 19 runs",
+      "score": "Qualifier 1 (2v3) • Guyana, Providence Stadium Desert Vipers DV 122-7 (20) San Francisco Unicorns SFU 126-2 (16.1) San Francisco Unicorns won by 8 wkts",
       "status": "Match Details"
     }
   ]
