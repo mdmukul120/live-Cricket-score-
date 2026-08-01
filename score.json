@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 13:56:01 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-08-01 15:06:42 UTC",
+  "total_matches": 49,
   "matches": [
     {
-      "title": "BRM vs WEF - BRM opt to bat",
+      "title": "BRM vs WEF - Need 134 to win",
       "team1": {
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,11 +13,11 @@
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs WEF - BRM opt to bat",
+      "score": "BRM vs WEF - Need 134 to win",
       "status": "Match Details"
     },
     {
-      "title": "LDNW vs SOUW - SOUW opt to bowl",
+      "title": "LDNW vs SOUW - Need 114 off 94b",
       "team1": {
         "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "SOUW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDNW vs SOUW - SOUW opt to bowl",
+      "score": "LDNW vs SOUW - Need 114 off 94b",
       "status": "Match Details"
     },
     {
@@ -43,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "WELW vs BRMW - BRMW won",
+      "title": "GAW vs SFU - Preview",
       "team1": {
-        "name": "WELW",
+        "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BRMW",
+        "name": "SFU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WELW vs BRMW - BRMW won",
+      "score": "GAW vs SFU - Preview",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Kenya 1st T20I",
+      "title": "West Indies vs Pakistan 2nd Test",
       "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "West Indies",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Kenya 1st T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Pakistan 2nd Test",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Bahrain vs Kenya 1st T20I",
+      "score": "West Indies vs Pakistan 2nd Test",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Colombo Kaps 19th Match",
+      "title": "Galle Gallants vs Colombo Kaps LIVE 19th Match",
       "team1": {
         "name": "Galle Gallants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Colombo Kaps 19th Match",
+        "name": "Colombo Kaps LIVE 19th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Galle Gallants vs Colombo Kaps 19th Match",
+      "score": "Galle Gallants vs Colombo Kaps LIVE 19th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jaffna Kings vs Dambulla Sixers 20th Match",
+      "team1": {
+        "name": "Jaffna Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dambulla Sixers 20th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jaffna Kings vs Dambulla Sixers 20th Match",
       "status": "Match Details"
     },
     {
@@ -355,32 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Worcestershire Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Hampshire vs Durham Group B",
       "team1": {
         "name": "Hampshire",
@@ -456,6 +443,32 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Worcestershire Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
