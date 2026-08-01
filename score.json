@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 11:00:38 UTC",
+  "last_updated": "2026-08-01 12:09:17 UTC",
   "total_matches": 43,
   "matches": [
     {
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "WELW vs BRMW - BRMW opt to bowl",
+      "title": "WELW vs BRMW - Need 66 off 44b",
       "team1": {
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "BRMW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WELW vs BRMW - BRMW opt to bowl",
+      "score": "WELW vs BRMW - Need 66 off 44b",
       "status": "Match Details"
     },
     {
-      "title": "EDR vs SDS - Need 68 off 67b",
+      "title": "EDR vs SDS - SDS won",
       "team1": {
         "name": "EDR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EDR vs SDS - Need 68 off 67b",
+      "score": "EDR vs SDS - SDS won",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "East Delhi Riders vs South Delhi Superstarz LIVE 2nd Match",
+      "title": "East Delhi Riders vs South Delhi Superstarz 2nd Match",
       "team1": {
         "name": "East Delhi Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Delhi Superstarz LIVE 2nd Match",
+        "name": "South Delhi Superstarz 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Delhi Riders vs South Delhi Superstarz LIVE 2nd Match",
+      "score": "East Delhi Riders vs South Delhi Superstarz 2nd Match",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Asian Stars vs Pakistan Panthers 2nd Match",
-      "team1": {
-        "name": "Asian Stars",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Pakistan Panthers 2nd Match",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Asian Stars vs Pakistan Panthers 2nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Indian Royals vs Bangladesh Tigers 3rd Match",
       "team1": {
         "name": "Indian Royals",
@@ -261,6 +248,19 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "Indian Royals vs Bangladesh Tigers 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Yorkshire Group B",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Yorkshire Group B",
       "status": "Match Details"
     },
     {
@@ -329,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Yorkshire Group B",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Surrey vs Gloucestershire Group A",
       "team1": {
         "name": "Surrey",
@@ -352,58 +339,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Surrey vs Gloucestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Somerset Group A",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Somerset Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Leicestershire vs Somerset Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Yorkshire Group B",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Lancashire Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Gloucestershire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Gloucestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Gloucestershire Group A",
       "status": "Match Details"
     },
     {
@@ -456,6 +391,58 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Kent vs Nottinghamshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Somerset Group A",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Somerset Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Leicestershire vs Somerset Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Yorkshire Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Lancashire Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Northamptonshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Gloucestershire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Gloucestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Gloucestershire Group A",
       "status": "Match Details"
     },
     {
@@ -560,6 +547,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Argentina Women vs Canada Women 5th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 165 (18.1) South Delhi Superstarz SDS 169-6 (18.1) South Delhi Superstarz won by 4 wkts",
+      "team1": {
+        "name": "2nd Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 165 (18.1) South Delhi Superstarz SDS 169",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (18.1) South Delhi Superstarz won by 4 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 165 (18.1) South Delhi Superstarz SDS 169-6 (18.1) South Delhi Superstarz won by 4 wkts",
       "status": "Match Details"
     }
   ]
