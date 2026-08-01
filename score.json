@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 07:14:41 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-01 09:26:38 UTC",
+  "total_matches": 35,
   "matches": [
     {
       "title": "MSG vs TRE - TRE won",
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "BRMW vs WELW - Preview",
+      "title": "WELW vs BRMW - BRMW opt to bowl",
       "team1": {
-        "name": "BRMW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRMW vs WELW - Preview",
+      "team2": {
+        "name": "BRMW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WELW vs BRMW - BRMW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs East Delhi Riders 2nd Match",
+      "title": "East Delhi Riders vs South Delhi Superstarz LIVE 2nd Match",
       "team1": {
-        "name": "South Delhi Superstarz",
+        "name": "East Delhi Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Delhi Riders 2nd Match",
+        "name": "South Delhi Superstarz LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Delhi Superstarz vs East Delhi Riders 2nd Match",
+      "score": "East Delhi Riders vs South Delhi Superstarz LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -222,6 +222,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "West Delhi Lions vs New Delhi Tigers 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Outer Delhi Warriors vs Central Delhi Kings 4th Match",
+      "team1": {
+        "name": "Outer Delhi Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Central Delhi Kings 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Outer Delhi Warriors vs Central Delhi Kings 4th Match",
       "status": "Match Details"
     },
     {
@@ -251,29 +264,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan Pathans vs Asian Stars 4th Match",
+      "title": "Derbyshire vs Glamorgan Group B",
       "team1": {
-        "name": "Afghanistan Pathans",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Asian Stars 4th Match",
+        "name": "Glamorgan Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Afghanistan Pathans vs Asian Stars 4th Match",
+      "score": "Derbyshire vs Glamorgan Group B",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lankan Lions vs Bangladesh Tigers 5th Match",
+      "title": "Essex vs Hampshire Group B",
       "team1": {
-        "name": "Sri Lankan Lions",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bangladesh Tigers 5th Match",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Sri Lankan Lions vs Bangladesh Tigers 5th Match",
+      "score": "Essex vs Hampshire Group B",
       "status": "Match Details"
     },
     {
@@ -329,32 +342,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Glamorgan Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Glamorgan Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Hampshire Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Surrey vs Gloucestershire Group A",
       "team1": {
         "name": "Surrey",
@@ -381,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix Women vs Welsh Fire Women 15th Match",
+      "title": "Welsh Fire Women vs Birmingham Phoenix Women 15th Match",
       "team1": {
-        "name": "Birmingham Phoenix Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Welsh Fire Women 15th Match",
+        "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Birmingham Phoenix Women vs Welsh Fire Women 15th Match",
+      "team2": {
+        "name": "Birmingham Phoenix Women 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Welsh Fire Women vs Birmingham Phoenix Women 15th Match",
       "status": "Match Details"
     },
     {
@@ -404,19 +391,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "London Spirit Women vs Southern Brave Women 16th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan Women vs Sri Lanka Women 1st T20I",
-      "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Sri Lanka Women 1st T20I",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Pakistan Women vs Sri Lanka Women 1st T20I",
       "status": "Match Details"
     },
     {
@@ -482,19 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Argentina Women vs Canada Women 5th T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qualifier 1 (2v3) • Guyana, Providence Stadium Desert Vipers DV 122-7 (20) San Francisco Unicorns SFU 126-2 (16.1) San Francisco Unicorns won by 8 wkts",
-      "team1": {
-        "name": "Qualifier 1 (2v3) • Guyana, Providence Stadium Desert Vipers DV 122",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) San Francisco Unicorns SFU 126",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Qualifier 1 (2v3) • Guyana, Providence Stadium Desert Vipers DV 122-7 (20) San Francisco Unicorns SFU 126-2 (16.1) San Francisco Unicorns won by 8 wkts",
       "status": "Match Details"
     }
   ]
