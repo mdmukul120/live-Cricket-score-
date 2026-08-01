@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 20:33:30 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-08-01 21:32:17 UTC",
+  "total_matches": 41,
   "matches": [
     {
       "title": "LDN vs SOU - SOU won",
@@ -92,19 +92,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bahrain vs Kenya 2nd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Manchester Super Giants vs Trent Rockets 14th Match",
-      "team1": {
-        "name": "Manchester Super Giants",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trent Rockets 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Manchester Super Giants vs Trent Rockets 14th Match",
       "status": "Match Details"
     },
     {
@@ -264,32 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Gloucestershire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Gloucestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Gloucestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Essex vs Worcestershire Group B",
       "team1": {
         "name": "Essex",
@@ -378,6 +339,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
