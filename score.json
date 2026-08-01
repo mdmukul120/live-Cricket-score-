@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 12:09:17 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-08-01 13:56:01 UTC",
+  "total_matches": 48,
   "matches": [
     {
-      "title": "BRM vs WEF - Preview",
+      "title": "BRM vs WEF - BRM opt to bat",
       "team1": {
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,11 +13,37 @@
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs WEF - Preview",
+      "score": "BRM vs WEF - BRM opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "WELW vs BRMW - Need 66 off 44b",
+      "title": "LDNW vs SOUW - SOUW opt to bowl",
+      "team1": {
+        "name": "LDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDNW vs SOUW - SOUW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "WDL vs NDT - NDT opt to bowl",
+      "team1": {
+        "name": "WDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NDT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WDL vs NDT - NDT opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "WELW vs BRMW - BRMW won",
       "team1": {
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,46 +52,20 @@
         "name": "BRMW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WELW vs BRMW - Need 66 off 44b",
+      "score": "WELW vs BRMW - BRMW won",
       "status": "Match Details"
     },
     {
-      "title": "EDR vs SDS - SDS won",
+      "title": "GAG vs CLK - CLK opt to bowl",
       "team1": {
-        "name": "EDR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EDR vs SDS - SDS won",
-      "status": "Match Details"
-    },
-    {
-      "title": "CLK vs GAG - Preview",
-      "team1": {
-        "name": "CLK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "GAG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CLK vs GAG - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "LDN vs SOU - Preview",
-      "team1": {
-        "name": "LDN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "SOU",
+        "name": "CLK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDN vs SOU - Preview",
+      "score": "GAG vs CLK - CLK opt to bowl",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kenya vs Bahrain 2nd T20I",
+      "title": "Bahrain vs Kenya 2nd T20I",
       "team1": {
-        "name": "Kenya",
+        "name": "Bahrain",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bahrain 2nd T20I",
+        "name": "Kenya 2nd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kenya vs Bahrain 2nd T20I",
+      "score": "Bahrain vs Kenya 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix vs Welsh Fire 15th Match",
+      "title": "Birmingham Phoenix vs Welsh Fire LIVE 15th Match",
       "team1": {
         "name": "Birmingham Phoenix",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Welsh Fire 15th Match",
+        "name": "Welsh Fire LIVE 15th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Birmingham Phoenix vs Welsh Fire 15th Match",
+      "score": "Birmingham Phoenix vs Welsh Fire LIVE 15th Match",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Galle Gallants 19th Match",
+      "title": "Trent Rockets vs Sunrisers Leeds 17th Match",
       "team1": {
-        "name": "Colombo Kaps",
+        "name": "Trent Rockets",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Galle Gallants 19th Match",
+        "name": "Sunrisers Leeds 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Colombo Kaps vs Galle Gallants 19th Match",
+      "score": "Trent Rockets vs Sunrisers Leeds 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Galle Gallants vs Colombo Kaps 19th Match",
+      "team1": {
+        "name": "Galle Gallants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Colombo Kaps 19th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Galle Gallants vs Colombo Kaps 19th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Delhi Lions vs New Delhi Tigers 3rd Match",
+      "title": "West Delhi Lions vs New Delhi Tigers LIVE 3rd Match",
       "team1": {
         "name": "West Delhi Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New Delhi Tigers 3rd Match",
+        "name": "New Delhi Tigers LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "West Delhi Lions vs New Delhi Tigers 3rd Match",
+      "score": "West Delhi Lions vs New Delhi Tigers LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -238,29 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Indian Royals vs Bangladesh Tigers 3rd Match",
+      "title": "East Delhi Riders vs New Delhi Tigers 5th Match",
       "team1": {
-        "name": "Indian Royals",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Bangladesh Tigers 3rd Match",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "Indian Royals vs Bangladesh Tigers 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Yorkshire Group B",
-      "team1": {
-        "name": "Durham",
+        "name": "East Delhi Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "New Delhi Tigers 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Yorkshire Group B",
+      "score": "East Delhi Riders vs New Delhi Tigers 5th Match",
       "status": "Match Details"
     },
     {
@@ -326,6 +326,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Middlesex vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Yorkshire Group B",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Yorkshire Group B",
       "status": "Match Details"
     },
     {
@@ -459,29 +472,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs Birmingham Phoenix Women LIVE 15th Match",
+      "title": "Welsh Fire Women vs Birmingham Phoenix Women 15th Match",
       "team1": {
         "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Birmingham Phoenix Women LIVE 15th Match",
+        "name": "Birmingham Phoenix Women 15th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire Women vs Birmingham Phoenix Women LIVE 15th Match",
+      "score": "Welsh Fire Women vs Birmingham Phoenix Women 15th Match",
       "status": "Match Details"
     },
     {
-      "title": "London Spirit Women vs Southern Brave Women 16th Match",
+      "title": "London Spirit Women vs Southern Brave Women LIVE 16th Match",
       "team1": {
         "name": "London Spirit Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave Women 16th Match",
+        "name": "Southern Brave Women LIVE 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "London Spirit Women vs Southern Brave Women 16th Match",
+      "score": "London Spirit Women vs Southern Brave Women LIVE 16th Match",
       "status": "Match Details"
     },
     {
@@ -495,6 +508,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Trent Rockets Women vs Sunrisers Leeds Women 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "MI London Women vs Manchester Super Giants Women 18th Match",
+      "team1": {
+        "name": "MI London Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manchester Super Giants Women 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MI London Women vs Manchester Super Giants Women 18th Match",
       "status": "Match Details"
     },
     {
@@ -550,6 +576,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Argentina Women vs Canada Women 6th T20I",
+      "team1": {
+        "name": "Argentina Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canada Women 6th T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Argentina Women vs Canada Women 6th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 148-5 (20) Kenya KEN 149-9 (20) Kenya won by 1 wkt",
+      "team1": {
+        "name": "2nd T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 148",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Kenya KEN 149",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd T20I • Nairobi, Gymkhana Club Ground Bahrain BHR 148-5 (20) Kenya KEN 149-9 (20) Kenya won by 1 wkt",
+      "status": "Match Details"
+    },
+    {
       "title": "2nd Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 165 (18.1) South Delhi Superstarz SDS 169-6 (18.1) South Delhi Superstarz won by 4 wkts",
       "team1": {
         "name": "2nd Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 165 (18.1) South Delhi Superstarz SDS 169",
@@ -560,6 +612,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "2nd Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 165 (18.1) South Delhi Superstarz SDS 169-6 (18.1) South Delhi Superstarz won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "15th Match • Birmingham, Edgbaston 100 Welsh Fire Women WELW 144-3 (100 Balls) Birmingham Phoenix Women BRMW 145-3 (99 Balls) Birmingham Phoenix Women won by 7 wkts",
+      "team1": {
+        "name": "15th Match • Birmingham, Edgbaston 100 Welsh Fire Women WELW 144",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "3 (100 Balls) Birmingham Phoenix Women BRMW 145",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "15th Match • Birmingham, Edgbaston 100 Welsh Fire Women WELW 144-3 (100 Balls) Birmingham Phoenix Women BRMW 145-3 (99 Balls) Birmingham Phoenix Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
