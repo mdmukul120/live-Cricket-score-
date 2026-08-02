@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-02 11:04:41 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-02 12:13:14 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "TREW vs SULW - SULW opt to bowl",
+      "title": "TREW vs SULW - Need 66 off 35b",
       "team1": {
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TREW vs SULW - SULW opt to bowl",
+      "score": "TREW vs SULW - Need 66 off 35b",
       "status": "Match Details"
     },
     {
@@ -199,19 +199,6 @@
       "status": "Match Details"
     },
     {
-      "title": "East Delhi Riders vs South Delhi Superstarz 2nd Match",
-      "team1": {
-        "name": "East Delhi Riders",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Delhi Superstarz 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "East Delhi Riders vs South Delhi Superstarz 2nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "West Delhi Lions vs New Delhi Tigers 3rd Match",
       "team1": {
         "name": "West Delhi Lions",
@@ -261,6 +248,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "West Delhi Lions vs Purani Dilli 6 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Sussex LIVE Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex LIVE Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Worcestershire LIVE Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Worcestershire LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Durham LIVE Group B",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham LIVE Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Durham LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -326,45 +352,6 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "Gloucestershire vs Warwickshire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Sussex LIVE Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex LIVE Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex LIVE Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Worcestershire LIVE Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Worcestershire LIVE Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Durham LIVE Group B",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham LIVE Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Durham LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -495,6 +482,32 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "2nd T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 175-5 (20) Sri Lanka Women SLW 178-4 (17.4) Sri Lanka Women won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71-7 (10) Canada Women CANW 75-2 (9) Canada Women won by 8 wkts",
+      "team1": {
+        "name": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "7 (10) Canada Women CANW 75",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71-7 (10) Canada Women CANW 75-2 (9) Canada Women won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 96-9 (20) Canada Women CANW 78 (18.4) Argentina Women won by 18 runs",
+      "team1": {
+        "name": "4th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 96",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "9 (20) Canada Women CANW 78 (18.4) Argentina Women won by 18 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 96-9 (20) Canada Women CANW 78 (18.4) Argentina Women won by 18 runs",
       "status": "Match Details"
     }
   ]
