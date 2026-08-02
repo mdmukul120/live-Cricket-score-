@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-02 04:43:30 UTC",
+  "last_updated": "2026-08-02 07:22:33 UTC",
   "total_matches": 36,
   "matches": [
-    {
-      "title": "LDN vs SOU - SOU won",
-      "team1": {
-        "name": "LDN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SOU",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDN vs SOU - SOU won",
-      "status": "Match Details"
-    },
     {
       "title": "WI vs PAK - Preview",
       "team1": {
@@ -30,20 +17,20 @@
       "status": "Match Details"
     },
     {
-      "title": "GAW vs SFU - GAW won",
+      "title": "TRE vs SUL - Preview",
       "team1": {
-        "name": "GAW",
+        "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SFU",
+        "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs SFU - GAW won",
+      "score": "TRE vs SUL - Preview",
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - PAKW opt to bat",
+      "title": "PAKW vs SLW - Need 28 off 30b",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -52,7 +39,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - PAKW opt to bat",
+      "score": "PAKW vs SLW - Need 28 off 30b",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TREW vs SULW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "GAW vs SFU - GAW won",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SFU",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs SFU - GAW won",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Essex vs Worcestershire Group B",
       "team1": {
         "name": "Essex",
@@ -339,6 +326,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
