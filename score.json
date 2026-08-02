@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-02 12:13:14 UTC",
+  "last_updated": "2026-08-02 14:01:23 UTC",
   "total_matches": 39,
   "matches": [
     {
-      "title": "TREW vs SULW - Need 66 off 35b",
-      "team1": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SULW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TREW vs SULW - Need 66 off 35b",
-      "status": "Match Details"
-    },
-    {
-      "title": "WI vs PAK - Preview",
+      "title": "WI vs PAK - Delay",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -26,11 +13,11 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Preview",
+      "score": "WI vs PAK - Delay",
       "status": "Match Details"
     },
     {
-      "title": "TRE vs SUL - Preview",
+      "title": "TRE vs SUL - TRE opt to bat",
       "team1": {
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,33 +26,46 @@
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRE vs SUL - Preview",
+      "score": "TRE vs SUL - TRE opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - SLW won",
+      "title": "MILW vs MSGW - MSGW opt to bowl",
       "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "MILW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PAKW vs SLW - SLW won",
+      "score": "MILW vs MSGW - MSGW opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "GAW vs SFU - GAW won",
+      "title": "MIL vs MSG - Preview",
       "team1": {
-        "name": "GAW",
+        "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SFU",
+        "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs SFU - GAW won",
+      "score": "MIL vs MSG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "TREW vs SULW - TREW won",
+      "team1": {
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TREW vs SULW - TREW won",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets vs Sunrisers Leeds 17th Match",
+      "title": "Trent Rockets vs Sunrisers Leeds LIVE 17th Match",
       "team1": {
         "name": "Trent Rockets",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds 17th Match",
+        "name": "Sunrisers Leeds LIVE 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets vs Sunrisers Leeds 17th Match",
+      "score": "Trent Rockets vs Sunrisers Leeds LIVE 17th Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Dambulla Sixers 20th Match",
+      "title": "Dambulla Sixers vs Jaffna Kings 20th Match",
       "team1": {
-        "name": "Jaffna Kings",
+        "name": "Dambulla Sixers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dambulla Sixers 20th Match",
+        "name": "Jaffna Kings 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Dambulla Sixers 20th Match",
+      "score": "Dambulla Sixers vs Jaffna Kings 20th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Central Delhi Kings 4th Match",
+      "title": "Outer Delhi Warriors vs Central Delhi Kings LIVE 4th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings 4th Match",
+        "name": "Central Delhi Kings LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs Central Delhi Kings 4th Match",
+      "score": "Outer Delhi Warriors vs Central Delhi Kings LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -251,120 +251,120 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Sussex LIVE Group B",
+      "title": "Central Delhi Kings vs North Delhi Strikers 7th Match",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North Delhi Strikers 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs North Delhi Strikers 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Sussex Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Sussex LIVE Group B",
+        "name": "Sussex Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Sussex LIVE Group B",
+      "score": "Derbyshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Worcestershire LIVE Group B",
+      "title": "Essex vs Worcestershire Group B",
       "team1": {
         "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire LIVE Group B",
+        "name": "Worcestershire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Essex vs Worcestershire LIVE Group B",
+      "score": "Essex vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Durham LIVE Group B",
+      "title": "Hampshire vs Durham Group B",
       "team1": {
         "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Durham LIVE Group B",
+        "name": "Durham Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hampshire vs Durham LIVE Group B",
+      "score": "Hampshire vs Durham Group B",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Kent LIVE Group A",
+      "title": "Nottinghamshire vs Kent Group A",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent LIVE Group A",
+        "name": "Kent Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nottinghamshire vs Kent LIVE Group A",
+      "score": "Nottinghamshire vs Kent Group A",
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Somerset LIVE Group A",
+      "title": "Leicestershire vs Somerset Group A",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset LIVE Group A",
+        "name": "Somerset Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Somerset LIVE Group A",
+      "score": "Leicestershire vs Somerset Group A",
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Yorkshire LIVE Group B",
+      "title": "Middlesex vs Yorkshire Group B",
       "team1": {
         "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Yorkshire LIVE Group B",
+        "name": "Yorkshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Middlesex vs Yorkshire LIVE Group B",
+      "score": "Middlesex vs Yorkshire Group B",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Lancashire LIVE Group A",
+      "title": "Northamptonshire vs Lancashire Group A",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Lancashire LIVE Group A",
+        "name": "Lancashire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Northamptonshire vs Lancashire LIVE Group A",
+      "score": "Northamptonshire vs Lancashire Group A",
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Warwickshire LIVE Group A",
+      "title": "Gloucestershire vs Warwickshire Group A",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Warwickshire LIVE Group A",
+        "name": "Warwickshire Group A",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Gloucestershire vs Warwickshire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Welsh Fire Women vs Birmingham Phoenix Women 15th Match",
-      "team1": {
-        "name": "Welsh Fire Women",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Birmingham Phoenix Women 15th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Welsh Fire Women vs Birmingham Phoenix Women 15th Match",
+      "score": "Gloucestershire vs Warwickshire Group A",
       "status": "Match Details"
     },
     {
@@ -381,29 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets Women vs Sunrisers Leeds Women LIVE 17th Match",
+      "title": "Trent Rockets Women vs Sunrisers Leeds Women 17th Match",
       "team1": {
         "name": "Trent Rockets Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds Women LIVE 17th Match",
+        "name": "Sunrisers Leeds Women 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets Women vs Sunrisers Leeds Women LIVE 17th Match",
+      "score": "Trent Rockets Women vs Sunrisers Leeds Women 17th Match",
       "status": "Match Details"
     },
     {
-      "title": "MI London Women vs Manchester Super Giants Women 18th Match",
+      "title": "MI London Women vs Manchester Super Giants Women LIVE 18th Match",
       "team1": {
         "name": "MI London Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women 18th Match",
+        "name": "Manchester Super Giants Women LIVE 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London Women vs Manchester Super Giants Women 18th Match",
+      "score": "MI London Women vs Manchester Super Giants Women LIVE 18th Match",
       "status": "Match Details"
     },
     {
@@ -472,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 175-5 (20) Sri Lanka Women SLW 178-4 (17.4) Sri Lanka Women won by 6 wkts",
+      "title": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 139-7 (100 Balls) Sunrisers Leeds Women SULW 134-5 (100 Balls) Trent Rockets Women won by 5 runs",
       "team1": {
-        "name": "2nd T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 175",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 139",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (20) Sri Lanka Women SLW 178",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "7 (100 Balls) Sunrisers Leeds Women SULW 134",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 175-5 (20) Sri Lanka Women SLW 178-4 (17.4) Sri Lanka Women won by 6 wkts",
+      "score": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 139-7 (100 Balls) Sunrisers Leeds Women SULW 134-5 (100 Balls) Trent Rockets Women won by 5 runs",
       "status": "Match Details"
     },
     {
