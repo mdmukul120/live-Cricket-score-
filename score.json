@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-02 16:16:28 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-08-02 17:28:54 UTC",
+  "total_matches": 45,
   "matches": [
     {
       "title": "WI vs PAK - WI opt to bat",
@@ -17,20 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "TRE vs SUL - Need 23 off 8b",
-      "team1": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SUL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TRE vs SUL - Need 23 off 8b",
-      "status": "Match Details"
-    },
-    {
-      "title": "MIL vs MSG - Preview",
+      "title": "MIL vs MSG - MSG opt to bowl",
       "team1": {
         "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +26,20 @@
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MIL vs MSG - Preview",
+      "score": "MIL vs MSG - MSG opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "TRE vs SUL - TRE won",
+      "team1": {
+        "name": "TRE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TRE vs SUL - TRE won",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "DAS vs JKS - Rain",
+      "title": "DAS vs JKS - No Result",
       "team1": {
         "name": "DAS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,20 @@
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DAS vs JKS - Rain",
+      "score": "DAS vs JKS - No Result",
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan 2nd Test",
+      "title": "West Indies vs Pakistan LIVE 2nd Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan 2nd Test",
+        "name": "Pakistan LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan 2nd Test",
+      "score": "West Indies vs Pakistan LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix vs Welsh Fire 15th Match",
-      "team1": {
-        "name": "Birmingham Phoenix",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Welsh Fire 15th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Birmingham Phoenix vs Welsh Fire 15th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "London Spirit vs Southern Brave 16th Match",
       "team1": {
         "name": "London Spirit",
@@ -121,29 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets vs Sunrisers Leeds LIVE 17th Match",
+      "title": "Trent Rockets vs Sunrisers Leeds 17th Match",
       "team1": {
         "name": "Trent Rockets",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds LIVE 17th Match",
+        "name": "Sunrisers Leeds 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets vs Sunrisers Leeds LIVE 17th Match",
+      "score": "Trent Rockets vs Sunrisers Leeds 17th Match",
       "status": "Match Details"
     },
     {
-      "title": "MI London vs Manchester Super Giants 18th Match",
+      "title": "MI London vs Manchester Super Giants LIVE 18th Match",
       "team1": {
         "name": "MI London",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants 18th Match",
+        "name": "Manchester Super Giants LIVE 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London vs Manchester Super Giants 18th Match",
+      "score": "MI London vs Manchester Super Giants LIVE 18th Match",
       "status": "Match Details"
     },
     {
@@ -183,19 +170,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Dambulla Sixers vs Jaffna Kings 20th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "West Delhi Lions vs New Delhi Tigers 3rd Match",
-      "team1": {
-        "name": "West Delhi Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "New Delhi Tigers 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "West Delhi Lions vs New Delhi Tigers 3rd Match",
       "status": "Match Details"
     },
     {
@@ -251,29 +225,81 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Sussex LIVE Group B",
+      "title": "Leicestershire vs Somerset Group A",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Somerset Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Leicestershire vs Somerset Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Yorkshire Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Lancashire Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Northamptonshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Warwickshire Group A",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire Group A",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Gloucestershire vs Warwickshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Sussex Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Sussex LIVE Group B",
+        "name": "Sussex Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Sussex LIVE Group B",
+      "score": "Derbyshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Worcestershire LIVE Group B",
+      "title": "Essex vs Worcestershire Group B",
       "team1": {
         "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire LIVE Group B",
+        "name": "Worcestershire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Essex vs Worcestershire LIVE Group B",
+      "score": "Essex vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -300,71 +326,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nottinghamshire vs Kent LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Somerset Group A",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Somerset Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Leicestershire vs Somerset Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Yorkshire LIVE Group B",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yorkshire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Yorkshire LIVE Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Lancashire LIVE Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire LIVE Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Lancashire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Warwickshire LIVE Group A",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire LIVE Group A",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Gloucestershire vs Warwickshire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "London Spirit Women vs Southern Brave Women 16th Match",
-      "team1": {
-        "name": "London Spirit Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Southern Brave Women 16th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "London Spirit Women vs Southern Brave Women 16th Match",
       "status": "Match Details"
     },
     {
@@ -420,19 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Argentina Women vs Canada Women 4th T20I",
-      "team1": {
-        "name": "Argentina Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canada Women 4th T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Argentina Women vs Canada Women 4th T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Argentina Women vs Canada Women 5th T20I",
       "team1": {
         "name": "Argentina Women",
@@ -446,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Argentina Women vs Canada Women LIVE 6th T20I",
+      "title": "Argentina Women vs Canada Women 6th T20I",
       "team1": {
         "name": "Argentina Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada Women LIVE 6th T20I",
+        "name": "Canada Women 6th T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Argentina Women vs Canada Women LIVE 6th T20I",
+      "score": "Argentina Women vs Canada Women 6th T20I",
       "status": "Match Details"
     },
     {
@@ -472,6 +420,19 @@
       "status": "Match Details"
     },
     {
+      "title": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets TRE 146-4 (100 Balls) Sunrisers Leeds SUL 141-4 (100 Balls) Trent Rockets won by 5 runs",
+      "team1": {
+        "name": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets TRE 146",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (100 Balls) Sunrisers Leeds SUL 141",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets TRE 146-4 (100 Balls) Sunrisers Leeds SUL 141-4 (100 Balls) Trent Rockets won by 5 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "4th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 130-5 (10) Central Delhi Kings CDK 133-6 (9.5) Central Delhi Kings won by 4 wkts (Match reduced to 10 overs per side due to rain)",
       "team1": {
         "name": "4th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 130",
@@ -482,6 +443,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 130-5 (10) Central Delhi Kings CDK 133-6 (9.5) Central Delhi Kings won by 4 wkts (Match reduced to 10 overs per side due to rain)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Chelmsford, County Ground Essex ESS 376-5 (50) Worcestershire WORCS 269 (41.3) Essex won by 107 runs",
+      "team1": {
+        "name": "Group B • Chelmsford, County Ground Essex ESS 376",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (50) Worcestershire WORCS 269 (41.3) Essex won by 107 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Chelmsford, County Ground Essex ESS 376-5 (50) Worcestershire WORCS 269 (41.3) Essex won by 107 runs",
       "status": "Match Details"
     },
     {
@@ -498,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Group A • Rugby, Warwickshire , Rugby School Ground Gloucestershire GLOUCS 271-9 (50) Warwickshire WARKS 277-4 (42) Warwickshire won by 6 wkts",
+      "team1": {
+        "name": "Group A • Rugby, Warwickshire , Rugby School Ground Gloucestershire GLOUCS 271",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "9 (50) Warwickshire WARKS 277",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Group A • Rugby, Warwickshire , Rugby School Ground Gloucestershire GLOUCS 271-9 (50) Warwickshire WARKS 277-4 (42) Warwickshire won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "Group B • Southampton, The Rose Bowl Hampshire HAM 246 (50) Durham DUR 249-1 (38.3) Durham won by 9 wkts",
       "team1": {
         "name": "Group B • Southampton, The Rose Bowl Hampshire HAM 246 (50) Durham DUR 249",
@@ -508,6 +495,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group B • Southampton, The Rose Bowl Hampshire HAM 246 (50) Durham DUR 249-1 (38.3) Durham won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • London, Lord's Middlesex MDX 246 (48) Yorkshire YORKS 211 (47.3) Middlesex won by 35 runs",
+      "team1": {
+        "name": "Group B • London, Lord's Middlesex MDX 246 (48) Yorkshire YORKS 211 (47.3) Middlesex won by 35 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • London, Lord's Middlesex MDX 246 (48) Yorkshire YORKS 211 (47.3) Middlesex won by 35 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Derby, County Ground Derbyshire DERBY 325-7 (50) Sussex SUS 137 (31.4) Derbyshire won by 188 runs",
+      "team1": {
+        "name": "Group B • Derby, County Ground Derbyshire DERBY 325",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "7 (50) Sussex SUS 137 (31.4) Derbyshire won by 188 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Derby, County Ground Derbyshire DERBY 325-7 (50) Sussex SUS 137 (31.4) Derbyshire won by 188 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Northampton, County Ground Northamptonshire NHNTS 347-6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
+      "team1": {
+        "name": "Group A • Northampton, County Ground Northamptonshire NHNTS 347",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Northampton, County Ground Northamptonshire NHNTS 347-6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
       "status": "Match Details"
     },
     {
@@ -537,6 +563,19 @@
       "status": "Match Details"
     },
     {
+      "title": "6th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 99-4 (15) Canada Women CANW 78-7 (15) Argentina Women won by 21 runs",
+      "team1": {
+        "name": "6th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 99",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (15) Canada Women CANW 78",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 99-4 (15) Canada Women CANW 78-7 (15) Argentina Women won by 21 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71-7 (10) Canada Women CANW 75-2 (9) Canada Women won by 8 wkts",
       "team1": {
         "name": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71",
@@ -547,19 +586,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71-7 (10) Canada Women CANW 75-2 (9) Canada Women won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 96-9 (20) Canada Women CANW 78 (18.4) Argentina Women won by 18 runs",
-      "team1": {
-        "name": "4th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 96",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "9 (20) Canada Women CANW 78 (18.4) Argentina Women won by 18 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 96-9 (20) Canada Women CANW 78 (18.4) Argentina Women won by 18 runs",
       "status": "Match Details"
     }
   ]
