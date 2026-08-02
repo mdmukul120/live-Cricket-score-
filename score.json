@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-02 07:22:33 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-02 09:32:09 UTC",
+  "total_matches": 37,
   "matches": [
+    {
+      "title": "TREW vs SULW - SULW opt to bowl",
+      "team1": {
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TREW vs SULW - SULW opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "WI vs PAK - Preview",
       "team1": {
@@ -30,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - Need 28 off 30b",
+      "title": "PAKW vs SLW - SLW won",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -39,20 +52,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - Need 28 off 30b",
-      "status": "Match Details"
-    },
-    {
-      "title": "TREW vs SULW - Preview",
-      "team1": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SULW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TREW vs SULW - Preview",
+      "score": "PAKW vs SLW - SLW won",
       "status": "Match Details"
     },
     {
@@ -238,6 +238,32 @@
       "status": "Match Details"
     },
     {
+      "title": "West Delhi Lions vs Purani Dilli 6 6th Match",
+      "team1": {
+        "name": "West Delhi Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Purani Dilli 6 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "West Delhi Lions vs Purani Dilli 6 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Worcestershire Group B",
       "team1": {
         "name": "Essex",
@@ -329,19 +355,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Welsh Fire Women vs Birmingham Phoenix Women 15th Match",
       "team1": {
         "name": "Welsh Fire Women",
@@ -394,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women LIVE 2nd T20I",
+      "title": "Pakistan Women vs Sri Lanka Women 2nd T20I",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka Women LIVE 2nd T20I",
+        "name": "Sri Lanka Women 2nd T20I",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women LIVE 2nd T20I",
+      "score": "Pakistan Women vs Sri Lanka Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -459,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Final • Guyana, Providence Stadium Guyana Amazon Warriors GAW 85 (18.5) San Francisco Unicorns SFU 79 (18.3) Guyana Amazon Warriors won by 6 runs",
+      "title": "2nd T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 175-5 (20) Sri Lanka Women SLW 178-4 (17.4) Sri Lanka Women won by 6 wkts",
       "team1": {
-        "name": "Final • Guyana, Providence Stadium Guyana Amazon Warriors GAW 85 (18.5) San Francisco Unicorns SFU 79 (18.3) Guyana Amazon Warriors won by 6 runs",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "2nd T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 175",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "5 (20) Sri Lanka Women SLW 178",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Final • Guyana, Providence Stadium Guyana Amazon Warriors GAW 85 (18.5) San Francisco Unicorns SFU 79 (18.3) Guyana Amazon Warriors won by 6 runs",
+      "score": "2nd T20I • Dambulla, Rangiri Dambulla International Stadium Pakistan Women PAKW 175-5 (20) Sri Lanka Women SLW 178-4 (17.4) Sri Lanka Women won by 6 wkts",
       "status": "Match Details"
     }
   ]
