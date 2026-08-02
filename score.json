@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-02 15:13:47 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-08-02 16:16:28 UTC",
+  "total_matches": 43,
   "matches": [
     {
-      "title": "WI vs PAK - Rain",
+      "title": "WI vs PAK - WI opt to bat",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,11 +13,11 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Rain",
+      "score": "WI vs PAK - WI opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "TRE vs SUL - Need 135 off 90b",
+      "title": "TRE vs SUL - Need 23 off 8b",
       "team1": {
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,20 +26,7 @@
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRE vs SUL - Need 135 off 90b",
-      "status": "Match Details"
-    },
-    {
-      "title": "MILW vs MSGW - Need 71 off 83b",
-      "team1": {
-        "name": "MILW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MSGW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MILW vs MSGW - Need 71 off 83b",
+      "score": "TRE vs SUL - Need 23 off 8b",
       "status": "Match Details"
     },
     {
@@ -56,7 +43,20 @@
       "status": "Match Details"
     },
     {
-      "title": "DAS vs JKS - JKS opt to bowl",
+      "title": "MILW vs MSGW - MSGW won",
+      "team1": {
+        "name": "MILW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MILW vs MSGW - MSGW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "DAS vs JKS - Rain",
       "team1": {
         "name": "DAS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DAS vs JKS - JKS opt to bowl",
+      "score": "DAS vs JKS - Rain",
       "status": "Match Details"
     },
     {
@@ -173,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dambulla Sixers vs Jaffna Kings LIVE 20th Match",
+      "title": "Dambulla Sixers vs Jaffna Kings 20th Match",
       "team1": {
         "name": "Dambulla Sixers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jaffna Kings LIVE 20th Match",
+        "name": "Jaffna Kings 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dambulla Sixers vs Jaffna Kings LIVE 20th Match",
+      "score": "Dambulla Sixers vs Jaffna Kings 20th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs East Delhi Riders 5th Match",
+      "title": "New Delhi Tigers vs East Delhi Riders LIVE 5th Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Delhi Riders 5th Match",
+        "name": "East Delhi Riders LIVE 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs East Delhi Riders 5th Match",
+      "score": "New Delhi Tigers vs East Delhi Riders LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Durham LIVE Group B",
+      "title": "Derbyshire vs Sussex LIVE Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex LIVE Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Worcestershire LIVE Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Worcestershire LIVE Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Durham Group B",
       "team1": {
         "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Durham LIVE Group B",
+        "name": "Durham Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hampshire vs Durham LIVE Group B",
+      "score": "Hampshire vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -277,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Somerset LIVE Group A",
+      "title": "Leicestershire vs Somerset Group A",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset LIVE Group A",
+        "name": "Somerset Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Somerset LIVE Group A",
+      "score": "Leicestershire vs Somerset Group A",
       "status": "Match Details"
     },
     {
@@ -329,32 +355,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Sussex LIVE Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex LIVE Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex LIVE Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Worcestershire LIVE Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Worcestershire LIVE Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "London Spirit Women vs Southern Brave Women 16th Match",
       "team1": {
         "name": "London Spirit Women",
@@ -381,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London Women vs Manchester Super Giants Women LIVE 18th Match",
+      "title": "MI London Women vs Manchester Super Giants Women 18th Match",
       "team1": {
         "name": "MI London Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women LIVE 18th Match",
+        "name": "Manchester Super Giants Women 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London Women vs Manchester Super Giants Women LIVE 18th Match",
+      "score": "MI London Women vs Manchester Super Giants Women 18th Match",
       "status": "Match Details"
     },
     {
@@ -446,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Argentina Women vs Canada Women 6th T20I",
+      "title": "Argentina Women vs Canada Women LIVE 6th T20I",
       "team1": {
         "name": "Argentina Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada Women 6th T20I",
+        "name": "Canada Women LIVE 6th T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Argentina Women vs Canada Women 6th T20I",
+      "score": "Argentina Women vs Canada Women LIVE 6th T20I",
       "status": "Match Details"
     },
     {
@@ -482,6 +482,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 130-5 (10) Central Delhi Kings CDK 133-6 (9.5) Central Delhi Kings won by 4 wkts (Match reduced to 10 overs per side due to rain)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Leicester, Grace Road Leicestershire LEIC 289-8 (50) Somerset SOM 125 (30) Leicestershire won by 164 runs",
+      "team1": {
+        "name": "Group A • Leicester, Grace Road Leicestershire LEIC 289",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "8 (50) Somerset SOM 125 (30) Leicestershire won by 164 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Leicester, Grace Road Leicestershire LEIC 289-8 (50) Somerset SOM 125 (30) Leicestershire won by 164 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Southampton, The Rose Bowl Hampshire HAM 246 (50) Durham DUR 249-1 (38.3) Durham won by 9 wkts",
+      "team1": {
+        "name": "Group B • Southampton, The Rose Bowl Hampshire HAM 246 (50) Durham DUR 249",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "1 (38.3) Durham won by 9 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Southampton, The Rose Bowl Hampshire HAM 246 (50) Durham DUR 249-1 (38.3) Durham won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "18th Match • London, Kennington Oval 100 MI London Women MILW 92 (99 Balls) Manchester Super Giants Women MSGW 95-4 (72 Balls) Manchester Super Giants Women won by 6 wkts",
+      "team1": {
+        "name": "18th Match • London, Kennington Oval 100 MI London Women MILW 92 (99 Balls) Manchester Super Giants Women MSGW 95",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (72 Balls) Manchester Super Giants Women won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "18th Match • London, Kennington Oval 100 MI London Women MILW 92 (99 Balls) Manchester Super Giants Women MSGW 95-4 (72 Balls) Manchester Super Giants Women won by 6 wkts",
       "status": "Match Details"
     },
     {
