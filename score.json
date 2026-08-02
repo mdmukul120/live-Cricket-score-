@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-02 22:40:04 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-02 23:43:23 UTC",
+  "total_matches": 33,
   "matches": [
     {
       "title": "WI vs PAK - Stumps",
@@ -212,6 +212,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Northamptonshire vs Lancashire Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Northamptonshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Warwickshire Group A",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire Group A",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Gloucestershire vs Warwickshire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Derbyshire vs Sussex Group B",
       "team1": {
         "name": "Derbyshire",
@@ -287,32 +313,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Middlesex vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Lancashire Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Warwickshire Group A",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire Group A",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Gloucestershire vs Warwickshire Group A",
       "status": "Match Details"
     },
     {
@@ -417,71 +417,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "5th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 178-8 (20) East Delhi Riders EDR 129-9 (20) New Delhi Tigers won by 49 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • London, Lord's Middlesex MDX 246 (48) Yorkshire YORKS 211 (47.3) Middlesex won by 35 runs",
-      "team1": {
-        "name": "Group B • London, Lord's Middlesex MDX 246 (48) Yorkshire YORKS 211 (47.3) Middlesex won by 35 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group B • London, Lord's Middlesex MDX 246 (48) Yorkshire YORKS 211 (47.3) Middlesex won by 35 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Chelmsford, County Ground Essex ESS 376-5 (50) Worcestershire WORCS 269 (41.3) Essex won by 107 runs",
-      "team1": {
-        "name": "Group B • Chelmsford, County Ground Essex ESS 376",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (50) Worcestershire WORCS 269 (41.3) Essex won by 107 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group B • Chelmsford, County Ground Essex ESS 376-5 (50) Worcestershire WORCS 269 (41.3) Essex won by 107 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Northampton, County Ground Northamptonshire NHNTS 347-6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
-      "team1": {
-        "name": "Group A • Northampton, County Ground Northamptonshire NHNTS 347",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Northampton, County Ground Northamptonshire NHNTS 347-6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Beckenham, Kent County Cricket Ground Nottinghamshire NOTTS 293-9 (50) Kent KENT 294-5 (49.2) Kent won by 5 wkts",
-      "team1": {
-        "name": "Group A • Beckenham, Kent County Cricket Ground Nottinghamshire NOTTS 293",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "9 (50) Kent KENT 294",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group A • Beckenham, Kent County Cricket Ground Nottinghamshire NOTTS 293-9 (50) Kent KENT 294-5 (49.2) Kent won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Rugby, Warwickshire , Rugby School Ground Gloucestershire GLOUCS 271-9 (50) Warwickshire WARKS 277-4 (42) Warwickshire won by 6 wkts",
-      "team1": {
-        "name": "Group A • Rugby, Warwickshire , Rugby School Ground Gloucestershire GLOUCS 271",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "9 (50) Warwickshire WARKS 277",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Group A • Rugby, Warwickshire , Rugby School Ground Gloucestershire GLOUCS 271-9 (50) Warwickshire WARKS 277-4 (42) Warwickshire won by 6 wkts",
       "status": "Match Details"
     },
     {
