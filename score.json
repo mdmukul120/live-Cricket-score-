@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-02 17:28:54 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-08-02 18:34:25 UTC",
+  "total_matches": 44,
   "matches": [
     {
       "title": "WI vs PAK - WI opt to bat",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MIL vs MSG - MSG opt to bowl",
+      "title": "MIL vs MSG - Innings Break",
       "team1": {
         "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MIL vs MSG - MSG opt to bowl",
+      "score": "MIL vs MSG - Innings Break",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "DAS vs JKS - No Result",
+      "title": "WEF vs SOU - Preview",
       "team1": {
-        "name": "DAS",
+        "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "JKS",
+        "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DAS vs JKS - No Result",
+      "score": "WEF vs SOU - Preview",
       "status": "Match Details"
     },
     {
@@ -134,29 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs San Francisco Unicorns Final",
+      "title": "Welsh Fire vs Southern Brave 19th Match",
       "team1": {
-        "name": "Guyana Amazon Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Welsh Fire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "San Francisco Unicorns Final",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Guyana Amazon Warriors vs San Francisco Unicorns Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Galle Gallants vs Colombo Kaps 19th Match",
-      "team1": {
-        "name": "Galle Gallants",
+        "name": "Southern Brave 19th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "Colombo Kaps 19th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Galle Gallants vs Colombo Kaps 19th Match",
+      "score": "Welsh Fire vs Southern Brave 19th Match",
       "status": "Match Details"
     },
     {
@@ -170,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Dambulla Sixers vs Jaffna Kings 20th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs San Francisco Unicorns Final",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "San Francisco Unicorns Final",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Guyana Amazon Warriors vs San Francisco Unicorns Final",
       "status": "Match Details"
     },
     {
@@ -225,6 +225,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Worcestershire Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Durham Group B",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Durham Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Kent Group A",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Leicestershire vs Somerset Group A",
       "team1": {
         "name": "Leicestershire",
@@ -274,58 +326,6 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "Gloucestershire vs Warwickshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Worcestershire Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Durham Group B",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Durham Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Kent LIVE Group A",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent LIVE Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Kent LIVE Group A",
       "status": "Match Details"
     },
     {
@@ -446,6 +446,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Group A • Northampton, County Ground Northamptonshire NHNTS 347-6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
+      "team1": {
+        "name": "Group A • Northampton, County Ground Northamptonshire NHNTS 347",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Northampton, County Ground Northamptonshire NHNTS 347-6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "Group B • Chelmsford, County Ground Essex ESS 376-5 (50) Worcestershire WORCS 269 (41.3) Essex won by 107 runs",
       "team1": {
         "name": "Group B • Chelmsford, County Ground Essex ESS 376",
@@ -524,16 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Group A • Northampton, County Ground Northamptonshire NHNTS 347-6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
+      "title": "Group A • Beckenham, Kent County Cricket Ground Nottinghamshire NOTTS 293-9 (50) Kent KENT 294-5 (49.2) Kent won by 5 wkts",
       "team1": {
-        "name": "Group A • Northampton, County Ground Northamptonshire NHNTS 347",
+        "name": "Group A • Beckenham, Kent County Cricket Ground Nottinghamshire NOTTS 293",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "9 (50) Kent KENT 294",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Group A • Northampton, County Ground Northamptonshire NHNTS 347-6 (50) Lancashire LANCS 280 (45.2) Northamptonshire won by 67 runs",
+      "score": "Group A • Beckenham, Kent County Cricket Ground Nottinghamshire NOTTS 293-9 (50) Kent KENT 294-5 (49.2) Kent won by 5 wkts",
       "status": "Match Details"
     },
     {
@@ -550,19 +563,6 @@
       "status": "Match Details"
     },
     {
-      "title": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 139-7 (100 Balls) Sunrisers Leeds Women SULW 134-5 (100 Balls) Trent Rockets Women won by 5 runs",
-      "team1": {
-        "name": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 139",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (100 Balls) Sunrisers Leeds Women SULW 134",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "17th Match • Nottingham, Trent Bridge 100 Trent Rockets Women TREW 139-7 (100 Balls) Sunrisers Leeds Women SULW 134-5 (100 Balls) Trent Rockets Women won by 5 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "6th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 99-4 (15) Canada Women CANW 78-7 (15) Argentina Women won by 21 runs",
       "team1": {
         "name": "6th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 99",
@@ -573,19 +573,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "6th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 99-4 (15) Canada Women CANW 78-7 (15) Argentina Women won by 21 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71-7 (10) Canada Women CANW 75-2 (9) Canada Women won by 8 wkts",
-      "team1": {
-        "name": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "7 (10) Canada Women CANW 75",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th T20I • Quilmes, Buenos Aires, St George's College Ground Argentina Women ARGW 71-7 (10) Canada Women CANW 75-2 (9) Canada Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
