@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-01 23:36:27 UTC",
+  "last_updated": "2026-08-02 01:14:40 UTC",
   "total_matches": 37,
   "matches": [
     {
-      "title": "GAW vs SFU - GAW opt to bat",
+      "title": "GAW vs SFU - Need 48 off 82b",
       "team1": {
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "SFU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs SFU - GAW opt to bat",
+      "score": "GAW vs SFU - Need 48 off 82b",
       "status": "Match Details"
     },
     {
@@ -251,45 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Sussex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Worcestershire Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Durham Group B",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Durham Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Kent vs Nottinghamshire Group A",
       "team1": {
         "name": "Kent",
@@ -352,6 +313,45 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Sussex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Worcestershire Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Durham Group B",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Durham Group B",
       "status": "Match Details"
     },
     {
