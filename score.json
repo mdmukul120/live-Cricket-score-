@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-03 11:59:00 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-08-03 15:10:19 UTC",
+  "total_matches": 31,
   "matches": [
     {
-      "title": "WI vs PAK - Stumps",
+      "title": "WI vs PAK - WI opt to bat",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,46 +13,7 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "WDL vs PD - Need 13 off 18b",
-      "team1": {
-        "name": "WDL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "PD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WDL vs PD - Need 13 off 18b",
-      "status": "Match Details"
-    },
-    {
-      "title": "SCO vs UAE - Delay",
-      "team1": {
-        "name": "SCO",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SCO vs UAE - Delay",
-      "status": "Match Details"
-    },
-    {
-      "title": "WELW vs SOUW - Preview",
-      "team1": {
-        "name": "WELW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SOUW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WELW vs SOUW - Preview",
+      "score": "WI vs PAK - WI opt to bat",
       "status": "Match Details"
     },
     {
@@ -69,16 +30,55 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan 2nd Test",
+      "title": "SOUW vs WELW - SOUW opt to bat",
+      "team1": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "WELW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOUW vs WELW - SOUW opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "NDS vs CDK - CDK opt to bowl",
+      "team1": {
+        "name": "NDS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "CDK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NDS vs CDK - CDK opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SCO vs UAE - Delay",
+      "team1": {
+        "name": "SCO",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UAE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SCO vs UAE - Delay",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Indies vs Pakistan LIVE 2nd Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan 2nd Test",
+        "name": "Pakistan LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan 2nd Test",
+      "score": "West Indies vs Pakistan LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -147,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons 1st Match",
+      "team1": {
+        "name": "IDream Tiruppur Tamizhans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dindigul Dragons 1st Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "IDream Tiruppur Tamizhans vs Dindigul Dragons 1st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "New Delhi Tigers vs East Delhi Riders 5th Match",
       "team1": {
         "name": "New Delhi Tigers",
@@ -160,29 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "West Delhi Lions vs Purani Dilli 6 LIVE 6th Match",
+      "title": "West Delhi Lions vs Purani Dilli 6 6th Match",
       "team1": {
         "name": "West Delhi Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 LIVE 6th Match",
+        "name": "Purani Dilli 6 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "West Delhi Lions vs Purani Dilli 6 LIVE 6th Match",
+      "score": "West Delhi Lions vs Purani Dilli 6 6th Match",
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs North Delhi Strikers 7th Match",
+      "title": "North Delhi Strikers vs Central Delhi Kings LIVE 7th Match",
       "team1": {
-        "name": "Central Delhi Kings",
+        "name": "North Delhi Strikers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North Delhi Strikers 7th Match",
+        "name": "Central Delhi Kings LIVE 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs North Delhi Strikers 7th Match",
+      "score": "North Delhi Strikers vs Central Delhi Kings LIVE 7th Match",
       "status": "Match Details"
     },
     {
@@ -196,6 +209,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "New Delhi Tigers vs Outer Delhi Warriors 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Delhi Superstarz vs West Delhi Lions 9th Match",
+      "team1": {
+        "name": "South Delhi Superstarz",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "West Delhi Lions 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Delhi Superstarz vs West Delhi Lions 9th Match",
       "status": "Match Details"
     },
     {
@@ -303,29 +329,29 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London Women vs Manchester Super Giants Women 18th Match",
+      "title": "Southern Brave Women vs Welsh Fire Women LIVE 19th Match",
       "team1": {
-        "name": "MI London Women",
+        "name": "Southern Brave Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women 18th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Welsh Fire Women LIVE 19th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "MI London Women vs Manchester Super Giants Women 18th Match",
+      "score": "Southern Brave Women vs Welsh Fire Women LIVE 19th Match",
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs Southern Brave Women 19th Match",
+      "title": "Sunrisers Leeds Women vs London Spirit Women 20th Match",
       "team1": {
-        "name": "Welsh Fire Women",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Southern Brave Women 19th Match",
+        "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire Women vs Southern Brave Women 19th Match",
+      "team2": {
+        "name": "London Spirit Women 20th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sunrisers Leeds Women vs London Spirit Women 20th Match",
       "status": "Match Details"
     },
     {
@@ -365,6 +391,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Canada Women vs Argentina Women 7th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "6th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 180-6 (20) Purani Dilli 6 PD 182-3 (17.5) Purani Dilli 6 won by 7 wkts",
+      "team1": {
+        "name": "6th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 180",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Purani Dilli 6 PD 182",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 180-6 (20) Purani Dilli 6 PD 182-3 (17.5) Purani Dilli 6 won by 7 wkts",
       "status": "Match Details"
     }
   ]
