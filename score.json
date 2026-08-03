@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-03 15:10:19 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-08-03 17:20:23 UTC",
+  "total_matches": 30,
   "matches": [
     {
-      "title": "WI vs PAK - WI opt to bat",
+      "title": "WI vs PAK - Trail by 307",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,24 +13,24 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - WI opt to bat",
+      "score": "WI vs PAK - Trail by 307",
       "status": "Match Details"
     },
     {
-      "title": "WEF vs SOU - Preview",
+      "title": "SOU vs WEF - WEF opt to bowl",
       "team1": {
-        "name": "WEF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WEF vs SOU - Preview",
+      "team2": {
+        "name": "WEF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOU vs WEF - WEF opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "SOUW vs WELW - SOUW opt to bat",
+      "title": "SOUW vs WELW - WELW won",
       "team1": {
         "name": "SOUW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOUW vs WELW - SOUW opt to bat",
+      "score": "SOUW vs WELW - WELW won",
       "status": "Match Details"
     },
     {
-      "title": "NDS vs CDK - CDK opt to bowl",
+      "title": "NDS vs CDK - CDK won",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "CDK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs CDK - CDK opt to bowl",
+      "score": "NDS vs CDK - CDK won",
       "status": "Match Details"
     },
     {
-      "title": "SCO vs UAE - Delay",
+      "title": "SCO vs UAE - Abandon",
       "team1": {
         "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs UAE - Delay",
+      "score": "SCO vs UAE - Abandon",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets vs Sunrisers Leeds 17th Match",
-      "team1": {
-        "name": "Trent Rockets",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sunrisers Leeds 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Trent Rockets vs Sunrisers Leeds 17th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "MI London vs Manchester Super Giants 18th Match",
       "team1": {
         "name": "MI London",
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire vs Southern Brave 19th Match",
+      "title": "Southern Brave vs Welsh Fire 19th Match",
       "team1": {
-        "name": "Welsh Fire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Southern Brave 19th Match",
+        "name": "Southern Brave",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire vs Southern Brave 19th Match",
+      "team2": {
+        "name": "Welsh Fire 19th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Southern Brave vs Welsh Fire 19th Match",
       "status": "Match Details"
     },
     {
@@ -160,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs East Delhi Riders 5th Match",
-      "team1": {
-        "name": "New Delhi Tigers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "East Delhi Riders 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "New Delhi Tigers vs East Delhi Riders 5th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "West Delhi Lions vs Purani Dilli 6 6th Match",
       "team1": {
         "name": "West Delhi Lions",
@@ -186,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Delhi Strikers vs Central Delhi Kings LIVE 7th Match",
+      "title": "North Delhi Strikers vs Central Delhi Kings 7th Match",
       "team1": {
         "name": "North Delhi Strikers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings LIVE 7th Match",
+        "name": "Central Delhi Kings 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Delhi Strikers vs Central Delhi Kings LIVE 7th Match",
+      "score": "North Delhi Strikers vs Central Delhi Kings 7th Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Southern Brave Women vs Welsh Fire Women LIVE 19th Match",
+      "title": "Southern Brave Women vs Welsh Fire Women 19th Match",
       "team1": {
         "name": "Southern Brave Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Welsh Fire Women LIVE 19th Match",
+        "name": "Welsh Fire Women 19th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Southern Brave Women vs Welsh Fire Women LIVE 19th Match",
+      "score": "Southern Brave Women vs Welsh Fire Women 19th Match",
       "status": "Match Details"
     },
     {
@@ -368,19 +342,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Argentina Women vs Canada Women 6th T20I",
-      "team1": {
-        "name": "Argentina Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canada Women 6th T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Argentina Women vs Canada Women 6th T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Canada Women vs Argentina Women 7th T20I",
       "team1": {
         "name": "Canada Women",
@@ -394,6 +355,19 @@
       "status": "Match Details"
     },
     {
+      "title": "7th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 209-3 (20) Central Delhi Kings CDK 210-6 (18.2) Central Delhi Kings won by 4 wkts",
+      "team1": {
+        "name": "7th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 209",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (20) Central Delhi Kings CDK 210",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "7th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 209-3 (20) Central Delhi Kings CDK 210-6 (18.2) Central Delhi Kings won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "6th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 180-6 (20) Purani Dilli 6 PD 182-3 (17.5) Purani Dilli 6 won by 7 wkts",
       "team1": {
         "name": "6th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 180",
@@ -404,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "6th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 180-6 (20) Purani Dilli 6 PD 182-3 (17.5) Purani Dilli 6 won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "19th Match • Cardiff, Sophia Gardens 100 Southern Brave Women SOUW 121-5 (100 Balls) Welsh Fire Women WELW 122-6 (100 Balls) Welsh Fire Women won by 4 wkts",
+      "team1": {
+        "name": "19th Match • Cardiff, Sophia Gardens 100 Southern Brave Women SOUW 121",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (100 Balls) Welsh Fire Women WELW 122",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "19th Match • Cardiff, Sophia Gardens 100 Southern Brave Women SOUW 121-5 (100 Balls) Welsh Fire Women WELW 122-6 (100 Balls) Welsh Fire Women won by 4 wkts",
       "status": "Match Details"
     }
   ]
