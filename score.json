@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-04 05:34:44 UTC",
-  "total_matches": 17,
+  "last_updated": "2026-08-04 08:07:21 UTC",
+  "total_matches": 19,
   "matches": [
     {
       "title": "WI vs PAK - Stumps",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SLW vs PAKW - PAKW opt to bowl",
+      "title": "SLW vs PAKW - PAKW won",
       "team1": {
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -26,7 +26,7 @@
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "SLW vs PAKW - PAKW opt to bowl",
+      "score": "SLW vs PAKW - PAKW won",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDT vs ODW - Preview",
+      "title": "NDT vs ODW - NDT opt to bat",
       "team1": {
         "name": "NDT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDT vs ODW - Preview",
+      "score": "NDT vs ODW - NDT opt to bat",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs Outer Delhi Warriors 8th Match",
+      "title": "New Delhi Tigers vs Outer Delhi Warriors LIVE 8th Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors 8th Match",
+        "name": "Outer Delhi Warriors LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs Outer Delhi Warriors 8th Match",
+      "score": "New Delhi Tigers vs Outer Delhi Warriors LIVE 8th Match",
       "status": "Match Details"
     },
     {
@@ -183,6 +183,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "South Delhi Superstarz vs West Delhi Lions 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Purani Dilli 6 vs Central Delhi Kings 10th Match",
+      "team1": {
+        "name": "Purani Dilli 6",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Central Delhi Kings 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Purani Dilli 6 vs Central Delhi Kings 10th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs Pakistan Women LIVE 3rd T20I",
+      "title": "Sri Lanka Women vs Pakistan Women 3rd T20I",
       "team1": {
         "name": "Sri Lanka Women",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Pakistan Women LIVE 3rd T20I",
+        "name": "Pakistan Women 3rd T20I",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Sri Lanka Women vs Pakistan Women LIVE 3rd T20I",
+      "score": "Sri Lanka Women vs Pakistan Women 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd T20I • Dambulla, Rangiri Dambulla International Stadium Sri Lanka Women SLW 113-6 (20) Pakistan Women PAKW 115-6 (18.2) Pakistan Women won by 4 wkts",
+      "team1": {
+        "name": "3rd T20I • Dambulla, Rangiri Dambulla International Stadium Sri Lanka Women SLW 113",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "6 (20) Pakistan Women PAKW 115",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "3rd T20I • Dambulla, Rangiri Dambulla International Stadium Sri Lanka Women SLW 113-6 (20) Pakistan Women PAKW 115-6 (18.2) Pakistan Women won by 4 wkts",
       "status": "Match Details"
     }
   ]
