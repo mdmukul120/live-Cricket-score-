@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-04 02:42:58 UTC",
+  "last_updated": "2026-08-04 05:34:44 UTC",
   "total_matches": 17,
   "matches": [
     {
@@ -17,6 +17,19 @@
       "status": "Match Details"
     },
     {
+      "title": "SLW vs PAKW - PAKW opt to bowl",
+      "team1": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "SLW vs PAKW - PAKW opt to bowl",
+      "status": "Match Details"
+    },
+    {
       "title": "SOU vs WEF - WEF won",
       "team1": {
         "name": "SOU",
@@ -30,42 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "SOUW vs WELW - WELW won",
+      "title": "NDT vs ODW - Preview",
       "team1": {
-        "name": "SOUW",
+        "name": "NDT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "WELW",
+        "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOUW vs WELW - WELW won",
+      "score": "NDT vs ODW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "NDS vs CDK - CDK won",
+      "title": "SUL vs LDN - Preview",
       "team1": {
-        "name": "NDS",
+        "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "CDK",
+        "name": "LDN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs CDK - CDK won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SCO vs UAE - Abandon",
-      "team1": {
-        "name": "SCO",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SCO vs UAE - Abandon",
+      "score": "SUL vs LDN - Preview",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs Pakistan Women 3rd T20I",
+      "title": "Sri Lanka Women vs Pakistan Women LIVE 3rd T20I",
       "team1": {
         "name": "Sri Lanka Women",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Pakistan Women 3rd T20I",
+        "name": "Pakistan Women LIVE 3rd T20I",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Sri Lanka Women vs Pakistan Women 3rd T20I",
+      "score": "Sri Lanka Women vs Pakistan Women LIVE 3rd T20I",
       "status": "Match Details"
     }
   ]
