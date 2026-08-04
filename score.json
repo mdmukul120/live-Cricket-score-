@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-04 15:23:26 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-08-04 17:12:26 UTC",
+  "total_matches": 31,
   "matches": [
     {
-      "title": "WI vs PAK - Trail by 36",
+      "title": "WI vs PAK - Lead by 19",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,11 +13,11 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Trail by 36",
+      "score": "WI vs PAK - Lead by 19",
       "status": "Match Details"
     },
     {
-      "title": "LDNW vs SULW - SULW opt to bowl",
+      "title": "LDNW vs SULW - Need 1 off 3b",
       "team1": {
         "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDNW vs SULW - SULW opt to bowl",
+      "score": "LDNW vs SULW - Need 1 off 3b",
       "status": "Match Details"
     },
     {
-      "title": "ITT vs DGD - DGD opt to bowl",
+      "title": "ITT vs DGD - DGD won",
       "team1": {
         "name": "ITT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "DGD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ITT vs DGD - DGD opt to bowl",
+      "score": "ITT vs DGD - DGD won",
       "status": "Match Details"
     },
     {
-      "title": "SDS vs WDL - WDL opt to bowl",
+      "title": "SDS vs WDL - Need 101 off 84b",
       "team1": {
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "WDL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SDS vs WDL - WDL opt to bowl",
+      "score": "SDS vs WDL - Need 101 off 84b",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons LIVE 1st Match",
+      "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons 1st Match",
       "team1": {
         "name": "IDream Tiruppur Tamizhans",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dindigul Dragons LIVE 1st Match",
+        "name": "Dindigul Dragons 1st Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "IDream Tiruppur Tamizhans vs Dindigul Dragons LIVE 1st Match",
+      "score": "IDream Tiruppur Tamizhans vs Dindigul Dragons 1st Match",
       "status": "Match Details"
     },
     {
@@ -222,19 +222,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Chepauk Super Gillies vs Nellai Royal Kings 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "North Delhi Strikers vs Central Delhi Kings 7th Match",
-      "team1": {
-        "name": "North Delhi Strikers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Central Delhi Kings 7th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North Delhi Strikers vs Central Delhi Kings 7th Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "London Spirit Women vs Sunrisers Leeds Women LIVE 20th Match",
+      "title": "London Spirit Women vs Sunrisers Leeds Women 20th Match",
       "team1": {
         "name": "London Spirit Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds Women LIVE 20th Match",
+        "name": "Sunrisers Leeds Women 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "London Spirit Women vs Sunrisers Leeds Women LIVE 20th Match",
+      "score": "London Spirit Women vs Sunrisers Leeds Women 20th Match",
       "status": "Match Details"
     },
     {
@@ -381,6 +368,19 @@
       "status": "Match Details"
     },
     {
+      "title": "1st Match • Dindigul, NPR College Ground IDream Tiruppur Tamizhans ITT 107 (15.4) Dindigul Dragons DGD 111-3 (18.3) Dindigul Dragons won by 7 wkts",
+      "team1": {
+        "name": "1st Match • Dindigul, NPR College Ground IDream Tiruppur Tamizhans ITT 107 (15.4) Dindigul Dragons DGD 111",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "3 (18.3) Dindigul Dragons won by 7 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "1st Match • Dindigul, NPR College Ground IDream Tiruppur Tamizhans ITT 107 (15.4) Dindigul Dragons DGD 111-3 (18.3) Dindigul Dragons won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156-5 (15) Outer Delhi Warriors ODW 155-9 (15) Match tied (Outer Delhi Warriors won the Super Over), 15 ovs game due to rain, DLS target 156",
       "team1": {
         "name": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156",
@@ -391,6 +391,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156-5 (15) Outer Delhi Warriors ODW 155-9 (15) Match tied (Outer Delhi Warriors won the Super Over), 15 ovs game due to rain, DLS target 156",
+      "status": "Match Details"
+    },
+    {
+      "title": "20th Match • Leeds, Headingley 100 London Spirit Women LDNW 136-7 (100 Balls) Sunrisers Leeds Women SULW 142-5 (98 Balls) Sunrisers Leeds Women won by 5 wkts",
+      "team1": {
+        "name": "20th Match • Leeds, Headingley 100 London Spirit Women LDNW 136",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (100 Balls) Sunrisers Leeds Women SULW 142",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "20th Match • Leeds, Headingley 100 London Spirit Women LDNW 136-7 (100 Balls) Sunrisers Leeds Women SULW 142-5 (98 Balls) Sunrisers Leeds Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
