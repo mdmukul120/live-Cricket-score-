@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-04 08:07:21 UTC",
-  "total_matches": 19,
+  "last_updated": "2026-08-04 10:49:42 UTC",
+  "total_matches": 26,
   "matches": [
     {
       "title": "WI vs PAK - Stumps",
@@ -14,32 +14,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "WI vs PAK - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "SLW vs PAKW - PAKW won",
-      "team1": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "SLW vs PAKW - PAKW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SOU vs WEF - WEF won",
-      "team1": {
-        "name": "SOU",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "WEF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SOU vs WEF - WEF won",
       "status": "Match Details"
     },
     {
@@ -56,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "SULW vs LDNW - Preview",
+      "team1": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SULW vs LDNW - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "SUL vs LDN - Preview",
       "team1": {
         "name": "SUL",
@@ -66,6 +53,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SUL vs LDN - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLW vs PAKW - PAKW won",
+      "team1": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "SLW vs PAKW - PAKW won",
       "status": "Match Details"
     },
     {
@@ -82,6 +82,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Ireland vs Afghanistan 1st ODI",
+      "team1": {
+        "name": "Ireland",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Afghanistan 1st ODI",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Ireland vs Afghanistan 1st ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Scotland vs United Arab Emirates 122nd Match",
       "team1": {
         "name": "Scotland",
@@ -92,6 +105,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Scotland vs United Arab Emirates 122nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "United Arab Emirates vs Canada 123rd Match",
+      "team1": {
+        "name": "United Arab Emirates",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canada 123rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United Arab Emirates vs Canada 123rd Match",
       "status": "Match Details"
     },
     {
@@ -121,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Galle Gallants vs Jaffna Kings Qualifier 1 (1v2)",
+      "team1": {
+        "name": "Galle Gallants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jaffna Kings Qualifier 1 (1v2)",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Galle Gallants vs Jaffna Kings Qualifier 1 (1v2)",
+      "status": "Match Details"
+    },
+    {
       "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons 1st Match",
       "team1": {
         "name": "IDream Tiruppur Tamizhans",
@@ -131,6 +170,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "IDream Tiruppur Tamizhans vs Dindigul Dragons 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trichy Grand Cholas vs Siechem Madurai Panthers 2nd Match",
+      "team1": {
+        "name": "Trichy Grand Cholas",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Siechem Madurai Panthers 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trichy Grand Cholas vs Siechem Madurai Panthers 2nd Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +251,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Hampshire vs Glamorgan Group B",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Kent Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kent Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Surrey vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Southern Brave Women vs Welsh Fire Women 19th Match",
       "team1": {
         "name": "Southern Brave Women",
@@ -222,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Sunrisers Leeds Women vs London Spirit Women 20th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Manchester Super Giants Women vs Welsh Fire Women 21st Match",
+      "team1": {
+        "name": "Manchester Super Giants Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Welsh Fire Women 21st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Manchester Super Giants Women vs Welsh Fire Women 21st Match",
       "status": "Match Details"
     },
     {
