@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-04 12:52:53 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-08-04 15:23:26 UTC",
+  "total_matches": 30,
   "matches": [
     {
-      "title": "WI vs PAK - Stumps",
+      "title": "WI vs PAK - Trail by 36",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,33 +13,46 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Stumps",
+      "score": "WI vs PAK - Trail by 36",
       "status": "Match Details"
     },
     {
-      "title": "NDT vs ODW - Outer Delhi Warriors need 4 runs in 4 balls",
+      "title": "LDNW vs SULW - SULW opt to bowl",
       "team1": {
-        "name": "NDT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ODW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NDT vs ODW - Outer Delhi Warriors need 4 runs in 4 balls",
-      "status": "Match Details"
-    },
-    {
-      "title": "SULW vs LDNW - Preview",
-      "team1": {
-        "name": "SULW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs LDNW - Preview",
+      "team2": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDNW vs SULW - SULW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "ITT vs DGD - DGD opt to bowl",
+      "team1": {
+        "name": "ITT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "DGD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ITT vs DGD - DGD opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SDS vs WDL - WDL opt to bowl",
+      "team1": {
+        "name": "SDS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "WDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SDS vs WDL - WDL opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,29 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SLW vs PAKW - PAKW won",
-      "team1": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "SLW vs PAKW - PAKW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "West Indies vs Pakistan 2nd Test",
+      "title": "West Indies vs Pakistan LIVE 2nd Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan 2nd Test",
+        "name": "Pakistan LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan 2nd Test",
+      "score": "West Indies vs Pakistan LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -147,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Manchester Super Giants vs Welsh Fire 21st Match",
+      "team1": {
+        "name": "Manchester Super Giants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Welsh Fire 21st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Manchester Super Giants vs Welsh Fire 21st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Galle Gallants vs Jaffna Kings Qualifier 1 (1v2)",
       "team1": {
         "name": "Galle Gallants",
@@ -160,16 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons 1st Match",
+      "title": "Colombo Kaps vs Kandy Royals Eliminator (3v4)",
+      "team1": {
+        "name": "Colombo Kaps",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kandy Royals Eliminator (3v4)",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Colombo Kaps vs Kandy Royals Eliminator (3v4)",
+      "status": "Match Details"
+    },
+    {
+      "title": "IDream Tiruppur Tamizhans vs Dindigul Dragons LIVE 1st Match",
       "team1": {
         "name": "IDream Tiruppur Tamizhans",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dindigul Dragons 1st Match",
+        "name": "Dindigul Dragons LIVE 1st Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "IDream Tiruppur Tamizhans vs Dindigul Dragons 1st Match",
+      "score": "IDream Tiruppur Tamizhans vs Dindigul Dragons LIVE 1st Match",
       "status": "Match Details"
     },
     {
@@ -186,6 +212,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Chepauk Super Gillies vs Nellai Royal Kings 3rd Match",
+      "team1": {
+        "name": "Chepauk Super Gillies",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nellai Royal Kings 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chepauk Super Gillies vs Nellai Royal Kings 3rd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "North Delhi Strikers vs Central Delhi Kings 7th Match",
       "team1": {
         "name": "North Delhi Strikers",
@@ -199,29 +238,29 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs Outer Delhi Warriors LIVE 8th Match",
+      "title": "New Delhi Tigers vs Outer Delhi Warriors 8th Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors LIVE 8th Match",
+        "name": "Outer Delhi Warriors 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs Outer Delhi Warriors LIVE 8th Match",
+      "score": "New Delhi Tigers vs Outer Delhi Warriors 8th Match",
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs West Delhi Lions 9th Match",
+      "title": "South Delhi Superstarz vs West Delhi Lions LIVE 9th Match",
       "team1": {
         "name": "South Delhi Superstarz",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Delhi Lions 9th Match",
+        "name": "West Delhi Lions LIVE 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Delhi Superstarz vs West Delhi Lions 9th Match",
+      "score": "South Delhi Superstarz vs West Delhi Lions LIVE 9th Match",
       "status": "Match Details"
     },
     {
@@ -235,6 +274,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Purani Dilli 6 vs Central Delhi Kings 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Delhi Riders vs North Delhi Strikers 11th Match",
+      "team1": {
+        "name": "East Delhi Riders",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North Delhi Strikers 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "East Delhi Riders vs North Delhi Strikers 11th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs London Spirit Women 20th Match",
+      "title": "London Spirit Women vs Sunrisers Leeds Women LIVE 20th Match",
       "team1": {
-        "name": "Sunrisers Leeds Women",
+        "name": "London Spirit Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "London Spirit Women 20th Match",
+        "name": "Sunrisers Leeds Women LIVE 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs London Spirit Women 20th Match",
+      "score": "London Spirit Women vs Sunrisers Leeds Women LIVE 20th Match",
       "status": "Match Details"
     },
     {
@@ -303,6 +355,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Trent Rockets Women vs Birmingham Phoenix Women 22nd Match",
+      "team1": {
+        "name": "Trent Rockets Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Birmingham Phoenix Women 22nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trent Rockets Women vs Birmingham Phoenix Women 22nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sri Lanka Women vs Pakistan Women 3rd T20I",
       "team1": {
         "name": "Sri Lanka Women",
@@ -316,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd T20I • Dambulla, Rangiri Dambulla International Stadium Sri Lanka Women SLW 113-6 (20) Pakistan Women PAKW 115-6 (18.2) Pakistan Women won by 4 wkts",
+      "title": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156-5 (15) Outer Delhi Warriors ODW 155-9 (15) Match tied (Outer Delhi Warriors won the Super Over), 15 ovs game due to rain, DLS target 156",
       "team1": {
-        "name": "3rd T20I • Dambulla, Rangiri Dambulla International Stadium Sri Lanka Women SLW 113",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) Pakistan Women PAKW 115",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "5 (15) Outer Delhi Warriors ODW 155",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd T20I • Dambulla, Rangiri Dambulla International Stadium Sri Lanka Women SLW 113-6 (20) Pakistan Women PAKW 115-6 (18.2) Pakistan Women won by 4 wkts",
+      "score": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156-5 (15) Outer Delhi Warriors ODW 155-9 (15) Match tied (Outer Delhi Warriors won the Super Over), 15 ovs game due to rain, DLS target 156",
       "status": "Match Details"
     }
   ]
