@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-04 17:12:26 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-08-04 18:56:53 UTC",
+  "total_matches": 30,
   "matches": [
     {
-      "title": "WI vs PAK - Lead by 19",
+      "title": "WI vs PAK - Trail by 33",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,11 +13,37 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Lead by 19",
+      "score": "WI vs PAK - Trail by 33",
       "status": "Match Details"
     },
     {
-      "title": "LDNW vs SULW - Need 1 off 3b",
+      "title": "SUL vs LDN - LDN opt to bowl",
+      "team1": {
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LDN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SUL vs LDN - LDN opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SDS vs WDL - WDL won",
+      "team1": {
+        "name": "SDS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "WDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SDS vs WDL - WDL won",
+      "status": "Match Details"
+    },
+    {
+      "title": "LDNW vs SULW - SULW won",
       "team1": {
         "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +52,7 @@
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDNW vs SULW - Need 1 off 3b",
+      "score": "LDNW vs SULW - SULW won",
       "status": "Match Details"
     },
     {
@@ -40,32 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "ITT vs DGD - DGD won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SDS vs WDL - Need 101 off 84b",
-      "team1": {
-        "name": "SDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "WDL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SDS vs WDL - Need 101 off 84b",
-      "status": "Match Details"
-    },
-    {
-      "title": "SUL vs LDN - Preview",
-      "team1": {
-        "name": "SUL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "LDN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SUL vs LDN - Preview",
       "status": "Match Details"
     },
     {
@@ -92,19 +92,6 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Ireland vs Afghanistan 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Scotland vs United Arab Emirates 122nd Match",
-      "team1": {
-        "name": "Scotland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates 122nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Scotland vs United Arab Emirates 122nd Match",
       "status": "Match Details"
     },
     {
@@ -157,6 +144,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Manchester Super Giants vs Welsh Fire 21st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trent Rockets vs Birmingham Phoenix 22nd Match",
+      "team1": {
+        "name": "Trent Rockets",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Birmingham Phoenix 22nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trent Rockets vs Birmingham Phoenix 22nd Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs West Delhi Lions LIVE 9th Match",
+      "title": "South Delhi Superstarz vs West Delhi Lions 9th Match",
       "team1": {
         "name": "South Delhi Superstarz",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Delhi Lions LIVE 9th Match",
+        "name": "West Delhi Lions 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Delhi Superstarz vs West Delhi Lions LIVE 9th Match",
+      "score": "South Delhi Superstarz vs West Delhi Lions 9th Match",
       "status": "Match Details"
     },
     {
@@ -300,19 +300,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Surrey vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Southern Brave Women vs Welsh Fire Women 19th Match",
-      "team1": {
-        "name": "Southern Brave Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Welsh Fire Women 19th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Southern Brave Women vs Welsh Fire Women 19th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156-5 (15) Outer Delhi Warriors ODW 155-9 (15) Match tied (Outer Delhi Warriors won the Super Over), 15 ovs game due to rain, DLS target 156",
+      "title": "9th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 160 (19.5) West Delhi Lions WDL 164-5 (18.1) West Delhi Lions won by 5 wkts",
       "team1": {
-        "name": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156",
+        "name": "9th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 160 (19.5) West Delhi Lions WDL 164",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (15) Outer Delhi Warriors ODW 155",
+        "name": "5 (18.1) West Delhi Lions won by 5 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "8th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 156-5 (15) Outer Delhi Warriors ODW 155-9 (15) Match tied (Outer Delhi Warriors won the Super Over), 15 ovs game due to rain, DLS target 156",
+      "score": "9th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 160 (19.5) West Delhi Lions WDL 164-5 (18.1) West Delhi Lions won by 5 wkts",
       "status": "Match Details"
     },
     {
