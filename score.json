@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-05 18:51:22 UTC",
+  "last_updated": "2026-08-05 20:21:34 UTC",
   "total_matches": 37,
   "matches": [
     {
-      "title": "BRM vs TRE - Innings Break",
+      "title": "BRM vs TRE - TRE won",
       "team1": {
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs TRE - Innings Break",
+      "score": "BRM vs TRE - TRE won",
       "status": "Match Details"
     },
     {
@@ -381,6 +381,19 @@
       "status": "Match Details"
     },
     {
+      "title": "22nd Match • Nottingham, Trent Bridge 100 Birmingham Phoenix BRM 111-6 (100 Balls) Trent Rockets TRE 116-3 (83 Balls) Trent Rockets won by 7 wkts",
+      "team1": {
+        "name": "22nd Match • Nottingham, Trent Bridge 100 Birmingham Phoenix BRM 111",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (100 Balls) Trent Rockets TRE 116",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "22nd Match • Nottingham, Trent Bridge 100 Birmingham Phoenix BRM 111-6 (100 Balls) Trent Rockets TRE 116-3 (83 Balls) Trent Rockets won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "21st Match • Manchester, Emirates Old Trafford 100 Welsh Fire WEF 155-4 (100 Balls) Manchester Super Giants MSG 161-1 (69 Balls) Manchester Super Giants won by 9 wkts",
       "team1": {
         "name": "21st Match • Manchester, Emirates Old Trafford 100 Welsh Fire WEF 155",
@@ -420,19 +433,6 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 173-7 (20) Madurai Panthers MDP 174-8 (19.4) Madurai Panthers won by 2 wkts",
-      "team1": {
-        "name": "2nd Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 173",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (20) Madurai Panthers MDP 174",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 173-7 (20) Madurai Panthers MDP 174-8 (19.4) Madurai Panthers won by 2 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "11th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 171-6 (20) North Delhi Strikers NDS 172-4 (16) North Delhi Strikers won by 6 wkts",
       "team1": {
         "name": "11th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 171",
@@ -446,19 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
-      "team1": {
-        "name": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "Group A • London, Kennington Oval Surrey SUR 286 (48.3) Kent KENT 191 (41.5) Surrey won by 95 runs - 49 Overs game due to rain",
       "team1": {
         "name": "Group A • London, Kennington Oval Surrey SUR 286 (48.3) Kent KENT 191 (41.5) Surrey won by 95 runs",
@@ -469,6 +456,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group A • London, Kennington Oval Surrey SUR 286 (48.3) Kent KENT 191 (41.5) Surrey won by 95 runs - 49 Overs game due to rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
+      "team1": {
+        "name": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
       "status": "Match Details"
     },
     {
