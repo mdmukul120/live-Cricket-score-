@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-05 13:17:11 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-08-05 15:33:24 UTC",
+  "total_matches": 33,
   "matches": [
     {
-      "title": "WI vs PAK - Stumps",
+      "title": "WI vs PAK - Need 42 to win",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,72 +13,72 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Stumps",
+      "score": "WI vs PAK - Need 42 to win",
       "status": "Match Details"
     },
     {
-      "title": "MSG vs WEF - Preview",
+      "title": "WEF vs MSG - Need 155 to win",
       "team1": {
-        "name": "MSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs WEF - Preview",
+      "team2": {
+        "name": "MSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WEF vs MSG - Need 155 to win",
       "status": "Match Details"
     },
     {
-      "title": "TREW vs BRMW - Preview",
+      "title": "BRMW vs TREW - Need 122 off 95b",
       "team1": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "BRMW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TREW vs BRMW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "IRE vs AFG - Abandon",
-      "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
       "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "IRE vs AFG - Abandon",
+      "score": "BRMW vs TREW - Need 122 off 95b",
       "status": "Match Details"
     },
     {
-      "title": "MSGW vs WELW - WELW won",
+      "title": "CLK vs KRL - CLK opt to bat",
       "team1": {
-        "name": "MSGW",
+        "name": "CLK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "WELW",
+        "name": "KRL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSGW vs WELW - WELW won",
+      "score": "CLK vs KRL - CLK opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan 2nd Test",
+      "title": "NRK vs CSG - CSG opt to bowl",
+      "team1": {
+        "name": "NRK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "CSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NRK vs CSG - CSG opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Indies vs Pakistan LIVE 2nd Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan 2nd Test",
+        "name": "Pakistan LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan 2nd Test",
+      "score": "West Indies vs Pakistan LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -108,6 +108,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Brazil vs Peru 1st Match",
+      "team1": {
+        "name": "Brazil",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Peru 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil vs Peru 1st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sunrisers Leeds vs London Spirit 20th Match",
       "team1": {
         "name": "Sunrisers Leeds",
@@ -121,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants vs Welsh Fire 21st Match",
+      "title": "Welsh Fire vs Manchester Super Giants LIVE 21st Match",
       "team1": {
-        "name": "Manchester Super Giants",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Welsh Fire 21st Match",
+        "name": "Welsh Fire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Manchester Super Giants vs Welsh Fire 21st Match",
+      "team2": {
+        "name": "Manchester Super Giants LIVE 21st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Welsh Fire vs Manchester Super Giants LIVE 21st Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Kandy Royals Eliminator (3v4)",
+      "title": "Colombo Kaps vs Kandy Royals LIVE Eliminator (3v4)",
       "team1": {
         "name": "Colombo Kaps",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kandy Royals Eliminator (3v4)",
+        "name": "Kandy Royals LIVE Eliminator (3v4)",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Colombo Kaps vs Kandy Royals Eliminator (3v4)",
+      "score": "Colombo Kaps vs Kandy Royals LIVE Eliminator (3v4)",
       "status": "Match Details"
     },
     {
@@ -186,29 +199,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Trichy Grand Cholas vs Madurai Panthers LIVE 2nd Match",
+      "title": "Trichy Grand Cholas vs Madurai Panthers 2nd Match",
       "team1": {
         "name": "Trichy Grand Cholas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Madurai Panthers LIVE 2nd Match",
+        "name": "Madurai Panthers 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy Grand Cholas vs Madurai Panthers LIVE 2nd Match",
+      "score": "Trichy Grand Cholas vs Madurai Panthers 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Chepauk Super Gillies vs Nellai Royal Kings 3rd Match",
+      "title": "Nellai Royal Kings vs Chepauk Super Gillies LIVE 3rd Match",
       "team1": {
-        "name": "Chepauk Super Gillies",
+        "name": "Nellai Royal Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nellai Royal Kings 3rd Match",
+        "name": "Chepauk Super Gillies LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chepauk Super Gillies vs Nellai Royal Kings 3rd Match",
+      "score": "Nellai Royal Kings vs Chepauk Super Gillies LIVE 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "SKM Salem Spartans vs Vida Kovai Kings 4th Match",
+      "team1": {
+        "name": "SKM Salem Spartans",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Vida Kovai Kings 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SKM Salem Spartans vs Vida Kovai Kings 4th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "East Delhi Riders vs North Delhi Strikers 11th Match",
+      "title": "East Delhi Riders vs North Delhi Strikers LIVE 11th Match",
       "team1": {
         "name": "East Delhi Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North Delhi Strikers 11th Match",
+        "name": "North Delhi Strikers LIVE 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Delhi Riders vs North Delhi Strikers 11th Match",
+      "score": "East Delhi Riders vs North Delhi Strikers LIVE 11th Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Glamorgan LIVE Group B",
+      "title": "New Delhi Tigers vs Purani Dilli 6 13th Match",
       "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan LIVE Group B",
+        "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hampshire vs Glamorgan LIVE Group B",
+      "team2": {
+        "name": "Purani Dilli 6 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "New Delhi Tigers vs Purani Dilli 6 13th Match",
       "status": "Match Details"
     },
     {
@@ -287,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Surrey vs Kent LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Glamorgan LIVE Group B",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan LIVE Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Glamorgan LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -316,16 +355,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets Women vs Birmingham Phoenix Women 22nd Match",
+      "title": "Birmingham Phoenix Women vs Trent Rockets Women LIVE 22nd Match",
       "team1": {
-        "name": "Trent Rockets Women",
+        "name": "Birmingham Phoenix Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix Women 22nd Match",
+        "name": "Trent Rockets Women LIVE 22nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets Women vs Birmingham Phoenix Women 22nd Match",
+      "score": "Birmingham Phoenix Women vs Trent Rockets Women LIVE 22nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "London Spirit Women vs MI London Women 23rd Match",
+      "team1": {
+        "name": "London Spirit Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MI London Women 23rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "London Spirit Women vs MI London Women 23rd Match",
       "status": "Match Details"
     },
     {
@@ -339,6 +391,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Qualifier 1 (1v2) • Colombo, R.Premadasa Stadium Jaffna Kings JKS 242-2 (20) Galle Gallants GAG 230-8 (20) Jaffna Kings won by 12 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 173-7 (20) Madurai Panthers MDP 174-8 (19.4) Madurai Panthers won by 2 wkts",
+      "team1": {
+        "name": "2nd Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 173",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (20) Madurai Panthers MDP 174",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 173-7 (20) Madurai Panthers MDP 174-8 (19.4) Madurai Panthers won by 2 wkts",
       "status": "Match Details"
     },
     {
