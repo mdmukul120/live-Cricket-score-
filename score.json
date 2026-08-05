@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-05 11:30:37 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-08-05 13:17:11 UTC",
+  "total_matches": 28,
   "matches": [
-    {
-      "title": "IRE vs AFG - Abandon",
-      "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "IRE vs AFG - Abandon",
-      "status": "Match Details"
-    },
     {
       "title": "WI vs PAK - Stumps",
       "team1": {
@@ -30,32 +17,6 @@
       "status": "Match Details"
     },
     {
-      "title": "MSGW vs WELW - WELW opt to bowl",
-      "team1": {
-        "name": "MSGW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "WELW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MSGW vs WELW - WELW opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "JKS vs GAG - Need 223 to win",
-      "team1": {
-        "name": "JKS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKS vs GAG - Need 223 to win",
-      "status": "Match Details"
-    },
-    {
       "title": "MSG vs WEF - Preview",
       "team1": {
         "name": "MSG",
@@ -66,6 +27,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MSG vs WEF - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "TREW vs BRMW - Preview",
+      "team1": {
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BRMW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TREW vs BRMW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "IRE vs AFG - Abandon",
+      "team1": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IRE vs AFG - Abandon",
+      "status": "Match Details"
+    },
+    {
+      "title": "MSGW vs WELW - WELW won",
+      "team1": {
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "WELW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MSGW vs WELW - WELW won",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Galle Gallants LIVE Qualifier 1 (1v2)",
+      "title": "Jaffna Kings vs Galle Gallants Qualifier 1 (1v2)",
       "team1": {
         "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Galle Gallants LIVE Qualifier 1 (1v2)",
+        "name": "Galle Gallants Qualifier 1 (1v2)",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Galle Gallants LIVE Qualifier 1 (1v2)",
+      "score": "Jaffna Kings vs Galle Gallants Qualifier 1 (1v2)",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants Women vs Welsh Fire Women LIVE 21st Match",
+      "title": "Manchester Super Giants Women vs Welsh Fire Women 21st Match",
       "team1": {
         "name": "Manchester Super Giants Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Welsh Fire Women LIVE 21st Match",
+        "name": "Welsh Fire Women 21st Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Manchester Super Giants Women vs Welsh Fire Women LIVE 21st Match",
+      "score": "Manchester Super Giants Women vs Welsh Fire Women 21st Match",
       "status": "Match Details"
     },
     {
@@ -326,6 +326,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Trent Rockets Women vs Birmingham Phoenix Women 22nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Qualifier 1 (1v2) • Colombo, R.Premadasa Stadium Jaffna Kings JKS 242-2 (20) Galle Gallants GAG 230-8 (20) Jaffna Kings won by 12 runs",
+      "team1": {
+        "name": "Qualifier 1 (1v2) • Colombo, R.Premadasa Stadium Jaffna Kings JKS 242",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "2 (20) Galle Gallants GAG 230",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qualifier 1 (1v2) • Colombo, R.Premadasa Stadium Jaffna Kings JKS 242-2 (20) Galle Gallants GAG 230-8 (20) Jaffna Kings won by 12 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 140-7 (15) Central Delhi Kings CDK 141-1 (13.2) Central Delhi Kings won by 9 wkts - 15 overs game due to rain",
+      "team1": {
+        "name": "10th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 140",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (15) Central Delhi Kings CDK 141",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 140-7 (15) Central Delhi Kings CDK 141-1 (13.2) Central Delhi Kings won by 9 wkts - 15 overs game due to rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "21st Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants Women MSGW 85-9 (100 Balls) Welsh Fire Women WELW 88-7 (91 Balls) Welsh Fire Women won by 3 wkts",
+      "team1": {
+        "name": "21st Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants Women MSGW 85",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (100 Balls) Welsh Fire Women WELW 88",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "21st Match • Manchester, Emirates Old Trafford 100 Manchester Super Giants Women MSGW 85-9 (100 Balls) Welsh Fire Women WELW 88-7 (91 Balls) Welsh Fire Women won by 3 wkts",
       "status": "Match Details"
     }
   ]
