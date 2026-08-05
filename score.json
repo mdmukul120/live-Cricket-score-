@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-05 20:21:34 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-05 21:43:47 UTC",
+  "total_matches": 36,
   "matches": [
-    {
-      "title": "BRM vs TRE - TRE won",
-      "team1": {
-        "name": "BRM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BRM vs TRE - TRE won",
-      "status": "Match Details"
-    },
     {
       "title": "WI vs PAK - PAK won",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "WI vs PAK - PAK won",
+      "status": "Match Details"
+    },
+    {
+      "title": "BRM vs TRE - TRE won",
+      "team1": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TRE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BRM vs TRE - TRE won",
       "status": "Match Details"
     },
     {
@@ -131,19 +131,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mexico vs Panama 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sunrisers Leeds vs London Spirit 20th Match",
-      "team1": {
-        "name": "Sunrisers Leeds",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "London Spirit 20th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sunrisers Leeds vs London Spirit 20th Match",
       "status": "Match Details"
     },
     {
