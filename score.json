@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-05 09:10:10 UTC",
-  "total_matches": 26,
+  "last_updated": "2026-08-05 11:30:37 UTC",
+  "total_matches": 25,
   "matches": [
     {
-      "title": "IRE vs AFG - Delay",
+      "title": "IRE vs AFG - Abandon",
       "team1": {
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
@@ -13,7 +13,7 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IRE vs AFG - Delay",
+      "score": "IRE vs AFG - Abandon",
       "status": "Match Details"
     },
     {
@@ -30,16 +30,29 @@
       "status": "Match Details"
     },
     {
-      "title": "UAE vs CAN - Preview",
+      "title": "MSGW vs WELW - WELW opt to bowl",
       "team1": {
-        "name": "UAE",
+        "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "CAN",
+        "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE vs CAN - Preview",
+      "score": "MSGW vs WELW - WELW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKS vs GAG - Need 223 to win",
+      "team1": {
+        "name": "JKS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKS vs GAG - Need 223 to win",
       "status": "Match Details"
     },
     {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MSG vs WEF - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "MSGW vs WELW - Preview",
-      "team1": {
-        "name": "MSGW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "WELW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MSGW vs WELW - Preview",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Galle Gallants Qualifier 1 (1v2)",
+      "title": "Jaffna Kings vs Galle Gallants LIVE Qualifier 1 (1v2)",
       "team1": {
         "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Galle Gallants Qualifier 1 (1v2)",
+        "name": "Galle Gallants LIVE Qualifier 1 (1v2)",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Galle Gallants Qualifier 1 (1v2)",
+      "score": "Jaffna Kings vs Galle Gallants LIVE Qualifier 1 (1v2)",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trichy Grand Cholas vs Madurai Panthers 2nd Match",
+      "title": "Trichy Grand Cholas vs Madurai Panthers LIVE 2nd Match",
       "team1": {
         "name": "Trichy Grand Cholas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Madurai Panthers 2nd Match",
+        "name": "Madurai Panthers LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy Grand Cholas vs Madurai Panthers 2nd Match",
+      "score": "Trichy Grand Cholas vs Madurai Panthers LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -209,19 +209,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Chepauk Super Gillies vs Nellai Royal Kings 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "New Delhi Tigers vs Outer Delhi Warriors 8th Match",
-      "team1": {
-        "name": "New Delhi Tigers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Outer Delhi Warriors 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "New Delhi Tigers vs Outer Delhi Warriors 8th Match",
       "status": "Match Details"
     },
     {
@@ -277,29 +264,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Glamorgan Group B",
+      "title": "Hampshire vs Glamorgan LIVE Group B",
       "team1": {
         "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan Group B",
+        "name": "Glamorgan LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hampshire vs Glamorgan Group B",
+      "score": "Hampshire vs Glamorgan LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Kent Group A",
+      "title": "Surrey vs Kent LIVE Group A",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kent Group A",
+        "name": "Kent LIVE Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Surrey vs Kent Group A",
+      "score": "Surrey vs Kent LIVE Group A",
       "status": "Match Details"
     },
     {
@@ -316,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants Women vs Welsh Fire Women 21st Match",
+      "title": "Manchester Super Giants Women vs Welsh Fire Women LIVE 21st Match",
       "team1": {
         "name": "Manchester Super Giants Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Welsh Fire Women 21st Match",
+        "name": "Welsh Fire Women LIVE 21st Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Manchester Super Giants Women vs Welsh Fire Women 21st Match",
+      "score": "Manchester Super Giants Women vs Welsh Fire Women LIVE 21st Match",
       "status": "Match Details"
     },
     {
