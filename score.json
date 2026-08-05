@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-05 06:13:08 UTC",
+  "last_updated": "2026-08-05 09:10:10 UTC",
   "total_matches": 26,
   "matches": [
+    {
+      "title": "IRE vs AFG - Delay",
+      "team1": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IRE vs AFG - Delay",
+      "status": "Match Details"
+    },
     {
       "title": "WI vs PAK - Stumps",
       "team1": {
@@ -17,55 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "SUL vs LDN - SUL won",
+      "title": "UAE vs CAN - Preview",
       "team1": {
-        "name": "SUL",
+        "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "LDN",
+        "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs LDN - SUL won",
+      "score": "UAE vs CAN - Preview",
       "status": "Match Details"
     },
     {
-      "title": "SDS vs WDL - WDL won",
+      "title": "MSG vs WEF - Preview",
       "team1": {
-        "name": "SDS",
+        "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "WDL",
+        "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SDS vs WDL - WDL won",
+      "score": "MSG vs WEF - Preview",
       "status": "Match Details"
     },
     {
-      "title": "LDNW vs SULW - SULW won",
+      "title": "MSGW vs WELW - Preview",
       "team1": {
-        "name": "LDNW",
+        "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SULW",
+        "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDNW vs SULW - SULW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ITT vs DGD - DGD won",
-      "team1": {
-        "name": "ITT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DGD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ITT vs DGD - DGD won",
+      "score": "MSGW vs WELW - Preview",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Jaffna Kings Qualifier 1 (1v2)",
+      "title": "Jaffna Kings vs Galle Gallants Qualifier 1 (1v2)",
       "team1": {
-        "name": "Galle Gallants",
+        "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jaffna Kings Qualifier 1 (1v2)",
+        "name": "Galle Gallants Qualifier 1 (1v2)",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Galle Gallants vs Jaffna Kings Qualifier 1 (1v2)",
+      "score": "Jaffna Kings vs Galle Gallants Qualifier 1 (1v2)",
       "status": "Match Details"
     },
     {
@@ -264,6 +264,19 @@
       "status": "Match Details"
     },
     {
+      "title": "South Delhi Superstarz vs Outer Delhi Warriors 12th Match",
+      "team1": {
+        "name": "South Delhi Superstarz",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Outer Delhi Warriors 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Delhi Superstarz vs Outer Delhi Warriors 12th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Hampshire vs Glamorgan Group B",
       "team1": {
         "name": "Hampshire",
@@ -326,19 +339,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Trent Rockets Women vs Birmingham Phoenix Women 22nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sri Lanka Women vs Pakistan Women 3rd T20I",
-      "team1": {
-        "name": "Sri Lanka Women",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Pakistan Women 3rd T20I",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Sri Lanka Women vs Pakistan Women 3rd T20I",
       "status": "Match Details"
     }
   ]
