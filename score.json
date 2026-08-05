@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-05 15:33:24 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-08-05 17:07:51 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "WI vs PAK - Need 42 to win",
+      "title": "WI vs PAK - PAK won",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,11 +13,24 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "WI vs PAK - Need 42 to win",
+      "score": "WI vs PAK - PAK won",
       "status": "Match Details"
     },
     {
-      "title": "WEF vs MSG - Need 155 to win",
+      "title": "BRM vs TRE - TRE opt to bowl",
+      "team1": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TRE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BRM vs TRE - TRE opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "WEF vs MSG - MSG won",
       "team1": {
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,24 +39,11 @@
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WEF vs MSG - Need 155 to win",
+      "score": "WEF vs MSG - MSG won",
       "status": "Match Details"
     },
     {
-      "title": "BRMW vs TREW - Need 122 off 95b",
-      "team1": {
-        "name": "BRMW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BRMW vs TREW - Need 122 off 95b",
-      "status": "Match Details"
-    },
-    {
-      "title": "CLK vs KRL - CLK opt to bat",
+      "title": "CLK vs KRL - Need 82 off 26b",
       "team1": {
         "name": "CLK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "KRL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CLK vs KRL - CLK opt to bat",
+      "score": "CLK vs KRL - Need 82 off 26b",
       "status": "Match Details"
     },
     {
-      "title": "NRK vs CSG - CSG opt to bowl",
+      "title": "NRK vs CSG - Need 51 off 22b",
       "team1": {
         "name": "NRK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,20 @@
         "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NRK vs CSG - CSG opt to bowl",
+      "score": "NRK vs CSG - Need 51 off 22b",
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Pakistan LIVE 2nd Test",
+      "title": "West Indies vs Pakistan 2nd Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 2nd Test",
+        "name": "Pakistan 2nd Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "West Indies vs Pakistan LIVE 2nd Test",
+      "score": "West Indies vs Pakistan 2nd Test",
       "status": "Match Details"
     },
     {
@@ -134,29 +134,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire vs Manchester Super Giants LIVE 21st Match",
+      "title": "Welsh Fire vs Manchester Super Giants 21st Match",
       "team1": {
         "name": "Welsh Fire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Manchester Super Giants LIVE 21st Match",
+        "name": "Manchester Super Giants 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire vs Manchester Super Giants LIVE 21st Match",
+      "score": "Welsh Fire vs Manchester Super Giants 21st Match",
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets vs Birmingham Phoenix 22nd Match",
+      "title": "Birmingham Phoenix vs Trent Rockets 22nd Match",
       "team1": {
-        "name": "Trent Rockets",
+        "name": "Birmingham Phoenix",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix 22nd Match",
+        "name": "Trent Rockets 22nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets vs Birmingham Phoenix 22nd Match",
+      "score": "Birmingham Phoenix vs Trent Rockets 22nd Match",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs West Delhi Lions 9th Match",
-      "team1": {
-        "name": "South Delhi Superstarz",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "West Delhi Lions 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Delhi Superstarz vs West Delhi Lions 9th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Purani Dilli 6 vs Central Delhi Kings 10th Match",
       "team1": {
         "name": "Purani Dilli 6",
@@ -303,6 +290,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Hampshire vs Glamorgan Group B",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Surrey vs Kent LIVE Group A",
       "team1": {
         "name": "Surrey",
@@ -313,19 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Surrey vs Kent LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Glamorgan LIVE Group B",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan LIVE Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Glamorgan LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -355,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix Women vs Trent Rockets Women LIVE 22nd Match",
+      "title": "Birmingham Phoenix Women vs Trent Rockets Women 22nd Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women LIVE 22nd Match",
+        "name": "Trent Rockets Women 22nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix Women vs Trent Rockets Women LIVE 22nd Match",
+      "score": "Birmingham Phoenix Women vs Trent Rockets Women 22nd Match",
       "status": "Match Details"
     },
     {
@@ -378,6 +365,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "London Spirit Women vs MI London Women 23rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Test • Port of Spain, Trinidad, Queen's Park Oval West Indies WI 344 & 117 Pakistan PAK 387 & 77-2 Pakistan won by 8 wkts",
+      "team1": {
+        "name": "2nd Test • Port of Spain, Trinidad, Queen's Park Oval West Indies WI 344 & 117 Pakistan PAK 387 & 77",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "2 Pakistan won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "2nd Test • Port of Spain, Trinidad, Queen's Park Oval West Indies WI 344 & 117 Pakistan PAK 387 & 77-2 Pakistan won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "21st Match • Manchester, Emirates Old Trafford 100 Welsh Fire WEF 155-4 (100 Balls) Manchester Super Giants MSG 161-1 (69 Balls) Manchester Super Giants won by 9 wkts",
+      "team1": {
+        "name": "21st Match • Manchester, Emirates Old Trafford 100 Welsh Fire WEF 155",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "4 (100 Balls) Manchester Super Giants MSG 161",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "21st Match • Manchester, Emirates Old Trafford 100 Welsh Fire WEF 155-4 (100 Balls) Manchester Super Giants MSG 161-1 (69 Balls) Manchester Super Giants won by 9 wkts",
       "status": "Match Details"
     },
     {
@@ -417,6 +430,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "10th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 140-7 (15) Central Delhi Kings CDK 141-1 (13.2) Central Delhi Kings won by 9 wkts - 15 overs game due to rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
+      "team1": {
+        "name": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Southampton, The Rose Bowl Hampshire HAM 263 (49.3) Glamorgan GLAM 173 (40.4) Hampshire won by 90 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "22nd Match • Nottingham, Trent Bridge 100 Birmingham Phoenix Women BRMW 122-7 (100 Balls) Trent Rockets Women TREW 124-4 (84 Balls) Trent Rockets Women won by 6 wkts",
+      "team1": {
+        "name": "22nd Match • Nottingham, Trent Bridge 100 Birmingham Phoenix Women BRMW 122",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (100 Balls) Trent Rockets Women TREW 124",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "22nd Match • Nottingham, Trent Bridge 100 Birmingham Phoenix Women BRMW 122-7 (100 Balls) Trent Rockets Women TREW 124-4 (84 Balls) Trent Rockets Women won by 6 wkts",
       "status": "Match Details"
     },
     {
