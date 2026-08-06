@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-06 10:07:04 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-06 12:18:04 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "LDN vs MIL - Preview",
@@ -43,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SDS vs ODW - Delay",
+      "title": "ODW vs SDS - SDS opt to bowl",
       "team1": {
-        "name": "SDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SDS vs ODW - Delay",
+      "team2": {
+        "name": "SDS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ODW vs SDS - SDS opt to bowl",
       "status": "Match Details"
     },
     {
@@ -303,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Purani Dilli 6 vs Central Delhi Kings 10th Match",
-      "team1": {
-        "name": "Purani Dilli 6",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Central Delhi Kings 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Purani Dilli 6 vs Central Delhi Kings 10th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "East Delhi Riders vs North Delhi Strikers 11th Match",
       "team1": {
         "name": "East Delhi Riders",
@@ -329,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs Outer Delhi Warriors 12th Match",
+      "title": "Outer Delhi Warriors vs South Delhi Superstarz LIVE 12th Match",
       "team1": {
-        "name": "South Delhi Superstarz",
+        "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors 12th Match",
+        "name": "South Delhi Superstarz LIVE 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Delhi Superstarz vs Outer Delhi Warriors 12th Match",
+      "score": "Outer Delhi Warriors vs South Delhi Superstarz LIVE 12th Match",
       "status": "Match Details"
     },
     {
@@ -394,19 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Derbyshire Group B",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Derbyshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Yorkshire vs Derbyshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Glamorgan vs Essex Group B",
       "team1": {
         "name": "Glamorgan",
@@ -443,6 +417,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Nottinghamshire vs Northamptonshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Derbyshire Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Derbyshire Group B",
       "status": "Match Details"
     },
     {
