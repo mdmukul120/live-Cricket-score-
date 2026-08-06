@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-06 07:21:52 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-08-06 10:07:04 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "LDN vs MIL - Preview",
@@ -43,29 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "BRM vs TRE - TRE won",
+      "title": "SDS vs ODW - Delay",
       "team1": {
-        "name": "BRM",
+        "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TRE",
+        "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs TRE - TRE won",
+      "score": "SDS vs ODW - Delay",
       "status": "Match Details"
     },
     {
-      "title": "WEF vs MSG - MSG won",
+      "title": "SAL vs VKK - Preview",
       "team1": {
-        "name": "WEF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SAL",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "MSG",
+        "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WEF vs MSG - MSG won",
+      "score": "SAL vs VKK - Preview",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Bangladesh vs Cricket Australia XI 3 -Day Warm-up match",
+      "team1": {
+        "name": "Bangladesh",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "Cricket Australia XI 3",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Bangladesh vs Cricket Australia XI 3 -Day Warm-up match",
+      "status": "Match Details"
+    },
+    {
       "title": "Ireland vs Afghanistan 1st ODI",
       "team1": {
         "name": "Ireland",
@@ -108,6 +121,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Ireland vs Afghanistan 2nd ODI",
+      "team1": {
+        "name": "Ireland",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Afghanistan 2nd ODI",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Ireland vs Afghanistan 2nd ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "United Arab Emirates vs Canada 123rd Match",
       "team1": {
         "name": "United Arab Emirates",
@@ -118,6 +144,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United Arab Emirates vs Canada 123rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Scotland vs Canada 124th Match",
+      "team1": {
+        "name": "Scotland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canada 124th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Scotland vs Canada 124th Match",
       "status": "Match Details"
     },
     {
@@ -251,6 +290,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans 5th Match",
+      "team1": {
+        "name": "Chepauk Super Gillies",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "IDream Tiruppur Tamizhans 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans 5th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Purani Dilli 6 vs Central Delhi Kings 10th Match",
       "team1": {
         "name": "Purani Dilli 6",
@@ -303,6 +355,19 @@
       "status": "Match Details"
     },
     {
+      "title": "East Delhi Riders vs West Delhi Lions 14th Match",
+      "team1": {
+        "name": "East Delhi Riders",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "West Delhi Lions 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "East Delhi Riders vs West Delhi Lions 14th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Hampshire vs Glamorgan Group B",
       "team1": {
         "name": "Hampshire",
@@ -326,6 +391,58 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Surrey vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Derbyshire Group B",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Derbyshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Essex Group B",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Essex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Gloucestershire Group A",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Gloucestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Lancashire vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Northamptonshire Group A",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Northamptonshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Northamptonshire Group A",
       "status": "Match Details"
     },
     {
