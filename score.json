@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-06 04:30:48 UTC",
+  "last_updated": "2026-08-06 07:21:52 UTC",
   "total_matches": 28,
   "matches": [
+    {
+      "title": "LDN vs MIL - Preview",
+      "team1": {
+        "name": "LDN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDN vs MIL - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "WI vs PAK - PAK won",
       "team1": {
@@ -14,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "WI vs PAK - PAK won",
+      "status": "Match Details"
+    },
+    {
+      "title": "LDNW vs MILW - Preview",
+      "team1": {
+        "name": "LDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MILW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDNW vs MILW - Preview",
       "status": "Match Details"
     },
     {
@@ -30,19 +56,6 @@
       "status": "Match Details"
     },
     {
-      "title": "IRE vs AFG - Abandon",
-      "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "IRE vs AFG - Abandon",
-      "status": "Match Details"
-    },
-    {
       "title": "WEF vs MSG - MSG won",
       "team1": {
         "name": "WEF",
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "WEF vs MSG - MSG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "CLK vs KRL - CLK won",
-      "team1": {
-        "name": "CLK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "KRL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "CLK vs KRL - CLK won",
       "status": "Match Details"
     },
     {
