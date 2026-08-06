@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-06 12:18:04 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-06 14:41:30 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "LDN vs MIL - Preview",
@@ -17,55 +17,55 @@
       "status": "Match Details"
     },
     {
-      "title": "WI vs PAK - PAK won",
+      "title": "MILW vs LDNW - LDNW opt to bowl",
       "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "WI vs PAK - PAK won",
-      "status": "Match Details"
-    },
-    {
-      "title": "LDNW vs MILW - Preview",
-      "team1": {
-        "name": "LDNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "MILW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDNW vs MILW - Preview",
+      "team2": {
+        "name": "LDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MILW vs LDNW - LDNW opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "ODW vs SDS - SDS opt to bowl",
+      "title": "VKK vs SAL - SAL opt to bowl",
       "team1": {
-        "name": "ODW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ODW vs SDS - SDS opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "SAL vs VKK - Preview",
-      "team1": {
-        "name": "SAL",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SAL vs VKK - Preview",
+      "team2": {
+        "name": "SAL",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "VKK vs SAL - SAL opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "PD vs NDT - NDT opt to bowl",
+      "team1": {
+        "name": "PD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NDT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PD vs NDT - NDT opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLXI vs IND - Preview",
+      "team1": {
+        "name": "SLXI",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "SLXI vs IND - Preview",
       "status": "Match Details"
     },
     {
@@ -225,19 +225,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Galle Gallants Qualifier 1 (1v2)",
-      "team1": {
-        "name": "Jaffna Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Galle Gallants Qualifier 1 (1v2)",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jaffna Kings vs Galle Gallants Qualifier 1 (1v2)",
-      "status": "Match Details"
-    },
-    {
       "title": "Colombo Kaps vs Kandy Royals Eliminator (3v4)",
       "team1": {
         "name": "Colombo Kaps",
@@ -251,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trichy Grand Cholas vs Madurai Panthers 2nd Match",
+      "title": "Galle Gallants vs Colombo Kaps Qualifier 2 (Looser Q1 vs Winner Eliminator)",
       "team1": {
-        "name": "Trichy Grand Cholas",
+        "name": "Galle Gallants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Madurai Panthers 2nd Match",
+        "name": "Colombo Kaps Qualifier 2 (Looser Q1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy Grand Cholas vs Madurai Panthers 2nd Match",
+      "score": "Galle Gallants vs Colombo Kaps Qualifier 2 (Looser Q1 vs Winner Eliminator)",
       "status": "Match Details"
     },
     {
@@ -277,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SKM Salem Spartans vs Vida Kovai Kings 4th Match",
+      "title": "Vida Kovai Kings vs SKM Salem Spartans LIVE 4th Match",
       "team1": {
-        "name": "SKM Salem Spartans",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Vida Kovai Kings 4th Match",
+        "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SKM Salem Spartans vs Vida Kovai Kings 4th Match",
+      "team2": {
+        "name": "SKM Salem Spartans LIVE 4th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Vida Kovai Kings vs SKM Salem Spartans LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -303,6 +290,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nellai Royal Kings vs Dindigul Dragons 6th Match",
+      "team1": {
+        "name": "Nellai Royal Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dindigul Dragons 6th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Nellai Royal Kings vs Dindigul Dragons 6th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "East Delhi Riders vs North Delhi Strikers 11th Match",
       "team1": {
         "name": "East Delhi Riders",
@@ -316,29 +316,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs South Delhi Superstarz LIVE 12th Match",
+      "title": "Outer Delhi Warriors vs South Delhi Superstarz 12th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Delhi Superstarz LIVE 12th Match",
+        "name": "South Delhi Superstarz 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs South Delhi Superstarz LIVE 12th Match",
+      "score": "Outer Delhi Warriors vs South Delhi Superstarz 12th Match",
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs Purani Dilli 6 13th Match",
+      "title": "Purani Dilli 6 vs New Delhi Tigers LIVE 13th Match",
       "team1": {
-        "name": "New Delhi Tigers",
+        "name": "Purani Dilli 6",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 13th Match",
+        "name": "New Delhi Tigers LIVE 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs Purani Dilli 6 13th Match",
+      "score": "Purani Dilli 6 vs New Delhi Tigers LIVE 13th Match",
       "status": "Match Details"
     },
     {
@@ -352,6 +352,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "East Delhi Riders vs West Delhi Lions 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Outer Delhi Warriors vs North Delhi Strikers 15th Match",
+      "team1": {
+        "name": "Outer Delhi Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North Delhi Strikers 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Outer Delhi Warriors vs North Delhi Strikers 15th Match",
       "status": "Match Details"
     },
     {
@@ -433,16 +446,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants Women vs Welsh Fire Women 21st Match",
+      "title": "Durham vs Middlesex Group B",
       "team1": {
-        "name": "Manchester Super Giants Women",
+        "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Welsh Fire Women 21st Match",
+        "name": "Middlesex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Durham vs Middlesex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Warwickshire Group A",
+      "team1": {
+        "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Manchester Super Giants Women vs Welsh Fire Women 21st Match",
+      "team2": {
+        "name": "Warwickshire Group A",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Leicestershire vs Warwickshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Surrey Group A",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Surrey Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Surrey Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Worcestershire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -459,16 +511,42 @@
       "status": "Match Details"
     },
     {
-      "title": "London Spirit Women vs MI London Women 23rd Match",
+      "title": "MI London Women vs London Spirit Women LIVE 23rd Match",
       "team1": {
-        "name": "London Spirit Women",
+        "name": "MI London Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MI London Women 23rd Match",
+        "name": "London Spirit Women LIVE 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "London Spirit Women vs MI London Women 23rd Match",
+      "score": "MI London Women vs London Spirit Women LIVE 23rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
+      "team1": {
+        "name": "Birmingham Phoenix Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sunrisers Leeds Women 24th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 132-2 (10) South Delhi Superstarz SDS 93 (9.4) Outer Delhi Warriors won by 39 runs - 10 Overs game due to rain",
+      "team1": {
+        "name": "12th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 132",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (10) South Delhi Superstarz SDS 93 (9.4) Outer Delhi Warriors won by 39 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "12th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 132-2 (10) South Delhi Superstarz SDS 93 (9.4) Outer Delhi Warriors won by 39 runs - 10 Overs game due to rain",
       "status": "Match Details"
     }
   ]
