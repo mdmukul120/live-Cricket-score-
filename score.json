@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 16:28:18 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-08-07 17:27:22 UTC",
+  "total_matches": 50,
   "matches": [
     {
-      "title": "AFG vs IRE - Ireland need 220 runs",
+      "title": "AFG vs IRE - Ireland need 137 runs",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -13,20 +13,33 @@
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "AFG vs IRE - Ireland need 220 runs",
+      "score": "AFG vs IRE - Ireland need 137 runs",
       "status": "Match Details"
     },
     {
-      "title": "BRM vs SUL - Preview",
+      "title": "SUL vs BRM - BRM opt to bowl",
       "team1": {
-        "name": "BRM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs SUL - Preview",
+      "team2": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SUL vs BRM - BRM opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKM vs ABF - Preview",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs ABF - Preview",
       "status": "Match Details"
     },
     {
@@ -43,20 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SLCXI vs IND - Stumps",
-      "team1": {
-        "name": "SLCXI",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "SLCXI vs IND - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "SCO vs CAN - Need 128 to win",
+      "title": "SCO vs CAN - Need 61 off 39b",
       "team1": {
         "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs CAN - Need 128 to win",
+      "score": "SCO vs CAN - Need 61 off 39b",
       "status": "Match Details"
     },
     {
@@ -118,19 +118,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Afghanistan vs Ireland LIVE 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Peru vs Brazil 1st Match",
-      "team1": {
-        "name": "Peru",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Brazil 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Peru vs Brazil 1st Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix vs Sunrisers Leeds 24th Match",
+      "title": "Sunrisers Leeds vs Birmingham Phoenix 24th Match",
       "team1": {
-        "name": "Birmingham Phoenix",
+        "name": "Sunrisers Leeds",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds 24th Match",
+        "name": "Birmingham Phoenix 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix vs Sunrisers Leeds 24th Match",
+      "score": "Sunrisers Leeds vs Birmingham Phoenix 24th Match",
       "status": "Match Details"
     },
     {
@@ -238,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Southern Brave vs Manchester Super Giants 26th Match",
+      "team1": {
+        "name": "Southern Brave",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manchester Super Giants 26th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Southern Brave vs Manchester Super Giants 26th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Jamaica Kingsmen vs Antigua and Barbuda Falcons 1st Match",
       "team1": {
         "name": "Jamaica Kingsmen",
@@ -251,29 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Galle Gallants LIVE Qualifier 2 (Looser Q1 vs Winner Eliminator)",
+      "title": "Colombo Kaps vs Galle Gallants Qualifier 2 (Looser Q1 vs Winner Eliminator)",
       "team1": {
         "name": "Colombo Kaps",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Galle Gallants LIVE Qualifier 2 (Looser Q1",
+        "name": "Galle Gallants Qualifier 2 (Looser Q1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Colombo Kaps vs Galle Gallants LIVE Qualifier 2 (Looser Q1 vs Winner Eliminator)",
+      "score": "Colombo Kaps vs Galle Gallants Qualifier 2 (Looser Q1 vs Winner Eliminator)",
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs TBC Final",
+      "title": "Jaffna Kings vs Galle Gallants Final",
       "team1": {
         "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Final",
+        "name": "Galle Gallants Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs TBC Final",
+      "score": "Jaffna Kings vs Galle Gallants Final",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dindigul Dragons vs Nellai Royal Kings LIVE 6th Match",
+      "title": "Dindigul Dragons vs Nellai Royal Kings 6th Match",
       "team1": {
         "name": "Dindigul Dragons",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Nellai Royal Kings LIVE 6th Match",
+        "name": "Nellai Royal Kings 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dindigul Dragons vs Nellai Royal Kings LIVE 6th Match",
+      "score": "Dindigul Dragons vs Nellai Royal Kings 6th Match",
       "status": "Match Details"
     },
     {
@@ -339,19 +339,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Purani Dilli 6 vs New Delhi Tigers 13th Match",
-      "team1": {
-        "name": "Purani Dilli 6",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "New Delhi Tigers 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Purani Dilli 6 vs New Delhi Tigers 13th Match",
       "status": "Match Details"
     },
     {
@@ -420,6 +407,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Gloucestershire vs Lancashire Group A",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Nottinghamshire Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Nottinghamshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Northamptonshire vs Nottinghamshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Yorkshire Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Glamorgan LIVE Group B",
       "team1": {
         "name": "Essex",
@@ -433,55 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Lancashire LIVE Group A",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire LIVE Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Lancashire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Nottinghamshire LIVE Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Nottinghamshire LIVE Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Nottinghamshire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Yorkshire LIVE Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Yorkshire LIVE Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Middlesex Group B",
+      "title": "Durham vs Middlesex LIVE Group B",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex Group B",
+        "name": "Middlesex LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex Group B",
+      "score": "Durham vs Middlesex LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -576,16 +563,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Qualifier 2 (Looser Q1 vs Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 176 (18.5) Galle Gallants GAG 78-1 (9) Galle Gallants need 99 runs in 66 balls",
+      "title": "Qualifier 2 (Looser Q1 vs Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 176 (18.5) Galle Gallants GAG 177-4 (18.4) Galle Gallants won by 6 wkts",
       "team1": {
         "name": "Qualifier 2 (Looser Q1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 176 (18.5) Galle Gallants GAG 78",
+        "name": "Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 176 (18.5) Galle Gallants GAG 177",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Qualifier 2 (Looser Q1 vs Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 176 (18.5) Galle Gallants GAG 78-1 (9) Galle Gallants need 99 runs in 66 balls",
+      "score": "Qualifier 2 (Looser Q1 vs Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 176 (18.5) Galle Gallants GAG 177-4 (18.4) Galle Gallants won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "6th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 170-7 (20) Nellai Royal Kings NRK 172-4 (17.4) Nellai Royal Kings won by 6 wkts",
+      "team1": {
+        "name": "6th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 170",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (20) Nellai Royal Kings NRK 172",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 170-7 (20) Nellai Royal Kings NRK 172-4 (17.4) Nellai Royal Kings won by 6 wkts",
       "status": "Match Details"
     },
     {
@@ -599,6 +599,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "5th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 205-8 (20) IDream Tiruppur Tamizhans ITT 206-3 (18) IDream Tiruppur Tamizhans won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 270-6 (50) Lancashire LANCS 273-6 (48.1) Lancashire won by 4 wkts",
+      "team1": {
+        "name": "Group A • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 270",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "6 (50) Lancashire LANCS 273",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 270-6 (50) Lancashire LANCS 273-6 (48.1) Lancashire won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Chesterfield, Queen's Park Northamptonshire NHNTS 259-8 (50) Nottinghamshire NOTTS 261-4 (46.4) Nottinghamshire won by 6 wkts",
+      "team1": {
+        "name": "Group A • Chesterfield, Queen's Park Northamptonshire NHNTS 259",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "8 (50) Nottinghamshire NOTTS 261",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Chesterfield, Queen's Park Northamptonshire NHNTS 259-8 (50) Nottinghamshire NOTTS 261-4 (46.4) Nottinghamshire won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Scarborough, North Marine Road Ground Derbyshire DERBY 278-8 (50) Yorkshire YORKS 281-5 (49.2) Yorkshire won by 5 wkts",
+      "team1": {
+        "name": "Group B • Scarborough, North Marine Road Ground Derbyshire DERBY 278",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "8 (50) Yorkshire YORKS 281",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Scarborough, North Marine Road Ground Derbyshire DERBY 278-8 (50) Yorkshire YORKS 281-5 (49.2) Yorkshire won by 5 wkts",
       "status": "Match Details"
     },
     {
