@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-06 14:41:30 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-08-07 00:18:36 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "LDN vs MIL - Preview",
+      "title": "LDN vs MIL - MIL won",
       "team1": {
         "name": "LDN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,46 +13,7 @@
         "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDN vs MIL - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "MILW vs LDNW - LDNW opt to bowl",
-      "team1": {
-        "name": "MILW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "LDNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MILW vs LDNW - LDNW opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "VKK vs SAL - SAL opt to bowl",
-      "team1": {
-        "name": "VKK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SAL",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "VKK vs SAL - SAL opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "PD vs NDT - NDT opt to bowl",
-      "team1": {
-        "name": "PD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NDT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PD vs NDT - NDT opt to bowl",
+      "score": "LDN vs MIL - MIL won",
       "status": "Match Details"
     },
     {
@@ -66,6 +27,45 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "SLXI vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "IRE vs AFG - Preview",
+      "team1": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IRE vs AFG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "BRM vs SUL - Preview",
+      "team1": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BRM vs SUL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "MILW vs LDNW - MILW won",
+      "team1": {
+        "name": "MILW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MILW vs LDNW - MILW won",
       "status": "Match Details"
     },
     {
@@ -108,19 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland vs Afghanistan 1st ODI",
-      "team1": {
-        "name": "Ireland",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Afghanistan 1st ODI",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "Ireland vs Afghanistan 1st ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Ireland vs Afghanistan 2nd ODI",
       "team1": {
         "name": "Ireland",
@@ -131,19 +118,6 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Ireland vs Afghanistan 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Arab Emirates vs Canada 123rd Match",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canada 123rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Canada 123rd Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Brazil vs Peru 1st Match",
+      "title": "Peru vs Brazil 1st Match",
       "team1": {
-        "name": "Brazil",
+        "name": "Peru",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Peru 1st Match",
+        "name": "Brazil 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Brazil vs Peru 1st Match",
+      "score": "Peru vs Brazil 1st Match",
       "status": "Match Details"
     },
     {
@@ -186,29 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire vs Manchester Super Giants 21st Match",
+      "title": "Panama vs Brazil 3rd Match",
       "team1": {
-        "name": "Welsh Fire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Manchester Super Giants 21st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Welsh Fire vs Manchester Super Giants 21st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Birmingham Phoenix vs Trent Rockets 22nd Match",
-      "team1": {
-        "name": "Birmingham Phoenix",
+        "name": "Panama",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets 22nd Match",
+        "name": "Brazil 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix vs Trent Rockets 22nd Match",
+      "score": "Panama vs Brazil 3rd Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +186,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Kandy Royals Eliminator (3v4)",
+      "title": "Birmingham Phoenix vs Sunrisers Leeds 24th Match",
       "team1": {
-        "name": "Colombo Kaps",
+        "name": "Birmingham Phoenix",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kandy Royals Eliminator (3v4)",
+        "name": "Sunrisers Leeds 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Colombo Kaps vs Kandy Royals Eliminator (3v4)",
+      "score": "Birmingham Phoenix vs Sunrisers Leeds 24th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jamaica Kingsmen vs Antigua and Barbuda Falcons 1st Match",
+      "team1": {
+        "name": "Jamaica Kingsmen",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Antigua and Barbuda Falcons 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jamaica Kingsmen vs Antigua and Barbuda Falcons 1st Match",
       "status": "Match Details"
     },
     {
@@ -251,29 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nellai Royal Kings vs Chepauk Super Gillies 3rd Match",
-      "team1": {
-        "name": "Nellai Royal Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chepauk Super Gillies 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nellai Royal Kings vs Chepauk Super Gillies 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Vida Kovai Kings vs SKM Salem Spartans LIVE 4th Match",
+      "title": "Vida Kovai Kings vs SKM Salem Spartans 4th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SKM Salem Spartans LIVE 4th Match",
+        "name": "SKM Salem Spartans 4th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Vida Kovai Kings vs SKM Salem Spartans LIVE 4th Match",
+      "score": "Vida Kovai Kings vs SKM Salem Spartans 4th Match",
       "status": "Match Details"
     },
     {
@@ -303,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "East Delhi Riders vs North Delhi Strikers 11th Match",
-      "team1": {
-        "name": "East Delhi Riders",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "North Delhi Strikers 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "East Delhi Riders vs North Delhi Strikers 11th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Outer Delhi Warriors vs South Delhi Superstarz 12th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
@@ -329,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Purani Dilli 6 vs New Delhi Tigers LIVE 13th Match",
+      "title": "Purani Dilli 6 vs New Delhi Tigers 13th Match",
       "team1": {
         "name": "Purani Dilli 6",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New Delhi Tigers LIVE 13th Match",
+        "name": "New Delhi Tigers 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Purani Dilli 6 vs New Delhi Tigers LIVE 13th Match",
+      "score": "Purani Dilli 6 vs New Delhi Tigers 13th Match",
       "status": "Match Details"
     },
     {
@@ -365,32 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Outer Delhi Warriors vs North Delhi Strikers 15th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Glamorgan Group B",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Glamorgan Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Kent Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Surrey vs Kent Group A",
       "status": "Match Details"
     },
     {
@@ -498,29 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix Women vs Trent Rockets Women 22nd Match",
-      "team1": {
-        "name": "Birmingham Phoenix Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trent Rockets Women 22nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Birmingham Phoenix Women vs Trent Rockets Women 22nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "MI London Women vs London Spirit Women LIVE 23rd Match",
+      "title": "MI London Women vs London Spirit Women 23rd Match",
       "team1": {
         "name": "MI London Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "London Spirit Women LIVE 23rd Match",
+        "name": "London Spirit Women 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London Women vs London Spirit Women LIVE 23rd Match",
+      "score": "MI London Women vs London Spirit Women 23rd Match",
       "status": "Match Details"
     },
     {
@@ -537,16 +446,29 @@
       "status": "Match Details"
     },
     {
-      "title": "12th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 132-2 (10) South Delhi Superstarz SDS 93 (9.4) Outer Delhi Warriors won by 39 runs - 10 Overs game due to rain",
+      "title": "23rd Match • London, Lord's 100 London Spirit LDN 160-5 (100 Balls) MI London MIL 164-6 (94 Balls) MI London won by 4 wkts",
       "team1": {
-        "name": "12th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 132",
+        "name": "23rd Match • London, Lord's 100 London Spirit LDN 160",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "2 (10) South Delhi Superstarz SDS 93 (9.4) Outer Delhi Warriors won by 39 runs",
+        "name": "5 (100 Balls) MI London MIL 164",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "12th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 132-2 (10) South Delhi Superstarz SDS 93 (9.4) Outer Delhi Warriors won by 39 runs - 10 Overs game due to rain",
+      "score": "23rd Match • London, Lord's 100 London Spirit LDN 160-5 (100 Balls) MI London MIL 164-6 (94 Balls) MI London won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "13th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 177-8 (20) New Delhi Tigers NDT 150-8 (20) Purani Dilli 6 won by 27 runs",
+      "team1": {
+        "name": "13th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 177",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) New Delhi Tigers NDT 150",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "13th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 177-8 (20) New Delhi Tigers NDT 150-8 (20) Purani Dilli 6 won by 27 runs",
       "status": "Match Details"
     }
   ]
