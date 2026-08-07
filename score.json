@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 13:22:34 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-07 14:31:25 UTC",
+  "total_matches": 47,
   "matches": [
     {
       "title": "AFG vs IRE - IRE opt to bowl",
@@ -30,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "BRMW vs SULW - SULW opt to bowl",
+      "team1": {
+        "name": "BRMW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BRMW vs SULW - SULW opt to bowl",
+      "status": "Match Details"
+    },
+    {
       "title": "SLCXI vs IND - Stumps",
       "team1": {
         "name": "SLCXI",
@@ -43,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SCO vs CAN - CAN opt to bowl",
+      "title": "SCO vs CAN - Need 256 to win",
       "team1": {
         "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +65,7 @@
         "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs CAN - CAN opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "CSG vs ITT - ITT won",
-      "team1": {
-        "name": "CSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ITT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "CSG vs ITT - ITT won",
+      "score": "SCO vs CAN - Need 256 to win",
       "status": "Match Details"
     },
     {
@@ -160,6 +160,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Mexico vs Brazil 4th Match",
+      "team1": {
+        "name": "Mexico",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Brazil 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mexico vs Brazil 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Panama vs Peru 5th Match",
+      "team1": {
+        "name": "Panama",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Peru 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Panama vs Peru 5th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Scotland vs Canada LIVE 124th Match",
       "team1": {
         "name": "Scotland",
@@ -199,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "MI London vs Trent Rockets 25th Match",
+      "team1": {
+        "name": "MI London",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trent Rockets 25th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MI London vs Trent Rockets 25th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Jamaica Kingsmen vs Antigua and Barbuda Falcons 1st Match",
       "team1": {
         "name": "Jamaica Kingsmen",
@@ -212,16 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Galle Gallants vs Colombo Kaps Qualifier 2 (Looser Q1 vs Winner Eliminator)",
+      "title": "Colombo Kaps vs Galle Gallants LIVE Qualifier 2 (Looser Q1 vs Winner Eliminator)",
       "team1": {
-        "name": "Galle Gallants",
+        "name": "Colombo Kaps",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Colombo Kaps Qualifier 2 (Looser Q1",
+        "name": "Galle Gallants LIVE Qualifier 2 (Looser Q1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Galle Gallants vs Colombo Kaps Qualifier 2 (Looser Q1 vs Winner Eliminator)",
+      "score": "Colombo Kaps vs Galle Gallants LIVE Qualifier 2 (Looser Q1 vs Winner Eliminator)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jaffna Kings vs TBC Final",
+      "team1": {
+        "name": "Jaffna Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jaffna Kings vs TBC Final",
       "status": "Match Details"
     },
     {
@@ -251,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nellai Royal Kings vs Dindigul Dragons 6th Match",
+      "title": "Dindigul Dragons vs Nellai Royal Kings LIVE 6th Match",
       "team1": {
-        "name": "Nellai Royal Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dindigul Dragons 6th Match",
+        "name": "Dindigul Dragons",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Nellai Royal Kings vs Dindigul Dragons 6th Match",
+      "team2": {
+        "name": "Nellai Royal Kings LIVE 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Dindigul Dragons vs Nellai Royal Kings LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -274,6 +326,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Madurai Panthers vs Vida Kovai Kings 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
+      "team1": {
+        "name": "SKM Salem Spartans",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Trichy Grand Cholas 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
       "status": "Match Details"
     },
     {
@@ -329,6 +394,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Central Delhi Kings vs Outer Delhi Warriors 17th Match",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Outer Delhi Warriors 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs Outer Delhi Warriors 17th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Tanzania vs Uganda 31st Match",
       "team1": {
         "name": "Tanzania",
@@ -355,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Lancashire Group A",
+      "title": "Gloucestershire vs Lancashire LIVE Group A",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Lancashire Group A",
+        "name": "Lancashire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Lancashire Group A",
+      "score": "Gloucestershire vs Lancashire LIVE Group A",
       "status": "Match Details"
     },
     {
@@ -381,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Yorkshire Group B",
+      "title": "Derbyshire vs Yorkshire LIVE Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Yorkshire Group B",
+        "name": "Yorkshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Derbyshire vs Yorkshire Group B",
+      "score": "Derbyshire vs Yorkshire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -459,16 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
+      "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women LIVE 24th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds Women 24th Match",
+        "name": "Sunrisers Leeds Women LIVE 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
+      "score": "Birmingham Phoenix Women vs Sunrisers Leeds Women LIVE 24th Match",
       "status": "Match Details"
     },
     {
@@ -485,6 +563,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Southern Brave Women vs Manchester Super Giants Women 26th Match",
+      "team1": {
+        "name": "Southern Brave Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manchester Super Giants Women 26th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Southern Brave Women vs Manchester Super Giants Women 26th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "2nd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Mexico MEX 122-6 (20) Panama PAN 123-5 (19.3) Panama won by 5 wkts",
       "team1": {
         "name": "2nd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Mexico MEX 122",
@@ -495,6 +586,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "2nd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Mexico MEX 122-6 (20) Panama PAN 123-5 (19.3) Panama won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Qualifier 2 (Looser Q1 vs Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 52-4 (6) Galle Gallants GAG Colombo Kaps opt to bat",
+      "team1": {
+        "name": "Qualifier 2 (Looser Q1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 52",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Qualifier 2 (Looser Q1 vs Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 52-4 (6) Galle Gallants GAG Colombo Kaps opt to bat",
       "status": "Match Details"
     },
     {
