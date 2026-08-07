@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 23:15:18 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-08-07 23:51:36 UTC",
+  "total_matches": 46,
   "matches": [
     {
       "title": "JKM vs ABF - ABF opt to bowl",
@@ -14,19 +14,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "JKM vs ABF - ABF opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "SUL vs BRM - SUL won",
-      "team1": {
-        "name": "SUL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BRM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SUL vs BRM - SUL won",
       "status": "Match Details"
     },
     {
@@ -43,29 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "AFG vs IRE - AFG won",
+      "title": "SUL vs BRM - SUL won",
       "team1": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "AFG vs IRE - AFG won",
+      "score": "SUL vs BRM - SUL won",
       "status": "Match Details"
     },
     {
-      "title": "BRMW vs SULW - SULW won",
+      "title": "MIL vs TRE - Preview",
       "team1": {
-        "name": "BRMW",
+        "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SULW",
+        "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRMW vs SULW - SULW won",
+      "score": "MIL vs TRE - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKS vs GAG - Preview",
+      "team1": {
+        "name": "JKS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKS vs GAG - Preview",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Panama vs Brazil LIVE 3rd Match",
+      "title": "Panama vs Brazil 3rd Match",
       "team1": {
         "name": "Panama",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Brazil LIVE 3rd Match",
+        "name": "Brazil 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Panama vs Brazil LIVE 3rd Match",
+      "score": "Panama vs Brazil 3rd Match",
       "status": "Match Details"
     },
     {
@@ -524,29 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd ODI • Bready, Northern Ireland, Bready Cricket Club Afghanistan AFG 299-8 (47) Ireland IRE 207 (33.4) Afghanistan won by 92 runs (Match reduced to 47 overs per side due to wet outfield)",
+      "title": "3rd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Panama PAN 93-9 (20) Brazil BRAZIL 94-3 (13.3) Brazil won by 7 wkts",
       "team1": {
-        "name": "2nd ODI • Bready, Northern Ireland, Bready Cricket Club Afghanistan AFG 299",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "8 (47) Ireland IRE 207 (33.4) Afghanistan won by 92 runs (Match reduced to 47 overs per side due to wet outfield)",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "2nd ODI • Bready, Northern Ireland, Bready Cricket Club Afghanistan AFG 299-8 (47) Ireland IRE 207 (33.4) Afghanistan won by 92 runs (Match reduced to 47 overs per side due to wet outfield)",
-      "status": "Match Details"
-    },
-    {
-      "title": "124th Match • Dundee, Forthill Scotland SCO 281-7 (50) Canada CAN 272 (49.2) Scotland won by 9 runs",
-      "team1": {
-        "name": "124th Match • Dundee, Forthill Scotland SCO 281",
+        "name": "3rd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Panama PAN 93",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (50) Canada CAN 272 (49.2) Scotland won by 9 runs",
+        "name": "9 (20) Brazil BRAZIL 94",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "124th Match • Dundee, Forthill Scotland SCO 281-7 (50) Canada CAN 272 (49.2) Scotland won by 9 runs",
+      "score": "3rd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Panama PAN 93-9 (20) Brazil BRAZIL 94-3 (13.3) Brazil won by 7 wkts",
       "status": "Match Details"
     },
     {
@@ -560,6 +547,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "24th Match • Birmingham, Edgbaston 100 Sunrisers Leeds SUL 169-7 (100 Balls) Birmingham Phoenix BRM 124-8 (100 Balls) Sunrisers Leeds won by 45 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Hove, County Ground Sussex SUS 333-9 (50) Worcestershire WORCS 334-6 (48.2) Worcestershire won by 4 wkts",
+      "team1": {
+        "name": "Group B • Hove, County Ground Sussex SUS 333",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (50) Worcestershire WORCS 334",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Hove, County Ground Sussex SUS 333-9 (50) Worcestershire WORCS 334-6 (48.2) Worcestershire won by 4 wkts",
       "status": "Match Details"
     },
     {
@@ -586,19 +586,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 368-9 (50) Surrey SUR 180 (38.2) Somerset won by 188 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Hove, County Ground Sussex SUS 333-9 (50) Worcestershire WORCS 334-6 (48.2) Worcestershire won by 4 wkts",
-      "team1": {
-        "name": "Group B • Hove, County Ground Sussex SUS 333",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (50) Worcestershire WORCS 334",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group B • Hove, County Ground Sussex SUS 333-9 (50) Worcestershire WORCS 334-6 (48.2) Worcestershire won by 4 wkts",
       "status": "Match Details"
     },
     {
