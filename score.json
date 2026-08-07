@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 11:57:53 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-07 13:22:34 UTC",
+  "total_matches": 39,
   "matches": [
-    {
-      "title": "SLXI vs IND - Stumps",
-      "team1": {
-        "name": "SLXI",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "SLXI vs IND - Stumps",
-      "status": "Match Details"
-    },
     {
       "title": "AFG vs IRE - IRE opt to bowl",
       "team1": {
@@ -43,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "SLCXI vs IND - Stumps",
+      "team1": {
+        "name": "SLCXI",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "SLCXI vs IND - Stumps",
+      "status": "Match Details"
+    },
+    {
       "title": "SCO vs CAN - CAN opt to bowl",
       "team1": {
         "name": "SCO",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "CSG vs ITT - Innings Break",
+      "title": "CSG vs ITT - ITT won",
       "team1": {
         "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,20 @@
         "name": "ITT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CSG vs ITT - Innings Break",
+      "score": "CSG vs ITT - ITT won",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka XI vs India 3-Day Warm-up Match",
+      "title": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "team1": {
-        "name": "Sri Lanka XI",
+        "name": "Sri Lanka Cricket XI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
         "name": "India 3",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka XI vs India 3-Day Warm-up Match",
+      "score": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "status": "Match Details"
     },
     {
@@ -342,19 +342,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Yorkshire LIVE Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Yorkshire LIVE Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Essex vs Glamorgan LIVE Group B",
       "team1": {
         "name": "Essex",
@@ -368,16 +355,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Lancashire LIVE Group A",
+      "title": "Gloucestershire vs Lancashire Group A",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Lancashire LIVE Group A",
+        "name": "Lancashire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Lancashire LIVE Group A",
+      "score": "Gloucestershire vs Lancashire Group A",
       "status": "Match Details"
     },
     {
@@ -394,55 +381,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex Group B",
+      "title": "Derbyshire vs Yorkshire Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Middlesex LIVE Group B",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex Group B",
+        "name": "Middlesex LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex Group B",
+      "score": "Durham vs Middlesex LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Worcestershire Group B",
+      "title": "Warwickshire vs Leicestershire LIVE Group A",
       "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Warwickshire Group A",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire Group A",
+        "name": "Warwickshire",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Leicestershire vs Warwickshire Group A",
+      "team2": {
+        "name": "Leicestershire LIVE Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Leicestershire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Surrey Group A",
+      "title": "Somerset vs Surrey LIVE Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Surrey Group A",
+        "name": "Surrey LIVE Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Surrey Group A",
+      "score": "Somerset vs Surrey LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Worcestershire LIVE Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Worcestershire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -495,6 +495,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "2nd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Mexico MEX 122-6 (20) Panama PAN 123-5 (19.3) Panama won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 205-8 (20) IDream Tiruppur Tamizhans ITT 206-3 (18) IDream Tiruppur Tamizhans won by 7 wkts",
+      "team1": {
+        "name": "5th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 205",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "8 (20) IDream Tiruppur Tamizhans ITT 206",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 205-8 (20) IDream Tiruppur Tamizhans ITT 206-3 (18) IDream Tiruppur Tamizhans won by 7 wkts",
       "status": "Match Details"
     }
   ]
