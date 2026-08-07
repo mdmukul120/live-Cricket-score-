@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 09:11:32 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-07 10:11:16 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "SLXI vs IND - SLXI opt to bat",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "IRE vs AFG - Preview",
+      "title": "IRE vs AFG - Delay",
       "team1": {
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
@@ -26,33 +26,7 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IRE vs AFG - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "LDN vs MIL - MIL won",
-      "team1": {
-        "name": "LDN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MIL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDN vs MIL - MIL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SCO vs CAN - Preview",
-      "team1": {
-        "name": "SCO",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "CAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SCO vs CAN - Preview",
+      "score": "IRE vs AFG - Delay",
       "status": "Match Details"
     },
     {
@@ -66,6 +40,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "BRM vs SUL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SCO vs CAN - CAN opt to bowl",
+      "team1": {
+        "name": "SCO",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "CAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SCO vs CAN - CAN opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "CSG vs ITT - ITT opt to bowl",
+      "team1": {
+        "name": "CSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ITT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "CSG vs ITT - ITT opt to bowl",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mexico vs Panama LIVE 2nd Match",
+      "title": "Mexico vs Panama 2nd Match",
       "team1": {
         "name": "Mexico",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Panama LIVE 2nd Match",
+        "name": "Panama 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mexico vs Panama LIVE 2nd Match",
+      "score": "Mexico vs Panama 2nd Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Scotland vs Canada 124th Match",
+      "title": "Scotland vs Canada LIVE 124th Match",
       "team1": {
         "name": "Scotland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada 124th Match",
+        "name": "Canada LIVE 124th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Scotland vs Canada 124th Match",
+      "score": "Scotland vs Canada LIVE 124th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans 5th Match",
+      "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans LIVE 5th Match",
       "team1": {
         "name": "Chepauk Super Gillies",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "IDream Tiruppur Tamizhans 5th Match",
+        "name": "IDream Tiruppur Tamizhans LIVE 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans 5th Match",
+      "score": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +261,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Nellai Royal Kings vs Dindigul Dragons 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Madurai Panthers vs Vida Kovai Kings 7th Match",
+      "team1": {
+        "name": "Madurai Panthers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Vida Kovai Kings 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Madurai Panthers vs Vida Kovai Kings 7th Match",
       "status": "Match Details"
     },
     {
@@ -342,55 +355,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Essex Group B",
+      "title": "Essex vs Glamorgan LIVE Group B",
       "team1": {
-        "name": "Glamorgan",
+        "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex Group B",
+        "name": "Glamorgan LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Essex Group B",
+      "score": "Essex vs Glamorgan LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Gloucestershire Group A",
+      "title": "Gloucestershire vs Lancashire LIVE Group A",
       "team1": {
-        "name": "Lancashire",
+        "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Gloucestershire Group A",
+        "name": "Lancashire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Lancashire vs Gloucestershire Group A",
+      "score": "Gloucestershire vs Lancashire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Northamptonshire Group A",
+      "title": "Northamptonshire vs Nottinghamshire LIVE Group A",
       "team1": {
-        "name": "Nottinghamshire",
+        "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Northamptonshire Group A",
+        "name": "Nottinghamshire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Northamptonshire Group A",
+      "score": "Northamptonshire vs Nottinghamshire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Derbyshire Group B",
+      "title": "Derbyshire vs Yorkshire LIVE Group B",
       "team1": {
-        "name": "Yorkshire",
+        "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Derbyshire Group B",
+        "name": "Yorkshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Derbyshire Group B",
+      "score": "Derbyshire vs Yorkshire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -469,6 +482,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "MI London Women vs Trent Rockets Women 25th Match",
+      "team1": {
+        "name": "MI London Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trent Rockets Women 25th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MI London Women vs Trent Rockets Women 25th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Mexico MEX 122-6 (20) Panama PAN 123-5 (19.3) Panama won by 5 wkts",
+      "team1": {
+        "name": "2nd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Mexico MEX 122",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Panama PAN 123",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Mexico MEX 122-6 (20) Panama PAN 123-5 (19.3) Panama won by 5 wkts",
       "status": "Match Details"
     }
   ]
