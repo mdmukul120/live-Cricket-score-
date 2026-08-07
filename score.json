@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 19:31:41 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-08-07 20:18:07 UTC",
+  "total_matches": 53,
   "matches": [
     {
-      "title": "SUL vs BRM - Need 127 off 64b",
+      "title": "SUL vs BRM - Need 49 off 4b",
       "team1": {
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs BRM - Need 127 off 64b",
+      "score": "SUL vs BRM - Need 49 off 4b",
       "status": "Match Details"
     },
     {
@@ -459,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex LIVE Group B",
+      "title": "Durham vs Middlesex Group B",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex LIVE Group B",
+        "name": "Middlesex Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex LIVE Group B",
+      "score": "Durham vs Middlesex Group B",
       "status": "Match Details"
     },
     {
@@ -485,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Surrey LIVE Group A",
+      "title": "Somerset vs Surrey Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Surrey LIVE Group A",
+        "name": "Surrey Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Surrey LIVE Group A",
+      "score": "Somerset vs Surrey Group A",
       "status": "Match Details"
     },
     {
@@ -599,6 +599,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "6th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 170-7 (20) Nellai Royal Kings NRK 172-4 (17.4) Nellai Royal Kings won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 368-9 (50) Surrey SUR 180 (38.2) Somerset won by 188 runs",
+      "team1": {
+        "name": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 368",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (50) Surrey SUR 180 (38.2) Somerset won by 188 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 368-9 (50) Surrey SUR 180 (38.2) Somerset won by 188 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Chester-le-Street, Riverside Ground Durham DUR 303-7 (50) Middlesex MDX 307-7 (49.3) Middlesex won by 3 wkts",
+      "team1": {
+        "name": "Group B • Chester",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "le",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Chester-le-Street, Riverside Ground Durham DUR 303-7 (50) Middlesex MDX 307-7 (49.3) Middlesex won by 3 wkts",
       "status": "Match Details"
     },
     {
