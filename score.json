@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 10:11:16 UTC",
+  "last_updated": "2026-08-07 11:09:01 UTC",
   "total_matches": 39,
   "matches": [
     {
@@ -17,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "IRE vs AFG - Delay",
+      "title": "AFG vs IRE - Delay",
       "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IRE vs AFG - Delay",
+      "team2": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "AFG vs IRE - Delay",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland vs Afghanistan 2nd ODI",
+      "title": "Afghanistan vs Ireland 2nd ODI",
       "team1": {
-        "name": "Ireland",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Afghanistan 2nd ODI",
+        "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Ireland vs Afghanistan 2nd ODI",
+      "team2": {
+        "name": "Ireland 2nd ODI",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Afghanistan vs Ireland 2nd ODI",
       "status": "Match Details"
     },
     {
