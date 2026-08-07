@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 00:18:36 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-07 03:22:14 UTC",
+  "total_matches": 34,
   "matches": [
-    {
-      "title": "LDN vs MIL - MIL won",
-      "team1": {
-        "name": "LDN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MIL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDN vs MIL - MIL won",
-      "status": "Match Details"
-    },
     {
       "title": "SLXI vs IND - Preview",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "SLXI vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "LDN vs MIL - MIL won",
+      "team1": {
+        "name": "LDN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDN vs MIL - MIL won",
       "status": "Match Details"
     },
     {
@@ -43,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "SCO vs CAN - Preview",
+      "team1": {
+        "name": "SCO",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "CAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SCO vs CAN - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "BRM vs SUL - Preview",
       "team1": {
         "name": "BRM",
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "BRM vs SUL - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "MILW vs LDNW - MILW won",
-      "team1": {
-        "name": "MILW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "LDNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MILW vs LDNW - MILW won",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh vs Cricket Australia XI 3 -Day Warm-up match",
+      "title": "Bangladesh vs Cricket Australia XI LIVE 3 -Day Warm-up match",
       "team1": {
         "name": "Bangladesh",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "Cricket Australia XI 3",
+        "name": "Cricket Australia XI LIVE 3",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Bangladesh vs Cricket Australia XI 3 -Day Warm-up match",
+      "score": "Bangladesh vs Cricket Australia XI LIVE 3 -Day Warm-up match",
       "status": "Match Details"
     },
     {
@@ -443,32 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "23rd Match • London, Lord's 100 London Spirit LDN 160-5 (100 Balls) MI London MIL 164-6 (94 Balls) MI London won by 4 wkts",
-      "team1": {
-        "name": "23rd Match • London, Lord's 100 London Spirit LDN 160",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (100 Balls) MI London MIL 164",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "23rd Match • London, Lord's 100 London Spirit LDN 160-5 (100 Balls) MI London MIL 164-6 (94 Balls) MI London won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "13th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 177-8 (20) New Delhi Tigers NDT 150-8 (20) Purani Dilli 6 won by 27 runs",
-      "team1": {
-        "name": "13th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 177",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) New Delhi Tigers NDT 150",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "13th Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 177-8 (20) New Delhi Tigers NDT 150-8 (20) Purani Dilli 6 won by 27 runs",
       "status": "Match Details"
     }
   ]
