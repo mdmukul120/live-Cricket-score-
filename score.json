@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 07:57:08 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-07 09:11:32 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "SLXI vs IND - SLXI opt to bat",
@@ -17,19 +17,6 @@
       "status": "Match Details"
     },
     {
-      "title": "LDN vs MIL - MIL won",
-      "team1": {
-        "name": "LDN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MIL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDN vs MIL - MIL won",
-      "status": "Match Details"
-    },
-    {
       "title": "IRE vs AFG - Preview",
       "team1": {
         "name": "IRE",
@@ -40,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "IRE vs AFG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "LDN vs MIL - MIL won",
+      "team1": {
+        "name": "LDN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDN vs MIL - MIL won",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh vs Cricket Australia XI LIVE 3 -Day Warm-up match",
+      "title": "Bangladesh vs Cricket Australia XI 3 -Day Warm-up match",
       "team1": {
         "name": "Bangladesh",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "Cricket Australia XI LIVE 3",
+        "name": "Cricket Australia XI 3",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Bangladesh vs Cricket Australia XI LIVE 3 -Day Warm-up match",
+      "score": "Bangladesh vs Cricket Australia XI 3 -Day Warm-up match",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mexico vs Panama 2nd Match",
+      "title": "Mexico vs Panama LIVE 2nd Match",
       "team1": {
         "name": "Mexico",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Panama 2nd Match",
+        "name": "Panama LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mexico vs Panama 2nd Match",
+      "score": "Mexico vs Panama LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -313,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Outer Delhi Warriors vs North Delhi Strikers 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Purani Dilli 6 vs South Delhi Superstarz 16th Match",
+      "team1": {
+        "name": "Purani Dilli 6",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Delhi Superstarz 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Purani Dilli 6 vs South Delhi Superstarz 16th Match",
       "status": "Match Details"
     },
     {
