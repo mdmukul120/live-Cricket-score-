@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 11:09:01 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-07 11:57:53 UTC",
+  "total_matches": 38,
   "matches": [
     {
-      "title": "SLXI vs IND - SLXI opt to bat",
+      "title": "SLXI vs IND - Stumps",
       "team1": {
         "name": "SLXI",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,11 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SLXI vs IND - SLXI opt to bat",
+      "score": "SLXI vs IND - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "AFG vs IRE - Delay",
+      "title": "AFG vs IRE - IRE opt to bowl",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -26,7 +26,7 @@
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "AFG vs IRE - Delay",
+      "score": "AFG vs IRE - IRE opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "CSG vs ITT - ITT opt to bowl",
+      "title": "CSG vs ITT - Innings Break",
       "team1": {
         "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,20 @@
         "name": "ITT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CSG vs ITT - ITT opt to bowl",
+      "score": "CSG vs ITT - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka XI vs India LIVE 3-Day Warm-up Match",
+      "title": "Sri Lanka XI vs India 3-Day Warm-up Match",
       "team1": {
         "name": "Sri Lanka XI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "India LIVE 3",
+        "name": "India 3",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka XI vs India LIVE 3-Day Warm-up Match",
+      "score": "Sri Lanka XI vs India 3-Day Warm-up Match",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Ireland 2nd ODI",
+      "title": "Afghanistan vs Ireland LIVE 2nd ODI",
       "team1": {
         "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Ireland 2nd ODI",
+        "name": "Ireland LIVE 2nd ODI",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Afghanistan vs Ireland 2nd ODI",
+      "score": "Afghanistan vs Ireland LIVE 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans LIVE 5th Match",
+      "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans 5th Match",
       "team1": {
         "name": "Chepauk Super Gillies",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "IDream Tiruppur Tamizhans LIVE 5th Match",
+        "name": "IDream Tiruppur Tamizhans 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans LIVE 5th Match",
+      "score": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans 5th Match",
       "status": "Match Details"
     },
     {
@@ -274,19 +274,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Madurai Panthers vs Vida Kovai Kings 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Outer Delhi Warriors vs South Delhi Superstarz 12th Match",
-      "team1": {
-        "name": "Outer Delhi Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Delhi Superstarz 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Outer Delhi Warriors vs South Delhi Superstarz 12th Match",
       "status": "Match Details"
     },
     {
@@ -355,6 +342,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Yorkshire LIVE Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Yorkshire LIVE Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Glamorgan LIVE Group B",
       "team1": {
         "name": "Essex",
@@ -394,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Yorkshire LIVE Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Yorkshire LIVE Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Durham vs Middlesex Group B",
       "team1": {
         "name": "Durham",
@@ -417,6 +404,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Durham vs Middlesex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Worcestershire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
@@ -443,19 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Somerset vs Surrey Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Worcestershire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
