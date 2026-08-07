@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-07 20:18:07 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-08-07 21:04:50 UTC",
+  "total_matches": 54,
   "matches": [
     {
-      "title": "SUL vs BRM - Need 49 off 4b",
+      "title": "SUL vs BRM - SUL won",
       "team1": {
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs BRM - Need 49 off 4b",
+      "score": "SUL vs BRM - SUL won",
       "status": "Match Details"
     },
     {
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "West Indies vs Pakistan 2nd Test",
-      "team1": {
-        "name": "West Indies",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Pakistan 2nd Test",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "West Indies vs Pakistan 2nd Test",
       "status": "Match Details"
     },
     {
@@ -199,29 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "London Spirit vs MI London 23rd Match",
-      "team1": {
-        "name": "London Spirit",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MI London 23rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "London Spirit vs MI London 23rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sunrisers Leeds vs Birmingham Phoenix LIVE 24th Match",
+      "title": "Sunrisers Leeds vs Birmingham Phoenix 24th Match",
       "team1": {
         "name": "Sunrisers Leeds",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix LIVE 24th Match",
+        "name": "Birmingham Phoenix 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds vs Birmingham Phoenix LIVE 24th Match",
+      "score": "Sunrisers Leeds vs Birmingham Phoenix 24th Match",
       "status": "Match Details"
     },
     {
@@ -407,6 +381,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Yorkshire Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Glamorgan Group B",
       "team1": {
         "name": "Essex",
@@ -446,19 +433,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Yorkshire Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Durham vs Middlesex Group B",
       "team1": {
         "name": "Durham",
@@ -472,16 +446,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Warwickshire vs Leicestershire LIVE Group A",
+      "title": "Sussex vs Worcestershire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Leicestershire Group A",
       "team1": {
         "name": "Warwickshire",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "Leicestershire LIVE Group A",
+        "name": "Leicestershire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Warwickshire vs Leicestershire LIVE Group A",
+      "score": "Warwickshire vs Leicestershire Group A",
       "status": "Match Details"
     },
     {
@@ -495,19 +482,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Somerset vs Surrey Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Worcestershire LIVE Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire LIVE Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Worcestershire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -576,6 +550,19 @@
       "status": "Match Details"
     },
     {
+      "title": "24th Match • Birmingham, Edgbaston 100 Sunrisers Leeds SUL 169-7 (100 Balls) Birmingham Phoenix BRM 124-8 (100 Balls) Sunrisers Leeds won by 45 runs",
+      "team1": {
+        "name": "24th Match • Birmingham, Edgbaston 100 Sunrisers Leeds SUL 169",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (100 Balls) Birmingham Phoenix BRM 124",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "24th Match • Birmingham, Edgbaston 100 Sunrisers Leeds SUL 169-7 (100 Balls) Birmingham Phoenix BRM 124-8 (100 Balls) Sunrisers Leeds won by 45 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "Qualifier 2 (Looser Q1 vs Winner Eliminator)  • Colombo, R.Premadasa Stadium Colombo Kaps CLK 176 (18.5) Galle Gallants GAG 177-4 (18.4) Galle Gallants won by 6 wkts",
       "team1": {
         "name": "Qualifier 2 (Looser Q1",
@@ -612,6 +599,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group A • Taunton, The Cooper Associates County Ground Somerset SOM 368-9 (50) Surrey SUR 180 (38.2) Somerset won by 188 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Leicester, Grace Road Warwickshire WARKS 220 (46) Leicestershire LEIC 222-7 (47.1) Leicestershire won by 3 wkts",
+      "team1": {
+        "name": "Group A • Leicester, Grace Road Warwickshire WARKS 220 (46) Leicestershire LEIC 222",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "7 (47.1) Leicestershire won by 3 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Leicester, Grace Road Warwickshire WARKS 220 (46) Leicestershire LEIC 222-7 (47.1) Leicestershire won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Hove, County Ground Sussex SUS 333-9 (50) Worcestershire WORCS 334-6 (48.2) Worcestershire won by 4 wkts",
+      "team1": {
+        "name": "Group B • Hove, County Ground Sussex SUS 333",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (50) Worcestershire WORCS 334",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Hove, County Ground Sussex SUS 333-9 (50) Worcestershire WORCS 334-6 (48.2) Worcestershire won by 4 wkts",
       "status": "Match Details"
     },
     {
