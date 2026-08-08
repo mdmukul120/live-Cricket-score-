@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 11:54:00 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-08-08 12:50:33 UTC",
+  "total_matches": 54,
   "matches": [
     {
-      "title": "SLCXI vs IND - Trail by 86",
+      "title": "SLCXI vs IND - Stumps",
       "team1": {
         "name": "SLCXI",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,11 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SLCXI vs IND - Trail by 86",
+      "score": "SLCXI vs IND - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "MILW vs TREW - Need 79 off 64b",
+      "title": "MILW vs TREW - TREW won",
       "team1": {
         "name": "MILW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MILW vs TREW - Need 79 off 64b",
+      "score": "MILW vs TREW - TREW won",
       "status": "Match Details"
     },
     {
-      "title": "MIL vs TRE - Preview",
+      "title": "MIL vs TRE - TRE opt to bowl",
       "team1": {
         "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MIL vs TRE - Preview",
+      "score": "MIL vs TRE - TRE opt to bowl",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
+      "title": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "team1": {
         "name": "Sri Lanka Cricket XI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "India LIVE 3",
+        "name": "India 3",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
+      "score": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Madurai Panthers 7th Match",
+      "title": "Vida Kovai Kings vs Madurai Panthers LIVE 7th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Madurai Panthers 7th Match",
+        "name": "Madurai Panthers LIVE 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Vida Kovai Kings vs Madurai Panthers 7th Match",
+      "score": "Vida Kovai Kings vs Madurai Panthers LIVE 7th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Uganda 31st Match",
+      "title": "Uganda vs Tanzania LIVE 31st Match",
       "team1": {
-        "name": "Tanzania",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Uganda 31st Match",
+        "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tanzania vs Uganda 31st Match",
+      "team2": {
+        "name": "Tanzania LIVE 31st Match",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Uganda vs Tanzania LIVE 31st Match",
       "status": "Match Details"
     },
     {
@@ -537,32 +537,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Hampshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Lancashire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Derbyshire vs Middlesex Group B",
       "team1": {
         "name": "Derbyshire",
@@ -641,6 +615,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Sussex vs Hampshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Lancashire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
@@ -654,16 +654,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London Women vs Trent Rockets Women LIVE 25th Match",
+      "title": "MI London Women vs Trent Rockets Women 25th Match",
       "team1": {
         "name": "MI London Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women LIVE 25th Match",
+        "name": "Trent Rockets Women 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London Women vs Trent Rockets Women LIVE 25th Match",
+      "score": "MI London Women vs Trent Rockets Women 25th Match",
       "status": "Match Details"
     },
     {
@@ -690,6 +690,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Sunrisers Leeds Women vs Welsh Fire Women 27th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "25th Match • London, Kennington Oval 100 MI London Women MILW 121-5 (100 Balls) Trent Rockets Women TREW 125-1 (82 Balls) Trent Rockets Women won by 9 wkts",
+      "team1": {
+        "name": "25th Match • London, Kennington Oval 100 MI London Women MILW 121",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (100 Balls) Trent Rockets Women TREW 125",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "25th Match • London, Kennington Oval 100 MI London Women MILW 121-5 (100 Balls) Trent Rockets Women TREW 125-1 (82 Balls) Trent Rockets Women won by 9 wkts",
       "status": "Match Details"
     }
   ]
