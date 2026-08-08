@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 20:52:16 UTC",
-  "total_matches": 57,
+  "last_updated": "2026-08-08 21:25:53 UTC",
+  "total_matches": 53,
   "matches": [
     {
       "title": "MSG vs SOU - MSG won",
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Brazil vs Mexico 4th Match",
-      "team1": {
-        "name": "Brazil",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mexico 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brazil vs Mexico 4th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Peru vs Panama 5th Match",
       "team1": {
         "name": "Peru",
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Peru vs Panama 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Brazil vs Mexico 4th Match",
+      "team1": {
+        "name": "Brazil",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mexico 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil vs Mexico 4th Match",
       "status": "Match Details"
     },
     {
@@ -196,19 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TBC vs TBC Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sunrisers Leeds vs Birmingham Phoenix 24th Match",
-      "team1": {
-        "name": "Sunrisers Leeds",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Birmingham Phoenix 24th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sunrisers Leeds vs Birmingham Phoenix 24th Match",
       "status": "Match Details"
     },
     {
@@ -446,45 +433,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Warwickshire vs Leicestershire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Surrey Group A",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Surrey Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Surrey Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Worcestershire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Derbyshire vs Middlesex Group B",
       "team1": {
         "name": "Derbyshire",
@@ -641,19 +589,6 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
-      "team1": {
-        "name": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95-6 (20) Panama PAN 96-7 (16.4) Panama won by 3 wkts",
       "team1": {
         "name": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95",
@@ -664,6 +599,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95-6 (20) Panama PAN 96-7 (16.4) Panama won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+      "team1": {
+        "name": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
       "status": "Match Details"
     },
     {
