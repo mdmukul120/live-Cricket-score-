@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 17:17:37 UTC",
-  "total_matches": 63,
+  "last_updated": "2026-08-08 17:52:25 UTC",
+  "total_matches": 62,
   "matches": [
     {
       "title": "MSG vs SOU - MSG opt to bat",
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "JKS vs GAG - Need 10 off 28b",
+      "title": "JKS vs GAG - GAG won",
       "team1": {
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "GAG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKS vs GAG - Need 10 off 28b",
+      "score": "JKS vs GAG - GAG won",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Ireland 2nd ODI",
+      "title": "Scotland vs Canada 124th Match",
       "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "Scotland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ireland 2nd ODI",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Canada 124th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Afghanistan vs Ireland 2nd ODI",
+      "score": "Scotland vs Canada 124th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Scotland vs United Arab Emirates 125th Match",
+      "team1": {
+        "name": "Scotland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 125th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Scotland vs United Arab Emirates 125th Match",
       "status": "Match Details"
     },
     {
@@ -121,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Brazil vs Mexico LIVE 4th Match",
+      "title": "Brazil vs Mexico 4th Match",
       "team1": {
         "name": "Brazil",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mexico LIVE 4th Match",
+        "name": "Mexico 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Brazil vs Mexico LIVE 4th Match",
+      "score": "Brazil vs Mexico 4th Match",
       "status": "Match Details"
     },
     {
@@ -183,32 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TBC vs TBC Semi Final 2",
-      "status": "Match Details"
-    },
-    {
-      "title": "Scotland vs Canada 124th Match",
-      "team1": {
-        "name": "Scotland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canada 124th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Scotland vs Canada 124th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Scotland vs United Arab Emirates 125th Match",
-      "team1": {
-        "name": "Scotland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates 125th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Scotland vs United Arab Emirates 125th Match",
       "status": "Match Details"
     },
     {
@@ -303,42 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Colombo Kaps vs Galle Gallants Qualifier 2 (Looser Q1 vs Winner Eliminator)",
-      "team1": {
-        "name": "Colombo Kaps",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Galle Gallants Qualifier 2 (Looser Q1",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Colombo Kaps vs Galle Gallants Qualifier 2 (Looser Q1 vs Winner Eliminator)",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jaffna Kings vs Galle Gallants LIVE Final",
+      "title": "Jaffna Kings vs Galle Gallants Final",
       "team1": {
         "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Galle Gallants LIVE Final",
+        "name": "Galle Gallants Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Galle Gallants LIVE Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Dindigul Dragons vs Nellai Royal Kings 6th Match",
-      "team1": {
-        "name": "Dindigul Dragons",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Nellai Royal Kings 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Dindigul Dragons vs Nellai Royal Kings 6th Match",
+      "score": "Jaffna Kings vs Galle Gallants Final",
       "status": "Match Details"
     },
     {
@@ -355,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SKM Salem Spartans vs Trichy Grand Cholas LIVE 8th Match",
+      "title": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
       "team1": {
         "name": "SKM Salem Spartans",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Trichy Grand Cholas LIVE 8th Match",
+        "name": "Trichy Grand Cholas 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SKM Salem Spartans vs Trichy Grand Cholas LIVE 8th Match",
+      "score": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
       "status": "Match Details"
     },
     {
@@ -693,19 +654,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
-      "team1": {
-        "name": "Birmingham Phoenix Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sunrisers Leeds Women 24th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "MI London Women vs Trent Rockets Women 25th Match",
       "team1": {
         "name": "MI London Women",
@@ -758,6 +706,19 @@
       "status": "Match Details"
     },
     {
+      "title": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+      "team1": {
+        "name": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "25th Match • London, Kennington Oval 100 MI London MIL 147-7 (100 Balls) Trent Rockets TRE 148-4 (90 Balls) Trent Rockets won by 6 wkts",
       "team1": {
         "name": "25th Match • London, Kennington Oval 100 MI London MIL 147",
@@ -768,6 +729,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "25th Match • London, Kennington Oval 100 MI London MIL 147-7 (100 Balls) Trent Rockets TRE 148-4 (90 Balls) Trent Rockets won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Colombo, R.Premadasa Stadium Jaffna Kings JKS 123 (19.3) Galle Gallants GAG 126-5 (15.5) Galle Gallants won by 5 wkts",
+      "team1": {
+        "name": "Final • Colombo, R.Premadasa Stadium Jaffna Kings JKS 123 (19.3) Galle Gallants GAG 126",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "5 (15.5) Galle Gallants won by 5 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Colombo, R.Premadasa Stadium Jaffna Kings JKS 123 (19.3) Galle Gallants GAG 126-5 (15.5) Galle Gallants won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "8th Match • Dindigul, NPR College Ground SKM Salem Spartans SAL 152-9 (20) Trichy Grand Cholas TRI 155-3 (17) Trichy Grand Cholas won by 7 wkts",
+      "team1": {
+        "name": "8th Match • Dindigul, NPR College Ground SKM Salem Spartans SAL 152",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "9 (20) Trichy Grand Cholas TRI 155",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "8th Match • Dindigul, NPR College Ground SKM Salem Spartans SAL 152-9 (20) Trichy Grand Cholas TRI 155-3 (17) Trichy Grand Cholas won by 7 wkts",
       "status": "Match Details"
     },
     {
