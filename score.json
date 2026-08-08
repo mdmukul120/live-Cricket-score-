@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 21:25:53 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-08-08 21:56:44 UTC",
+  "total_matches": 51,
   "matches": [
     {
       "title": "MSG vs SOU - MSG won",
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Panama vs Brazil 3rd Match",
+      "title": "Brazil vs Mexico 4th Match",
       "team1": {
-        "name": "Panama",
+        "name": "Brazil",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Brazil 3rd Match",
+        "name": "Mexico 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Panama vs Brazil 3rd Match",
+      "score": "Brazil vs Mexico 4th Match",
       "status": "Match Details"
     },
     {
@@ -131,19 +131,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Peru vs Panama 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Brazil vs Mexico 4th Match",
-      "team1": {
-        "name": "Brazil",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mexico 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brazil vs Mexico 4th Match",
       "status": "Match Details"
     },
     {
@@ -433,6 +420,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Northamptonshire vs Somerset Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Somerset Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northamptonshire vs Somerset Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Hampshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Lancashire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Derbyshire vs Middlesex Group B",
       "team1": {
         "name": "Derbyshire",
@@ -498,45 +524,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Somerset Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Somerset Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northamptonshire vs Somerset Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Hampshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Lancashire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "MI London Women vs Trent Rockets Women 25th Match",
       "team1": {
         "name": "MI London Women",
@@ -589,19 +576,6 @@
       "status": "Match Details"
     },
     {
-      "title": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95-6 (20) Panama PAN 96-7 (16.4) Panama won by 3 wkts",
-      "team1": {
-        "name": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Panama PAN 96",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95-6 (20) Panama PAN 96-7 (16.4) Panama won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
       "team1": {
         "name": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113",
@@ -612,6 +586,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95-6 (20) Panama PAN 96-7 (16.4) Panama won by 3 wkts",
+      "team1": {
+        "name": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Panama PAN 96",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95-6 (20) Panama PAN 96-7 (16.4) Panama won by 3 wkts",
       "status": "Match Details"
     },
     {
@@ -677,19 +664,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "17th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 216-9 (20) Central Delhi Kings CDK 191 (17.2) Outer Delhi Warriors won by 25 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants Women MSGW 139-4 (100 Balls) Southern Brave Women SOUW 112-6 (100 Balls) Manchester Super Giants Women won by 27 runs",
-      "team1": {
-        "name": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants Women MSGW 139",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (100 Balls) Southern Brave Women SOUW 112",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants Women MSGW 139-4 (100 Balls) Southern Brave Women SOUW 112-6 (100 Balls) Manchester Super Giants Women won by 27 runs",
       "status": "Match Details"
     }
   ]
