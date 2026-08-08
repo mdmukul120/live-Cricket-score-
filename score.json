@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 16:47:42 UTC",
+  "last_updated": "2026-08-08 17:17:37 UTC",
   "total_matches": 63,
   "matches": [
-    {
-      "title": "MIL vs TRE - TRE won",
-      "team1": {
-        "name": "MIL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MIL vs TRE - TRE won",
-      "status": "Match Details"
-    },
     {
       "title": "MSG vs SOU - MSG opt to bat",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MSG vs SOU - MSG opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "MIL vs TRE - TRE won",
+      "team1": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TRE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MIL vs TRE - TRE won",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "JKS vs GAG - Need 50 off 70b",
+      "title": "JKS vs GAG - Need 10 off 28b",
       "team1": {
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "GAG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKS vs GAG - Need 50 off 70b",
+      "score": "JKS vs GAG - Need 10 off 28b",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Panama vs Peru 5th Match",
-      "team1": {
-        "name": "Panama",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Peru 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Panama vs Peru 5th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Brazil vs Mexico LIVE 4th Match",
       "team1": {
         "name": "Brazil",
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Brazil vs Mexico LIVE 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Panama vs Peru 5th Match",
+      "team1": {
+        "name": "Panama",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Peru 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Panama vs Peru 5th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants vs Southern Brave 26th Match",
+      "title": "Manchester Super Giants vs Southern Brave LIVE 26th Match",
       "team1": {
         "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave 26th Match",
+        "name": "Southern Brave LIVE 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants vs Southern Brave 26th Match",
+      "score": "Manchester Super Giants vs Southern Brave LIVE 26th Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +261,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Sunrisers Leeds vs Welsh Fire 27th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "London Spirit vs Birmingham Phoenix 28th Match",
+      "team1": {
+        "name": "London Spirit",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Birmingham Phoenix 28th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "London Spirit vs Birmingham Phoenix 28th Match",
       "status": "Match Details"
     },
     {
@@ -381,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs North Delhi Strikers 15th Match",
-      "team1": {
-        "name": "Outer Delhi Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "North Delhi Strikers 15th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Outer Delhi Warriors vs North Delhi Strikers 15th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Purani Dilli 6 vs South Delhi Superstarz 16th Match",
       "team1": {
         "name": "Purani Dilli 6",
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Central Delhi Kings 17th Match",
+      "title": "Outer Delhi Warriors vs Central Delhi Kings LIVE 17th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings 17th Match",
+        "name": "Central Delhi Kings LIVE 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs Central Delhi Kings 17th Match",
+      "score": "Outer Delhi Warriors vs Central Delhi Kings LIVE 17th Match",
       "status": "Match Details"
     },
     {
@@ -589,6 +589,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Middlesex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Middlesex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Essex Group B",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Durham vs Essex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Worcestershire Group B",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Glamorgan vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Gloucestershire vs Nottinghamshire Group A",
       "team1": {
         "name": "Gloucestershire",
@@ -651,45 +690,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Middlesex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Middlesex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Essex Group B",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Durham vs Essex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Worcestershire Group B",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Glamorgan vs Worcestershire Group B",
       "status": "Match Details"
     },
     {
