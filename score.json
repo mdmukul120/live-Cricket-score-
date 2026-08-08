@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 11:22:44 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-08-08 11:54:00 UTC",
+  "total_matches": 53,
   "matches": [
     {
-      "title": "SLCXI vs IND - Trail by 107",
+      "title": "SLCXI vs IND - Trail by 86",
       "team1": {
         "name": "SLCXI",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,11 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SLCXI vs IND - Trail by 107",
+      "score": "SLCXI vs IND - Trail by 86",
       "status": "Match Details"
     },
     {
-      "title": "MILW vs TREW - Innings Break",
+      "title": "MILW vs TREW - Need 79 off 64b",
       "team1": {
         "name": "MILW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MILW vs TREW - Innings Break",
+      "score": "MILW vs TREW - Need 79 off 64b",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Madurai Panthers LIVE 7th Match",
+      "title": "Vida Kovai Kings vs Madurai Panthers 7th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Madurai Panthers LIVE 7th Match",
+        "name": "Madurai Panthers 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Vida Kovai Kings vs Madurai Panthers LIVE 7th Match",
+      "score": "Vida Kovai Kings vs Madurai Panthers 7th Match",
       "status": "Match Details"
     },
     {
@@ -339,19 +339,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Dindigul Dragons vs Chepauk Super Gillies 9th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "East Delhi Riders vs West Delhi Lions 14th Match",
-      "team1": {
-        "name": "East Delhi Riders",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "West Delhi Lions 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "East Delhi Riders vs West Delhi Lions 14th Match",
       "status": "Match Details"
     },
     {
@@ -550,6 +537,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Sussex vs Hampshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Lancashire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Derbyshire vs Middlesex Group B",
       "team1": {
         "name": "Derbyshire",
@@ -628,32 +641,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Hampshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Lancashire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
@@ -667,16 +654,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London Women vs Trent Rockets Women 25th Match",
+      "title": "MI London Women vs Trent Rockets Women LIVE 25th Match",
       "team1": {
         "name": "MI London Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women 25th Match",
+        "name": "Trent Rockets Women LIVE 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London Women vs Trent Rockets Women 25th Match",
+      "score": "MI London Women vs Trent Rockets Women LIVE 25th Match",
       "status": "Match Details"
     },
     {
