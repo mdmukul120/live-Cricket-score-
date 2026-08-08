@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 12:50:33 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-08-08 13:39:02 UTC",
+  "total_matches": 58,
   "matches": [
-    {
-      "title": "SLCXI vs IND - Stumps",
-      "team1": {
-        "name": "SLCXI",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "SLCXI vs IND - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "MILW vs TREW - TREW won",
-      "team1": {
-        "name": "MILW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MILW vs TREW - TREW won",
-      "status": "Match Details"
-    },
     {
       "title": "MIL vs TRE - TRE opt to bowl",
       "team1": {
@@ -43,20 +17,33 @@
       "status": "Match Details"
     },
     {
-      "title": "JKM vs ABF - ABF won",
+      "title": "SLCXI vs IND - Stumps",
       "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SLCXI",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "JKM vs ABF - ABF won",
+      "score": "SLCXI vs IND - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "JKS vs GAG - Preview",
+      "title": "MSGW vs SOUW - MSGW opt to bat",
+      "team1": {
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MSGW vs SOUW - MSGW opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKS vs GAG - JKS opt to bat",
       "team1": {
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +52,20 @@
         "name": "GAG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKS vs GAG - Preview",
+      "score": "JKS vs GAG - JKS opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "SOU vs MSG - Preview",
+      "team1": {
+        "name": "SOU",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOU vs MSG - Preview",
       "status": "Match Details"
     },
     {
@@ -160,6 +160,32 @@
       "status": "Match Details"
     },
     {
+      "title": "TBC vs TBC Semi Final 2",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Semi Final 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Semi Final 2",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC Semi Final 1",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Semi Final 1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Semi Final 1",
+      "status": "Match Details"
+    },
+    {
       "title": "Scotland vs Canada 124th Match",
       "team1": {
         "name": "Scotland",
@@ -199,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London vs Trent Rockets 25th Match",
+      "title": "MI London vs Trent Rockets LIVE 25th Match",
       "team1": {
         "name": "MI London",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets 25th Match",
+        "name": "Trent Rockets LIVE 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London vs Trent Rockets 25th Match",
+      "score": "MI London vs Trent Rockets LIVE 25th Match",
       "status": "Match Details"
     },
     {
@@ -222,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Southern Brave vs Manchester Super Giants 26th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sunrisers Leeds vs Welsh Fire 27th Match",
+      "team1": {
+        "name": "Sunrisers Leeds",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Welsh Fire 27th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sunrisers Leeds vs Welsh Fire 27th Match",
       "status": "Match Details"
     },
     {
@@ -274,19 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Jaffna Kings vs Galle Gallants Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans 5th Match",
-      "team1": {
-        "name": "Chepauk Super Gillies",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "IDream Tiruppur Tamizhans 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chepauk Super Gillies vs IDream Tiruppur Tamizhans 5th Match",
       "status": "Match Details"
     },
     {
@@ -391,6 +417,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North Delhi Strikers vs New Delhi Tigers 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Delhi Superstarz vs Central Delhi Kings 19th Match",
+      "team1": {
+        "name": "South Delhi Superstarz",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Central Delhi Kings 19th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Delhi Superstarz vs Central Delhi Kings 19th Match",
       "status": "Match Details"
     },
     {
@@ -537,6 +576,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Sussex vs Hampshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Lancashire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Derbyshire vs Middlesex Group B",
       "team1": {
         "name": "Derbyshire",
@@ -615,32 +680,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Hampshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Lancashire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
@@ -667,16 +706,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Southern Brave Women vs Manchester Super Giants Women 26th Match",
+      "title": "Manchester Super Giants Women vs Southern Brave Women LIVE 26th Match",
       "team1": {
-        "name": "Southern Brave Women",
+        "name": "Manchester Super Giants Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women 26th Match",
+        "name": "Southern Brave Women LIVE 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Southern Brave Women vs Manchester Super Giants Women 26th Match",
+      "score": "Manchester Super Giants Women vs Southern Brave Women LIVE 26th Match",
       "status": "Match Details"
     },
     {
@@ -690,6 +729,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Sunrisers Leeds Women vs Welsh Fire Women 27th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "London Spirit Women vs Birmingham Phoenix Women 28th Match",
+      "team1": {
+        "name": "London Spirit Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Birmingham Phoenix Women 28th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "London Spirit Women vs Birmingham Phoenix Women 28th Match",
       "status": "Match Details"
     },
     {
