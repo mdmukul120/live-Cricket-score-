@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 17:52:25 UTC",
-  "total_matches": 62,
+  "last_updated": "2026-08-08 18:32:36 UTC",
+  "total_matches": 57,
   "matches": [
     {
-      "title": "MSG vs SOU - MSG opt to bat",
+      "title": "MSG vs SOU - Innings Break",
       "team1": {
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs SOU - MSG opt to bat",
+      "score": "MSG vs SOU - Innings Break",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Scotland vs Canada 124th Match",
-      "team1": {
-        "name": "Scotland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canada 124th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Scotland vs Canada 124th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Scotland vs United Arab Emirates 125th Match",
       "team1": {
         "name": "Scotland",
@@ -147,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Panama vs Peru 5th Match",
+      "title": "Peru vs Panama LIVE 5th Match",
       "team1": {
-        "name": "Panama",
+        "name": "Peru",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Peru 5th Match",
+        "name": "Panama LIVE 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Panama vs Peru 5th Match",
+      "score": "Peru vs Panama LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +186,19 @@
       "status": "Match Details"
     },
     {
+      "title": "TBC vs TBC Final",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Final",
+      "status": "Match Details"
+    },
+    {
       "title": "Sunrisers Leeds vs Birmingham Phoenix 24th Match",
       "team1": {
         "name": "Sunrisers Leeds",
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants vs Southern Brave LIVE 26th Match",
+      "title": "Manchester Super Giants vs Southern Brave 26th Match",
       "team1": {
         "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave LIVE 26th Match",
+        "name": "Southern Brave 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants vs Southern Brave LIVE 26th Match",
+      "score": "Manchester Super Giants vs Southern Brave 26th Match",
       "status": "Match Details"
     },
     {
@@ -446,58 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Glamorgan Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Essex vs Glamorgan Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Lancashire Group A",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Nottinghamshire Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Nottinghamshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Nottinghamshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Yorkshire Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Durham vs Middlesex Group B",
       "team1": {
         "name": "Durham",
@@ -508,19 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Durham vs Middlesex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Leicestershire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Leicestershire Group A",
       "status": "Match Details"
     },
     {
@@ -547,6 +482,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Sussex vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Leicestershire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Leicestershire Group A",
       "status": "Match Details"
     },
     {
@@ -794,19 +742,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants Women MSGW 139-4 (100 Balls) Southern Brave Women SOUW 112-6 (100 Balls) Manchester Super Giants Women won by 27 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "25th Match • London, Kennington Oval 100 MI London Women MILW 121-5 (100 Balls) Trent Rockets Women TREW 125-1 (82 Balls) Trent Rockets Women won by 9 wkts",
-      "team1": {
-        "name": "25th Match • London, Kennington Oval 100 MI London Women MILW 121",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (100 Balls) Trent Rockets Women TREW 125",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "25th Match • London, Kennington Oval 100 MI London Women MILW 121-5 (100 Balls) Trent Rockets Women TREW 125-1 (82 Balls) Trent Rockets Women won by 9 wkts",
       "status": "Match Details"
     }
   ]
