@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 16:00:08 UTC",
-  "total_matches": 61,
+  "last_updated": "2026-08-08 16:47:42 UTC",
+  "total_matches": 63,
   "matches": [
     {
-      "title": "MIL vs TRE - Need 57 off 35b",
+      "title": "MIL vs TRE - TRE won",
       "team1": {
         "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,20 @@
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MIL vs TRE - Need 57 off 35b",
+      "score": "MIL vs TRE - TRE won",
+      "status": "Match Details"
+    },
+    {
+      "title": "MSG vs SOU - MSG opt to bat",
+      "team1": {
+        "name": "MSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SOU",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MSG vs SOU - MSG opt to bat",
       "status": "Match Details"
     },
     {
@@ -30,20 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MSGW vs SOUW - Need 44 off 15b",
-      "team1": {
-        "name": "MSGW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SOUW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MSGW vs SOUW - Need 44 off 15b",
-      "status": "Match Details"
-    },
-    {
-      "title": "JKS vs GAG - Innings Break",
+      "title": "JKS vs GAG - Need 50 off 70b",
       "team1": {
         "name": "JKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +52,20 @@
         "name": "GAG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKS vs GAG - Innings Break",
+      "score": "JKS vs GAG - Need 50 off 70b",
       "status": "Match Details"
     },
     {
-      "title": "SOU vs MSG - Preview",
+      "title": "MSGW vs SOUW - MSGW won",
       "team1": {
-        "name": "SOU",
+        "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MSG",
+        "name": "SOUW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SOU vs MSG - Preview",
+      "score": "MSGW vs SOUW - MSGW won",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Mexico vs Brazil 4th Match",
-      "team1": {
-        "name": "Mexico",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Brazil 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mexico vs Brazil 4th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Panama vs Peru 5th Match",
       "team1": {
         "name": "Panama",
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Panama vs Peru 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Brazil vs Mexico LIVE 4th Match",
+      "team1": {
+        "name": "Brazil",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mexico LIVE 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil vs Mexico LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -225,29 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London vs Trent Rockets LIVE 25th Match",
+      "title": "MI London vs Trent Rockets 25th Match",
       "team1": {
         "name": "MI London",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets LIVE 25th Match",
+        "name": "Trent Rockets 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London vs Trent Rockets LIVE 25th Match",
+      "score": "MI London vs Trent Rockets 25th Match",
       "status": "Match Details"
     },
     {
-      "title": "Southern Brave vs Manchester Super Giants 26th Match",
+      "title": "Manchester Super Giants vs Southern Brave 26th Match",
       "team1": {
-        "name": "Southern Brave",
+        "name": "Manchester Super Giants",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants 26th Match",
+        "name": "Southern Brave 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Southern Brave vs Manchester Super Giants 26th Match",
+      "score": "Manchester Super Giants vs Southern Brave 26th Match",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Galle Gallants Final",
+      "title": "Jaffna Kings vs Galle Gallants LIVE Final",
       "team1": {
         "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Galle Gallants Final",
+        "name": "Galle Gallants LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Galle Gallants Final",
+      "score": "Jaffna Kings vs Galle Gallants LIVE Final",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Central Delhi Kings LIVE 17th Match",
+      "title": "Outer Delhi Warriors vs Central Delhi Kings 17th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings LIVE 17th Match",
+        "name": "Central Delhi Kings 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs Central Delhi Kings LIVE 17th Match",
+      "score": "Outer Delhi Warriors vs Central Delhi Kings 17th Match",
       "status": "Match Details"
     },
     {
@@ -589,45 +589,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Middlesex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Middlesex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Essex Group B",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Durham vs Essex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Worcestershire Group B",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Glamorgan vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Gloucestershire vs Nottinghamshire Group A",
       "team1": {
         "name": "Gloucestershire",
@@ -693,6 +654,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Middlesex Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Middlesex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Essex Group B",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Durham vs Essex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Worcestershire Group B",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Glamorgan vs Worcestershire Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
@@ -719,16 +719,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants Women vs Southern Brave Women LIVE 26th Match",
+      "title": "Manchester Super Giants Women vs Southern Brave Women 26th Match",
       "team1": {
         "name": "Manchester Super Giants Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave Women LIVE 26th Match",
+        "name": "Southern Brave Women 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants Women vs Southern Brave Women LIVE 26th Match",
+      "score": "Manchester Super Giants Women vs Southern Brave Women 26th Match",
       "status": "Match Details"
     },
     {
@@ -758,6 +758,19 @@
       "status": "Match Details"
     },
     {
+      "title": "25th Match • London, Kennington Oval 100 MI London MIL 147-7 (100 Balls) Trent Rockets TRE 148-4 (90 Balls) Trent Rockets won by 6 wkts",
+      "team1": {
+        "name": "25th Match • London, Kennington Oval 100 MI London MIL 147",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (100 Balls) Trent Rockets TRE 148",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "25th Match • London, Kennington Oval 100 MI London MIL 147-7 (100 Balls) Trent Rockets TRE 148-4 (90 Balls) Trent Rockets won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "7th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 239-4 (20) Madurai Panthers MDP 240-4 (19.3) Madurai Panthers won by 6 wkts",
       "team1": {
         "name": "7th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 239",
@@ -781,6 +794,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "31st Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Uganda UGA 142-8 (20) Tanzania TAN 71 (17.4) Uganda won by 90 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants Women MSGW 139-4 (100 Balls) Southern Brave Women SOUW 112-6 (100 Balls) Manchester Super Giants Women won by 27 runs",
+      "team1": {
+        "name": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants Women MSGW 139",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (100 Balls) Southern Brave Women SOUW 112",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants Women MSGW 139-4 (100 Balls) Southern Brave Women SOUW 112-6 (100 Balls) Manchester Super Giants Women won by 27 runs",
       "status": "Match Details"
     },
     {
