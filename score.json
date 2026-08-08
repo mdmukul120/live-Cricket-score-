@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 14:18:09 UTC",
+  "last_updated": "2026-08-08 14:54:24 UTC",
   "total_matches": 61,
   "matches": [
     {
-      "title": "MIL vs TRE - TRE opt to bowl",
+      "title": "MIL vs TRE - Innings Break",
       "team1": {
         "name": "MIL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MIL vs TRE - TRE opt to bowl",
+      "score": "MIL vs TRE - Innings Break",
       "status": "Match Details"
     },
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MSGW vs SOUW - MSGW opt to bat",
+      "title": "MSGW vs SOUW - Innings Break",
       "team1": {
         "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "SOUW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSGW vs SOUW - MSGW opt to bat",
+      "score": "MSGW vs SOUW - Innings Break",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London vs Trent Rockets LIVE 25th Match",
+      "title": "MI London vs Trent Rockets 25th Match",
       "team1": {
         "name": "MI London",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets LIVE 25th Match",
+        "name": "Trent Rockets 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London vs Trent Rockets LIVE 25th Match",
+      "score": "MI London vs Trent Rockets 25th Match",
       "status": "Match Details"
     },
     {
@@ -342,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
+      "title": "SKM Salem Spartans vs Trichy Grand Cholas LIVE 8th Match",
       "team1": {
         "name": "SKM Salem Spartans",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Trichy Grand Cholas 8th Match",
+        "name": "Trichy Grand Cholas LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
+      "score": "SKM Salem Spartans vs Trichy Grand Cholas LIVE 8th Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs Outer Delhi Warriors 17th Match",
+      "title": "Outer Delhi Warriors vs Central Delhi Kings LIVE 17th Match",
       "team1": {
-        "name": "Central Delhi Kings",
+        "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors 17th Match",
+        "name": "Central Delhi Kings LIVE 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs Outer Delhi Warriors 17th Match",
+      "score": "Outer Delhi Warriors vs Central Delhi Kings LIVE 17th Match",
       "status": "Match Details"
     },
     {
@@ -485,19 +485,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Yorkshire Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Essex vs Glamorgan Group B",
       "team1": {
         "name": "Essex",
@@ -534,6 +521,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Northamptonshire vs Nottinghamshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Yorkshire Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Yorkshire Group B",
       "status": "Match Details"
     },
     {
@@ -719,16 +719,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants Women vs Southern Brave Women LIVE 26th Match",
+      "title": "Manchester Super Giants Women vs Southern Brave Women 26th Match",
       "team1": {
         "name": "Manchester Super Giants Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave Women LIVE 26th Match",
+        "name": "Southern Brave Women 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants Women vs Southern Brave Women LIVE 26th Match",
+      "score": "Manchester Super Giants Women vs Southern Brave Women 26th Match",
       "status": "Match Details"
     },
     {
