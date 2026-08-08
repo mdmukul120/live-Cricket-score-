@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 13:39:02 UTC",
-  "total_matches": 58,
+  "last_updated": "2026-08-08 14:18:09 UTC",
+  "total_matches": 61,
   "matches": [
     {
       "title": "MIL vs TRE - TRE opt to bowl",
@@ -160,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Semi Final 2",
-      "team1": {
-        "name": "TBC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TBC Semi Final 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TBC vs TBC Semi Final 2",
-      "status": "Match Details"
-    },
-    {
       "title": "TBC vs TBC Semi Final 1",
       "team1": {
         "name": "TBC",
@@ -183,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TBC vs TBC Semi Final 1",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC Semi Final 2",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Semi Final 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Semi Final 2",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Galle Gallants Final",
+      "title": "Jaffna Kings vs Galle Gallants LIVE Final",
       "team1": {
         "name": "Jaffna Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Galle Gallants Final",
+        "name": "Galle Gallants LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jaffna Kings vs Galle Gallants Final",
+      "score": "Jaffna Kings vs Galle Gallants LIVE Final",
       "status": "Match Details"
     },
     {
@@ -329,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Madurai Panthers LIVE 7th Match",
+      "title": "Vida Kovai Kings vs Madurai Panthers 7th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Madurai Panthers LIVE 7th Match",
+        "name": "Madurai Panthers 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Vida Kovai Kings vs Madurai Panthers LIVE 7th Match",
+      "score": "Vida Kovai Kings vs Madurai Panthers 7th Match",
       "status": "Match Details"
     },
     {
@@ -365,6 +365,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Dindigul Dragons vs Chepauk Super Gillies 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "IDream Tiruppur Tamizhans vs Nellai Royal Kings 10th Match",
+      "team1": {
+        "name": "IDream Tiruppur Tamizhans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nellai Royal Kings 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "IDream Tiruppur Tamizhans vs Nellai Royal Kings 10th Match",
       "status": "Match Details"
     },
     {
@@ -433,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Tanzania LIVE 31st Match",
+      "title": "Uganda vs Tanzania 31st Match",
       "team1": {
         "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Tanzania LIVE 31st Match",
+        "name": "Tanzania 31st Match",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "Uganda vs Tanzania LIVE 31st Match",
+      "score": "Uganda vs Tanzania 31st Match",
       "status": "Match Details"
     },
     {
@@ -469,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hong Kong, China vs Singapore 33rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Yorkshire Group B",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Yorkshire Group B",
       "status": "Match Details"
     },
     {
@@ -508,19 +534,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Northamptonshire vs Nottinghamshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Yorkshire Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Yorkshire Group B",
       "status": "Match Details"
     },
     {
@@ -573,32 +586,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Sussex vs Worcestershire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Hampshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Lancashire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Lancashire Group A",
       "status": "Match Details"
     },
     {
@@ -680,6 +667,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Sussex vs Hampshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Lancashire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Birmingham Phoenix Women vs Sunrisers Leeds Women 24th Match",
       "team1": {
         "name": "Birmingham Phoenix Women",
@@ -742,6 +755,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "London Spirit Women vs Birmingham Phoenix Women 28th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "7th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 239-4 (20) Madurai Panthers MDP 240-4 (19.3) Madurai Panthers won by 6 wkts",
+      "team1": {
+        "name": "7th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 239",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "4 (20) Madurai Panthers MDP 240",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "7th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 239-4 (20) Madurai Panthers MDP 240-4 (19.3) Madurai Panthers won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "31st Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Uganda UGA 142-8 (20) Tanzania TAN 71 (17.4) Uganda won by 90 runs",
+      "team1": {
+        "name": "31st Match • Dar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "es",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "31st Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Uganda UGA 142-8 (20) Tanzania TAN 71 (17.4) Uganda won by 90 runs",
       "status": "Match Details"
     },
     {
