@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 03:01:13 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-08-08 04:17:36 UTC",
+  "total_matches": 43,
   "matches": [
-    {
-      "title": "JKM vs ABF - Need 3 off 3b",
-      "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKM vs ABF - Need 3 off 3b",
-      "status": "Match Details"
-    },
     {
       "title": "SLCXI vs IND - Stumps",
       "team1": {
@@ -30,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SUL vs BRM - SUL won",
+      "title": "JKM vs ABF - ABF won",
       "team1": {
-        "name": "SUL",
+        "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BRM",
+        "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs BRM - SUL won",
+      "score": "JKM vs ABF - ABF won",
       "status": "Match Details"
     },
     {
@@ -53,6 +40,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MIL vs TRE - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "MILW vs TREW - Preview",
+      "team1": {
+        "name": "MILW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MILW vs TREW - Preview",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Antigua and Barbuda Falcons LIVE 1st Match",
+      "title": "Jamaica Kingsmen vs Antigua and Barbuda Falcons 1st Match",
       "team1": {
         "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Antigua and Barbuda Falcons LIVE 1st Match",
+        "name": "Antigua and Barbuda Falcons 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Kingsmen vs Antigua and Barbuda Falcons LIVE 1st Match",
+      "score": "Jamaica Kingsmen vs Antigua and Barbuda Falcons 1st Match",
       "status": "Match Details"
     },
     {
@@ -547,6 +547,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Panama PAN 93-9 (20) Brazil BRAZIL 94-3 (13.3) Brazil won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match • Kingstown, St Vincent, Arnos Vale Ground Jamaica Kingsmen JKM 167-7 (20) Antigua and Barbuda Falcons ABF 168-8 (20) Antigua and Barbuda Falcons won by 2 wkts",
+      "team1": {
+        "name": "1st Match • Kingstown, St Vincent, Arnos Vale Ground Jamaica Kingsmen JKM 167",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Antigua and Barbuda Falcons ABF 168",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Kingstown, St Vincent, Arnos Vale Ground Jamaica Kingsmen JKM 167-7 (20) Antigua and Barbuda Falcons ABF 168-8 (20) Antigua and Barbuda Falcons won by 2 wkts",
       "status": "Match Details"
     }
   ]
