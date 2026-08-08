@@ -1,32 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-08-08 21:56:44 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-08-08 22:37:40 UTC",
+  "total_matches": 50,
   "matches": [
     {
-      "title": "MSG vs SOU - MSG won",
+      "title": "SNP vs TKR - TKR opt to bowl",
       "team1": {
-        "name": "MSG",
+        "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SOU",
+        "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs SOU - MSG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "MIL vs TRE - TRE won",
-      "team1": {
-        "name": "MIL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MIL vs TRE - TRE won",
+      "score": "SNP vs TKR - TKR opt to bowl",
       "status": "Match Details"
     },
     {
@@ -43,29 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "JKS vs GAG - GAG won",
+      "title": "MSG vs SOU - MSG won",
       "team1": {
-        "name": "JKS",
+        "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "GAG",
+        "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKS vs GAG - GAG won",
+      "score": "MSG vs SOU - MSG won",
       "status": "Match Details"
     },
     {
-      "title": "MSGW vs SOUW - MSGW won",
+      "title": "SCO vs UAE - Preview",
       "team1": {
-        "name": "MSGW",
+        "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SOUW",
+        "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSGW vs SOUW - MSGW won",
+      "score": "SCO vs UAE - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SUL vs WEF - Preview",
+      "team1": {
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "WEF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SUL vs WEF - Preview",
       "status": "Match Details"
     },
     {
@@ -394,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Italy 32nd Match",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Italy 32nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahrain vs Italy 32nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Hong Kong, China vs Singapore 33rd Match",
       "team1": {
         "name": "Hong Kong, China",
@@ -420,42 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Somerset Group A",
+      "title": "Bahrain vs Italy 32nd Match",
       "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Somerset Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northamptonshire vs Somerset Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Hampshire Group B",
-      "team1": {
-        "name": "Sussex",
+        "name": "Bahrain",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Italy 32nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sussex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Lancashire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Lancashire Group A",
+      "score": "Bahrain vs Italy 32nd Match",
       "status": "Match Details"
     },
     {
@@ -524,6 +485,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Northamptonshire vs Somerset Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Somerset Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northamptonshire vs Somerset Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Hampshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Lancashire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Lancashire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "MI London Women vs Trent Rockets Women 25th Match",
       "team1": {
         "name": "MI London Women",
@@ -576,19 +576,6 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
-      "team1": {
-        "name": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95-6 (20) Panama PAN 96-7 (16.4) Panama won by 3 wkts",
       "team1": {
         "name": "5th Match • Bogota, Los Pinos Polo Club 2, Cundinamarca Peru PER 95",
@@ -602,6 +589,19 @@
       "status": "Match Details"
     },
     {
+      "title": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+      "team1": {
+        "name": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Bogota, Los Pinos Polo Club 1, Cundinamarca Brazil BRAZIL 113-7 (20) Mexico MEX 69 (15.5) Brazil won by 44 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants MSG 149-8 (100 Balls) Southern Brave SOU 139-6 (100 Balls) Manchester Super Giants won by 10 runs",
       "team1": {
         "name": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants MSG 149",
@@ -612,19 +612,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "26th Match • Southampton, The Rose Bowl 100 Manchester Super Giants MSG 149-8 (100 Balls) Southern Brave SOU 139-6 (100 Balls) Manchester Super Giants won by 10 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "25th Match • London, Kennington Oval 100 MI London MIL 147-7 (100 Balls) Trent Rockets TRE 148-4 (90 Balls) Trent Rockets won by 6 wkts",
-      "team1": {
-        "name": "25th Match • London, Kennington Oval 100 MI London MIL 147",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (100 Balls) Trent Rockets TRE 148",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "25th Match • London, Kennington Oval 100 MI London MIL 147-7 (100 Balls) Trent Rockets TRE 148-4 (90 Balls) Trent Rockets won by 6 wkts",
       "status": "Match Details"
     },
     {
