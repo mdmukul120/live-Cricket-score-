@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 17:08:02 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-08-09 17:47:10 UTC",
+  "total_matches": 54,
   "matches": [
     {
-      "title": "BRM vs LDN - Delay",
+      "title": "BRM vs LDN - LDN opt to bowl",
       "team1": {
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,20 +13,33 @@
         "name": "LDN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs LDN - Delay",
+      "score": "BRM vs LDN - LDN opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "SUL vs WEF - SUL won",
+      "title": "ABF vs SLK - Preview",
       "team1": {
-        "name": "SUL",
+        "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "WEF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "SUL vs WEF - SUL won",
+      "score": "ABF vs SLK - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "IRE vs AFG - Preview",
+      "team1": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IRE vs AFG - Preview",
       "status": "Match Details"
     },
     {
@@ -56,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "UAE vs SCO - Scotland need 188 runs",
-      "team1": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SCO",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "UAE vs SCO - Scotland need 188 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "team1": {
         "name": "Sri Lanka Cricket XI",
@@ -92,6 +92,19 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Ireland vs Afghanistan 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "United Arab Emirates vs Scotland LIVE 125th Match",
+      "team1": {
+        "name": "United Arab Emirates",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Scotland LIVE 125th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United Arab Emirates vs Scotland LIVE 125th Match",
       "status": "Match Details"
     },
     {
@@ -121,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Scotland LIVE 125th Match",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Scotland LIVE 125th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Scotland LIVE 125th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Manchester Super Giants vs Southern Brave 26th Match",
       "team1": {
         "name": "Manchester Super Giants",
@@ -160,16 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix vs London Spirit 28th Match",
+      "title": "Birmingham Phoenix vs London Spirit LIVE 28th Match",
       "team1": {
         "name": "Birmingham Phoenix",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "London Spirit 28th Match",
+        "name": "London Spirit LIVE 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix vs London Spirit 28th Match",
+      "score": "Birmingham Phoenix vs London Spirit LIVE 28th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trent Rockets vs Southern Brave 29th Match",
+      "team1": {
+        "name": "Trent Rockets",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Southern Brave 29th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trent Rockets vs Southern Brave 29th Match",
       "status": "Match Details"
     },
     {
@@ -199,32 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Jaffna Kings vs Galle Gallants Final",
-      "team1": {
-        "name": "Jaffna Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Galle Gallants Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jaffna Kings vs Galle Gallants Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
-      "team1": {
-        "name": "SKM Salem Spartans",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Trichy Grand Cholas 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SKM Salem Spartans vs Trichy Grand Cholas 8th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Dindigul Dragons vs Chepauk Super Gillies 9th Match",
       "team1": {
         "name": "Dindigul Dragons",
@@ -238,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nellai Royal Kings vs IDream Tiruppur Tamizhans LIVE 10th Match",
+      "title": "Nellai Royal Kings vs IDream Tiruppur Tamizhans 10th Match",
       "team1": {
         "name": "Nellai Royal Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "IDream Tiruppur Tamizhans LIVE 10th Match",
+        "name": "IDream Tiruppur Tamizhans 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nellai Royal Kings vs IDream Tiruppur Tamizhans LIVE 10th Match",
+      "score": "Nellai Royal Kings vs IDream Tiruppur Tamizhans 10th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs Central Delhi Kings LIVE 19th Match",
+      "title": "South Delhi Superstarz vs Central Delhi Kings 19th Match",
       "team1": {
         "name": "South Delhi Superstarz",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings LIVE 19th Match",
+        "name": "Central Delhi Kings 19th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Delhi Superstarz vs Central Delhi Kings LIVE 19th Match",
+      "score": "South Delhi Superstarz vs Central Delhi Kings 19th Match",
       "status": "Match Details"
     },
     {
@@ -355,55 +342,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Essex LIVE Group B",
+      "title": "Durham vs Essex Group B",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE Group B",
+        "name": "Essex Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Essex LIVE Group B",
+      "score": "Durham vs Essex Group B",
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Glamorgan LIVE Group B",
+      "title": "Worcestershire vs Glamorgan Group B",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan LIVE Group B",
+        "name": "Glamorgan Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Worcestershire vs Glamorgan LIVE Group B",
+      "score": "Worcestershire vs Glamorgan Group B",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Gloucestershire LIVE Group A",
+      "title": "Nottinghamshire vs Gloucestershire Group A",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Gloucestershire LIVE Group A",
+        "name": "Gloucestershire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Gloucestershire LIVE Group A",
+      "score": "Nottinghamshire vs Gloucestershire Group A",
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Kent LIVE Group A",
+      "title": "Leicestershire vs Kent Group A",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent LIVE Group A",
+        "name": "Kent Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Kent LIVE Group A",
+      "score": "Leicestershire vs Kent Group A",
       "status": "Match Details"
     },
     {
@@ -420,29 +407,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Sussex LIVE Group B",
+      "title": "Hampshire vs Sussex Group B",
       "team1": {
         "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Sussex LIVE Group B",
+        "name": "Sussex Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hampshire vs Sussex LIVE Group B",
+      "score": "Hampshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Warwickshire LIVE Group A",
+      "title": "Lancashire vs Warwickshire Group A",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Warwickshire LIVE Group A",
+        "name": "Warwickshire Group A",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Lancashire vs Warwickshire LIVE Group A",
+      "score": "Lancashire vs Warwickshire Group A",
       "status": "Match Details"
     },
     {
@@ -524,6 +511,19 @@
       "status": "Match Details"
     },
     {
+      "title": "10th Match • Dindigul, NPR College Ground Nellai Royal Kings NRK 206-8 (20) IDream Tiruppur Tamizhans ITT 207-2 (18.1) IDream Tiruppur Tamizhans won by 8 wkts",
+      "team1": {
+        "name": "10th Match • Dindigul, NPR College Ground Nellai Royal Kings NRK 206",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "8 (20) IDream Tiruppur Tamizhans ITT 207",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Dindigul, NPR College Ground Nellai Royal Kings NRK 206-8 (20) IDream Tiruppur Tamizhans ITT 207-2 (18.1) IDream Tiruppur Tamizhans won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "9th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 126-8 (20) Chepauk Super Gillies CSG 131-3 (16.2) Chepauk Super Gillies won by 7 wkts",
       "team1": {
         "name": "9th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 126",
@@ -537,29 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "18th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 161-8 (20) North Delhi Strikers NDS 165-3 (19.1) North Delhi Strikers won by 7 wkts",
+      "title": "19th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 220-6 (20) Central Delhi Kings CDK 222-6 (19.4) Central Delhi Kings won by 4 wkts",
       "team1": {
-        "name": "18th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 161",
+        "name": "19th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 220",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) North Delhi Strikers NDS 165",
+        "name": "6 (20) Central Delhi Kings CDK 222",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "18th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 161-8 (20) North Delhi Strikers NDS 165-3 (19.1) North Delhi Strikers won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "32nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Italy ITA 200 (49.2) Bahrain BHR 132 (41.1) Italy won by 68 runs",
-      "team1": {
-        "name": "32nd Match • Dar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "es",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "32nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Italy ITA 200 (49.2) Bahrain BHR 132 (41.1) Italy won by 68 runs",
+      "score": "19th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 220-6 (20) Central Delhi Kings CDK 222-6 (19.4) Central Delhi Kings won by 4 wkts",
       "status": "Match Details"
     },
     {
@@ -576,16 +563,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Group A • Northampton, County Ground Somerset SOM 185 (47) Northamptonshire NHNTS 189-3 (30) Northamptonshire won by 7 wkts",
+      "title": "32nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Italy ITA 200 (49.2) Bahrain BHR 132 (41.1) Italy won by 68 runs",
       "team1": {
-        "name": "Group A • Northampton, County Ground Somerset SOM 185 (47) Northamptonshire NHNTS 189",
+        "name": "32nd Match • Dar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "es",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "32nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Italy ITA 200 (49.2) Bahrain BHR 132 (41.1) Italy won by 68 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
+      "team1": {
+        "name": "Group B • Hove, County Ground Hampshire HAM 383",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "3 (30) Northamptonshire won by 7 wkts",
+        "name": "9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Group A • Northampton, County Ground Somerset SOM 185 (47) Northamptonshire NHNTS 189-3 (30) Northamptonshire won by 7 wkts",
+      "score": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229-5 (38) Essex ESS 209 (37.1) Durham won by 20 runs - Match reduced to 38 overs due to rain",
+      "team1": {
+        "name": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (38) Essex ESS 209 (37.1) Durham won by 20 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229-5 (38) Essex ESS 209 (37.1) Durham won by 20 runs - Match reduced to 38 overs due to rain",
       "status": "Match Details"
     },
     {
@@ -599,6 +612,71 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261-7 (50) Kent KENT 262-4 (47.3) Kent won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Rugby, Warwickshire , Rugby School Ground Lancashire LANCS 311-5 (50) Warwickshire WARKS 314-8 (48.5) Warwickshire won by 2 wkts",
+      "team1": {
+        "name": "Group A • Rugby, Warwickshire , Rugby School Ground Lancashire LANCS 311",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "5 (50) Warwickshire WARKS 314",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Group A • Rugby, Warwickshire , Rugby School Ground Lancashire LANCS 311-5 (50) Warwickshire WARKS 314-8 (48.5) Warwickshire won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278-9 (50) Glamorgan GLAM 281-8 (50) Glamorgan won by 2 wkts",
+      "team1": {
+        "name": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "9 (50) Glamorgan GLAM 281",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278-9 (50) Glamorgan GLAM 281-8 (50) Glamorgan won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Northampton, County Ground Somerset SOM 185 (47) Northamptonshire NHNTS 189-3 (30) Northamptonshire won by 7 wkts",
+      "team1": {
+        "name": "Group A • Northampton, County Ground Somerset SOM 185 (47) Northamptonshire NHNTS 189",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "3 (30) Northamptonshire won by 7 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Northampton, County Ground Somerset SOM 185 (47) Northamptonshire NHNTS 189-3 (30) Northamptonshire won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Derby, County Ground Middlesex MDX 327-6 (50) Derbyshire DERBY 240 (43.5) Middlesex won by 87 runs",
+      "team1": {
+        "name": "Group B • Derby, County Ground Middlesex MDX 327",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (50) Derbyshire DERBY 240 (43.5) Middlesex won by 87 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Derby, County Ground Middlesex MDX 327-6 (50) Derbyshire DERBY 240 (43.5) Middlesex won by 87 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
+      "team1": {
+        "name": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "6 (49.1) Gloucestershire won by 4 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
       "status": "Match Details"
     },
     {
