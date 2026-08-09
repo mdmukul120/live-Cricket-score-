@@ -1,36 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 12:04:23 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-08-09 13:13:09 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "SLCXI vs IND - Need 26 to win",
-      "team1": {
-        "name": "SLCXI",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "SLCXI vs IND - Need 26 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "WELW vs SULW - Need 51 off 58b",
-      "team1": {
-        "name": "WELW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SULW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WELW vs SULW - Need 51 off 58b",
-      "status": "Match Details"
-    },
-    {
-      "title": "SUL vs WEF - Preview",
+      "title": "SUL vs WEF - WEF opt to bowl",
       "team1": {
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,46 +13,72 @@
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs WEF - Preview",
+      "score": "SUL vs WEF - WEF opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "NDT vs NDS - NDS won",
+      "title": "SLCXI vs IND - IND won",
       "team1": {
-        "name": "NDT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SLCXI",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "NDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NDT vs NDS - NDS won",
+      "score": "SLCXI vs IND - IND won",
       "status": "Match Details"
     },
     {
-      "title": "SCO vs UAE - Delay",
+      "title": "LDNW vs BRMW - BRMW opt to bowl",
       "team1": {
-        "name": "SCO",
+        "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
+        "name": "BRMW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDNW vs BRMW - BRMW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "WELW vs SULW - SULW won",
+      "team1": {
+        "name": "WELW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WELW vs SULW - SULW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "UAE vs SCO - SCO opt to bowl",
+      "team1": {
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs UAE - Delay",
+      "team2": {
+        "name": "SCO",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "UAE vs SCO - SCO opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
+      "title": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "team1": {
         "name": "Sri Lanka Cricket XI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "India LIVE 3",
+        "name": "India 3",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
+      "score": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Scotland vs United Arab Emirates 125th Match",
+      "title": "United Arab Emirates vs Scotland LIVE 125th Match",
       "team1": {
-        "name": "Scotland",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 125th Match",
+        "name": "Scotland LIVE 125th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Scotland vs United Arab Emirates 125th Match",
+      "score": "United Arab Emirates vs Scotland LIVE 125th Match",
       "status": "Match Details"
     },
     {
@@ -368,29 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Italy 32nd Match",
+      "title": "Italy vs Bahrain 32nd Match",
       "team1": {
-        "name": "Bahrain",
+        "name": "Italy",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Italy 32nd Match",
+        "name": "Bahrain 32nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bahrain vs Italy 32nd Match",
+      "score": "Italy vs Bahrain 32nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Singapore LIVE 33rd Match",
+      "title": "Hong Kong, China vs Singapore 33rd Match",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Singapore LIVE 33rd Match",
+        "name": "Singapore 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Singapore LIVE 33rd Match",
+      "score": "Hong Kong, China vs Singapore 33rd Match",
       "status": "Match Details"
     },
     {
@@ -433,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Gloucestershire LIVE Group A",
+      "title": "Nottinghamshire vs Gloucestershire Group A",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Gloucestershire LIVE Group A",
+        "name": "Gloucestershire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Gloucestershire LIVE Group A",
+      "score": "Nottinghamshire vs Gloucestershire Group A",
       "status": "Match Details"
     },
     {
@@ -459,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Northamptonshire LIVE Group A",
+      "title": "Somerset vs Northamptonshire Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northamptonshire LIVE Group A",
+        "name": "Northamptonshire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Somerset vs Northamptonshire LIVE Group A",
+      "score": "Somerset vs Northamptonshire Group A",
       "status": "Match Details"
     },
     {
@@ -524,16 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs Sunrisers Leeds Women LIVE 27th Match",
+      "title": "Welsh Fire Women vs Sunrisers Leeds Women 27th Match",
       "team1": {
         "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Sunrisers Leeds Women LIVE 27th Match",
+        "name": "Sunrisers Leeds Women 27th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire Women vs Sunrisers Leeds Women LIVE 27th Match",
+      "score": "Welsh Fire Women vs Sunrisers Leeds Women 27th Match",
       "status": "Match Details"
     },
     {
@@ -563,6 +563,19 @@
       "status": "Match Details"
     },
     {
+      "title": "3-Day Warm-up Match • Colombo, Nondescripts Cricket Club Ground Sri Lanka Cricket XI SLCXI 363-8 d & 200-6 d India IND 357-6 d & 214-4 India won by 6 wkts",
+      "team1": {
+        "name": "3",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Day Warm",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3-Day Warm-up Match • Colombo, Nondescripts Cricket Club Ground Sri Lanka Cricket XI SLCXI 363-8 d & 200-6 d India IND 357-6 d & 214-4 India won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "18th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 161-8 (20) North Delhi Strikers NDS 165-3 (19.1) North Delhi Strikers won by 7 wkts",
       "team1": {
         "name": "18th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 161",
@@ -573,6 +586,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "18th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 161-8 (20) North Delhi Strikers NDS 165-3 (19.1) North Delhi Strikers won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "33rd Match • Dar es Salaam, University of Dar-es-Salaam 2 Hong Kong, China HKC 289-7 (50) Singapore SIN 126 (32.2) Hong Kong, China won by 163 runs",
+      "team1": {
+        "name": "33rd Match • Dar es Salaam, University of Dar",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "es",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "33rd Match • Dar es Salaam, University of Dar-es-Salaam 2 Hong Kong, China HKC 289-7 (50) Singapore SIN 126 (32.2) Hong Kong, China won by 163 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "27th Match • Leeds, Headingley 100 Welsh Fire Women WELW 121-8 (100 Balls) Sunrisers Leeds Women SULW 122-4 (74 Balls) Sunrisers Leeds Women won by 6 wkts",
+      "team1": {
+        "name": "27th Match • Leeds, Headingley 100 Welsh Fire Women WELW 121",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "8 (100 Balls) Sunrisers Leeds Women SULW 122",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "27th Match • Leeds, Headingley 100 Welsh Fire Women WELW 121-8 (100 Balls) Sunrisers Leeds Women SULW 122-4 (74 Balls) Sunrisers Leeds Women won by 6 wkts",
       "status": "Match Details"
     }
   ]
