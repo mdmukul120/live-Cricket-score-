@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 19:08:21 UTC",
+  "last_updated": "2026-08-09 19:48:27 UTC",
   "total_matches": 51,
   "matches": [
     {
-      "title": "BRM vs LDN - Need 79 off 56b",
+      "title": "BRM vs LDN - LDN won",
       "team1": {
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "LDN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs LDN - Need 79 off 56b",
+      "score": "BRM vs LDN - LDN won",
       "status": "Match Details"
     },
     {
@@ -43,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "UAE vs SCO - SCO won",
+      "team1": {
+        "name": "UAE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SCO",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "UAE vs SCO - SCO won",
+      "status": "Match Details"
+    },
+    {
       "title": "SLCXI vs IND - IND won",
       "team1": {
         "name": "SLCXI",
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "SLCXI vs IND - IND won",
-      "status": "Match Details"
-    },
-    {
-      "title": "LDNW vs BRMW - LDNW won",
-      "team1": {
-        "name": "LDNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BRMW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDNW vs BRMW - LDNW won",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Scotland LIVE 125th Match",
+      "title": "United Arab Emirates vs Scotland 125th Match",
       "team1": {
         "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Scotland LIVE 125th Match",
+        "name": "Scotland 125th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United Arab Emirates vs Scotland LIVE 125th Match",
+      "score": "United Arab Emirates vs Scotland 125th Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix vs London Spirit LIVE 28th Match",
+      "title": "Birmingham Phoenix vs London Spirit 28th Match",
       "team1": {
         "name": "Birmingham Phoenix",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "London Spirit LIVE 28th Match",
+        "name": "London Spirit 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix vs London Spirit LIVE 28th Match",
+      "score": "Birmingham Phoenix vs London Spirit 28th Match",
       "status": "Match Details"
     },
     {
@@ -485,6 +485,32 @@
       "status": "Match Details"
     },
     {
+      "title": "125th Match • Dundee, Forthill United Arab Emirates UAE 231-8 (40) Scotland SCO 235-9 (39.5) Scotland won by 1 wkt - 40 Overs game due to rain",
+      "team1": {
+        "name": "125th Match • Dundee, Forthill United Arab Emirates UAE 231",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (40) Scotland SCO 235",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "125th Match • Dundee, Forthill United Arab Emirates UAE 231-8 (40) Scotland SCO 235-9 (39.5) Scotland won by 1 wkt - 40 Overs game due to rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "28th Match • London, Lord's 100 Birmingham Phoenix BRM 162-4 (100 Balls) London Spirit LDN 166-3 (82 Balls) London Spirit won by 7 wkts",
+      "team1": {
+        "name": "28th Match • London, Lord's 100 Birmingham Phoenix BRM 162",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (100 Balls) London Spirit LDN 166",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "28th Match • London, Lord's 100 Birmingham Phoenix BRM 162-4 (100 Balls) London Spirit LDN 166-3 (82 Balls) London Spirit won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "27th Match • Leeds, Headingley 100 Sunrisers Leeds SUL 201-4 (100 Balls) Welsh Fire WEF 130-6 (100 Balls) Sunrisers Leeds won by 71 runs",
       "team1": {
         "name": "27th Match • Leeds, Headingley 100 Sunrisers Leeds SUL 201",
@@ -511,19 +537,6 @@
       "status": "Match Details"
     },
     {
-      "title": "9th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 126-8 (20) Chepauk Super Gillies CSG 131-3 (16.2) Chepauk Super Gillies won by 7 wkts",
-      "team1": {
-        "name": "9th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 126",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (20) Chepauk Super Gillies CSG 131",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "9th Match • Dindigul, NPR College Ground Dindigul Dragons DGD 126-8 (20) Chepauk Super Gillies CSG 131-3 (16.2) Chepauk Super Gillies won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "19th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 220-6 (20) Central Delhi Kings CDK 222-6 (19.4) Central Delhi Kings won by 4 wkts",
       "team1": {
         "name": "19th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 220",
@@ -534,32 +547,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "19th Match • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 220-6 (20) Central Delhi Kings CDK 222-6 (19.4) Central Delhi Kings won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "32nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Italy ITA 200 (49.2) Bahrain BHR 132 (41.1) Italy won by 68 runs",
-      "team1": {
-        "name": "32nd Match • Dar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "es",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "32nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Italy ITA 200 (49.2) Bahrain BHR 132 (41.1) Italy won by 68 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261-7 (50) Kent KENT 262-4 (47.3) Kent won by 6 wkts",
-      "team1": {
-        "name": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "7 (50) Kent KENT 262",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261-7 (50) Kent KENT 262-4 (47.3) Kent won by 6 wkts",
       "status": "Match Details"
     },
     {
@@ -651,6 +638,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229-5 (38) Essex ESS 209 (37.1) Durham won by 20 runs  -  38 Overs game due to rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261-7 (50) Kent KENT 262-4 (47.3) Kent won by 6 wkts",
+      "team1": {
+        "name": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "7 (50) Kent KENT 262",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261-7 (50) Kent KENT 262-4 (47.3) Kent won by 6 wkts",
       "status": "Match Details"
     },
     {
