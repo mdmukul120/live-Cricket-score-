@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 18:18:27 UTC",
-  "total_matches": 52,
+  "last_updated": "2026-08-09 19:08:21 UTC",
+  "total_matches": 51,
   "matches": [
     {
-      "title": "BRM vs LDN - LDN opt to bowl",
+      "title": "BRM vs LDN - Need 79 off 56b",
       "team1": {
         "name": "BRM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "LDN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRM vs LDN - LDN opt to bowl",
+      "score": "BRM vs LDN - Need 79 off 56b",
       "status": "Match Details"
     },
     {
@@ -303,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Singapore 33rd Match",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Singapore 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Singapore 33rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Italy vs Bahrain 32nd Match",
       "team1": {
         "name": "Italy",
@@ -326,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Italy vs Bahrain 32nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Singapore 33rd Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 33rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Singapore 33rd Match",
       "status": "Match Details"
     },
     {
@@ -537,19 +537,6 @@
       "status": "Match Details"
     },
     {
-      "title": "33rd Match • Dar es Salaam, University of Dar-es-Salaam 2 Hong Kong, China HKC 289-7 (50) Singapore SIN 126 (32.2) Hong Kong, China won by 163 runs",
-      "team1": {
-        "name": "33rd Match • Dar es Salaam, University of Dar",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "es",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "33rd Match • Dar es Salaam, University of Dar-es-Salaam 2 Hong Kong, China HKC 289-7 (50) Singapore SIN 126 (32.2) Hong Kong, China won by 163 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "32nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Italy ITA 200 (49.2) Bahrain BHR 132 (41.1) Italy won by 68 runs",
       "team1": {
         "name": "32nd Match • Dar",
@@ -560,45 +547,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "32nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Italy ITA 200 (49.2) Bahrain BHR 132 (41.1) Italy won by 68 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
-      "team1": {
-        "name": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "6 (49.1) Gloucestershire won by 4 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
-      "team1": {
-        "name": "Group B • Hove, County Ground Hampshire HAM 383",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229-5 (38) Essex ESS 209 (37.1) Durham won by 20 runs  -  38 Overs game due to rain",
-      "team1": {
-        "name": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (38) Essex ESS 209 (37.1) Durham won by 20 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229-5 (38) Essex ESS 209 (37.1) Durham won by 20 runs  -  38 Overs game due to rain",
       "status": "Match Details"
     },
     {
@@ -664,6 +612,45 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Group B • Derby, County Ground Middlesex MDX 327-6 (50) Derbyshire DERBY 240 (43.5) Middlesex won by 87 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
+      "team1": {
+        "name": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "6 (49.1) Gloucestershire won by 4 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
+      "team1": {
+        "name": "Group B • Hove, County Ground Hampshire HAM 383",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229-5 (38) Essex ESS 209 (37.1) Durham won by 20 runs  -  38 Overs game due to rain",
+      "team1": {
+        "name": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (38) Essex ESS 209 (37.1) Durham won by 20 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Darlington, Feethams Cricket Ground Durham DUR 229-5 (38) Essex ESS 209 (37.1) Durham won by 20 runs  -  38 Overs game due to rain",
       "status": "Match Details"
     },
     {
