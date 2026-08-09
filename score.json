@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 22:05:35 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-08-09 22:47:49 UTC",
+  "total_matches": 45,
   "matches": [
+    {
+      "title": "SLK vs ABF - SLK opt to bat",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs ABF - SLK opt to bat",
+      "status": "Match Details"
+    },
     {
       "title": "BRM vs LDN - LDN won",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "BRM vs LDN - LDN won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ABF vs SLK - Preview",
-      "team1": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "ABF vs SLK - Preview",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Final",
+      "title": "Panama vs Brazil Final",
       "team1": {
-        "name": "TBC",
+        "name": "Panama",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Final",
+        "name": "Brazil Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC Final",
+      "score": "Panama vs Brazil Final",
       "status": "Match Details"
     },
     {
@@ -173,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Antigua and Barbuda Falcons vs Saint Lucia Kings 3rd Match",
+      "title": "Saint Lucia Kings vs Antigua and Barbuda Falcons 3rd Match",
       "team1": {
-        "name": "Antigua and Barbuda Falcons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saint Lucia Kings 3rd Match",
+        "name": "Saint Lucia Kings",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Antigua and Barbuda Falcons vs Saint Lucia Kings 3rd Match",
+      "team2": {
+        "name": "Antigua and Barbuda Falcons 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saint Lucia Kings vs Antigua and Barbuda Falcons 3rd Match",
       "status": "Match Details"
     },
     {
@@ -303,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Warwickshire Group A",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire Group A",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Lancashire vs Warwickshire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Middlesex vs Derbyshire Group B",
       "team1": {
         "name": "Middlesex",
@@ -404,6 +391,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hampshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Warwickshire Group A",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire Group A",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Lancashire vs Warwickshire Group A",
       "status": "Match Details"
     },
     {
@@ -511,6 +511,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278-9 (50) Glamorgan GLAM 281-8 (50) Glamorgan won by 2 wkts",
+      "team1": {
+        "name": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "9 (50) Glamorgan GLAM 281",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278-9 (50) Glamorgan GLAM 281-8 (50) Glamorgan won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
+      "team1": {
+        "name": "Group B • Hove, County Ground Hampshire HAM 383",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
+      "team1": {
+        "name": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "6 (49.1) Gloucestershire won by 4 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "Group A • Rugby, Warwickshire , Rugby School Ground Lancashire LANCS 311-5 (50) Warwickshire WARKS 314-8 (48.5) Warwickshire won by 2 wkts",
       "team1": {
         "name": "Group A • Rugby, Warwickshire , Rugby School Ground Lancashire LANCS 311",
@@ -547,58 +586,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261-7 (50) Kent KENT 262-4 (47.3) Kent won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278-9 (50) Glamorgan GLAM 281-8 (50) Glamorgan won by 2 wkts",
-      "team1": {
-        "name": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "9 (50) Glamorgan GLAM 281",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group B • Cardiff, Sophia Gardens Worcestershire WORCS 278-9 (50) Glamorgan GLAM 281-8 (50) Glamorgan won by 2 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
-      "team1": {
-        "name": "Group B • Hove, County Ground Hampshire HAM 383",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group B • Hove, County Ground Hampshire HAM 383-9 (50) Sussex SUS 332 (48.5) Hampshire won by 51 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Derby, County Ground Middlesex MDX 327-6 (50) Derbyshire DERBY 240 (43.5) Middlesex won by 87 runs",
-      "team1": {
-        "name": "Group B • Derby, County Ground Middlesex MDX 327",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (50) Derbyshire DERBY 240 (43.5) Middlesex won by 87 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group B • Derby, County Ground Middlesex MDX 327-6 (50) Derbyshire DERBY 240 (43.5) Middlesex won by 87 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
-      "team1": {
-        "name": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "6 (49.1) Gloucestershire won by 4 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Cheltenham, College Ground Nottinghamshire NOTTS 279 (48.3) Gloucestershire GLOUCS 282-6 (49.1) Gloucestershire won by 4 wkts",
       "status": "Match Details"
     }
   ]
