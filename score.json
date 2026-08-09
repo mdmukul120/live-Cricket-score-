@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 16:33:17 UTC",
-  "total_matches": 52,
+  "last_updated": "2026-08-09 17:08:02 UTC",
+  "total_matches": 48,
   "matches": [
+    {
+      "title": "BRM vs LDN - Delay",
+      "team1": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LDN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BRM vs LDN - Delay",
+      "status": "Match Details"
+    },
     {
       "title": "SUL vs WEF - SUL won",
       "team1": {
@@ -43,20 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "WELW vs SULW - SULW won",
-      "team1": {
-        "name": "WELW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SULW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WELW vs SULW - SULW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "UAE vs SCO - Scotland need 219 runs",
+      "title": "UAE vs SCO - Scotland need 188 runs",
       "team1": {
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE vs SCO - Scotland need 219 runs",
+      "score": "UAE vs SCO - Scotland need 188 runs",
       "status": "Match Details"
     },
     {
@@ -92,32 +92,6 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Ireland vs Afghanistan 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Brazil vs Mexico 4th Match",
-      "team1": {
-        "name": "Brazil",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mexico 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brazil vs Mexico 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Peru vs Panama 5th Match",
-      "team1": {
-        "name": "Peru",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Panama 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Peru vs Panama 5th Match",
       "status": "Match Details"
     },
     {
@@ -160,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London vs Trent Rockets 25th Match",
-      "team1": {
-        "name": "MI London",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trent Rockets 25th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MI London vs Trent Rockets 25th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Manchester Super Giants vs Southern Brave 26th Match",
       "team1": {
         "name": "Manchester Super Giants",
@@ -199,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "London Spirit vs Birmingham Phoenix 28th Match",
+      "title": "Birmingham Phoenix vs London Spirit 28th Match",
       "team1": {
-        "name": "London Spirit",
+        "name": "Birmingham Phoenix",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix 28th Match",
+        "name": "London Spirit 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "London Spirit vs Birmingham Phoenix 28th Match",
+      "score": "Birmingham Phoenix vs London Spirit 28th Match",
       "status": "Match Details"
     },
     {
@@ -303,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Central Delhi Kings 17th Match",
-      "team1": {
-        "name": "Outer Delhi Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Central Delhi Kings 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Outer Delhi Warriors vs Central Delhi Kings 17th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "New Delhi Tigers vs North Delhi Strikers 18th Match",
       "team1": {
         "name": "New Delhi Tigers",
@@ -394,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Derbyshire LIVE Group B",
+      "title": "Middlesex vs Derbyshire Group B",
       "team1": {
         "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Derbyshire LIVE Group B",
+        "name": "Derbyshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Middlesex vs Derbyshire LIVE Group B",
+      "score": "Middlesex vs Derbyshire Group B",
       "status": "Match Details"
     },
     {
@@ -495,19 +443,6 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "Lancashire vs Warwickshire LIVE Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Manchester Super Giants Women vs Southern Brave Women 26th Match",
-      "team1": {
-        "name": "Manchester Super Giants Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Southern Brave Women 26th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Manchester Super Giants Women vs Southern Brave Women 26th Match",
       "status": "Match Details"
     },
     {
@@ -651,6 +586,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Group A • Northampton, County Ground Somerset SOM 185 (47) Northamptonshire NHNTS 189-3 (30) Northamptonshire won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261-7 (50) Kent KENT 262-4 (47.3) Kent won by 6 wkts",
+      "team1": {
+        "name": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "7 (50) Kent KENT 262",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group A • Beckenham, Kent County Cricket Ground Leicestershire LEIC 261-7 (50) Kent KENT 262-4 (47.3) Kent won by 6 wkts",
       "status": "Match Details"
     },
     {
