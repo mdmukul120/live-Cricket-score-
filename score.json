@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 08:04:18 UTC",
+  "last_updated": "2026-08-09 08:59:09 UTC",
   "total_matches": 46,
   "matches": [
     {
-      "title": "SLCXI vs IND - Lead by 160",
+      "title": "SLCXI vs IND - Innings Break",
       "team1": {
         "name": "SLCXI",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,46 +13,20 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SLCXI vs IND - Lead by 160",
+      "score": "SLCXI vs IND - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "SNP vs TKR - TKR won",
+      "title": "SULW vs WELW - Preview",
       "team1": {
-        "name": "SNP",
+        "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TKR",
+        "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs TKR - TKR won",
-      "status": "Match Details"
-    },
-    {
-      "title": "MSG vs SOU - MSG won",
-      "team1": {
-        "name": "MSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SOU",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MSG vs SOU - MSG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SCO vs UAE - Preview",
-      "team1": {
-        "name": "SCO",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SCO vs UAE - Preview",
+      "score": "SULW vs WELW - Preview",
       "status": "Match Details"
     },
     {
@@ -69,16 +43,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
+      "title": "NDT vs NDS - NDS opt to bowl",
+      "team1": {
+        "name": "NDT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NDS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NDT vs NDS - NDS opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SCO vs UAE - Preview",
+      "team1": {
+        "name": "SCO",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UAE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SCO vs UAE - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "team1": {
         "name": "Sri Lanka Cricket XI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "India LIVE 3",
+        "name": "India 3",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
+      "score": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
       "status": "Match Details"
     },
     {
@@ -342,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs North Delhi Strikers 18th Match",
+      "title": "New Delhi Tigers vs North Delhi Strikers LIVE 18th Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North Delhi Strikers 18th Match",
+        "name": "North Delhi Strikers LIVE 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs North Delhi Strikers 18th Match",
+      "score": "New Delhi Tigers vs North Delhi Strikers LIVE 18th Match",
       "status": "Match Details"
     },
     {
@@ -420,58 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Leicestershire Group A",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Kent vs Leicestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Somerset Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Somerset Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northamptonshire vs Somerset Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Hampshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Lancashire Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Lancashire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Derbyshire vs Middlesex Group B",
       "team1": {
         "name": "Derbyshire",
@@ -521,6 +469,58 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Nottinghamshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Leicestershire Group A",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Leicestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Somerset Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Somerset Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northamptonshire vs Somerset Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Hampshire Group B",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hampshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Hampshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Lancashire Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Lancashire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Lancashire Group A",
       "status": "Match Details"
     },
     {
