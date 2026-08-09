@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 08:59:09 UTC",
+  "last_updated": "2026-08-09 09:50:55 UTC",
   "total_matches": 46,
   "matches": [
     {
-      "title": "SLCXI vs IND - Innings Break",
+      "title": "SLCXI vs IND - Need 138 to win",
       "team1": {
         "name": "SLCXI",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,20 +13,20 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SLCXI vs IND - Innings Break",
+      "score": "SLCXI vs IND - Need 138 to win",
       "status": "Match Details"
     },
     {
-      "title": "SULW vs WELW - Preview",
+      "title": "WELW vs SULW - SULW opt to bowl",
       "team1": {
-        "name": "SULW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs WELW - Preview",
+      "team2": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WELW vs SULW - SULW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SCO vs UAE - Preview",
+      "title": "SCO vs UAE - Delay",
       "team1": {
         "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,33 @@
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs UAE - Preview",
+      "score": "SCO vs UAE - Delay",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
+      "title": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
       "team1": {
         "name": "Sri Lanka Cricket XI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "India 3",
+        "name": "India LIVE 3",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
+      "score": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Ireland vs Afghanistan 3rd ODI",
+      "team1": {
+        "name": "Ireland",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Afghanistan 3rd ODI",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Ireland vs Afghanistan 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -420,19 +433,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Middlesex Group B",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Middlesex Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Durham vs Essex Group B",
       "team1": {
         "name": "Durham",
@@ -446,81 +446,94 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Worcestershire Group B",
+      "title": "Worcestershire vs Glamorgan Group B",
       "team1": {
-        "name": "Glamorgan",
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Worcestershire vs Glamorgan Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Gloucestershire Group A",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Gloucestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Kent Group A",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Leicestershire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Northamptonshire Group A",
+      "team1": {
+        "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire Group B",
+        "name": "Northamptonshire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Glamorgan vs Worcestershire Group B",
+      "score": "Somerset vs Northamptonshire Group A",
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Nottinghamshire Group A",
+      "title": "Hampshire vs Sussex Group B",
       "team1": {
-        "name": "Gloucestershire",
+        "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Nottinghamshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Nottinghamshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Leicestershire Group A",
-      "team1": {
-        "name": "Kent",
+        "name": "Sussex Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "Leicestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Kent vs Leicestershire Group A",
+      "score": "Hampshire vs Sussex Group B",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Somerset Group A",
+      "title": "Lancashire vs Warwickshire Group A",
       "team1": {
-        "name": "Northamptonshire",
+        "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northamptonshire vs Somerset Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Hampshire Group B",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Hampshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Lancashire Group A",
-      "team1": {
-        "name": "Warwickshire",
+        "name": "Warwickshire Group A",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
+      "score": "Lancashire vs Warwickshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Derbyshire Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
       "team2": {
-        "name": "Lancashire Group A",
+        "name": "Derbyshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Warwickshire vs Lancashire Group A",
+      "score": "Middlesex vs Derbyshire Group B",
       "status": "Match Details"
     },
     {
@@ -550,16 +563,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Welsh Fire Women 27th Match",
+      "title": "Welsh Fire Women vs Sunrisers Leeds Women 27th Match",
       "team1": {
-        "name": "Sunrisers Leeds Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Welsh Fire Women 27th Match",
+        "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Sunrisers Leeds Women vs Welsh Fire Women 27th Match",
+      "team2": {
+        "name": "Sunrisers Leeds Women 27th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Welsh Fire Women vs Sunrisers Leeds Women 27th Match",
       "status": "Match Details"
     },
     {
@@ -586,19 +599,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Kingstown, St Vincent, Arnos Vale Ground St Kitts and Nevis Patriots SNP 109-9 (20) Trinbago Knight Riders TKR 94-2 (15) Trinbago Knight Riders won by 19 runs (DLS Method)",
-      "team1": {
-        "name": "2nd Match • Kingstown, St Vincent, Arnos Vale Ground St Kitts and Nevis Patriots SNP 109",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Trinbago Knight Riders TKR 94",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Kingstown, St Vincent, Arnos Vale Ground St Kitts and Nevis Patriots SNP 109-9 (20) Trinbago Knight Riders TKR 94-2 (15) Trinbago Knight Riders won by 19 runs (DLS Method)",
       "status": "Match Details"
     }
   ]
