@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 09:50:55 UTC",
+  "last_updated": "2026-08-09 10:25:10 UTC",
   "total_matches": 46,
   "matches": [
     {
-      "title": "SLCXI vs IND - Need 138 to win",
+      "title": "SLCXI vs IND - Need 103 to win",
       "team1": {
         "name": "SLCXI",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,7 +13,7 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SLCXI vs IND - Need 138 to win",
+      "score": "SLCXI vs IND - Need 103 to win",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDT vs NDS - NDS opt to bowl",
+      "title": "NDT vs NDS - Need 157 to win",
       "team1": {
         "name": "NDT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDT vs NDS - NDS opt to bowl",
+      "score": "NDT vs NDS - Need 157 to win",
       "status": "Match Details"
     },
     {
@@ -433,6 +433,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Middlesex vs Derbyshire LIVE Group B",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Derbyshire LIVE Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Derbyshire LIVE Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Durham vs Essex Group B",
       "team1": {
         "name": "Durham",
@@ -446,94 +459,81 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Glamorgan Group B",
+      "title": "Worcestershire vs Glamorgan LIVE Group B",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan Group B",
+        "name": "Glamorgan LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Worcestershire vs Glamorgan Group B",
+      "score": "Worcestershire vs Glamorgan LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Gloucestershire Group A",
+      "title": "Nottinghamshire vs Gloucestershire LIVE Group A",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Gloucestershire Group A",
+        "name": "Gloucestershire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Gloucestershire Group A",
+      "score": "Nottinghamshire vs Gloucestershire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Kent Group A",
+      "title": "Leicestershire vs Kent LIVE Group A",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent Group A",
+        "name": "Kent LIVE Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Kent Group A",
+      "score": "Leicestershire vs Kent LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Northamptonshire Group A",
+      "title": "Somerset vs Northamptonshire LIVE Group A",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northamptonshire Group A",
+        "name": "Northamptonshire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Somerset vs Northamptonshire Group A",
+      "score": "Somerset vs Northamptonshire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Sussex Group B",
+      "title": "Hampshire vs Sussex LIVE Group B",
       "team1": {
         "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Sussex Group B",
+        "name": "Sussex LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hampshire vs Sussex Group B",
+      "score": "Hampshire vs Sussex LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Warwickshire Group A",
+      "title": "Lancashire vs Warwickshire LIVE Group A",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Warwickshire Group A",
+        "name": "Warwickshire LIVE Group A",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Lancashire vs Warwickshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Derbyshire Group B",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Derbyshire Group B",
+      "score": "Lancashire vs Warwickshire LIVE Group A",
       "status": "Match Details"
     },
     {
@@ -563,16 +563,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs Sunrisers Leeds Women 27th Match",
+      "title": "Welsh Fire Women vs Sunrisers Leeds Women LIVE 27th Match",
       "team1": {
         "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Sunrisers Leeds Women 27th Match",
+        "name": "Sunrisers Leeds Women LIVE 27th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire Women vs Sunrisers Leeds Women 27th Match",
+      "score": "Welsh Fire Women vs Sunrisers Leeds Women LIVE 27th Match",
       "status": "Match Details"
     },
     {
