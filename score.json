@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-09 04:09:38 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-08-09 05:19:02 UTC",
+  "total_matches": 47,
   "matches": [
+    {
+      "title": "SLCXI vs IND - Lead by 37",
+      "team1": {
+        "name": "SLCXI",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "SLCXI vs IND - Lead by 37",
+      "status": "Match Details"
+    },
     {
       "title": "SNP vs TKR - TKR won",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SNP vs TKR - TKR won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SLCXI vs IND - Stumps",
-      "team1": {
-        "name": "SLCXI",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "SLCXI vs IND - Stumps",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
+      "title": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
       "team1": {
         "name": "Sri Lanka Cricket XI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "India 3",
+        "name": "India LIVE 3",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka Cricket XI vs India 3-Day Warm-up Match",
+      "score": "Sri Lanka Cricket XI vs India LIVE 3-Day Warm-up Match",
       "status": "Match Details"
     },
     {
@@ -573,6 +573,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "London Spirit Women vs Birmingham Phoenix Women 28th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Papua New Guinea Women vs Thailand Women 1st T20I",
+      "team1": {
+        "name": "Papua New Guinea Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Thailand Women 1st T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Papua New Guinea Women vs Thailand Women 1st T20I",
       "status": "Match Details"
     },
     {
