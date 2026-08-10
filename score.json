@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-10 11:57:41 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-08-10 13:35:07 UTC",
+  "total_matches": 49,
   "matches": [
     {
-      "title": "IRE vs AFG - AFG opt to bowl",
+      "title": "IRE vs AFG - Innings Break",
       "team1": {
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
@@ -13,7 +13,20 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IRE vs AFG - AFG opt to bowl",
+      "score": "IRE vs AFG - Innings Break",
+      "status": "Match Details"
+    },
+    {
+      "title": "SOUW vs TREW - TREW opt to bowl",
+      "team1": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOUW vs TREW - TREW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -43,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "EDR vs WDL - Rain",
+      "title": "EDR vs WDL - WDL won",
       "team1": {
         "name": "EDR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,33 +65,33 @@
         "name": "WDL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EDR vs WDL - Rain",
+      "score": "EDR vs WDL - WDL won",
       "status": "Match Details"
     },
     {
-      "title": "TREW vs SOUW - Preview",
-      "team1": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SOUW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TREW vs SOUW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "Ireland vs Afghanistan LIVE 3rd ODI",
+      "title": "Ireland vs Afghanistan 3rd ODI",
       "team1": {
         "name": "Ireland",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Afghanistan LIVE 3rd ODI",
+        "name": "Afghanistan 3rd ODI",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Ireland vs Afghanistan LIVE 3rd ODI",
+      "score": "Ireland vs Afghanistan 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Finland vs Germany One-off T20I",
+      "team1": {
+        "name": "Finland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Germany One",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Finland vs Germany One-off T20I",
       "status": "Match Details"
     },
     {
@@ -199,19 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Dindigul Dragons vs Chepauk Super Gillies 9th Match",
-      "team1": {
-        "name": "Dindigul Dragons",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Chepauk Super Gillies 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Dindigul Dragons vs Chepauk Super Gillies 9th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Nellai Royal Kings vs IDream Tiruppur Tamizhans 10th Match",
       "team1": {
         "name": "Nellai Royal Kings",
@@ -300,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Central Delhi Kings vs New Delhi Tigers 22nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Delhi Lions vs North Delhi Strikers 23rd Match",
+      "team1": {
+        "name": "West Delhi Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North Delhi Strikers 23rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "West Delhi Lions vs North Delhi Strikers 23rd Match",
       "status": "Match Details"
     },
     {
@@ -563,19 +576,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs Sunrisers Leeds Women 27th Match",
-      "team1": {
-        "name": "Welsh Fire Women",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sunrisers Leeds Women 27th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Welsh Fire Women vs Sunrisers Leeds Women 27th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "London Spirit Women vs Birmingham Phoenix Women 28th Match",
       "team1": {
         "name": "London Spirit Women",
@@ -589,16 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets Women vs Southern Brave Women 29th Match",
+      "title": "Southern Brave Women vs Trent Rockets Women 29th Match",
       "team1": {
-        "name": "Trent Rockets Women",
+        "name": "Southern Brave Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave Women 29th Match",
+        "name": "Trent Rockets Women 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets Women vs Southern Brave Women 29th Match",
+      "score": "Southern Brave Women vs Trent Rockets Women 29th Match",
       "status": "Match Details"
     },
     {
@@ -625,6 +625,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95-5 (15) West Delhi Lions WDL 58-2 (4.1) West Delhi Lions won by 8 wkts - 2nd Innings reduced to 7 overs due to rain, DLS Target 58",
+      "team1": {
+        "name": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (15) West Delhi Lions WDL 58",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95-5 (15) West Delhi Lions WDL 58-2 (4.1) West Delhi Lions won by 8 wkts - 2nd Innings reduced to 7 overs due to rain, DLS Target 58",
       "status": "Match Details"
     }
   ]
