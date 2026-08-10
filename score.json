@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-10 17:34:22 UTC",
-  "total_matches": 49,
+  "last_updated": "2026-08-10 18:30:28 UTC",
+  "total_matches": 41,
   "matches": [
-    {
-      "title": "IRE vs AFG - AFG won",
-      "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "IRE vs AFG - AFG won",
-      "status": "Match Details"
-    },
     {
       "title": "TRE vs SOU - SOU opt to bowl",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TRE vs SOU - SOU opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "IRE vs AFG - AFG won",
+      "team1": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IRE vs AFG - AFG won",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ODW vs PD - Need 72 off 66b",
+      "title": "ODW vs PD - PD won",
       "team1": {
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ODW vs PD - Need 72 off 66b",
+      "score": "ODW vs PD - PD won",
       "status": "Match Details"
     },
     {
@@ -105,19 +105,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Brazil vs Panama Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Arab Emirates vs Scotland 125th Match",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Scotland 125th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Scotland 125th Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 21st Match",
+      "title": "Outer Delhi Warriors vs Purani Dilli 6 21st Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 LIVE 21st Match",
+        "name": "Purani Dilli 6 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 21st Match",
+      "score": "Outer Delhi Warriors vs Purani Dilli 6 21st Match",
       "status": "Match Details"
     },
     {
@@ -326,110 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Italy vs Uganda 35th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Sussex Group B",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lancashire vs Warwickshire Group A",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire Group A",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Lancashire vs Warwickshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Derbyshire Group B",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Derbyshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Essex Group B",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Durham vs Essex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Glamorgan Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Worcestershire vs Glamorgan Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Gloucestershire Group A",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Gloucestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Gloucestershire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Kent Group A",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Leicestershire vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Northamptonshire Group A",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northamptonshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Somerset vs Northamptonshire Group A",
       "status": "Match Details"
     },
     {
@@ -612,6 +495,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "11th Match • Dindigul, NPR College Ground Madurai Panthers MDP 195-8 (20) SKM Salem Spartans SAL 159-9 (20) Madurai Panthers won by 36 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "21st Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 165 (19.1) Purani Dilli 6 PD 169-3 (15.2) Purani Dilli 6 won by 7 wkts",
+      "team1": {
+        "name": "21st Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 165 (19.1) Purani Dilli 6 PD 169",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (15.2) Purani Dilli 6 won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "21st Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 165 (19.1) Purani Dilli 6 PD 169-3 (15.2) Purani Dilli 6 won by 7 wkts",
       "status": "Match Details"
     },
     {
