@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-10 16:35:45 UTC",
+  "last_updated": "2026-08-10 17:34:22 UTC",
   "total_matches": 49,
   "matches": [
     {
-      "title": "IRE vs AFG - Need 37 off 93b",
+      "title": "IRE vs AFG - AFG won",
       "team1": {
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
@@ -13,24 +13,11 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IRE vs AFG - Need 37 off 93b",
+      "score": "IRE vs AFG - AFG won",
       "status": "Match Details"
     },
     {
-      "title": "SOUW vs TREW - Need 2 off 5b",
-      "team1": {
-        "name": "SOUW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SOUW vs TREW - Need 2 off 5b",
-      "status": "Match Details"
-    },
-    {
-      "title": "TRE vs SOU - Preview",
+      "title": "TRE vs SOU - SOU opt to bowl",
       "team1": {
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +26,24 @@
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRE vs SOU - Preview",
+      "score": "TRE vs SOU - SOU opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "MDP vs SAL - Need 122 off 53b",
+      "title": "SOUW vs TREW - TREW won",
+      "team1": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOUW vs TREW - TREW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "MDP vs SAL - MDP won",
       "team1": {
         "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "SAL",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "MDP vs SAL - Need 122 off 53b",
+      "score": "MDP vs SAL - MDP won",
       "status": "Match Details"
     },
     {
-      "title": "ODW vs PD - Innings Break",
+      "title": "ODW vs PD - Need 72 off 66b",
       "team1": {
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,20 @@
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ODW vs PD - Innings Break",
+      "score": "ODW vs PD - Need 72 off 66b",
       "status": "Match Details"
     },
     {
-      "title": "Ireland vs Afghanistan LIVE 3rd ODI",
+      "title": "Ireland vs Afghanistan 3rd ODI",
       "team1": {
         "name": "Ireland",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Afghanistan LIVE 3rd ODI",
+        "name": "Afghanistan 3rd ODI",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Ireland vs Afghanistan LIVE 3rd ODI",
+      "score": "Ireland vs Afghanistan 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -160,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds vs Welsh Fire 27th Match",
-      "team1": {
-        "name": "Sunrisers Leeds",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Welsh Fire 27th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sunrisers Leeds vs Welsh Fire 27th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Birmingham Phoenix vs London Spirit 28th Match",
       "team1": {
         "name": "Birmingham Phoenix",
@@ -186,16 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets vs Southern Brave 29th Match",
+      "title": "Trent Rockets vs Southern Brave LIVE 29th Match",
       "team1": {
         "name": "Trent Rockets",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave 29th Match",
+        "name": "Southern Brave LIVE 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets vs Southern Brave 29th Match",
+      "score": "Trent Rockets vs Southern Brave LIVE 29th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Manchester Super Giants vs Sunrisers Leeds 30th Match",
+      "team1": {
+        "name": "Manchester Super Giants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sunrisers Leeds 30th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Manchester Super Giants vs Sunrisers Leeds 30th Match",
       "status": "Match Details"
     },
     {
@@ -212,29 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nellai Royal Kings vs IDream Tiruppur Tamizhans 10th Match",
-      "team1": {
-        "name": "Nellai Royal Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "IDream Tiruppur Tamizhans 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nellai Royal Kings vs IDream Tiruppur Tamizhans 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Madurai Panthers vs SKM Salem Spartans LIVE 11th Match",
+      "title": "Madurai Panthers vs SKM Salem Spartans 11th Match",
       "team1": {
         "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SKM Salem Spartans LIVE 11th Match",
+        "name": "SKM Salem Spartans 11th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Madurai Panthers vs SKM Salem Spartans LIVE 11th Match",
+      "score": "Madurai Panthers vs SKM Salem Spartans 11th Match",
       "status": "Match Details"
     },
     {
@@ -264,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs Central Delhi Kings 19th Match",
-      "team1": {
-        "name": "South Delhi Superstarz",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Central Delhi Kings 19th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Delhi Superstarz vs Central Delhi Kings 19th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "East Delhi Riders vs West Delhi Lions 20th Match",
       "team1": {
         "name": "East Delhi Riders",
@@ -290,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Purani Dilli 6 21st Match",
+      "title": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 21st Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 21st Match",
+        "name": "Purani Dilli 6 LIVE 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs Purani Dilli 6 21st Match",
+      "score": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 21st Match",
       "status": "Match Details"
     },
     {
@@ -329,6 +303,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Tanzania vs Hong Kong, China 34th Match",
+      "team1": {
+        "name": "Tanzania",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Hong Kong, China 34th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania vs Hong Kong, China 34th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Italy vs Uganda 35th Match",
       "team1": {
         "name": "Italy",
@@ -342,16 +329,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Hong Kong, China 34th Match",
+      "title": "Hampshire vs Sussex Group B",
       "team1": {
-        "name": "Tanzania",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hong Kong, China 34th Match",
+        "name": "Sussex Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tanzania vs Hong Kong, China 34th Match",
+      "score": "Hampshire vs Sussex Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Warwickshire Group A",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire Group A",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Lancashire vs Warwickshire Group A",
       "status": "Match Details"
     },
     {
@@ -430,32 +430,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Somerset vs Northamptonshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Sussex Group B",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Sussex Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lancashire vs Warwickshire Group A",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire Group A",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Lancashire vs Warwickshire Group A",
       "status": "Match Details"
     },
     {
@@ -563,29 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "London Spirit Women vs Birmingham Phoenix Women 28th Match",
-      "team1": {
-        "name": "London Spirit Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Birmingham Phoenix Women 28th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "London Spirit Women vs Birmingham Phoenix Women 28th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Southern Brave Women vs Trent Rockets Women LIVE 29th Match",
+      "title": "Southern Brave Women vs Trent Rockets Women 29th Match",
       "team1": {
         "name": "Southern Brave Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women LIVE 29th Match",
+        "name": "Trent Rockets Women 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Southern Brave Women vs Trent Rockets Women LIVE 29th Match",
+      "score": "Southern Brave Women vs Trent Rockets Women 29th Match",
       "status": "Match Details"
     },
     {
@@ -628,6 +589,32 @@
       "status": "Match Details"
     },
     {
+      "title": "3rd ODI • Belfast, Civil Service Cricket Club Ireland IRE 206 (46.3) Afghanistan AFG 207-7 (44.5) Afghanistan won by 3 wkts",
+      "team1": {
+        "name": "3rd ODI • Belfast, Civil Service Cricket Club Ireland IRE 206 (46.3) Afghanistan AFG 207",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "7 (44.5) Afghanistan won by 3 wkts",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "3rd ODI • Belfast, Civil Service Cricket Club Ireland IRE 206 (46.3) Afghanistan AFG 207-7 (44.5) Afghanistan won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Dindigul, NPR College Ground Madurai Panthers MDP 195-8 (20) SKM Salem Spartans SAL 159-9 (20) Madurai Panthers won by 36 runs",
+      "team1": {
+        "name": "11th Match • Dindigul, NPR College Ground Madurai Panthers MDP 195",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "8 (20) SKM Salem Spartans SAL 159",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "11th Match • Dindigul, NPR College Ground Madurai Panthers MDP 195-8 (20) SKM Salem Spartans SAL 159-9 (20) Madurai Panthers won by 36 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95-5 (15) West Delhi Lions WDL 58-2 (4.1) West Delhi Lions won by 8 wkts (DLS Method)",
       "team1": {
         "name": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95",
@@ -638,6 +625,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95-5 (15) West Delhi Lions WDL 58-2 (4.1) West Delhi Lions won by 8 wkts (DLS Method)",
+      "status": "Match Details"
+    },
+    {
+      "title": "29th Match • Nottingham, Trent Bridge 100 Southern Brave Women SOUW 117-5 (100 Balls) Trent Rockets Women TREW 118-7 (98 Balls) Trent Rockets Women won by 3 wkts",
+      "team1": {
+        "name": "29th Match • Nottingham, Trent Bridge 100 Southern Brave Women SOUW 117",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (100 Balls) Trent Rockets Women TREW 118",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "29th Match • Nottingham, Trent Bridge 100 Southern Brave Women SOUW 117-5 (100 Balls) Trent Rockets Women TREW 118-7 (98 Balls) Trent Rockets Women won by 3 wkts",
       "status": "Match Details"
     }
   ]
