@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-10 06:41:23 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-10 08:17:18 UTC",
+  "total_matches": 41,
   "matches": [
-    {
-      "title": "SLK vs ABF - SLK won",
-      "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLK vs ABF - SLK won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BRM vs LDN - LDN won",
-      "team1": {
-        "name": "BRM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "LDN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BRM vs LDN - LDN won",
-      "status": "Match Details"
-    },
     {
       "title": "IRE vs AFG - Preview",
       "team1": {
@@ -43,29 +17,55 @@
       "status": "Match Details"
     },
     {
-      "title": "UAE vs SCO - SCO won",
+      "title": "TRE vs SOU - Preview",
       "team1": {
-        "name": "UAE",
+        "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SCO",
+        "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE vs SCO - SCO won",
+      "score": "TRE vs SOU - Preview",
       "status": "Match Details"
     },
     {
-      "title": "SLCXI vs IND - IND won",
+      "title": "SLK vs ABF - SLK won",
       "team1": {
-        "name": "SLCXI",
+        "name": "SLK",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SLCXI vs IND - IND won",
+      "score": "SLK vs ABF - SLK won",
+      "status": "Match Details"
+    },
+    {
+      "title": "EDR vs WDL - WDL opt to bowl",
+      "team1": {
+        "name": "EDR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "WDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "EDR vs WDL - WDL opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "TREW vs SOUW - Preview",
+      "team1": {
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TREW vs SOUW - Preview",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Brazil vs Panama Final",
+      "team1": {
+        "name": "Brazil",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Panama Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil vs Panama Final",
+      "status": "Match Details"
+    },
+    {
       "title": "United Arab Emirates vs Scotland 125th Match",
       "team1": {
         "name": "United Arab Emirates",
@@ -108,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Brazil vs Panama Final",
+      "title": "Rwanda vs Zambia 1st Match",
       "team1": {
-        "name": "Brazil",
+        "name": "Rwanda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Panama Final",
+        "name": "Zambia 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Brazil vs Panama Final",
+      "score": "Rwanda vs Zambia 1st Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Delhi Lions vs East Delhi Riders 20th Match",
+      "title": "East Delhi Riders vs West Delhi Lions LIVE 20th Match",
       "team1": {
-        "name": "West Delhi Lions",
+        "name": "East Delhi Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Delhi Riders 20th Match",
+        "name": "West Delhi Lions LIVE 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "West Delhi Lions vs East Delhi Riders 20th Match",
+      "score": "East Delhi Riders vs West Delhi Lions LIVE 20th Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +274,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Purani Dilli 6 vs Outer Delhi Warriors 21st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Delhi Kings vs New Delhi Tigers 22nd Match",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "New Delhi Tigers 22nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs New Delhi Tigers 22nd Match",
       "status": "Match Details"
     },
     {
