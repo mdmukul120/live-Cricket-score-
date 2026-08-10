@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-10 19:36:41 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-08-10 20:21:37 UTC",
+  "total_matches": 41,
   "matches": [
     {
-      "title": "TRE vs SOU - Need 85 off 50b",
+      "title": "TRE vs SOU - SOU won",
       "team1": {
         "name": "TRE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "SOU",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRE vs SOU - Need 85 off 50b",
+      "score": "TRE vs SOU - SOU won",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets vs Southern Brave LIVE 29th Match",
+      "title": "Trent Rockets vs Southern Brave 29th Match",
       "team1": {
         "name": "Trent Rockets",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Southern Brave LIVE 29th Match",
+        "name": "Southern Brave 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets vs Southern Brave LIVE 29th Match",
+      "score": "Trent Rockets vs Southern Brave 29th Match",
       "status": "Match Details"
     },
     {
@@ -316,32 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Yorkshire Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Northamptonshire Group A",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Northamptonshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Northamptonshire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Hampshire vs Derbyshire Group B",
       "team1": {
         "name": "Hampshire",
@@ -420,6 +394,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Essex vs Yorkshire Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Northamptonshire Group A",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Northamptonshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Northamptonshire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Southern Brave Women vs Trent Rockets Women 29th Match",
       "team1": {
         "name": "Southern Brave Women",
@@ -482,6 +482,19 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "3rd ODI • Belfast, Civil Service Cricket Club Ireland IRE 206 (46.3) Afghanistan AFG 207-7 (44.5) Afghanistan won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "29th Match • Nottingham, Trent Bridge 100 Trent Rockets TRE 158-5 (100 Balls) Southern Brave SOU 159-4 (97 Balls) Southern Brave won by 6 wkts",
+      "team1": {
+        "name": "29th Match • Nottingham, Trent Bridge 100 Trent Rockets TRE 158",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (100 Balls) Southern Brave SOU 159",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "29th Match • Nottingham, Trent Bridge 100 Trent Rockets TRE 158-5 (100 Balls) Southern Brave SOU 159-4 (97 Balls) Southern Brave won by 6 wkts",
       "status": "Match Details"
     },
     {
