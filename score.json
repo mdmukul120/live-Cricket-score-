@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-10 13:35:07 UTC",
-  "total_matches": 49,
+  "last_updated": "2026-08-10 14:41:41 UTC",
+  "total_matches": 50,
   "matches": [
     {
-      "title": "IRE vs AFG - Innings Break",
+      "title": "IRE vs AFG - Need 155 to win",
       "team1": {
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
@@ -13,7 +13,7 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IRE vs AFG - Innings Break",
+      "score": "IRE vs AFG - Need 155 to win",
       "status": "Match Details"
     },
     {
@@ -43,42 +43,42 @@
       "status": "Match Details"
     },
     {
-      "title": "SLK vs ABF - SLK won",
+      "title": "MDP vs SAL - SAL opt to bowl",
       "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLK vs ABF - SLK won",
-      "status": "Match Details"
-    },
-    {
-      "title": "EDR vs WDL - WDL won",
-      "team1": {
-        "name": "EDR",
+        "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "WDL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SAL",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "EDR vs WDL - WDL won",
+      "score": "MDP vs SAL - SAL opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "Ireland vs Afghanistan 3rd ODI",
+      "title": "ODW vs PD - PD opt to bowl",
+      "team1": {
+        "name": "ODW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "PD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ODW vs PD - PD opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "Ireland vs Afghanistan LIVE 3rd ODI",
       "team1": {
         "name": "Ireland",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Afghanistan 3rd ODI",
+        "name": "Afghanistan LIVE 3rd ODI",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Ireland vs Afghanistan 3rd ODI",
+      "score": "Ireland vs Afghanistan LIVE 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -92,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Finland vs Germany One-off T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Brazil vs Panama Final",
+      "team1": {
+        "name": "Brazil",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Panama Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brazil vs Panama Final",
       "status": "Match Details"
     },
     {
@@ -147,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Brazil vs Panama Final",
-      "team1": {
-        "name": "Brazil",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Panama Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brazil vs Panama Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Sunrisers Leeds vs Welsh Fire 27th Match",
       "team1": {
         "name": "Sunrisers Leeds",
@@ -199,6 +199,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Manchester Super Giants vs Sunrisers Leeds 30th Match",
+      "team1": {
+        "name": "Manchester Super Giants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sunrisers Leeds 30th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Manchester Super Giants vs Sunrisers Leeds 30th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Saint Lucia Kings vs Antigua and Barbuda Falcons 3rd Match",
       "team1": {
         "name": "Saint Lucia Kings",
@@ -225,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SKM Salem Spartans vs Madurai Panthers 11th Match",
+      "title": "Madurai Panthers vs SKM Salem Spartans LIVE 11th Match",
       "team1": {
-        "name": "SKM Salem Spartans",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Madurai Panthers 11th Match",
+        "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SKM Salem Spartans vs Madurai Panthers 11th Match",
+      "team2": {
+        "name": "SKM Salem Spartans LIVE 11th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Madurai Panthers vs SKM Salem Spartans LIVE 11th Match",
       "status": "Match Details"
     },
     {
@@ -248,6 +261,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nellai Royal Kings vs Trichy Grand Cholas 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Vida Kovai Kings vs IDream Tiruppur Tamizhans 13th Match",
+      "team1": {
+        "name": "Vida Kovai Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "IDream Tiruppur Tamizhans 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vida Kovai Kings vs IDream Tiruppur Tamizhans 13th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Purani Dilli 6 vs Outer Delhi Warriors 21st Match",
+      "title": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 21st Match",
       "team1": {
-        "name": "Purani Dilli 6",
+        "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors 21st Match",
+        "name": "Purani Dilli 6 LIVE 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Purani Dilli 6 vs Outer Delhi Warriors 21st Match",
+      "score": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 21st Match",
       "status": "Match Details"
     },
     {
@@ -313,32 +339,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "West Delhi Lions vs North Delhi Strikers 23rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Italy vs Bahrain 32nd Match",
-      "team1": {
-        "name": "Italy",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bahrain 32nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Italy vs Bahrain 32nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs Singapore 33rd Match",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Singapore 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Singapore 33rd Match",
       "status": "Match Details"
     },
     {
@@ -589,16 +589,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Southern Brave Women vs Trent Rockets Women 29th Match",
+      "title": "Southern Brave Women vs Trent Rockets Women LIVE 29th Match",
       "team1": {
         "name": "Southern Brave Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women 29th Match",
+        "name": "Trent Rockets Women LIVE 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Southern Brave Women vs Trent Rockets Women 29th Match",
+      "score": "Southern Brave Women vs Trent Rockets Women LIVE 29th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Manchester Super Giants Women vs Sunrisers Leeds Women 30th Match",
+      "team1": {
+        "name": "Manchester Super Giants Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sunrisers Leeds Women 30th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Manchester Super Giants Women vs Sunrisers Leeds Women 30th Match",
       "status": "Match Details"
     },
     {
@@ -628,7 +641,7 @@
       "status": "Match Details"
     },
     {
-      "title": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95-5 (15) West Delhi Lions WDL 58-2 (4.1) West Delhi Lions won by 8 wkts - 2nd Innings reduced to 7 overs due to rain, DLS Target 58",
+      "title": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95-5 (15) West Delhi Lions WDL 58-2 (4.1) West Delhi Lions won by 8 wkts (DLS Method)",
       "team1": {
         "name": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -637,7 +650,7 @@
         "name": "5 (15) West Delhi Lions WDL 58",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95-5 (15) West Delhi Lions WDL 58-2 (4.1) West Delhi Lions won by 8 wkts - 2nd Innings reduced to 7 overs due to rain, DLS Target 58",
+      "score": "20th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 95-5 (15) West Delhi Lions WDL 58-2 (4.1) West Delhi Lions won by 8 wkts (DLS Method)",
       "status": "Match Details"
     }
   ]
