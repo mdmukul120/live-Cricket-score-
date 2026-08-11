@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-11 18:10:24 UTC",
-  "total_matches": 55,
+  "last_updated": "2026-08-11 19:27:01 UTC",
+  "total_matches": 54,
   "matches": [
     {
-      "title": "SUL vs MSG - MSG opt to bowl",
+      "title": "SUL vs MSG - Need 80 off 73b",
       "team1": {
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUL vs MSG - MSG opt to bowl",
+      "score": "SUL vs MSG - Need 80 off 73b",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Finland LIVE One-off T20I",
+      "title": "Germany vs Finland One-off T20I",
       "team1": {
         "name": "Germany",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Finland LIVE One",
+        "name": "Finland One",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Germany vs Finland LIVE One-off T20I",
+      "score": "Germany vs Finland One-off T20I",
       "status": "Match Details"
     },
     {
@@ -368,6 +368,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Essex vs Yorkshire Group B",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire Group B",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Essex vs Yorkshire Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Gloucestershire Group A",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Gloucestershire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Northamptonshire vs Gloucestershire Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Derbyshire vs Hampshire Group B",
       "team1": {
         "name": "Derbyshire",
@@ -446,32 +472,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Yorkshire Group B",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yorkshire Group B",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Essex vs Yorkshire Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Gloucestershire Group A",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Gloucestershire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Gloucestershire Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Sunrisers Leeds Women vs Manchester Super Giants Women 30th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
@@ -524,6 +524,19 @@
       "status": "Match Details"
     },
     {
+      "title": "One-off T20I • Kerava, Kerava National Cricket Ground Germany GER 137-8 (18) Finland FIN 89-6 (16) Germany won by 30 runs (DLS method)",
+      "team1": {
+        "name": "One",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "off T20I • Kerava, Kerava National Cricket Ground Germany GER 137",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "One-off T20I • Kerava, Kerava National Cricket Ground Germany GER 137-8 (18) Finland FIN 89-6 (16) Germany won by 30 runs (DLS method)",
+      "status": "Match Details"
+    },
+    {
       "title": "126th Match • Dundee, Forthill United Arab Emirates UAE 282-6 (50) Canada CAN 185 (33.4) United Arab Emirates won by 97 runs",
       "team1": {
         "name": "126th Match • Dundee, Forthill United Arab Emirates UAE 282",
@@ -563,19 +576,6 @@
       "status": "Match Details"
     },
     {
-      "title": "12th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 182-8 (20) Nellai Royal Kings NRK 137 (18) Trichy Grand Cholas won by 45 runs",
-      "team1": {
-        "name": "12th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 182",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (20) Nellai Royal Kings NRK 137 (18) Trichy Grand Cholas won by 45 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "12th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 182-8 (20) Nellai Royal Kings NRK 137 (18) Trichy Grand Cholas won by 45 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "23rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 146-7 (20) North Delhi Strikers NDS 150-2 (14.2) North Delhi Strikers won by 8 wkts",
       "team1": {
         "name": "23rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 146",
@@ -586,19 +586,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "23rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 146-7 (20) North Delhi Strikers NDS 150-2 (14.2) North Delhi Strikers won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "22nd Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 185-8 (18) Central Delhi Kings CDK 187-1 (12.2) Central Delhi Kings won by 9 wkts (18 Overs game due to rain)",
-      "team1": {
-        "name": "22nd Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 185",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (18) Central Delhi Kings CDK 187",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "22nd Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 185-8 (18) Central Delhi Kings CDK 187-1 (12.2) Central Delhi Kings won by 9 wkts (18 Overs game due to rain)",
       "status": "Match Details"
     },
     {
