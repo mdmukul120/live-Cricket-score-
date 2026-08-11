@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-08-11 22:57:49 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-08-11 23:51:54 UTC",
+  "total_matches": 43,
   "matches": [
     {
-      "title": "JKM vs BBT - Preview",
+      "title": "BBT vs JKM - JKM opt to bowl",
       "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKM vs BBT - Preview",
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BBT vs JKM - JKM opt to bowl",
       "status": "Match Details"
     },
     {
@@ -30,42 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "UAE vs CAN - UAE won",
+      "title": "IRE vs AFG - Preview",
       "team1": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "CAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "UAE vs CAN - UAE won",
+      "score": "IRE vs AFG - Preview",
       "status": "Match Details"
     },
     {
-      "title": "SULW vs MSGW - SULW won",
+      "title": "WEF vs LDN - Preview",
       "team1": {
-        "name": "SULW",
+        "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MSGW",
+        "name": "LDN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs MSGW - SULW won",
+      "score": "WEF vs LDN - Preview",
       "status": "Match Details"
     },
     {
-      "title": "VKK vs ITT - ITT won",
+      "title": "CSG vs SLST - Preview",
       "team1": {
-        "name": "VKK",
+        "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ITT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SLST",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "VKK vs ITT - ITT won",
+      "score": "CSG vs SLST - Preview",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Barbados Tridents 4th Match",
+      "title": "Barbados Tridents vs Jamaica Kingsmen 4th Match",
       "team1": {
-        "name": "Jamaica Kingsmen",
+        "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Barbados Tridents 4th Match",
+        "name": "Jamaica Kingsmen 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Kingsmen vs Barbados Tridents 4th Match",
+      "score": "Barbados Tridents vs Jamaica Kingsmen 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Saint Lucia Kings vs St Kitts and Nevis Patriots 5th Match",
+      "team1": {
+        "name": "Saint Lucia Kings",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "St Kitts and Nevis Patriots 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saint Lucia Kings vs St Kitts and Nevis Patriots 5th Match",
       "status": "Match Details"
     },
     {
@@ -511,6 +524,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Papua New Guinea Women vs Thailand Women 1st ODI",
+      "team1": {
+        "name": "Papua New Guinea Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Thailand Women 1st ODI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Papua New Guinea Women vs Thailand Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "One-off T20I • Kerava, Kerava National Cricket Ground Germany GER 137-8 (18) Finland FIN 89-6 (16) Germany won by 30 runs (DLS method)",
       "team1": {
         "name": "One",
@@ -524,19 +550,6 @@
       "status": "Match Details"
     },
     {
-      "title": "126th Match • Dundee, Forthill United Arab Emirates UAE 282-6 (50) Canada CAN 185 (33.4) United Arab Emirates won by 97 runs",
-      "team1": {
-        "name": "126th Match • Dundee, Forthill United Arab Emirates UAE 282",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (50) Canada CAN 185 (33.4) United Arab Emirates won by 97 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "126th Match • Dundee, Forthill United Arab Emirates UAE 282-6 (50) Canada CAN 185 (33.4) United Arab Emirates won by 97 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "30th Match • Manchester, Emirates Old Trafford 100 Sunrisers Leeds SUL 127 (100 Balls) Manchester Super Giants MSG 128-0 (67 Balls) Manchester Super Giants won by 10 wkts",
       "team1": {
         "name": "30th Match • Manchester, Emirates Old Trafford 100 Sunrisers Leeds SUL 127 (100 Balls) Manchester Super Giants MSG 128",
@@ -547,58 +560,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "30th Match • Manchester, Emirates Old Trafford 100 Sunrisers Leeds SUL 127 (100 Balls) Manchester Super Giants MSG 128-0 (67 Balls) Manchester Super Giants won by 10 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "13th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 166-8 (20) IDream Tiruppur Tamizhans ITT 167-6 (18) IDream Tiruppur Tamizhans won by 4 wkts",
-      "team1": {
-        "name": "13th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 166",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (20) IDream Tiruppur Tamizhans ITT 167",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "13th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 166-8 (20) IDream Tiruppur Tamizhans ITT 167-6 (18) IDream Tiruppur Tamizhans won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "23rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 146-7 (20) North Delhi Strikers NDS 150-2 (14.2) North Delhi Strikers won by 8 wkts",
-      "team1": {
-        "name": "23rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 146",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) North Delhi Strikers NDS 150",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "23rd Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 146-7 (20) North Delhi Strikers NDS 150-2 (14.2) North Delhi Strikers won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group B • Radlett, Brunton Memorial Ground Middlesex MDX 354-8 (50) Sussex SUS 262 (43.5) Middlesex won by 92 runs",
-      "team1": {
-        "name": "Group B • Radlett, Brunton Memorial Ground Middlesex MDX 354",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (50) Sussex SUS 262 (43.5) Middlesex won by 92 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Group B • Radlett, Brunton Memorial Ground Middlesex MDX 354-8 (50) Sussex SUS 262 (43.5) Middlesex won by 92 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Group A • Cheltenham, College Ground Northamptonshire NHNTS 308 (46.4) Gloucestershire GLOUCS 309-7 (49.2) Gloucestershire won by 3 wkts",
-      "team1": {
-        "name": "Group A • Cheltenham, College Ground Northamptonshire NHNTS 308 (46.4) Gloucestershire GLOUCS 309",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "7 (49.2) Gloucestershire won by 3 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Group A • Cheltenham, College Ground Northamptonshire NHNTS 308 (46.4) Gloucestershire GLOUCS 309-7 (49.2) Gloucestershire won by 3 wkts",
       "status": "Match Details"
     }
   ]
