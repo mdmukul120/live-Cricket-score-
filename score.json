@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-11 08:37:31 UTC",
+  "last_updated": "2026-08-11 09:41:17 UTC",
   "total_matches": 37,
   "matches": [
     {
-      "title": "UAE vs CAN - Preview",
+      "title": "UAE vs CAN - CAN opt to bowl",
       "team1": {
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE vs CAN - Preview",
+      "score": "UAE vs CAN - CAN opt to bowl",
       "status": "Match Details"
     },
     {
@@ -43,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "NRK vs TRI - Preview",
+      "title": "TRI vs NRK - NRK opt to bowl",
       "team1": {
-        "name": "NRK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NRK vs TRI - Preview",
+      "team2": {
+        "name": "NRK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TRI vs NRK - NRK opt to bowl",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nellai Royal Kings vs Trichy Grand Cholas 12th Match",
+      "title": "Trichy Grand Cholas vs Nellai Royal Kings 12th Match",
       "team1": {
-        "name": "Nellai Royal Kings",
+        "name": "Trichy Grand Cholas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trichy Grand Cholas 12th Match",
+        "name": "Nellai Royal Kings 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nellai Royal Kings vs Trichy Grand Cholas 12th Match",
+      "score": "Trichy Grand Cholas vs Nellai Royal Kings 12th Match",
       "status": "Match Details"
     },
     {
@@ -368,29 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Northamptonshire Group A",
+      "title": "Northamptonshire vs Gloucestershire Group A",
       "team1": {
-        "name": "Gloucestershire",
+        "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Northamptonshire Group A",
+        "name": "Gloucestershire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Northamptonshire Group A",
+      "score": "Northamptonshire vs Gloucestershire Group A",
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Derbyshire Group B",
+      "title": "Derbyshire vs Hampshire Group B",
       "team1": {
-        "name": "Hampshire",
+        "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Derbyshire Group B",
+        "name": "Hampshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Hampshire vs Derbyshire Group B",
+      "score": "Derbyshire vs Hampshire Group B",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Lancashire Group A",
+      "title": "Lancashire vs Somerset Group A",
       "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lancashire Group A",
+        "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Somerset vs Lancashire Group A",
+      "team2": {
+        "name": "Somerset Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lancashire vs Somerset Group A",
       "status": "Match Details"
     },
     {
