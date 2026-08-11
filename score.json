@@ -1,23 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-08-11 16:10:45 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-08-11 17:14:16 UTC",
+  "total_matches": 53,
   "matches": [
     {
-      "title": "MSG vs SUL - Preview",
+      "title": "SUL vs MSG - MSG opt to bowl",
       "team1": {
-        "name": "MSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs SUL - Preview",
+      "team2": {
+        "name": "MSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SUL vs MSG - MSG opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "UAE vs CAN - Need 194 to win",
+      "title": "UAE vs CAN - Need 106 to win",
       "team1": {
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE vs CAN - Need 194 to win",
+      "score": "UAE vs CAN - Need 106 to win",
       "status": "Match Details"
     },
     {
-      "title": "SULW vs MSGW - Need 61 off 20b",
+      "title": "SULW vs MSGW - SULW won",
       "team1": {
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs MSGW - Need 61 off 20b",
+      "score": "SULW vs MSGW - SULW won",
       "status": "Match Details"
     },
     {
-      "title": "VKK vs ITT - Need 134 to win",
+      "title": "VKK vs ITT - Need 22 off 27b",
       "team1": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "ITT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs ITT - Need 134 to win",
+      "score": "VKK vs ITT - Need 22 off 27b",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Finland vs Germany One-off T20I",
+      "title": "Germany vs Finland LIVE One-off T20I",
       "team1": {
-        "name": "Finland",
+        "name": "Germany",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Germany One",
+        "name": "Finland LIVE One",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Finland vs Germany One-off T20I",
+      "score": "Germany vs Finland LIVE One-off T20I",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants vs Sunrisers Leeds 30th Match",
+      "title": "Sunrisers Leeds vs Manchester Super Giants 30th Match",
       "team1": {
-        "name": "Manchester Super Giants",
+        "name": "Sunrisers Leeds",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds 30th Match",
+        "name": "Manchester Super Giants 30th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants vs Sunrisers Leeds 30th Match",
+      "score": "Sunrisers Leeds vs Manchester Super Giants 30th Match",
       "status": "Match Details"
     },
     {
@@ -290,19 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Purani Dilli 6 21st Match",
-      "team1": {
-        "name": "Outer Delhi Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Purani Dilli 6 21st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Outer Delhi Warriors vs Purani Dilli 6 21st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "New Delhi Tigers vs Central Delhi Kings 22nd Match",
       "team1": {
         "name": "New Delhi Tigers",
@@ -316,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Delhi Lions vs North Delhi Strikers 23rd Match",
+      "title": "West Delhi Lions vs North Delhi Strikers LIVE 23rd Match",
       "team1": {
         "name": "West Delhi Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North Delhi Strikers 23rd Match",
+        "name": "North Delhi Strikers LIVE 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "West Delhi Lions vs North Delhi Strikers 23rd Match",
+      "score": "West Delhi Lions vs North Delhi Strikers LIVE 23rd Match",
       "status": "Match Details"
     },
     {
@@ -420,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Hampshire LIVE Group B",
+      "title": "Derbyshire vs Hampshire Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE Group B",
+        "name": "Hampshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Derbyshire vs Hampshire LIVE Group B",
+      "score": "Derbyshire vs Hampshire Group B",
       "status": "Match Details"
     },
     {
@@ -446,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Somerset LIVE Group A",
+      "title": "Lancashire vs Somerset Group A",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset LIVE Group A",
+        "name": "Somerset Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lancashire vs Somerset LIVE Group A",
+      "score": "Lancashire vs Somerset Group A",
       "status": "Match Details"
     },
     {
@@ -485,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Durham LIVE Group B",
+      "title": "Worcestershire vs Durham Group B",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Durham LIVE Group B",
+        "name": "Durham Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Worcestershire vs Durham LIVE Group B",
+      "score": "Worcestershire vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -511,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 30th Match",
+      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women 30th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women LIVE 30th Match",
+        "name": "Manchester Super Giants Women 30th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 30th Match",
+      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women 30th Match",
       "status": "Match Details"
     },
     {
@@ -615,19 +602,6 @@
       "status": "Match Details"
     },
     {
-      "title": "34th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Tanzania TAN 99 (38.3) Hong Kong, China HKC 100-4 (21.2) Hong Kong, China won by 6 wkts",
-      "team1": {
-        "name": "34th Match • Dar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "es",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "34th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Tanzania TAN 99 (38.3) Hong Kong, China HKC 100-4 (21.2) Hong Kong, China won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "35th Match • Dar es Salaam, University of Dar-es-Salaam 2 Italy ITA 192-9 (50) Uganda UGA 79 (31.1) Italy won by 113 runs",
       "team1": {
         "name": "35th Match • Dar es Salaam, University of Dar",
@@ -638,6 +612,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "35th Match • Dar es Salaam, University of Dar-es-Salaam 2 Italy ITA 192-9 (50) Uganda UGA 79 (31.1) Italy won by 113 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Worcester, New Road Worcestershire WORCS 291 (49.1) Durham DUR 214 (38.5) Worcestershire won by 77 runs",
+      "team1": {
+        "name": "Group B • Worcester, New Road Worcestershire WORCS 291 (49.1) Durham DUR 214 (38.5) Worcestershire won by 77 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Group B • Worcester, New Road Worcestershire WORCS 291 (49.1) Durham DUR 214 (38.5) Worcestershire won by 77 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group B • Southampton, The Rose Bowl Derbyshire DERBY 317-5 (50) Hampshire HAM 309 (39.2) Derbyshire won by 8 runs",
+      "team1": {
+        "name": "Group B • Southampton, The Rose Bowl Derbyshire DERBY 317",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "5 (50) Hampshire HAM 309 (39.2) Derbyshire won by 8 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group B • Southampton, The Rose Bowl Derbyshire DERBY 317-5 (50) Hampshire HAM 309 (39.2) Derbyshire won by 8 runs",
       "status": "Match Details"
     },
     {
@@ -664,6 +664,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Group A • Rugby, Warwickshire , Rugby School Ground Warwickshire WARKS 263 (45.1) Kent KENT 176 (33.4) Warwickshire won by 87 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group A • Taunton, The Cooper Associates County Ground Lancashire LANCS 443-6 (50) Somerset SOM 269 (39.2) Lancashire won by 174 runs",
+      "team1": {
+        "name": "Group A • Taunton, The Cooper Associates County Ground Lancashire LANCS 443",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "6 (50) Somerset SOM 269 (39.2) Lancashire won by 174 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Group A • Taunton, The Cooper Associates County Ground Lancashire LANCS 443-6 (50) Somerset SOM 269 (39.2) Lancashire won by 174 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "30th Match • Manchester, Emirates Old Trafford 100 Sunrisers Leeds Women SULW 166-4 (100 Balls) Manchester Super Giants Women MSGW 125-8 (100 Balls) Sunrisers Leeds Women won by 41 runs",
+      "team1": {
+        "name": "30th Match • Manchester, Emirates Old Trafford 100 Sunrisers Leeds Women SULW 166",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (100 Balls) Manchester Super Giants Women MSGW 125",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "30th Match • Manchester, Emirates Old Trafford 100 Sunrisers Leeds Women SULW 166-4 (100 Balls) Manchester Super Giants Women MSGW 125-8 (100 Balls) Sunrisers Leeds Women won by 41 runs",
       "status": "Match Details"
     }
   ]
