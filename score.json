@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-11 12:25:58 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-08-11 13:57:18 UTC",
+  "total_matches": 45,
   "matches": [
-    {
-      "title": "UAE vs CAN - CAN opt to bowl",
-      "team1": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "CAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "UAE vs CAN - CAN opt to bowl",
-      "status": "Match Details"
-    },
     {
       "title": "MSG vs SUL - Preview",
       "team1": {
@@ -30,42 +17,55 @@
       "status": "Match Details"
     },
     {
-      "title": "NDT vs CDK - Central Delhi Kings need 126 runs in 86 balls",
+      "title": "UAE vs CAN - Innings Break",
       "team1": {
-        "name": "NDT",
+        "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "CDK",
+        "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDT vs CDK - Central Delhi Kings need 126 runs in 86 balls",
+      "score": "UAE vs CAN - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "TRI vs NRK - Need 131 off 80b",
+      "title": "SULW vs MSGW - MSGW opt to bowl",
       "team1": {
-        "name": "TRI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NRK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TRI vs NRK - Need 131 off 80b",
-      "status": "Match Details"
-    },
-    {
-      "title": "MSGW vs SULW - Preview",
-      "team1": {
-        "name": "MSGW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSGW vs SULW - Preview",
+      "team2": {
+        "name": "MSGW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SULW vs MSGW - MSGW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "VKK vs ITT - ITT opt to bowl",
+      "team1": {
+        "name": "VKK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ITT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "VKK vs ITT - ITT opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKM vs BBT - Preview",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs BBT - Preview",
       "status": "Match Details"
     },
     {
@@ -108,29 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Canada LIVE 126th Match",
+      "title": "United Arab Emirates vs Canada 126th Match",
       "team1": {
         "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada LIVE 126th Match",
+        "name": "Canada 126th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United Arab Emirates vs Canada LIVE 126th Match",
+      "score": "United Arab Emirates vs Canada 126th Match",
       "status": "Match Details"
     },
     {
-      "title": "Zambia vs Rwanda LIVE 1st Match",
+      "title": "Zambia vs Rwanda 1st Match",
       "team1": {
         "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rwanda LIVE 1st Match",
+        "name": "Rwanda 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zambia vs Rwanda LIVE 1st Match",
+      "score": "Zambia vs Rwanda 1st Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trichy Grand Cholas vs Nellai Royal Kings LIVE 12th Match",
+      "title": "Trichy Grand Cholas vs Nellai Royal Kings 12th Match",
       "team1": {
         "name": "Trichy Grand Cholas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nellai Royal Kings LIVE 12th Match",
+        "name": "Nellai Royal Kings 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy Grand Cholas vs Nellai Royal Kings LIVE 12th Match",
+      "score": "Trichy Grand Cholas vs Nellai Royal Kings 12th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs Central Delhi Kings LIVE 22nd Match",
+      "title": "New Delhi Tigers vs Central Delhi Kings 22nd Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings LIVE 22nd Match",
+        "name": "Central Delhi Kings 22nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs Central Delhi Kings LIVE 22nd Match",
+      "score": "New Delhi Tigers vs Central Delhi Kings 22nd Match",
       "status": "Match Details"
     },
     {
@@ -300,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "West Delhi Lions vs North Delhi Strikers 23rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Delhi Riders vs South Delhi Superstarz 24th Match",
+      "team1": {
+        "name": "East Delhi Riders",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Delhi Superstarz 24th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "East Delhi Riders vs South Delhi Superstarz 24th Match",
       "status": "Match Details"
     },
     {
@@ -329,19 +342,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Singapore 36th Match",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Singapore 36th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahrain vs Singapore 36th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Hong Kong, China vs Uganda 37th Match",
       "team1": {
         "name": "Hong Kong, China",
@@ -352,6 +352,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hong Kong, China vs Uganda 37th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Singapore 36th Match",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 36th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahrain vs Singapore 36th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Hampshire LIVE Group B",
+      "title": "Derbyshire vs Hampshire Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE Group B",
+        "name": "Hampshire Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Derbyshire vs Hampshire LIVE Group B",
+      "score": "Derbyshire vs Hampshire Group B",
       "status": "Match Details"
     },
     {
@@ -407,29 +420,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Somerset LIVE Group A",
+      "title": "Lancashire vs Somerset Group A",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset LIVE Group A",
+        "name": "Somerset Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lancashire vs Somerset LIVE Group A",
+      "score": "Lancashire vs Somerset Group A",
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Nottinghamshire LIVE Group A",
+      "title": "Surrey vs Nottinghamshire Group A",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nottinghamshire LIVE Group A",
+        "name": "Nottinghamshire Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Surrey vs Nottinghamshire LIVE Group A",
+      "score": "Surrey vs Nottinghamshire Group A",
       "status": "Match Details"
     },
     {
@@ -472,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manchester Super Giants Women vs Sunrisers Leeds Women 30th Match",
+      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 30th Match",
       "team1": {
-        "name": "Manchester Super Giants Women",
+        "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds Women 30th Match",
+        "name": "Manchester Super Giants Women LIVE 30th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manchester Super Giants Women vs Sunrisers Leeds Women 30th Match",
+      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 30th Match",
       "status": "Match Details"
     },
     {
@@ -521,6 +534,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "1st Match • Blantyre, TCA Oval Zambia ZMB 142-9 (20) Rwanda RWA 144-3 (18.1) Rwanda won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 182-8 (20) Nellai Royal Kings NRK 137 (18) Trichy Grand Cholas won by 45 runs",
+      "team1": {
+        "name": "12th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 182",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "8 (20) Nellai Royal Kings NRK 137 (18) Trichy Grand Cholas won by 45 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "12th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 182-8 (20) Nellai Royal Kings NRK 137 (18) Trichy Grand Cholas won by 45 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "22nd Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 185-8 (18) Central Delhi Kings CDK 187-1 (12.2) Central Delhi Kings won by 9 wkts (18 Overs game due to rain)",
+      "team1": {
+        "name": "22nd Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 185",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (18) Central Delhi Kings CDK 187",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "22nd Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 185-8 (18) Central Delhi Kings CDK 187-1 (12.2) Central Delhi Kings won by 9 wkts (18 Overs game due to rain)",
       "status": "Match Details"
     },
     {
