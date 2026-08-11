@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-11 09:41:17 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-11 10:36:00 UTC",
+  "total_matches": 40,
   "matches": [
     {
       "title": "UAE vs CAN - CAN opt to bowl",
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "CDK vs NDT - Delay",
+      "title": "NDT vs CDK - CDK opt to bowl",
       "team1": {
-        "name": "CDK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "NDT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CDK vs NDT - Delay",
+      "team2": {
+        "name": "CDK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NDT vs CDK - CDK opt to bowl",
       "status": "Match Details"
     },
     {
@@ -82,6 +82,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Ireland vs Afghanistan 4th ODI",
+      "team1": {
+        "name": "Ireland",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Afghanistan 4th ODI",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Ireland vs Afghanistan 4th ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Finland vs Germany One-off T20I",
       "team1": {
         "name": "Finland",
@@ -95,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Canada 126th Match",
+      "title": "United Arab Emirates vs Canada LIVE 126th Match",
       "team1": {
         "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada 126th Match",
+        "name": "Canada LIVE 126th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United Arab Emirates vs Canada 126th Match",
+      "score": "United Arab Emirates vs Canada LIVE 126th Match",
       "status": "Match Details"
     },
     {
@@ -199,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trichy Grand Cholas vs Nellai Royal Kings 12th Match",
+      "title": "Trichy Grand Cholas vs Nellai Royal Kings LIVE 12th Match",
       "team1": {
         "name": "Trichy Grand Cholas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nellai Royal Kings 12th Match",
+        "name": "Nellai Royal Kings LIVE 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy Grand Cholas vs Nellai Royal Kings 12th Match",
+      "score": "Trichy Grand Cholas vs Nellai Royal Kings LIVE 12th Match",
       "status": "Match Details"
     },
     {
@@ -222,6 +235,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Vida Kovai Kings vs IDream Tiruppur Tamizhans 13th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chepauk Super Gillies vs SKM Salem Spartans 14th Match",
+      "team1": {
+        "name": "Chepauk Super Gillies",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SKM Salem Spartans 14th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Chepauk Super Gillies vs SKM Salem Spartans 14th Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs New Delhi Tigers 22nd Match",
+      "title": "New Delhi Tigers vs Central Delhi Kings LIVE 22nd Match",
       "team1": {
-        "name": "Central Delhi Kings",
+        "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New Delhi Tigers 22nd Match",
+        "name": "Central Delhi Kings LIVE 22nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs New Delhi Tigers 22nd Match",
+      "score": "New Delhi Tigers vs Central Delhi Kings LIVE 22nd Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Hong Kong, China 34th Match",
+      "title": "Tanzania vs Hong Kong, China LIVE 34th Match",
       "team1": {
         "name": "Tanzania",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "Hong Kong, China 34th Match",
+        "name": "Hong Kong, China LIVE 34th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tanzania vs Hong Kong, China 34th Match",
+      "score": "Tanzania vs Hong Kong, China LIVE 34th Match",
       "status": "Match Details"
     },
     {
@@ -329,107 +355,107 @@
       "status": "Match Details"
     },
     {
-      "title": "Warwickshire vs Kent Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warwickshire vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Durham Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Worcestershire vs Durham Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Essex vs Yorkshire Group B",
+      "title": "Essex vs Yorkshire LIVE Group B",
       "team1": {
         "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Yorkshire Group B",
+        "name": "Yorkshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Essex vs Yorkshire Group B",
+      "score": "Essex vs Yorkshire LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Gloucestershire Group A",
+      "title": "Northamptonshire vs Gloucestershire LIVE Group A",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Gloucestershire Group A",
+        "name": "Gloucestershire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Northamptonshire vs Gloucestershire Group A",
+      "score": "Northamptonshire vs Gloucestershire LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Hampshire Group B",
+      "title": "Derbyshire vs Hampshire LIVE Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire Group B",
+        "name": "Hampshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Derbyshire vs Hampshire Group B",
+      "score": "Derbyshire vs Hampshire LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Sussex Group B",
+      "title": "Middlesex vs Sussex LIVE Group B",
       "team1": {
         "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sussex Group B",
+        "name": "Sussex LIVE Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Middlesex vs Sussex Group B",
+      "score": "Middlesex vs Sussex LIVE Group B",
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Somerset Group A",
+      "title": "Lancashire vs Somerset LIVE Group A",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset Group A",
+        "name": "Somerset LIVE Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lancashire vs Somerset Group A",
+      "score": "Lancashire vs Somerset LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Nottinghamshire Group A",
+      "title": "Surrey vs Nottinghamshire LIVE Group A",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nottinghamshire Group A",
+        "name": "Nottinghamshire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Surrey vs Nottinghamshire Group A",
+      "score": "Surrey vs Nottinghamshire LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Kent LIVE Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Kent LIVE Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warwickshire vs Kent LIVE Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Durham LIVE Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham LIVE Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Worcestershire vs Durham LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -456,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Manchester Super Giants Women vs Sunrisers Leeds Women 30th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Welsh Fire Women vs London Spirit Women 31st Match",
+      "team1": {
+        "name": "Welsh Fire Women",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "London Spirit Women 31st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Welsh Fire Women vs London Spirit Women 31st Match",
       "status": "Match Details"
     },
     {
