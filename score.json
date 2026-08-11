@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-11 13:57:18 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-08-11 15:07:55 UTC",
+  "total_matches": 48,
   "matches": [
     {
       "title": "MSG vs SUL - Preview",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "UAE vs CAN - Innings Break",
+      "title": "UAE vs CAN - Need 241 to win",
       "team1": {
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE vs CAN - Innings Break",
+      "score": "UAE vs CAN - Need 241 to win",
       "status": "Match Details"
     },
     {
-      "title": "SULW vs MSGW - MSGW opt to bowl",
+      "title": "SULW vs MSGW - Innings Break",
       "team1": {
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "MSGW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs MSGW - MSGW opt to bowl",
+      "score": "SULW vs MSGW - Innings Break",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Canada 126th Match",
+      "title": "United Arab Emirates vs Canada LIVE 126th Match",
       "team1": {
         "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada 126th Match",
+        "name": "Canada LIVE 126th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United Arab Emirates vs Canada 126th Match",
+      "score": "United Arab Emirates vs Canada LIVE 126th Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +199,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Welsh Fire vs London Spirit 31st Match",
+      "team1": {
+        "name": "Welsh Fire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "London Spirit 31st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Welsh Fire vs London Spirit 31st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Jamaica Kingsmen vs Barbados Tridents 4th Match",
       "team1": {
         "name": "Jamaica Kingsmen",
@@ -238,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs IDream Tiruppur Tamizhans 13th Match",
+      "title": "Vida Kovai Kings vs IDream Tiruppur Tamizhans LIVE 13th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "IDream Tiruppur Tamizhans 13th Match",
+        "name": "IDream Tiruppur Tamizhans LIVE 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Vida Kovai Kings vs IDream Tiruppur Tamizhans 13th Match",
+      "score": "Vida Kovai Kings vs IDream Tiruppur Tamizhans LIVE 13th Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +274,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Chepauk Super Gillies vs SKM Salem Spartans 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Dindigul Dragons vs Madurai Panthers 15th Match",
+      "team1": {
+        "name": "Dindigul Dragons",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Madurai Panthers 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Dindigul Dragons vs Madurai Panthers 15th Match",
       "status": "Match Details"
     },
     {
@@ -290,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Delhi Lions vs North Delhi Strikers 23rd Match",
+      "title": "West Delhi Lions vs North Delhi Strikers LIVE 23rd Match",
       "team1": {
         "name": "West Delhi Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North Delhi Strikers 23rd Match",
+        "name": "North Delhi Strikers LIVE 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "West Delhi Lions vs North Delhi Strikers 23rd Match",
+      "score": "West Delhi Lions vs North Delhi Strikers LIVE 23rd Match",
       "status": "Match Details"
     },
     {
@@ -342,19 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Uganda 37th Match",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 37th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Uganda 37th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bahrain vs Singapore 36th Match",
       "team1": {
         "name": "Bahrain",
@@ -365,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bahrain vs Singapore 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Uganda 37th Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 37th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Uganda 37th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Hampshire Group B",
+      "title": "Derbyshire vs Hampshire LIVE Group B",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire Group B",
+        "name": "Hampshire LIVE Group B",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Derbyshire vs Hampshire Group B",
+      "score": "Derbyshire vs Hampshire LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -420,29 +446,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Somerset Group A",
+      "title": "Lancashire vs Somerset LIVE Group A",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset Group A",
+        "name": "Somerset LIVE Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lancashire vs Somerset Group A",
+      "score": "Lancashire vs Somerset LIVE Group A",
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Nottinghamshire Group A",
+      "title": "Surrey vs Nottinghamshire LIVE Group A",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nottinghamshire Group A",
+        "name": "Nottinghamshire LIVE Group A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Surrey vs Nottinghamshire Group A",
+      "score": "Surrey vs Nottinghamshire LIVE Group A",
       "status": "Match Details"
     },
     {
@@ -485,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 30th Match",
+      "title": "Sunrisers Leeds Women vs Manchester Super Giants Women 30th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manchester Super Giants Women LIVE 30th Match",
+        "name": "Manchester Super Giants Women 30th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women LIVE 30th Match",
+      "score": "Sunrisers Leeds Women vs Manchester Super Giants Women 30th Match",
       "status": "Match Details"
     },
     {
@@ -508,6 +534,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Welsh Fire Women vs London Spirit Women 31st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Birmingham Phoenix Women vs MI London Women 32nd Match",
+      "team1": {
+        "name": "Birmingham Phoenix Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MI London Women 32nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Birmingham Phoenix Women vs MI London Women 32nd Match",
       "status": "Match Details"
     },
     {
