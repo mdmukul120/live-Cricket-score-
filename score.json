@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 16:10:12 UTC",
+  "last_updated": "2026-08-12 17:13:48 UTC",
   "total_matches": 44,
   "matches": [
     {
-      "title": "AFG vs IRE - Need 224 to win",
+      "title": "AFG vs IRE - Need 129 off 59b",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -13,11 +13,24 @@
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "AFG vs IRE - Need 224 to win",
+      "score": "AFG vs IRE - Need 129 off 59b",
       "status": "Match Details"
     },
     {
-      "title": "LDN vs WEF - Need 78 off 52b",
+      "title": "MIL vs BRM - BRM opt to bowl",
+      "team1": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MIL vs BRM - BRM opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "LDN vs WEF - LDN won",
       "team1": {
         "name": "LDN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +39,11 @@
         "name": "WEF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDN vs WEF - Need 78 off 52b",
+      "score": "LDN vs WEF - LDN won",
       "status": "Match Details"
     },
     {
-      "title": "MILW vs BRMW - Need 55 off 49b",
+      "title": "MILW vs BRMW - BRMW won",
       "team1": {
         "name": "MILW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,20 +52,7 @@
         "name": "BRMW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MILW vs BRMW - Need 55 off 49b",
-      "status": "Match Details"
-    },
-    {
-      "title": "BRM vs MIL - Preview",
-      "team1": {
-        "name": "BRM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MIL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BRM vs MIL - Preview",
+      "score": "MILW vs BRMW - BRMW won",
       "status": "Match Details"
     },
     {
@@ -92,19 +92,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Afghanistan vs Ireland LIVE 4th ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Germany vs Finland One-off T20I",
-      "team1": {
-        "name": "Germany",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Finland One",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Germany vs Finland One-off T20I",
       "status": "Match Details"
     },
     {
@@ -186,29 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "London Spirit vs Welsh Fire LIVE 31st Match",
+      "title": "London Spirit vs Welsh Fire 31st Match",
       "team1": {
         "name": "London Spirit",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Welsh Fire LIVE 31st Match",
+        "name": "Welsh Fire 31st Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "London Spirit vs Welsh Fire LIVE 31st Match",
+      "score": "London Spirit vs Welsh Fire 31st Match",
       "status": "Match Details"
     },
     {
-      "title": "Birmingham Phoenix vs MI London 32nd Match",
+      "title": "MI London vs Birmingham Phoenix 32nd Match",
       "team1": {
-        "name": "Birmingham Phoenix",
+        "name": "MI London",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MI London 32nd Match",
+        "name": "Birmingham Phoenix 32nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Birmingham Phoenix vs MI London 32nd Match",
+      "score": "MI London vs Birmingham Phoenix 32nd Match",
       "status": "Match Details"
     },
     {
@@ -303,29 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Delhi Lions vs North Delhi Strikers 23rd Match",
-      "team1": {
-        "name": "West Delhi Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "North Delhi Strikers 23rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "West Delhi Lions vs North Delhi Strikers 23rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "East Delhi Riders vs South Delhi Superstarz LIVE 24th Match",
+      "title": "East Delhi Riders vs South Delhi Superstarz 24th Match",
       "team1": {
         "name": "East Delhi Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Delhi Superstarz LIVE 24th Match",
+        "name": "South Delhi Superstarz 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Delhi Riders vs South Delhi Superstarz LIVE 24th Match",
+      "score": "East Delhi Riders vs South Delhi Superstarz 24th Match",
       "status": "Match Details"
     },
     {
@@ -355,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Uganda 37th Match",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 37th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Uganda 37th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Singapore vs Bahrain 36th Match",
       "team1": {
         "name": "Singapore",
@@ -378,6 +339,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Singapore vs Bahrain 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Uganda 37th Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 37th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Uganda 37th Match",
       "status": "Match Details"
     },
     {
@@ -498,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London Women vs Birmingham Phoenix Women LIVE 32nd Match",
+      "title": "MI London Women vs Birmingham Phoenix Women 32nd Match",
       "team1": {
         "name": "MI London Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix Women LIVE 32nd Match",
+        "name": "Birmingham Phoenix Women 32nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London Women vs Birmingham Phoenix Women LIVE 32nd Match",
+      "score": "MI London Women vs Birmingham Phoenix Women 32nd Match",
       "status": "Match Details"
     },
     {
@@ -524,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd Match • Blantyre, TCA Oval Malawi MWI 112-8 (20) Rwanda RWA 113-5 (18.5) Rwanda won by 5 wkts",
+      "title": "31st Match • Cardiff, Sophia Gardens 100 London Spirit LDN 131-8 (100 Balls) Welsh Fire WEF 125-7 (100 Balls) London Spirit won by 6 runs",
       "team1": {
-        "name": "3rd Match • Blantyre, TCA Oval Malawi MWI 112",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "8 (20) Rwanda RWA 113",
+        "name": "31st Match • Cardiff, Sophia Gardens 100 London Spirit LDN 131",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd Match • Blantyre, TCA Oval Malawi MWI 112-8 (20) Rwanda RWA 113-5 (18.5) Rwanda won by 5 wkts",
+      "team2": {
+        "name": "8 (100 Balls) Welsh Fire WEF 125",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "31st Match • Cardiff, Sophia Gardens 100 London Spirit LDN 131-8 (100 Balls) Welsh Fire WEF 125-7 (100 Balls) London Spirit won by 6 runs",
       "status": "Match Details"
     },
     {
@@ -550,6 +524,19 @@
       "status": "Match Details"
     },
     {
+      "title": "24th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 191-6 (20) South Delhi Superstarz SDS 194-1 (16.5) South Delhi Superstarz won by 9 wkts",
+      "team1": {
+        "name": "24th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 191",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) South Delhi Superstarz SDS 194",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "24th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 191-6 (20) South Delhi Superstarz SDS 194-1 (16.5) South Delhi Superstarz won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "37th Match • Dar es Salaam, University of Dar-es-Salaam 2 Hong Kong, China HKC 170 (50) Uganda UGA 119 (36.5) Hong Kong, China won by 51 runs",
       "team1": {
         "name": "37th Match • Dar es Salaam, University of Dar",
@@ -560,6 +547,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "37th Match • Dar es Salaam, University of Dar-es-Salaam 2 Hong Kong, China HKC 170 (50) Uganda UGA 119 (36.5) Hong Kong, China won by 51 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120-6 (100 Balls) Birmingham Phoenix Women BRMW 121-5 (94 Balls) Birmingham Phoenix Women won by 5 wkts",
+      "team1": {
+        "name": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (100 Balls) Birmingham Phoenix Women BRMW 121",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120-6 (100 Balls) Birmingham Phoenix Women BRMW 121-5 (94 Balls) Birmingham Phoenix Women won by 5 wkts",
       "status": "Match Details"
     },
     {
