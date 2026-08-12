@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 09:31:53 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-08-12 10:40:09 UTC",
+  "total_matches": 45,
   "matches": [
     {
-      "title": "IRE vs AFG - Delay",
+      "title": "AFG vs IRE - IRE opt to bowl",
       "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IRE vs AFG - Delay",
+      "team2": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "AFG vs IRE - IRE opt to bowl",
       "status": "Match Details"
     },
     {
@@ -43,20 +43,20 @@
       "status": "Match Details"
     },
     {
-      "title": "CSG vs SLST - Preview",
+      "title": "SLST vs CSG - CSG opt to bowl",
       "team1": {
-        "name": "CSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SLST",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "CSG vs SLST - Preview",
+      "team2": {
+        "name": "CSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLST vs CSG - CSG opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "WELW vs LDNW - Preview",
+      "title": "WELW vs LDNW - LDNW opt to bowl",
       "team1": {
         "name": "WELW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "LDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WELW vs LDNW - Preview",
+      "score": "WELW vs LDNW - LDNW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland vs Afghanistan 4th ODI",
+      "title": "Afghanistan vs Ireland LIVE 4th ODI",
       "team1": {
-        "name": "Ireland",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Afghanistan 4th ODI",
+        "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Ireland vs Afghanistan 4th ODI",
+      "team2": {
+        "name": "Ireland LIVE 4th ODI",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Afghanistan vs Ireland LIVE 4th ODI",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zambia vs Rwanda 1st Match",
+      "title": "Scotland vs Canada 127th Match",
       "team1": {
-        "name": "Zambia",
+        "name": "Scotland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rwanda 1st Match",
+        "name": "Canada 127th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zambia vs Rwanda 1st Match",
+      "score": "Scotland vs Canada 127th Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Malawi vs Rwanda 3rd Match",
+      "title": "Malawi vs Rwanda LIVE 3rd Match",
       "team1": {
         "name": "Malawi",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "Rwanda 3rd Match",
+        "name": "Rwanda LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malawi vs Rwanda 3rd Match",
+      "score": "Malawi vs Rwanda LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Chepauk Super Gillies vs SKM Salem Spartans 14th Match",
+      "title": "SKM Salem Spartans vs Chepauk Super Gillies LIVE 14th Match",
       "team1": {
-        "name": "Chepauk Super Gillies",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SKM Salem Spartans 14th Match",
+        "name": "SKM Salem Spartans",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Chepauk Super Gillies vs SKM Salem Spartans 14th Match",
+      "team2": {
+        "name": "Chepauk Super Gillies LIVE 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SKM Salem Spartans vs Chepauk Super Gillies LIVE 14th Match",
       "status": "Match Details"
     },
     {
@@ -300,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Dindigul Dragons vs Madurai Panthers 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Vida Kovai Kings vs Nellai Royal Kings 16th Match",
+      "team1": {
+        "name": "Vida Kovai Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nellai Royal Kings 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vida Kovai Kings vs Nellai Royal Kings 16th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs Bahrain LIVE 36th Match",
+      "title": "Singapore vs Bahrain 36th Match",
       "team1": {
         "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bahrain LIVE 36th Match",
+        "name": "Bahrain 36th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Singapore vs Bahrain LIVE 36th Match",
+      "score": "Singapore vs Bahrain 36th Match",
       "status": "Match Details"
     },
     {
@@ -404,6 +417,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hong Kong, China vs Uganda LIVE 37th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Nottinghamshire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nottinghamshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Nottinghamshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Kent Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Kent Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warwickshire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Durham Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Worcestershire vs Durham Group B",
       "status": "Match Details"
     },
     {
@@ -472,45 +524,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Nottinghamshire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nottinghamshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Nottinghamshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Kent Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warwickshire vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Durham Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Worcestershire vs Durham Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Sunrisers Leeds Women vs Manchester Super Giants Women 30th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
@@ -524,16 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs London Spirit Women 31st Match",
+      "title": "Welsh Fire Women vs London Spirit Women LIVE 31st Match",
       "team1": {
         "name": "Welsh Fire Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "London Spirit Women 31st Match",
+        "name": "London Spirit Women LIVE 31st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Welsh Fire Women vs London Spirit Women 31st Match",
+      "score": "Welsh Fire Women vs London Spirit Women LIVE 31st Match",
       "status": "Match Details"
     },
     {
@@ -560,6 +573,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "36th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Singapore SIN 76 (21.3) Bahrain BHR 79-3 (14.5) Bahrain won by 7 wkts",
+      "team1": {
+        "name": "36th Match • Dar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "es",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "36th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Singapore SIN 76 (21.3) Bahrain BHR 79-3 (14.5) Bahrain won by 7 wkts",
       "status": "Match Details"
     }
   ]
