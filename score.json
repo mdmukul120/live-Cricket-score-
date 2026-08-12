@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 08:08:14 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-08-12 09:31:53 UTC",
+  "total_matches": 43,
   "matches": [
     {
-      "title": "IRE vs AFG - Preview",
+      "title": "IRE vs AFG - Delay",
       "team1": {
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
@@ -13,7 +13,7 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IRE vs AFG - Preview",
+      "score": "IRE vs AFG - Delay",
       "status": "Match Details"
     },
     {
@@ -27,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "BBT vs JKM - BBT won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SUL vs MSG - MSG won",
-      "team1": {
-        "name": "SUL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SUL vs MSG - MSG won",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "CSG vs SLST - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "WELW vs LDNW - Preview",
+      "team1": {
+        "name": "WELW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WELW vs LDNW - Preview",
       "status": "Match Details"
     },
     {
@@ -381,29 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs Bahrain 36th Match",
+      "title": "Singapore vs Bahrain LIVE 36th Match",
       "team1": {
         "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bahrain 36th Match",
+        "name": "Bahrain LIVE 36th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Singapore vs Bahrain 36th Match",
+      "score": "Singapore vs Bahrain LIVE 36th Match",
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Uganda 37th Match",
+      "title": "Hong Kong, China vs Uganda LIVE 37th Match",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Uganda 37th Match",
+        "name": "Uganda LIVE 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Uganda 37th Match",
+      "score": "Hong Kong, China vs Uganda LIVE 37th Match",
       "status": "Match Details"
     },
     {
@@ -560,19 +560,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Kingston, Jamaica, Sabina Park Barbados Tridents BBT 206-3 (20) Jamaica Kingsmen JKM 201-9 (20) Barbados Tridents won by 5 runs",
-      "team1": {
-        "name": "4th Match • Kingston, Jamaica, Sabina Park Barbados Tridents BBT 206",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "3 (20) Jamaica Kingsmen JKM 201",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Kingston, Jamaica, Sabina Park Barbados Tridents BBT 206-3 (20) Jamaica Kingsmen JKM 201-9 (20) Barbados Tridents won by 5 runs",
       "status": "Match Details"
     }
   ]
