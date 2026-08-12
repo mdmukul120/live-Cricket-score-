@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 10:40:09 UTC",
+  "last_updated": "2026-08-12 11:31:49 UTC",
   "total_matches": 45,
   "matches": [
     {
@@ -14,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "AFG vs IRE - IRE opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "WELW vs LDNW - LDNW opt to bowl",
+      "team1": {
+        "name": "WELW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WELW vs LDNW - LDNW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SLST vs CSG - CSG opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "WELW vs LDNW - LDNW opt to bowl",
-      "team1": {
-        "name": "WELW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "LDNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "WELW vs LDNW - LDNW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -160,29 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Malawi vs Rwanda LIVE 3rd Match",
+      "title": "Malawi vs Rwanda 3rd Match",
       "team1": {
         "name": "Malawi",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "Rwanda LIVE 3rd Match",
+        "name": "Rwanda 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malawi vs Rwanda LIVE 3rd Match",
+      "score": "Malawi vs Rwanda 3rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Rwanda vs Zambia 4th Match",
+      "title": "Zambia vs Rwanda 4th Match",
       "team1": {
-        "name": "Rwanda",
+        "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Zambia 4th Match",
+        "name": "Rwanda 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rwanda vs Zambia 4th Match",
+      "score": "Zambia vs Rwanda 4th Match",
       "status": "Match Details"
     },
     {
@@ -316,19 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs Central Delhi Kings 22nd Match",
-      "team1": {
-        "name": "New Delhi Tigers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Central Delhi Kings 22nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "New Delhi Tigers vs Central Delhi Kings 22nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "West Delhi Lions vs North Delhi Strikers 23rd Match",
       "team1": {
         "name": "West Delhi Lions",
@@ -407,55 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Uganda LIVE 37th Match",
+      "title": "Hong Kong, China vs Uganda 37th Match",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Uganda LIVE 37th Match",
+        "name": "Uganda 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Uganda LIVE 37th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Nottinghamshire Group A",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nottinghamshire Group A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Nottinghamshire Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Kent Group A",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Kent Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warwickshire vs Kent Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Durham Group B",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Worcestershire vs Durham Group B",
+      "score": "Hong Kong, China vs Uganda 37th Match",
       "status": "Match Details"
     },
     {
@@ -524,6 +472,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Surrey vs Nottinghamshire Group A",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nottinghamshire Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Nottinghamshire Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Kent Group A",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Kent Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warwickshire vs Kent Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Durham Group B",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Worcestershire vs Durham Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Sunrisers Leeds Women vs Manchester Super Giants Women 30th Match",
       "team1": {
         "name": "Sunrisers Leeds Women",
@@ -573,6 +560,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match • Blantyre, TCA Oval Malawi MWI 112-8 (20) Rwanda RWA 113-5 (18.5) Rwanda won by 5 wkts",
+      "team1": {
+        "name": "3rd Match • Blantyre, TCA Oval Malawi MWI 112",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "8 (20) Rwanda RWA 113",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Match • Blantyre, TCA Oval Malawi MWI 112-8 (20) Rwanda RWA 113-5 (18.5) Rwanda won by 5 wkts",
       "status": "Match Details"
     },
     {
