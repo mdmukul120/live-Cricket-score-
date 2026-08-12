@@ -1,8 +1,34 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 18:10:05 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-12 19:27:39 UTC",
+  "total_matches": 33,
   "matches": [
+    {
+      "title": "MIL vs BRM - Need 113 off 65b",
+      "team1": {
+        "name": "MIL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BRM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MIL vs BRM - Need 113 off 65b",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUS vs BAN - Preview",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AUS vs BAN - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "AFG vs IRE - AFG won",
       "team1": {
@@ -17,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MIL vs BRM - BRM opt to bowl",
+      "title": "SLK vs SNP - Preview",
       "team1": {
-        "name": "MIL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "BRM",
+        "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MIL vs BRM - BRM opt to bowl",
+      "score": "SLK vs SNP - Preview",
       "status": "Match Details"
     },
     {
@@ -40,32 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "LDN vs WEF - LDN won",
-      "status": "Match Details"
-    },
-    {
-      "title": "MILW vs BRMW - BRMW won",
-      "team1": {
-        "name": "MILW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BRMW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MILW vs BRMW - BRMW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SLK vs SNP - Preview",
-      "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLK vs SNP - Preview",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zambia vs Rwanda LIVE 4th Match",
+      "title": "Zambia vs Rwanda 4th Match",
       "team1": {
         "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rwanda LIVE 4th Match",
+        "name": "Rwanda 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zambia vs Rwanda LIVE 4th Match",
+      "score": "Zambia vs Rwanda 4th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Madurai Panthers vs Dindigul Dragons LIVE 15th Match",
+      "title": "Madurai Panthers vs Dindigul Dragons 15th Match",
       "team1": {
         "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dindigul Dragons LIVE 15th Match",
+        "name": "Dindigul Dragons 15th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Madurai Panthers vs Dindigul Dragons LIVE 15th Match",
+      "score": "Madurai Panthers vs Dindigul Dragons 15th Match",
       "status": "Match Details"
     },
     {
@@ -368,6 +368,19 @@
       "status": "Match Details"
     },
     {
+      "title": "4th Match • Blantyre, TCA Oval Zambia ZMB 151-8 (20) Rwanda RWA 143-8 (20) Zambia won by 8 runs",
+      "team1": {
+        "name": "4th Match • Blantyre, TCA Oval Zambia ZMB 151",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Rwanda RWA 143",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Blantyre, TCA Oval Zambia ZMB 151-8 (20) Rwanda RWA 143-8 (20) Zambia won by 8 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "31st Match • Cardiff, Sophia Gardens 100 London Spirit LDN 131-8 (100 Balls) Welsh Fire WEF 125-7 (100 Balls) London Spirit won by 6 runs",
       "team1": {
         "name": "31st Match • Cardiff, Sophia Gardens 100 London Spirit LDN 131",
@@ -381,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "14th Match • Dindigul, NPR College Ground SKM Salem Spartans SAL 182-7 (20) Chepauk Super Gillies CSG 186-5 (16.4) Chepauk Super Gillies won by 5 wkts",
+      "title": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171-7 (18) Dindigul Dragons DGD 150-6 (18) Siechem Madurai Panthers won by 21 runs  -  18 overs game due to rain",
       "team1": {
-        "name": "14th Match • Dindigul, NPR College Ground SKM Salem Spartans SAL 182",
+        "name": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "7 (20) Chepauk Super Gillies CSG 186",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7 (18) Dindigul Dragons DGD 150",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "14th Match • Dindigul, NPR College Ground SKM Salem Spartans SAL 182-7 (20) Chepauk Super Gillies CSG 186-5 (16.4) Chepauk Super Gillies won by 5 wkts",
+      "score": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171-7 (18) Dindigul Dragons DGD 150-6 (18) Siechem Madurai Panthers won by 21 runs  -  18 overs game due to rain",
       "status": "Match Details"
     },
     {
@@ -407,19 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "37th Match • Dar es Salaam, University of Dar-es-Salaam 2 Hong Kong, China HKC 170 (50) Uganda UGA 119 (36.5) Hong Kong, China won by 51 runs",
-      "team1": {
-        "name": "37th Match • Dar es Salaam, University of Dar",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "es",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "37th Match • Dar es Salaam, University of Dar-es-Salaam 2 Hong Kong, China HKC 170 (50) Uganda UGA 119 (36.5) Hong Kong, China won by 51 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120-6 (100 Balls) Birmingham Phoenix Women BRMW 121-5 (94 Balls) Birmingham Phoenix Women won by 5 wkts",
       "team1": {
         "name": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120",
@@ -430,19 +430,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120-6 (100 Balls) Birmingham Phoenix Women BRMW 121-5 (94 Balls) Birmingham Phoenix Women won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "31st Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 138-7 (100 Balls) London Spirit Women LDNW 123 (99 Balls) Welsh Fire Women won by 15 runs",
-      "team1": {
-        "name": "31st Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 138",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "7 (100 Balls) London Spirit Women LDNW 123 (99 Balls) Welsh Fire Women won by 15 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "31st Match • Cardiff, Sophia Gardens 100 Welsh Fire Women WELW 138-7 (100 Balls) London Spirit Women LDNW 123 (99 Balls) Welsh Fire Women won by 15 runs",
       "status": "Match Details"
     }
   ]
