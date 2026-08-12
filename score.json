@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 03:40:55 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-08-12 05:19:00 UTC",
+  "total_matches": 42,
   "matches": [
     {
-      "title": "BBT vs JKM - Need 6 off 3b",
+      "title": "IRE vs AFG - Preview",
+      "team1": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IRE vs AFG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "BBT vs JKM - BBT won",
       "team1": {
         "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +26,7 @@
         "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BBT vs JKM - Need 6 off 3b",
+      "score": "BBT vs JKM - BBT won",
       "status": "Match Details"
     },
     {
@@ -27,19 +40,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SUL vs MSG - MSG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "IRE vs AFG - Preview",
-      "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "IRE vs AFG - Preview",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Jamaica Kingsmen LIVE 4th Match",
+      "title": "Barbados Tridents vs Jamaica Kingsmen 4th Match",
       "team1": {
         "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen LIVE 4th Match",
+        "name": "Jamaica Kingsmen 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs Jamaica Kingsmen LIVE 4th Match",
+      "score": "Barbados Tridents vs Jamaica Kingsmen 4th Match",
       "status": "Match Details"
     },
     {
@@ -534,6 +534,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Kingston, Jamaica, Sabina Park Barbados Tridents BBT 206-3 (20) Jamaica Kingsmen JKM 201-9 (20) Barbados Tridents won by 5 runs",
+      "team1": {
+        "name": "4th Match • Kingston, Jamaica, Sabina Park Barbados Tridents BBT 206",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "3 (20) Jamaica Kingsmen JKM 201",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Kingston, Jamaica, Sabina Park Barbados Tridents BBT 206-3 (20) Jamaica Kingsmen JKM 201-9 (20) Barbados Tridents won by 5 runs",
       "status": "Match Details"
     }
   ]
