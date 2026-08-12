@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 05:19:00 UTC",
+  "last_updated": "2026-08-12 06:49:35 UTC",
   "total_matches": 42,
   "matches": [
     {
@@ -329,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Hong Kong, China 34th Match",
-      "team1": {
-        "name": "Tanzania",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Hong Kong, China 34th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tanzania vs Hong Kong, China 34th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Italy vs Uganda 35th Match",
       "team1": {
         "name": "Italy",
@@ -355,16 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Singapore 36th Match",
+      "title": "Tanzania vs Hong Kong, China 34th Match",
       "team1": {
-        "name": "Bahrain",
+        "name": "Tanzania",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Hong Kong, China 34th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania vs Hong Kong, China 34th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs Bahrain 36th Match",
+      "team1": {
+        "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Singapore 36th Match",
+        "name": "Bahrain 36th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bahrain vs Singapore 36th Match",
+      "score": "Singapore vs Bahrain 36th Match",
       "status": "Match Details"
     },
     {
