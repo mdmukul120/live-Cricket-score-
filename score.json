@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 22:00:17 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-12 22:54:36 UTC",
+  "total_matches": 31,
   "matches": [
+    {
+      "title": "SLK vs SNP - SLK opt to bat",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs SNP - SLK opt to bat",
+      "status": "Match Details"
+    },
     {
       "title": "AUS vs BAN - Preview",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "AUS vs BAN - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "SLK vs SNP - Preview",
-      "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLK vs SNP - Preview",
       "status": "Match Details"
     },
     {
@@ -394,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "31st Match • Cardiff, Sophia Gardens 100 London Spirit LDN 131-8 (100 Balls) Welsh Fire WEF 125-7 (100 Balls) London Spirit won by 6 runs",
-      "team1": {
-        "name": "31st Match • Cardiff, Sophia Gardens 100 London Spirit LDN 131",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (100 Balls) Welsh Fire WEF 125",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "31st Match • Cardiff, Sophia Gardens 100 London Spirit LDN 131-8 (100 Balls) Welsh Fire WEF 125-7 (100 Balls) London Spirit won by 6 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171-7 (18) Dindigul Dragons DGD 150-6 (18) Siechem Madurai Panthers won by 21 runs  -  18 overs game due to rain",
       "team1": {
         "name": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171",
@@ -417,32 +404,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171-7 (18) Dindigul Dragons DGD 150-6 (18) Siechem Madurai Panthers won by 21 runs  -  18 overs game due to rain",
-      "status": "Match Details"
-    },
-    {
-      "title": "24th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 191-6 (20) South Delhi Superstarz SDS 194-1 (16.5) South Delhi Superstarz won by 9 wkts",
-      "team1": {
-        "name": "24th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 191",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) South Delhi Superstarz SDS 194",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "24th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 191-6 (20) South Delhi Superstarz SDS 194-1 (16.5) South Delhi Superstarz won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120-6 (100 Balls) Birmingham Phoenix Women BRMW 121-5 (94 Balls) Birmingham Phoenix Women won by 5 wkts",
-      "team1": {
-        "name": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (100 Balls) Birmingham Phoenix Women BRMW 121",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "32nd Match • Birmingham, Edgbaston 100 MI London Women MILW 120-6 (100 Balls) Birmingham Phoenix Women BRMW 121-5 (94 Balls) Birmingham Phoenix Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
