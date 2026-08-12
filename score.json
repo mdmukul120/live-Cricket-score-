@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 14:01:09 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-08-12 15:09:56 UTC",
+  "total_matches": 45,
   "matches": [
     {
-      "title": "AFG vs IRE - Innings Break",
+      "title": "AFG vs IRE - Need 296 to win",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -13,7 +13,7 @@
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "AFG vs IRE - Innings Break",
+      "score": "AFG vs IRE - Need 296 to win",
       "status": "Match Details"
     },
     {
@@ -43,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "DGD vs MADURAI - Preview",
+      "title": "MADURAI vs DGD - DGD opt to bowl",
       "team1": {
-        "name": "DGD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "MADURAI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DGD vs MADURAI - Preview",
+      "team2": {
+        "name": "DGD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MADURAI vs DGD - DGD opt to bowl",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Ireland 4th ODI",
+      "title": "Afghanistan vs Ireland LIVE 4th ODI",
       "team1": {
         "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Ireland 4th ODI",
+        "name": "Ireland LIVE 4th ODI",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Afghanistan vs Ireland 4th ODI",
+      "score": "Afghanistan vs Ireland LIVE 4th ODI",
       "status": "Match Details"
     },
     {
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Malawi vs Zambia 2nd Match",
-      "team1": {
-        "name": "Malawi",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Zambia 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Malawi vs Zambia 2nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Malawi vs Rwanda 3rd Match",
       "team1": {
         "name": "Malawi",
@@ -199,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "London Spirit vs Welsh Fire 31st Match",
+      "title": "London Spirit vs Welsh Fire LIVE 31st Match",
       "team1": {
         "name": "London Spirit",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Welsh Fire 31st Match",
+        "name": "Welsh Fire LIVE 31st Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "London Spirit vs Welsh Fire 31st Match",
+      "score": "London Spirit vs Welsh Fire LIVE 31st Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dindigul Dragons vs Madurai Panthers 15th Match",
+      "title": "Madurai Panthers vs Dindigul Dragons LIVE 15th Match",
       "team1": {
-        "name": "Dindigul Dragons",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Madurai Panthers 15th Match",
+        "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dindigul Dragons vs Madurai Panthers 15th Match",
+      "team2": {
+        "name": "Dindigul Dragons LIVE 15th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Madurai Panthers vs Dindigul Dragons LIVE 15th Match",
       "status": "Match Details"
     },
     {
@@ -511,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MI London Women vs Birmingham Phoenix Women 32nd Match",
+      "title": "MI London Women vs Birmingham Phoenix Women LIVE 32nd Match",
       "team1": {
         "name": "MI London Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Birmingham Phoenix Women 32nd Match",
+        "name": "Birmingham Phoenix Women LIVE 32nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI London Women vs Birmingham Phoenix Women 32nd Match",
+      "score": "MI London Women vs Birmingham Phoenix Women LIVE 32nd Match",
       "status": "Match Details"
     },
     {
