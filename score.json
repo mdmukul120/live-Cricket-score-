@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-13 08:12:31 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-13 09:35:17 UTC",
+  "total_matches": 33,
   "matches": [
     {
       "title": "AUS vs BAN - Stumps",
@@ -17,16 +17,29 @@
       "status": "Match Details"
     },
     {
-      "title": "SLK vs SNP - SNP won",
+      "title": "SCO vs CAN - Preview",
       "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "SNP",
+        "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SLK vs SNP - SNP won",
+      "team2": {
+        "name": "CAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SCO vs CAN - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "VKK vs NRK - Preview",
+      "team1": {
+        "name": "VKK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NRK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "VKK vs NRK - Preview",
       "status": "Match Details"
     },
     {
@@ -43,29 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "AFG vs IRE - AFG won",
+      "title": "SLK vs SNP - SNP won",
       "team1": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "AFG vs IRE - AFG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "LDN vs WEF - LDN won",
-      "team1": {
-        "name": "LDN",
+        "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "WEF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDN vs WEF - LDN won",
+      "score": "SLK vs SNP - SNP won",
       "status": "Match Details"
     },
     {
@@ -131,32 +131,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Norway vs Iran 1st Match",
-      "team1": {
-        "name": "Norway",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Iran 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Norway vs Iran 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Norway vs Uzbekistan 2nd Match",
-      "team1": {
-        "name": "Norway",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uzbekistan 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Norway vs Uzbekistan 2nd Match",
       "status": "Match Details"
     },
     {
@@ -443,19 +417,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Thailand Women vs Papua New Guinea Women 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Saint Lucia Kings SLK 155-8 (20) St Kitts and Nevis Patriots SNP 156-5 (17.4) St Kitts and Nevis Patriots won by 5 wkts",
-      "team1": {
-        "name": "5th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Saint Lucia Kings SLK 155",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "8 (20) St Kitts and Nevis Patriots SNP 156",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Saint Lucia Kings SLK 155-8 (20) St Kitts and Nevis Patriots SNP 156-5 (17.4) St Kitts and Nevis Patriots won by 5 wkts",
       "status": "Match Details"
     },
     {
