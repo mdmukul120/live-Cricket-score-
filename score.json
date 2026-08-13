@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-13 22:53:26 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-08-13 23:40:36 UTC",
+  "total_matches": 32,
   "matches": [
+    {
+      "title": "JKM vs GAW - GAW opt to bowl",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs GAW - GAW opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "AUS vs BAN - Stumps",
       "team1": {
@@ -17,55 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "SCO vs CAN - SCO won",
+      "title": "MSG vs SUL - Preview",
       "team1": {
-        "name": "SCO",
+        "name": "MSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "CAN",
+        "name": "SUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs CAN - SCO won",
+      "score": "MSG vs SUL - Preview",
       "status": "Match Details"
     },
     {
-      "title": "JKM vs GAW - Preview",
+      "title": "SULW vs SOUW - Preview",
       "team1": {
-        "name": "JKM",
+        "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "GAW",
+        "name": "SOUW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKM vs GAW - Preview",
+      "score": "SULW vs SOUW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "Trichy vs ITT - TRICHY won",
+      "title": "LANCS vs DUR - Preview",
       "team1": {
-        "name": "Trichy",
+        "name": "LANCS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ITT",
+        "name": "DUR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy vs ITT - TRICHY won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NDS vs PD - PD won",
-      "team1": {
-        "name": "NDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "PD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NDS vs PD - PD won",
+      "score": "LANCS vs DUR - Preview",
       "status": "Match Details"
     },
     {
@@ -134,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Scotland vs Canada 127th Match",
-      "team1": {
-        "name": "Scotland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canada 127th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Scotland vs Canada 127th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
       "team1": {
         "name": "Professional County Club Select XI",
@@ -157,6 +144,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Scotland vs Canada 127th Match",
+      "team1": {
+        "name": "Scotland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canada 127th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Scotland vs Canada 127th Match",
       "status": "Match Details"
     },
     {
@@ -222,6 +222,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Jamaica Kingsmen vs Guyana Amazon Warriors 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Saint Lucia Kings vs Antigua and Barbuda Falcons 7th Match",
+      "team1": {
+        "name": "Saint Lucia Kings",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Antigua and Barbuda Falcons 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saint Lucia Kings vs Antigua and Barbuda Falcons 7th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "17th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 196-6 (20) IDream Tiruppur Tamizhans ITT 179-8 (20) Trichy Grand Cholas won by 17 runs",
+      "title": "Papua New Guinea Women vs Thailand Women 2nd ODI",
       "team1": {
-        "name": "17th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 196",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (20) IDream Tiruppur Tamizhans ITT 179",
+        "name": "Papua New Guinea Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "17th Match • Dindigul, NPR College Ground Trichy Grand Cholas TRI 196-6 (20) IDream Tiruppur Tamizhans ITT 179-8 (20) Trichy Grand Cholas won by 17 runs",
+      "team2": {
+        "name": "Thailand Women 2nd ODI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Papua New Guinea Women vs Thailand Women 2nd ODI",
       "status": "Match Details"
     },
     {
