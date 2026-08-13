@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-13 09:35:17 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-08-13 10:42:37 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "AUS vs BAN - Stumps",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SCO vs CAN - Preview",
+      "title": "SCO vs CAN - SCO opt to bat",
       "team1": {
         "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs CAN - Preview",
+      "score": "SCO vs CAN - SCO opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "VKK vs NRK - Preview",
+      "title": "VKK vs NRK - NRK opt to bowl",
       "team1": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "NRK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs NRK - Preview",
+      "score": "VKK vs NRK - NRK opt to bowl",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Ireland vs Afghanistan 5th ODI",
+      "team1": {
+        "name": "Ireland",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Afghanistan 5th ODI",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Ireland vs Afghanistan 5th ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Finland vs Spain 1st Match",
       "team1": {
         "name": "Finland",
@@ -121,42 +134,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "title": "Professional County Club Select XI vs Pakistan LIVE 3 -Day Warm-up match",
       "team1": {
         "name": "Professional County Club Select XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Pakistan 3",
+        "name": "Pakistan LIVE 3",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "score": "Professional County Club Select XI vs Pakistan LIVE 3 -Day Warm-up match",
       "status": "Match Details"
     },
     {
-      "title": "Scotland vs Canada 127th Match",
+      "title": "Scotland vs Canada LIVE 127th Match",
       "team1": {
         "name": "Scotland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada 127th Match",
+        "name": "Canada LIVE 127th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Scotland vs Canada 127th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Malawi vs Rwanda 3rd Match",
-      "team1": {
-        "name": "Malawi",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Rwanda 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Malawi vs Rwanda 3rd Match",
+      "score": "Scotland vs Canada LIVE 127th Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Nellai Royal Kings 16th Match",
+      "title": "Vida Kovai Kings vs Nellai Royal Kings LIVE 16th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nellai Royal Kings 16th Match",
+        "name": "Nellai Royal Kings LIVE 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Vida Kovai Kings vs Nellai Royal Kings 16th Match",
+      "score": "Vida Kovai Kings vs Nellai Royal Kings LIVE 16th Match",
       "status": "Match Details"
     },
     {
@@ -290,6 +290,19 @@
       "status": "Match Details"
     },
     {
+      "title": "SKM Salem Spartans vs Dindigul Dragons 18th Match",
+      "team1": {
+        "name": "SKM Salem Spartans",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Dindigul Dragons 18th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "SKM Salem Spartans vs Dindigul Dragons 18th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "East Delhi Riders vs South Delhi Superstarz 24th Match",
       "team1": {
         "name": "East Delhi Riders",
@@ -303,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Delhi Lions vs Outer Delhi Warriors 25th Match",
+      "title": "West Delhi Lions vs Outer Delhi Warriors LIVE 25th Match",
       "team1": {
         "name": "West Delhi Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors 25th Match",
+        "name": "Outer Delhi Warriors LIVE 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "West Delhi Lions vs Outer Delhi Warriors 25th Match",
+      "score": "West Delhi Lions vs Outer Delhi Warriors LIVE 25th Match",
       "status": "Match Details"
     },
     {
@@ -378,6 +391,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Italy vs Singapore 39th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Durham Quarter Final 1",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham Quarter Final 1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lancashire vs Durham Quarter Final 1",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Nottinghamshire Quarter Final 2",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Nottinghamshire Quarter Final 2",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Nottinghamshire Quarter Final 2",
       "status": "Match Details"
     },
     {
