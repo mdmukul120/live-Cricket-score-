@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-12 23:44:21 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-08-13 00:45:23 UTC",
+  "total_matches": 29,
   "matches": [
+    {
+      "title": "AUS vs BAN - AUS opt to bat",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AUS vs BAN - AUS opt to bat",
+      "status": "Match Details"
+    },
     {
       "title": "SLK vs SNP - SLK opt to bat",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SLK vs SNP - SLK opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs BAN - Preview",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "AUS vs BAN - Preview",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Bangladesh 1st Test",
+      "title": "Australia vs Bangladesh LIVE 1st Test",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Bangladesh 1st Test",
+        "name": "Bangladesh LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Australia vs Bangladesh 1st Test",
+      "score": "Australia vs Bangladesh LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -196,6 +196,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Saint Lucia Kings vs St Kitts and Nevis Patriots LIVE 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors 6th Match",
+      "team1": {
+        "name": "Jamaica Kingsmen",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors 6th Match",
       "status": "Match Details"
     },
     {
@@ -355,19 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Blantyre, TCA Oval Zambia ZMB 151-8 (20) Rwanda RWA 143-8 (20) Zambia won by 8 runs",
-      "team1": {
-        "name": "4th Match • Blantyre, TCA Oval Zambia ZMB 151",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Rwanda RWA 143",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Blantyre, TCA Oval Zambia ZMB 151-8 (20) Rwanda RWA 143-8 (20) Zambia won by 8 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "32nd Match • Birmingham, Edgbaston 100 MI London MIL 157-6 (100 Balls) Birmingham Phoenix BRM 155-7 (100 Balls) MI London won by 2 runs",
       "team1": {
         "name": "32nd Match • Birmingham, Edgbaston 100 MI London MIL 157",
@@ -378,19 +378,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "32nd Match • Birmingham, Edgbaston 100 MI London MIL 157-6 (100 Balls) Birmingham Phoenix BRM 155-7 (100 Balls) MI London won by 2 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171-7 (18) Dindigul Dragons DGD 150-6 (18) Siechem Madurai Panthers won by 21 runs  -  18 overs game due to rain",
-      "team1": {
-        "name": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (18) Dindigul Dragons DGD 150",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "15th Match • Dindigul, NPR College Ground Madurai Panthers MDP 171-7 (18) Dindigul Dragons DGD 150-6 (18) Siechem Madurai Panthers won by 21 runs  -  18 overs game due to rain",
       "status": "Match Details"
     }
   ]
