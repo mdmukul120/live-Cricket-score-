@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-13 12:30:15 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-13 14:04:08 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "AUS vs BAN - Stumps",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SCO vs CAN - SCO opt to bat",
+      "title": "SCO vs CAN - Innings Break",
       "team1": {
         "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs CAN - SCO opt to bat",
+      "score": "SCO vs CAN - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "VKK vs NRK - Need 113 off 80b",
+      "title": "VKK vs NRK - NRK won",
       "team1": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "NRK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs NRK - Need 113 off 80b",
+      "score": "VKK vs NRK - NRK won",
       "status": "Match Details"
     },
     {
-      "title": "WDL vs ODW - Need 100 off 78b",
+      "title": "WDL vs ODW - ODW won",
       "team1": {
         "name": "WDL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WDL vs ODW - Need 100 off 78b",
+      "score": "WDL vs ODW - ODW won",
       "status": "Match Details"
     },
     {
@@ -121,29 +121,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "title": "Isle of Man vs Luxembourg 3rd Match",
+      "team1": {
+        "name": "Isle of Man",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Luxembourg 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Isle of Man vs Luxembourg 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Czech Republic vs Germany 4th Match",
+      "team1": {
+        "name": "Czech Republic",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Germany 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Czech Republic vs Germany 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Professional County Club Select XI vs Pakistan LIVE 3 -Day Warm-up match",
       "team1": {
         "name": "Professional County Club Select XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Pakistan 3",
+        "name": "Pakistan LIVE 3",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "score": "Professional County Club Select XI vs Pakistan LIVE 3 -Day Warm-up match",
       "status": "Match Details"
     },
     {
-      "title": "Scotland vs Canada LIVE 127th Match",
+      "title": "Scotland vs Canada 127th Match",
       "team1": {
         "name": "Scotland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada LIVE 127th Match",
+        "name": "Canada 127th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Scotland vs Canada LIVE 127th Match",
+      "score": "Scotland vs Canada 127th Match",
       "status": "Match Details"
     },
     {
@@ -238,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "SKM Salem Spartans vs Chepauk Super Gillies 14th Match",
-      "team1": {
-        "name": "SKM Salem Spartans",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Chepauk Super Gillies 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SKM Salem Spartans vs Chepauk Super Gillies 14th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Madurai Panthers vs Dindigul Dragons 15th Match",
       "team1": {
         "name": "Madurai Panthers",
@@ -264,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Nellai Royal Kings LIVE 16th Match",
+      "title": "Vida Kovai Kings vs Nellai Royal Kings 16th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nellai Royal Kings LIVE 16th Match",
+        "name": "Nellai Royal Kings 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Vida Kovai Kings vs Nellai Royal Kings LIVE 16th Match",
+      "score": "Vida Kovai Kings vs Nellai Royal Kings 16th Match",
       "status": "Match Details"
     },
     {
@@ -303,6 +316,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Madurai Panthers vs Chepauk Super Gillies 19th Match",
+      "team1": {
+        "name": "Madurai Panthers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chepauk Super Gillies 19th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Madurai Panthers vs Chepauk Super Gillies 19th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "East Delhi Riders vs South Delhi Superstarz 24th Match",
       "team1": {
         "name": "East Delhi Riders",
@@ -316,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Delhi Lions vs Outer Delhi Warriors LIVE 25th Match",
+      "title": "West Delhi Lions vs Outer Delhi Warriors 25th Match",
       "team1": {
         "name": "West Delhi Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors LIVE 25th Match",
+        "name": "Outer Delhi Warriors 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "West Delhi Lions vs Outer Delhi Warriors LIVE 25th Match",
+      "score": "West Delhi Lions vs Outer Delhi Warriors 25th Match",
       "status": "Match Details"
     },
     {
@@ -339,32 +365,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North Delhi Strikers vs Purani Dilli 6 26th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Singapore vs Bahrain 36th Match",
-      "team1": {
-        "name": "Singapore",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bahrain 36th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Singapore vs Bahrain 36th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs Uganda 37th Match",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 37th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Uganda 37th Match",
       "status": "Match Details"
     },
     {
@@ -420,19 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Welsh Fire Women vs London Spirit Women 31st Match",
-      "team1": {
-        "name": "Welsh Fire Women",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "London Spirit Women 31st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Welsh Fire Women vs London Spirit Women 31st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "MI London Women vs Birmingham Phoenix Women 32nd Match",
       "team1": {
         "name": "MI London Women",
@@ -443,6 +430,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MI London Women vs Birmingham Phoenix Women 32nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sunrisers Leeds Women vs Southern Brave Women Eliminator",
+      "team1": {
+        "name": "Sunrisers Leeds Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Southern Brave Women Eliminator",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sunrisers Leeds Women vs Southern Brave Women Eliminator",
       "status": "Match Details"
     },
     {
@@ -459,16 +459,29 @@
       "status": "Match Details"
     },
     {
-      "title": "1st ODI • Port Moresby, Amini Park Thailand Women THAIW 237-8 (50) Papua New Guinea Women PNGW 116 (35.3) Thailand Women won by 121 runs",
+      "title": "16th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 162-9 (20) Nellai Royal Kings NRK 163-8 (19.5) Nellai Royal Kings won by 2 wkts",
       "team1": {
-        "name": "1st ODI • Port Moresby, Amini Park Thailand Women THAIW 237",
+        "name": "16th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 162",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "9 (20) Nellai Royal Kings NRK 163",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "16th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 162-9 (20) Nellai Royal Kings NRK 163-8 (19.5) Nellai Royal Kings won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "25th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 178 (19.4) Outer Delhi Warriors ODW 179-5 (19.1) Outer Delhi Warriors won by 5 wkts",
+      "team1": {
+        "name": "25th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 178 (19.4) Outer Delhi Warriors ODW 179",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (50) Papua New Guinea Women PNGW 116 (35.3) Thailand Women won by 121 runs",
+        "name": "5 (19.1) Outer Delhi Warriors won by 5 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st ODI • Port Moresby, Amini Park Thailand Women THAIW 237-8 (50) Papua New Guinea Women PNGW 116 (35.3) Thailand Women won by 121 runs",
+      "score": "25th Match • Delhi, Arun Jaitley Stadium West Delhi Lions WDL 178 (19.4) Outer Delhi Warriors ODW 179-5 (19.1) Outer Delhi Warriors won by 5 wkts",
       "status": "Match Details"
     }
   ]
