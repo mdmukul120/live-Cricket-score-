@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-13 11:33:41 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-13 12:30:15 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "AUS vs BAN - Stumps",
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "VKK vs NRK - NRK opt to bowl",
+      "title": "VKK vs NRK - Need 113 off 80b",
       "team1": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,20 @@
         "name": "NRK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs NRK - NRK opt to bowl",
+      "score": "VKK vs NRK - Need 113 off 80b",
+      "status": "Match Details"
+    },
+    {
+      "title": "WDL vs ODW - Need 100 off 78b",
+      "team1": {
+        "name": "WDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ODW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "WDL vs ODW - Need 100 off 78b",
       "status": "Match Details"
     },
     {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MIL vs BRM - MIL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SLK vs SNP - SNP won",
-      "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLK vs SNP - SNP won",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland vs Afghanistan 5th ODI",
-      "team1": {
-        "name": "Ireland",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Afghanistan 5th ODI",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "Ireland vs Afghanistan 5th ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Finland vs Spain 1st Match",
       "team1": {
         "name": "Finland",
@@ -134,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Professional County Club Select XI vs Pakistan LIVE 3 -Day Warm-up match",
+      "title": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
       "team1": {
         "name": "Professional County Club Select XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Pakistan LIVE 3",
+        "name": "Pakistan 3",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Professional County Club Select XI vs Pakistan LIVE 3 -Day Warm-up match",
+      "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
       "status": "Match Details"
     },
     {
