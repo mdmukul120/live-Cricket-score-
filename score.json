@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-13 16:11:32 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-13 17:15:08 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "AUS vs BAN - Stumps",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SCO vs CAN - Need 237 to win",
+      "title": "SCO vs CAN - SCO won",
       "team1": {
         "name": "SCO",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "CAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SCO vs CAN - Need 237 to win",
+      "score": "SCO vs CAN - SCO won",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "Trichy vs ITT - Need 189 to win",
+      "title": "Trichy vs ITT - Need 63 off 35b",
       "team1": {
         "name": "Trichy",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "ITT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy vs ITT - Need 189 to win",
+      "score": "Trichy vs ITT - Need 63 off 35b",
       "status": "Match Details"
     },
     {
-      "title": "NDS vs PD - PD opt to bowl",
+      "title": "NDS vs PD - Need 156 off 94b",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs PD - PD opt to bowl",
+      "score": "NDS vs PD - Need 156 off 94b",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Scotland vs Canada LIVE 127th Match",
+      "title": "Scotland vs Canada 127th Match",
       "team1": {
         "name": "Scotland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada LIVE 127th Match",
+        "name": "Canada 127th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Scotland vs Canada LIVE 127th Match",
+      "score": "Scotland vs Canada 127th Match",
       "status": "Match Details"
     },
     {
@@ -222,6 +222,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "MI London vs Birmingham Phoenix 32nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Manchester Super Giants vs Sunrisers Leeds Eliminator",
+      "team1": {
+        "name": "Manchester Super Giants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sunrisers Leeds Eliminator",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Manchester Super Giants vs Sunrisers Leeds Eliminator",
       "status": "Match Details"
     },
     {
@@ -313,19 +326,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Madurai Panthers vs Chepauk Super Gillies 19th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "East Delhi Riders vs South Delhi Superstarz 24th Match",
-      "team1": {
-        "name": "East Delhi Riders",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Delhi Superstarz 24th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "East Delhi Riders vs South Delhi Superstarz 24th Match",
       "status": "Match Details"
     },
     {
@@ -443,6 +443,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Thailand Women vs Papua New Guinea Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "127th Match • Dundee, Forthill Scotland SCO 347-7 (50) Canada CAN 177 (35) Scotland won by 170 runs",
+      "team1": {
+        "name": "127th Match • Dundee, Forthill Scotland SCO 347",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Canada CAN 177 (35) Scotland won by 170 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "127th Match • Dundee, Forthill Scotland SCO 347-7 (50) Canada CAN 177 (35) Scotland won by 170 runs",
       "status": "Match Details"
     },
     {
