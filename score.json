@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-14 22:57:41 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-08-14 23:29:34 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "SL vs IND - Preview",
@@ -17,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SLK vs ABF - Delay",
+      "title": "ABF vs SLK - SLK opt to bowl",
       "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
         "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SLK vs ABF - Delay",
+      "team2": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "ABF vs SLK - SLK opt to bowl",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Saint Lucia Kings vs Antigua and Barbuda Falcons 7th Match",
+      "title": "Antigua and Barbuda Falcons vs Saint Lucia Kings LIVE 7th Match",
       "team1": {
-        "name": "Saint Lucia Kings",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Antigua and Barbuda Falcons 7th Match",
+        "name": "Antigua and Barbuda Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Saint Lucia Kings vs Antigua and Barbuda Falcons 7th Match",
+      "team2": {
+        "name": "Saint Lucia Kings LIVE 7th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Antigua and Barbuda Falcons vs Saint Lucia Kings LIVE 7th Match",
       "status": "Match Details"
     },
     {
@@ -472,19 +472,6 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Vantaa, Tikkurila Cricket Ground Germany GER 221-5 (20) Czech Republic CZE 160-7 (20) Germany won by 61 runs",
-      "team1": {
-        "name": "4th Match • Vantaa, Tikkurila Cricket Ground Germany GER 221",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Czech Republic CZE 160",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Vantaa, Tikkurila Cricket Ground Germany GER 221-5 (20) Czech Republic CZE 160-7 (20) Germany won by 61 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "Eliminator • London, Kennington Oval 100 Manchester Super Giants MSG 186-4 (100 Balls) Sunrisers Leeds SUL 166-7 (100 Balls) Manchester Super Giants won by 20 runs",
       "team1": {
         "name": "Eliminator • London, Kennington Oval 100 Manchester Super Giants MSG 186",
@@ -508,19 +495,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "19th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 240-2 (20) Madurai Panthers MDP 201-8 (20) Chepauk Super Gillies won by 39 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Quarter Final 2 • York, Clifton Park Ground Yorkshire YORKS 273-9 (50) Nottinghamshire NOTTS 277-7 (48.4) Nottinghamshire won by 3 wkts",
-      "team1": {
-        "name": "Quarter Final 2 • York, Clifton Park Ground Yorkshire YORKS 273",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "9 (50) Nottinghamshire NOTTS 277",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Quarter Final 2 • York, Clifton Park Ground Yorkshire YORKS 273-9 (50) Nottinghamshire NOTTS 277-7 (48.4) Nottinghamshire won by 3 wkts",
       "status": "Match Details"
     }
   ]
