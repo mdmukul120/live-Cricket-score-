@@ -1,4 +1,527 @@
 {
-  "status": "error",
-  "message": "HTTPSConnectionPool(host='m.cricbuzz.com', port=443): Read timed out. (read timeout=15)"
+  "status": "success",
+  "last_updated": "2026-08-14 22:57:41 UTC",
+  "total_matches": 40,
+  "matches": [
+    {
+      "title": "SL vs IND - Preview",
+      "team1": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "SL vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLK vs ABF - Delay",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs ABF - Delay",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUS vs BAN - Stumps",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AUS vs BAN - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "MSG vs SUL - MSG won",
+      "team1": {
+        "name": "MSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SUL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MSG vs SUL - MSG won",
+      "status": "Match Details"
+    },
+    {
+      "title": "SOUW vs SULW - SULW won",
+      "team1": {
+        "name": "SOUW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SULW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SOUW vs SULW - SULW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lanka vs India 1st Test",
+      "team1": {
+        "name": "Sri Lanka",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "India 1st Test",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Sri Lanka vs India 1st Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia vs Bangladesh 1st Test",
+      "team1": {
+        "name": "Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Bangladesh 1st Test",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Australia vs Bangladesh 1st Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Ireland vs Afghanistan 5th ODI",
+      "team1": {
+        "name": "Ireland",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Afghanistan 5th ODI",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Ireland vs Afghanistan 5th ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Finland vs Spain 1st Match",
+      "team1": {
+        "name": "Finland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Finland vs Spain 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Portugal vs Israel 2nd Match",
+      "team1": {
+        "name": "Portugal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Israel 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Portugal vs Israel 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Luxembourg vs Isle of Man 3rd Match",
+      "team1": {
+        "name": "Luxembourg",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Isle of Man 3rd Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Luxembourg vs Isle of Man 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Germany vs Czech Republic 4th Match",
+      "team1": {
+        "name": "Germany",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Czech Republic 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Germany vs Czech Republic 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Czech Republic vs Greece 5th Match",
+      "team1": {
+        "name": "Czech Republic",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Greece 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Czech Republic vs Greece 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Isle of Man vs Spain 6th Match",
+      "team1": {
+        "name": "Isle of Man",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Spain 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Isle of Man vs Spain 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Germany vs Portugal 7th Match",
+      "team1": {
+        "name": "Germany",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Portugal 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Germany vs Portugal 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Finland vs Bulgaria 8th Match",
+      "team1": {
+        "name": "Finland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bulgaria 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Finland vs Bulgaria 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "team1": {
+        "name": "Professional County Club Select XI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Pakistan 3",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malawi vs Zambia 5th Match",
+      "team1": {
+        "name": "Malawi",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Zambia 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malawi vs Zambia 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malawi vs Rwanda 6th Match",
+      "team1": {
+        "name": "Malawi",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Rwanda 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malawi vs Rwanda 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rwanda vs Zambia 7th Match",
+      "team1": {
+        "name": "Rwanda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Zambia 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rwanda vs Zambia 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malawi vs Zambia 8th Match",
+      "team1": {
+        "name": "Malawi",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Zambia 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malawi vs Zambia 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Manchester Super Giants vs Sunrisers Leeds Eliminator",
+      "team1": {
+        "name": "Manchester Super Giants",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sunrisers Leeds Eliminator",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Manchester Super Giants vs Sunrisers Leeds Eliminator",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors 6th Match",
+      "team1": {
+        "name": "Jamaica Kingsmen",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Saint Lucia Kings vs Antigua and Barbuda Falcons 7th Match",
+      "team1": {
+        "name": "Saint Lucia Kings",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Antigua and Barbuda Falcons 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saint Lucia Kings vs Antigua and Barbuda Falcons 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Dindigul Dragons vs SKM Salem Spartans 18th Match",
+      "team1": {
+        "name": "Dindigul Dragons",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "SKM Salem Spartans 18th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Dindigul Dragons vs SKM Salem Spartans 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chepauk Super Gillies vs Madurai Panthers 19th Match",
+      "team1": {
+        "name": "Chepauk Super Gillies",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Madurai Panthers 19th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chepauk Super Gillies vs Madurai Panthers 19th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Vida Kovai Kings vs Trichy Grand Cholas 20th Match",
+      "team1": {
+        "name": "Vida Kovai Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trichy Grand Cholas 20th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vida Kovai Kings vs Trichy Grand Cholas 20th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Delhi Tigers vs South Delhi Superstarz 27th Match",
+      "team1": {
+        "name": "New Delhi Tigers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Delhi Superstarz 27th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "New Delhi Tigers vs South Delhi Superstarz 27th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Bahrain 38th Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bahrain 38th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Bahrain 38th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs Italy 39th Match",
+      "team1": {
+        "name": "Singapore",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Italy 39th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Singapore vs Italy 39th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs Uganda 40th Match",
+      "team1": {
+        "name": "Singapore",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 40th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Singapore vs Uganda 40th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tanzania vs Bahrain 41st Match",
+      "team1": {
+        "name": "Tanzania",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Bahrain 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania vs Bahrain 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Lancashire Quarter Final 1",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lancashire Quarter Final 1",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Lancashire Quarter Final 1",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Nottinghamshire Quarter Final 2",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Nottinghamshire Quarter Final 2",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Nottinghamshire Quarter Final 2",
+      "status": "Match Details"
+    },
+    {
+      "title": "Southern Brave Women vs Sunrisers Leeds Women Eliminator",
+      "team1": {
+        "name": "Southern Brave Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sunrisers Leeds Women Eliminator",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Southern Brave Women vs Sunrisers Leeds Women Eliminator",
+      "status": "Match Details"
+    },
+    {
+      "title": "Papua New Guinea Women vs Thailand Women 2nd ODI",
+      "team1": {
+        "name": "Papua New Guinea Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Thailand Women 2nd ODI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Papua New Guinea Women vs Thailand Women 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Vantaa, Tikkurila Cricket Ground Germany GER 221-5 (20) Czech Republic CZE 160-7 (20) Germany won by 61 runs",
+      "team1": {
+        "name": "4th Match • Vantaa, Tikkurila Cricket Ground Germany GER 221",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Czech Republic CZE 160",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Vantaa, Tikkurila Cricket Ground Germany GER 221-5 (20) Czech Republic CZE 160-7 (20) Germany won by 61 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Eliminator • London, Kennington Oval 100 Manchester Super Giants MSG 186-4 (100 Balls) Sunrisers Leeds SUL 166-7 (100 Balls) Manchester Super Giants won by 20 runs",
+      "team1": {
+        "name": "Eliminator • London, Kennington Oval 100 Manchester Super Giants MSG 186",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (100 Balls) Sunrisers Leeds SUL 166",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Eliminator • London, Kennington Oval 100 Manchester Super Giants MSG 186-4 (100 Balls) Sunrisers Leeds SUL 166-7 (100 Balls) Manchester Super Giants won by 20 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "19th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 240-2 (20) Madurai Panthers MDP 201-8 (20) Chepauk Super Gillies won by 39 runs",
+      "team1": {
+        "name": "19th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 240",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "2 (20) Madurai Panthers MDP 201",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "19th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 240-2 (20) Madurai Panthers MDP 201-8 (20) Chepauk Super Gillies won by 39 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Quarter Final 2 • York, Clifton Park Ground Yorkshire YORKS 273-9 (50) Nottinghamshire NOTTS 277-7 (48.4) Nottinghamshire won by 3 wkts",
+      "team1": {
+        "name": "Quarter Final 2 • York, Clifton Park Ground Yorkshire YORKS 273",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "9 (50) Nottinghamshire NOTTS 277",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Quarter Final 2 • York, Clifton Park Ground Yorkshire YORKS 273-9 (50) Nottinghamshire NOTTS 277-7 (48.4) Nottinghamshire won by 3 wkts",
+      "status": "Match Details"
+    }
+  ]
 }
