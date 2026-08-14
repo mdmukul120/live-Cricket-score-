@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-14 10:29:15 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-14 11:22:36 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "AUS vs BAN - Stumps",
@@ -160,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Isle of Man vs Spain 6th Match",
-      "team1": {
-        "name": "Isle of Man",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Spain 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Isle of Man vs Spain 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Czech Republic vs Greece 5th Match",
       "team1": {
         "name": "Czech Republic",
@@ -183,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Greece 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Isle of Man vs Spain 6th Match",
+      "team1": {
+        "name": "Isle of Man",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Spain 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Isle of Man vs Spain 6th Match",
       "status": "Match Details"
     },
     {
@@ -251,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Malawi vs Zambia 8th Match",
+      "team1": {
+        "name": "Malawi",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Zambia 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malawi vs Zambia 8th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Manchester Super Giants vs Sunrisers Leeds Eliminator",
       "team1": {
         "name": "Manchester Super Giants",
@@ -316,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SKM Salem Spartans vs Dindigul Dragons 18th Match",
+      "title": "Dindigul Dragons vs SKM Salem Spartans 18th Match",
       "team1": {
-        "name": "SKM Salem Spartans",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Dindigul Dragons 18th Match",
+        "name": "Dindigul Dragons",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SKM Salem Spartans vs Dindigul Dragons 18th Match",
+      "team2": {
+        "name": "SKM Salem Spartans 18th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Dindigul Dragons vs SKM Salem Spartans 18th Match",
       "status": "Match Details"
     },
     {
@@ -368,29 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Bahrain 38th Match",
+      "title": "Hong Kong, China vs Bahrain LIVE 38th Match",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bahrain 38th Match",
+        "name": "Bahrain LIVE 38th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Bahrain 38th Match",
+      "score": "Hong Kong, China vs Bahrain LIVE 38th Match",
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs Italy 39th Match",
+      "title": "Singapore vs Italy LIVE 39th Match",
       "team1": {
         "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Italy 39th Match",
+        "name": "Italy LIVE 39th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Singapore vs Italy 39th Match",
+      "score": "Singapore vs Italy LIVE 39th Match",
       "status": "Match Details"
     },
     {
