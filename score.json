@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-13 23:40:36 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-08-14 00:43:59 UTC",
+  "total_matches": 31,
   "matches": [
+    {
+      "title": "AUS vs BAN - Trail by 95",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AUS vs BAN - Trail by 95",
+      "status": "Match Details"
+    },
     {
       "title": "JKM vs GAW - GAW opt to bowl",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "JKM vs GAW - GAW opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs BAN - Stumps",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "AUS vs BAN - Stumps",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Bangladesh 1st Test",
+      "title": "Australia vs Bangladesh LIVE 1st Test",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Bangladesh 1st Test",
+        "name": "Bangladesh LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Australia vs Bangladesh 1st Test",
+      "score": "Australia vs Bangladesh LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors 6th Match",
+      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors LIVE 6th Match",
       "team1": {
         "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors 6th Match",
+        "name": "Guyana Amazon Warriors LIVE 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors 6th Match",
+      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -404,19 +404,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "26th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 186-6 (20) Purani Dilli 6 PD 192-6 (19.3) Purani Dilli 6 won by 4 wkts",
-      "team1": {
-        "name": "26th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 186",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Purani Dilli 6 PD 192",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "26th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 186-6 (20) Purani Dilli 6 PD 192-6 (19.3) Purani Dilli 6 won by 4 wkts",
       "status": "Match Details"
     }
   ]
