@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-14 09:18:02 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-14 10:29:15 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "AUS vs BAN - Stumps",
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Ireland vs Afghanistan 5th ODI",
+      "team1": {
+        "name": "Ireland",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Afghanistan 5th ODI",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Ireland vs Afghanistan 5th ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Finland vs Spain 1st Match",
       "team1": {
         "name": "Finland",
@@ -108,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Israel vs Portugal 2nd Match",
+      "title": "Portugal vs Israel 2nd Match",
       "team1": {
-        "name": "Israel",
+        "name": "Portugal",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Portugal 2nd Match",
+        "name": "Israel 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Israel vs Portugal 2nd Match",
+      "score": "Portugal vs Israel 2nd Match",
       "status": "Match Details"
     },
     {
@@ -147,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic vs Greece 5th Match",
-      "team1": {
-        "name": "Czech Republic",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Greece 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Czech Republic vs Greece 5th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Isle of Man vs Spain 6th Match",
       "team1": {
         "name": "Isle of Man",
@@ -173,16 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "title": "Czech Republic vs Greece 5th Match",
+      "team1": {
+        "name": "Czech Republic",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Greece 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Czech Republic vs Greece 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Professional County Club Select XI vs Pakistan LIVE 3 -Day Warm-up match",
       "team1": {
         "name": "Professional County Club Select XI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Pakistan 3",
+        "name": "Pakistan LIVE 3",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "score": "Professional County Club Select XI vs Pakistan LIVE 3 -Day Warm-up match",
       "status": "Match Details"
     },
     {
@@ -222,6 +235,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Malawi vs Rwanda 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rwanda vs Zambia 7th Match",
+      "team1": {
+        "name": "Rwanda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Zambia 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rwanda vs Zambia 7th Match",
       "status": "Match Details"
     },
     {
@@ -342,29 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Bahrain LIVE 38th Match",
+      "title": "Hong Kong, China vs Bahrain 38th Match",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bahrain LIVE 38th Match",
+        "name": "Bahrain 38th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Bahrain LIVE 38th Match",
+      "score": "Hong Kong, China vs Bahrain 38th Match",
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs Italy LIVE 39th Match",
+      "title": "Singapore vs Italy 39th Match",
       "team1": {
         "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Italy LIVE 39th Match",
+        "name": "Italy 39th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Singapore vs Italy LIVE 39th Match",
+      "score": "Singapore vs Italy 39th Match",
       "status": "Match Details"
     },
     {
@@ -394,29 +420,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Durham Quarter Final 1",
+      "title": "Durham vs Lancashire LIVE Quarter Final 1",
       "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham Quarter Final 1",
+        "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lancashire vs Durham Quarter Final 1",
+      "team2": {
+        "name": "Lancashire LIVE Quarter Final 1",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Lancashire LIVE Quarter Final 1",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Nottinghamshire Quarter Final 2",
+      "title": "Yorkshire vs Nottinghamshire LIVE Quarter Final 2",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Nottinghamshire Quarter Final 2",
+        "name": "Nottinghamshire LIVE Quarter Final 2",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Nottinghamshire Quarter Final 2",
+      "score": "Yorkshire vs Nottinghamshire LIVE Quarter Final 2",
       "status": "Match Details"
     },
     {
