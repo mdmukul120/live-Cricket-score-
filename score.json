@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 22:34:55 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-08-15 22:56:33 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -14,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKM vs TKR - Preview",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs TKR - Preview",
       "status": "Match Details"
     },
     {
@@ -40,19 +53,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "AUS vs BAN - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "JKM vs TKR - Preview",
-      "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKM vs TKR - Preview",
       "status": "Match Details"
     },
     {
@@ -472,19 +472,6 @@
       "status": "Match Details"
     },
     {
-      "title": "20th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 201-6 (20) Trichy Grand Cholas TRI 85 (16.1) Vida Kovai Kings won by 116 runs",
-      "team1": {
-        "name": "20th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 201",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (20) Trichy Grand Cholas TRI 85 (16.1) Vida Kovai Kings won by 116 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "20th Match • Dindigul, NPR College Ground Vida Kovai Kings VKK 201-6 (20) Trichy Grand Cholas TRI 85 (16.1) Vida Kovai Kings won by 116 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "27th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 217-7 (20) South Delhi Superstarz SDS 218-4 (19.4) South Delhi Superstarz won by 6 wkts",
       "team1": {
         "name": "27th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 217",
@@ -498,19 +485,6 @@
       "status": "Match Details"
     },
     {
-      "title": "41st Match • Dar es Salaam, University of Dar-es-Salaam 2 Bahrain BHR 116 (32.2) Tanzania TAN 120-5 (27.2) Tanzania won by 5 wkts - 42 over game due to rain",
-      "team1": {
-        "name": "41st Match • Dar es Salaam, University of Dar",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "es",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "41st Match • Dar es Salaam, University of Dar-es-Salaam 2 Bahrain BHR 116 (32.2) Tanzania TAN 120-5 (27.2) Tanzania won by 5 wkts - 42 over game due to rain",
-      "status": "Match Details"
-    },
-    {
       "title": "40th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Singapore SIN 175 (40) Uganda UGA 176-2 (32.5) Uganda won by 8 wkts - 40 Overs game due to rain",
       "team1": {
         "name": "40th Match • Dar",
@@ -521,6 +495,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "40th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Singapore SIN 175 (40) Uganda UGA 176-2 (32.5) Uganda won by 8 wkts - 40 Overs game due to rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "41st Match • Dar es Salaam, University of Dar-es-Salaam 2 Bahrain BHR 116 (32.2) Tanzania TAN 120-5 (27.2) Tanzania won by 5 wkts - 42 over game due to rain",
+      "team1": {
+        "name": "41st Match • Dar es Salaam, University of Dar",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "es",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "41st Match • Dar es Salaam, University of Dar-es-Salaam 2 Bahrain BHR 116 (32.2) Tanzania TAN 120-5 (27.2) Tanzania won by 5 wkts - 42 over game due to rain",
       "status": "Match Details"
     }
   ]
