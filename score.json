@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 11:57:55 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-08-15 12:53:45 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "IND vs SL - IND opt to bat",
+      "title": "IND vs SL - Stumps",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - IND opt to bat",
+      "score": "IND vs SL - Stumps",
       "status": "Match Details"
     },
     {
@@ -43,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "ABF vs SLK - SLK won",
+      "title": "JKM vs TKR - Preview",
       "team1": {
-        "name": "ABF",
+        "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ABF vs SLK - SLK won",
+      "score": "JKM vs TKR - Preview",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka LIVE 1st Test",
+      "title": "India vs Sri Lanka 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 1st Test",
+        "name": "Sri Lanka 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka LIVE 1st Test",
+      "score": "India vs Sri Lanka 1st Test",
       "status": "Match Details"
     },
     {
@@ -394,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Tanzania 41st Match",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tanzania 41st Match",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "Bahrain vs Tanzania 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Singapore vs Uganda 40th Match",
       "team1": {
         "name": "Singapore",
@@ -417,6 +404,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Singapore vs Uganda 40th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Tanzania 41st Match",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tanzania 41st Match",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Bahrain vs Tanzania 41st Match",
       "status": "Match Details"
     },
     {
@@ -508,19 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "7th Match • Blantyre, TCA Oval Rwanda RWA 130-5 (20) Zambia ZMB 131-6 (19) Zambia won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd ODI • Port Moresby, Amini Park Thailand Women THAIW 191 (47.3) Papua New Guinea Women PNGW 151 (46) Thailand Women won by 40 runs",
-      "team1": {
-        "name": "2nd ODI • Port Moresby, Amini Park Thailand Women THAIW 191 (47.3) Papua New Guinea Women PNGW 151 (46) Thailand Women won by 40 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd ODI • Port Moresby, Amini Park Thailand Women THAIW 191 (47.3) Papua New Guinea Women PNGW 151 (46) Thailand Women won by 40 runs",
       "status": "Match Details"
     }
   ]
