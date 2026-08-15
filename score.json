@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 05:36:55 UTC",
+  "last_updated": "2026-08-15 05:59:31 UTC",
   "total_matches": 37,
   "matches": [
     {
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AUS vs BAN - Trail by 176",
+      "title": "AUS vs BAN - Trail by 151",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,7 +26,7 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs BAN - Trail by 176",
+      "score": "AUS vs BAN - Trail by 151",
       "status": "Match Details"
     },
     {
@@ -160,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic vs Greece 5th Match",
-      "team1": {
-        "name": "Czech Republic",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Greece 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Czech Republic vs Greece 5th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Isle of Man vs Spain 6th Match",
       "team1": {
         "name": "Isle of Man",
@@ -186,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Finland vs Bulgaria 8th Match",
+      "title": "Czech Republic vs Greece 5th Match",
       "team1": {
-        "name": "Finland",
+        "name": "Czech Republic",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bulgaria 8th Match",
+        "name": "Greece 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Finland vs Bulgaria 8th Match",
+      "score": "Czech Republic vs Greece 5th Match",
       "status": "Match Details"
     },
     {
@@ -209,6 +196,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Germany vs Portugal 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Finland vs Bulgaria 8th Match",
+      "team1": {
+        "name": "Finland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bulgaria 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Finland vs Bulgaria 8th Match",
       "status": "Match Details"
     },
     {
