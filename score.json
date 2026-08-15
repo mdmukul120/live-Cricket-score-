@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-14 23:53:54 UTC",
+  "last_updated": "2026-08-15 01:16:02 UTC",
   "total_matches": 38,
   "matches": [
+    {
+      "title": "AUS vs BAN - Lead by 174",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AUS vs BAN - Lead by 174",
+      "status": "Match Details"
+    },
     {
       "title": "SL vs IND - Preview",
       "team1": {
@@ -17,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ABF vs SLK - SLK opt to bowl",
+      "title": "ABF vs SLK - Rain",
       "team1": {
         "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,20 +39,7 @@
         "name": "SLK",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ABF vs SLK - SLK opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs BAN - Stumps",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "AUS vs BAN - Stumps",
+      "score": "ABF vs SLK - Rain",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Bangladesh 1st Test",
+      "title": "Australia vs Bangladesh LIVE 1st Test",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Bangladesh 1st Test",
+        "name": "Bangladesh LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Australia vs Bangladesh 1st Test",
+      "score": "Australia vs Bangladesh LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Antigua and Barbuda Falcons vs Saint Lucia Kings LIVE 7th Match",
+      "title": "Antigua and Barbuda Falcons vs Saint Lucia Kings 7th Match",
       "team1": {
         "name": "Antigua and Barbuda Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Saint Lucia Kings LIVE 7th Match",
+        "name": "Saint Lucia Kings 7th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Antigua and Barbuda Falcons vs Saint Lucia Kings LIVE 7th Match",
+      "score": "Antigua and Barbuda Falcons vs Saint Lucia Kings 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jamaica Kingsmen vs Trinbago Knight Riders 8th Match",
+      "team1": {
+        "name": "Jamaica Kingsmen",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trinbago Knight Riders 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jamaica Kingsmen vs Trinbago Knight Riders 8th Match",
       "status": "Match Details"
     },
     {
@@ -459,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Papua New Guinea Women vs Thailand Women 2nd ODI",
+      "title": "Thailand Women vs Papua New Guinea Women 2nd ODI",
       "team1": {
-        "name": "Papua New Guinea Women",
+        "name": "Thailand Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Thailand Women 2nd ODI",
+        "name": "Papua New Guinea Women 2nd ODI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Papua New Guinea Women vs Thailand Women 2nd ODI",
+      "score": "Thailand Women vs Papua New Guinea Women 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -482,19 +495,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Eliminator • London, Kennington Oval 100 Manchester Super Giants MSG 186-4 (100 Balls) Sunrisers Leeds SUL 166-7 (100 Balls) Manchester Super Giants won by 20 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "19th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 240-2 (20) Madurai Panthers MDP 201-8 (20) Chepauk Super Gillies won by 39 runs",
-      "team1": {
-        "name": "19th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 240",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "2 (20) Madurai Panthers MDP 201",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "19th Match • Dindigul, NPR College Ground Chepauk Super Gillies CSG 240-2 (20) Madurai Panthers MDP 201-8 (20) Chepauk Super Gillies won by 39 runs",
       "status": "Match Details"
     }
   ]
