@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 08:33:03 UTC",
+  "last_updated": "2026-08-15 08:59:15 UTC",
   "total_matches": 40,
   "matches": [
     {
@@ -14,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - IND opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "IRE vs AFG - Preview",
+      "team1": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IRE vs AFG - Preview",
       "status": "Match Details"
     },
     {
@@ -43,29 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MSG vs SUL - MSG won",
+      "title": "VKK vs TRI - Preview",
       "team1": {
-        "name": "MSG",
+        "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SUL",
+        "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MSG vs SUL - MSG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SOUW vs SULW - SULW won",
-      "team1": {
-        "name": "SOUW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SULW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SOUW vs SULW - SULW won",
+      "score": "VKK vs TRI - Preview",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Rwanda vs Zambia LIVE 7th Match",
+      "title": "Rwanda vs Zambia 7th Match",
       "team1": {
         "name": "Rwanda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Zambia LIVE 7th Match",
+        "name": "Zambia 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rwanda vs Zambia LIVE 7th Match",
+      "score": "Rwanda vs Zambia 7th Match",
       "status": "Match Details"
     },
     {
@@ -420,19 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs Uganda 40th Match",
-      "team1": {
-        "name": "Singapore",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 40th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Singapore vs Uganda 40th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bahrain vs Tanzania 41st Match",
       "team1": {
         "name": "Bahrain",
@@ -443,6 +430,19 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "Bahrain vs Tanzania 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs Uganda 40th Match",
+      "team1": {
+        "name": "Singapore",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 40th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Singapore vs Uganda 40th Match",
       "status": "Match Details"
     },
     {
