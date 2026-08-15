@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 18:51:06 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-15 19:16:33 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -108,29 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Isle of Man vs Spain 6th Match",
-      "team1": {
-        "name": "Isle of Man",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Spain 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Isle of Man vs Spain 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Greece vs Czech Republic LIVE 5th Match",
+      "title": "Greece vs Czech Republic 5th Match",
       "team1": {
         "name": "Greece",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Czech Republic LIVE 5th Match",
+        "name": "Czech Republic 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Greece vs Czech Republic LIVE 5th Match",
+      "score": "Greece vs Czech Republic 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Isle of Man vs Spain LIVE 6th Match",
+      "team1": {
+        "name": "Isle of Man",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Spain LIVE 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Isle of Man vs Spain LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -404,6 +404,19 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "5th ODI • Belfast, Civil Service Cricket Club Ireland IRE 298-7 (50) Afghanistan AFG 302-4 (48.5) Afghanistan won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147-9 (20) Czech Republic CZE 148-4 (18.2) Czech Republic won by 6 wkts",
+      "team1": {
+        "name": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Czech Republic CZE 148",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147-9 (20) Czech Republic CZE 148-4 (18.2) Czech Republic won by 6 wkts",
       "status": "Match Details"
     },
     {
