@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 19:40:39 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-15 19:58:00 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -134,29 +134,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Portugal LIVE 7th Match",
+      "title": "Germany vs Portugal 7th Match",
       "team1": {
         "name": "Germany",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Portugal LIVE 7th Match",
+        "name": "Portugal 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Germany vs Portugal LIVE 7th Match",
+      "score": "Germany vs Portugal 7th Match",
       "status": "Match Details"
     },
     {
-      "title": "Finland vs Bulgaria 8th Match",
+      "title": "Finland vs Bulgaria LIVE 8th Match",
       "team1": {
         "name": "Finland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bulgaria 8th Match",
+        "name": "Bulgaria LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Finland vs Bulgaria 8th Match",
+      "score": "Finland vs Bulgaria LIVE 8th Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147-9 (20) Czech Republic CZE 148-4 (18.2) Czech Republic won by 6 wkts",
+      "title": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140-9 (20) Portugal PORT 141-6 (19.2) Portugal won by 4 wkts",
       "team1": {
-        "name": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147",
+        "name": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) Czech Republic CZE 148",
+        "name": "9 (20) Portugal PORT 141",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147-9 (20) Czech Republic CZE 148-4 (18.2) Czech Republic won by 6 wkts",
+      "score": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140-9 (20) Portugal PORT 141-6 (19.2) Portugal won by 4 wkts",
       "status": "Match Details"
     },
     {
@@ -430,6 +430,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "6th Match • Vantaa, Tikkurila Cricket Ground Isle of Man IOM 108-8 (20) Spain ESP 110-3 (13.3) Spain won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147-9 (20) Czech Republic CZE 148-4 (18.2) Czech Republic won by 6 wkts",
+      "team1": {
+        "name": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Czech Republic CZE 148",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Kerava, Kerava National Cricket Ground Greece GRC 147-9 (20) Czech Republic CZE 148-4 (18.2) Czech Republic won by 6 wkts",
       "status": "Match Details"
     },
     {
@@ -472,19 +485,6 @@
       "status": "Match Details"
     },
     {
-      "title": "41st Match • Dar es Salaam, University of Dar-es-Salaam 2 Bahrain BHR 116 (32.2) Tanzania TAN 120-5 (27.2) Tanzania won by 5 wkts - 42 over game due to rain",
-      "team1": {
-        "name": "41st Match • Dar es Salaam, University of Dar",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "es",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "41st Match • Dar es Salaam, University of Dar-es-Salaam 2 Bahrain BHR 116 (32.2) Tanzania TAN 120-5 (27.2) Tanzania won by 5 wkts - 42 over game due to rain",
-      "status": "Match Details"
-    },
-    {
       "title": "40th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Singapore SIN 175 (40) Uganda UGA 176-2 (32.5) Uganda won by 8 wkts - 40 Overs game due to rain",
       "team1": {
         "name": "40th Match • Dar",
@@ -495,6 +495,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "40th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Singapore SIN 175 (40) Uganda UGA 176-2 (32.5) Uganda won by 8 wkts - 40 Overs game due to rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "41st Match • Dar es Salaam, University of Dar-es-Salaam 2 Bahrain BHR 116 (32.2) Tanzania TAN 120-5 (27.2) Tanzania won by 5 wkts - 42 over game due to rain",
+      "team1": {
+        "name": "41st Match • Dar es Salaam, University of Dar",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "es",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "41st Match • Dar es Salaam, University of Dar-es-Salaam 2 Bahrain BHR 116 (32.2) Tanzania TAN 120-5 (27.2) Tanzania won by 5 wkts - 42 over game due to rain",
       "status": "Match Details"
     }
   ]
