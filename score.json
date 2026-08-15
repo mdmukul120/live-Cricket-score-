@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 11:40:41 UTC",
+  "last_updated": "2026-08-15 11:57:55 UTC",
   "total_matches": 40,
   "matches": [
     {
-      "title": "IND vs SL - Rain",
+      "title": "IND vs SL - IND opt to bat",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Rain",
+      "score": "IND vs SL - IND opt to bat",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka 1st Test",
+      "title": "India vs Sri Lanka LIVE 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 1st Test",
+        "name": "Sri Lanka LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 1st Test",
+      "score": "India vs Sri Lanka LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Malawi vs Zambia 8th Match",
+      "title": "Zambia vs Malawi 8th Match",
       "team1": {
-        "name": "Malawi",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Zambia 8th Match",
+        "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malawi vs Zambia 8th Match",
+      "team2": {
+        "name": "Malawi 8th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Zambia vs Malawi 8th Match",
       "status": "Match Details"
     },
     {
@@ -394,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs Uganda 40th Match",
-      "team1": {
-        "name": "Singapore",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 40th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Singapore vs Uganda 40th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bahrain vs Tanzania 41st Match",
       "team1": {
         "name": "Bahrain",
@@ -417,6 +404,19 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "Bahrain vs Tanzania 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs Uganda 40th Match",
+      "team1": {
+        "name": "Singapore",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 40th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Singapore vs Uganda 40th Match",
       "status": "Match Details"
     },
     {
