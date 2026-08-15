@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 06:53:17 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-15 07:29:22 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "IND vs SL - IND opt to bat",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AUS vs BAN - Trail by 112",
+      "title": "AUS vs BAN - Trail by 91",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,7 +26,7 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs BAN - Trail by 112",
+      "score": "AUS vs BAN - Trail by 91",
       "status": "Match Details"
     },
     {
@@ -274,6 +274,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Malawi vs Zambia 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malawi vs Rwanda 9th Match",
+      "team1": {
+        "name": "Malawi",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Rwanda 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malawi vs Rwanda 9th Match",
       "status": "Match Details"
     },
     {
