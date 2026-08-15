@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 07:55:00 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-15 08:33:03 UTC",
+  "total_matches": 40,
   "matches": [
     {
       "title": "IND vs SL - IND opt to bat",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AUS vs BAN - Trail by 77",
+      "title": "AUS vs BAN - Stumps",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,7 +26,7 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs BAN - Trail by 77",
+      "score": "AUS vs BAN - Stumps",
       "status": "Match Details"
     },
     {
@@ -69,29 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka 1st Test",
+      "title": "India vs Sri Lanka LIVE 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 1st Test",
+        "name": "Sri Lanka LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 1st Test",
+      "score": "India vs Sri Lanka LIVE 1st Test",
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Bangladesh LIVE 1st Test",
+      "title": "Australia vs Bangladesh 1st Test",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Bangladesh LIVE 1st Test",
+        "name": "Bangladesh 1st Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Australia vs Bangladesh LIVE 1st Test",
+      "score": "Australia vs Bangladesh 1st Test",
       "status": "Match Details"
     },
     {
@@ -378,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "New Delhi Tigers vs South Delhi Superstarz 27th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "North Delhi Strikers vs Central Delhi Kings 28th Match",
+      "team1": {
+        "name": "North Delhi Strikers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Central Delhi Kings 28th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North Delhi Strikers vs Central Delhi Kings 28th Match",
       "status": "Match Details"
     },
     {
