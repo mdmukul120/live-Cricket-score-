@@ -1,23 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 04:00:11 UTC",
+  "last_updated": "2026-08-15 04:40:59 UTC",
   "total_matches": 37,
   "matches": [
     {
-      "title": "SL vs IND - Preview",
+      "title": "IND vs SL - IND opt to bat",
       "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SL vs IND - Preview",
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "IND vs SL - IND opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "AUS vs BAN - Trail by 221",
+      "title": "AUS vs BAN - Trail by 192",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,7 +26,7 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs BAN - Trail by 221",
+      "score": "AUS vs BAN - Trail by 192",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs India 1st Test",
+      "title": "India vs Sri Lanka LIVE 1st Test",
       "team1": {
-        "name": "Sri Lanka",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "India 1st Test",
+        "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka vs India 1st Test",
+      "team2": {
+        "name": "Sri Lanka LIVE 1st Test",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "India vs Sri Lanka LIVE 1st Test",
       "status": "Match Details"
     },
     {
