@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 05:59:31 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-15 06:53:17 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "IND vs SL - IND opt to bat",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AUS vs BAN - Trail by 151",
+      "title": "AUS vs BAN - Trail by 112",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,7 +26,7 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs BAN - Trail by 151",
+      "score": "AUS vs BAN - Trail by 112",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka LIVE 1st Test",
+      "title": "India vs Sri Lanka 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 1st Test",
+        "name": "Sri Lanka 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka LIVE 1st Test",
+      "score": "India vs Sri Lanka 1st Test",
       "status": "Match Details"
     },
     {
@@ -160,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Isle of Man vs Spain 6th Match",
-      "team1": {
-        "name": "Isle of Man",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Spain 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Isle of Man vs Spain 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Czech Republic vs Greece 5th Match",
       "team1": {
         "name": "Czech Republic",
@@ -183,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Greece 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Isle of Man vs Spain 6th Match",
+      "team1": {
+        "name": "Isle of Man",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Spain 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Isle of Man vs Spain 6th Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Bahrain 41st Match",
+      "title": "Bahrain vs Tanzania 41st Match",
       "team1": {
-        "name": "Tanzania",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Bahrain 41st Match",
+        "name": "Bahrain",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tanzania vs Bahrain 41st Match",
+      "team2": {
+        "name": "Tanzania 41st Match",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Bahrain vs Tanzania 41st Match",
       "status": "Match Details"
     },
     {
@@ -459,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Thailand Women vs Papua New Guinea Women LIVE 2nd ODI",
+      "title": "Thailand Women vs Papua New Guinea Women 2nd ODI",
       "team1": {
         "name": "Thailand Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Papua New Guinea Women LIVE 2nd ODI",
+        "name": "Papua New Guinea Women 2nd ODI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Thailand Women vs Papua New Guinea Women LIVE 2nd ODI",
+      "score": "Thailand Women vs Papua New Guinea Women 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -482,6 +482,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "7th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Antigua and Barbuda Falcons ABF 98-9 (19) Saint Lucia Kings SLK 54-7 (7.4) Saint Lucia Kings won by 3 wkts (2nd innings reduced to 8 overs due to rain, DLS target 52)",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd ODI • Port Moresby, Amini Park Thailand Women THAIW 191 (47.3) Papua New Guinea Women PNGW 151 (46) Thailand Women won by 40 runs",
+      "team1": {
+        "name": "2nd ODI • Port Moresby, Amini Park Thailand Women THAIW 191 (47.3) Papua New Guinea Women PNGW 151 (46) Thailand Women won by 40 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd ODI • Port Moresby, Amini Park Thailand Women THAIW 191 (47.3) Papua New Guinea Women PNGW 151 (46) Thailand Women won by 40 runs",
       "status": "Match Details"
     }
   ]
