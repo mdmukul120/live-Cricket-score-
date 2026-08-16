@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 11:50:32 UTC",
+  "last_updated": "2026-08-16 12:21:47 UTC",
   "total_matches": 34,
   "matches": [
     {
@@ -14,19 +14,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - IND opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs BAN - BAN won",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "AUS vs BAN - BAN won",
       "status": "Match Details"
     },
     {
@@ -53,6 +40,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TRE vs MSG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUS vs BAN - BAN won",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AUS vs BAN - BAN won",
       "status": "Match Details"
     },
     {
@@ -316,19 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Tanzania 41st Match",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tanzania 41st Match",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "Bahrain vs Tanzania 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Singapore vs Uganda 40th Match",
       "team1": {
         "name": "Singapore",
@@ -339,6 +326,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Singapore vs Uganda 40th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Tanzania 41st Match",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tanzania 41st Match",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Bahrain vs Tanzania 41st Match",
       "status": "Match Details"
     },
     {
