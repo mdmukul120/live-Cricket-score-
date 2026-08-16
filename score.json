@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 13:44:44 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-16 14:04:49 UTC",
+  "total_matches": 35,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Isle of Man 10th Match",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Isle of Man 10th Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Bulgaria vs Isle of Man 10th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Germany vs Israel 9th Match",
       "team1": {
         "name": "Germany",
@@ -170,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Germany vs Israel 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Isle of Man 10th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Isle of Man 10th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Bulgaria vs Isle of Man 10th Match",
       "status": "Match Details"
     },
     {
@@ -352,32 +352,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "West Delhi Lions vs South Delhi Superstarz 31st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Singapore vs Uganda 40th Match",
-      "team1": {
-        "name": "Singapore",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 40th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Singapore vs Uganda 40th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bahrain vs Tanzania 41st Match",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tanzania 41st Match",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "Bahrain vs Tanzania 41st Match",
       "status": "Match Details"
     },
     {
