@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-08-15 23:48:32 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-16 00:26:12 UTC",
+  "total_matches": 38,
   "matches": [
     {
-      "title": "IND vs SL - Stumps",
+      "title": "AUS vs BAN - Stumps",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "IND vs SL - Stumps",
+      "score": "AUS vs BAN - Stumps",
       "status": "Match Details"
     },
     {
@@ -30,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "IND vs SL - Stumps",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "IND vs SL - Stumps",
+      "status": "Match Details"
+    },
+    {
       "title": "IRE vs AFG - AFG won",
       "team1": {
         "name": "IRE",
@@ -40,19 +53,6 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "IRE vs AFG - AFG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs BAN - Stumps",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "AUS vs BAN - Stumps",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Jamaica Kingsmen 8th Match",
+      "title": "Trinbago Knight Riders vs Jamaica Kingsmen LIVE 8th Match",
       "team1": {
         "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen 8th Match",
+        "name": "Jamaica Kingsmen LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Jamaica Kingsmen 8th Match",
+      "score": "Trinbago Knight Riders vs Jamaica Kingsmen LIVE 8th Match",
       "status": "Match Details"
     },
     {
@@ -420,19 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140-9 (20) Portugal PORT 141-6 (19.2) Portugal won by 4 wkts",
-      "team1": {
-        "name": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Portugal PORT 141",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140-9 (20) Portugal PORT 141-6 (19.2) Portugal won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "8th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 232-9 (20) Bulgaria BGR 140 (19) Finland won by 92 runs",
       "team1": {
         "name": "8th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 232",
@@ -443,6 +430,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "8th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 232-9 (20) Bulgaria BGR 140 (19) Finland won by 92 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140-9 (20) Portugal PORT 141-6 (19.2) Portugal won by 4 wkts",
+      "team1": {
+        "name": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Portugal PORT 141",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "7th Match • Kerava, Kerava National Cricket Ground Germany GER 140-9 (20) Portugal PORT 141-6 (19.2) Portugal won by 4 wkts",
       "status": "Match Details"
     },
     {
@@ -482,19 +482,6 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "8th Match • Blantyre, TCA Oval Zambia ZMB 180-9 (20) Malawi MWI 133-9 (20) Zambia won by 47 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "40th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Singapore SIN 175 (40) Uganda UGA 176-2 (32.5) Uganda won by 8 wkts - 40 Overs game due to rain",
-      "team1": {
-        "name": "40th Match • Dar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "es",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "40th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Singapore SIN 175 (40) Uganda UGA 176-2 (32.5) Uganda won by 8 wkts - 40 Overs game due to rain",
       "status": "Match Details"
     },
     {
