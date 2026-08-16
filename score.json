@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 16:19:28 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-16 16:46:55 UTC",
+  "total_matches": 32,
   "matches": [
-    {
-      "title": "IND vs SL - Stumps",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "IND vs SL - Stumps",
-      "status": "Match Details"
-    },
     {
       "title": "TRE vs MSG - MSG opt to bowl",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TRE vs MSG - MSG opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "IND vs SL - Stumps",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "IND vs SL - Stumps",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ODW vs PD - Need 125 off 76b",
+      "title": "ODW vs PD - Need 93 off 48b",
       "team1": {
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ODW vs PD - Need 125 off 76b",
+      "score": "ODW vs PD - Need 93 off 48b",
       "status": "Match Details"
     },
     {
@@ -118,32 +118,6 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Ireland vs Afghanistan 5th ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Germany vs Portugal 7th Match",
-      "team1": {
-        "name": "Germany",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Portugal 7th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Germany vs Portugal 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Finland vs Bulgaria 8th Match",
-      "team1": {
-        "name": "Finland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bulgaria 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Finland vs Bulgaria 8th Match",
       "status": "Match Details"
     },
     {
@@ -430,19 +404,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Final • Blantyre, TCA Oval Zambia ZMB 92-9 (20) Rwanda RWA 93-5 (15.3) Rwanda won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "28th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 150-9 (20) Central Delhi Kings CDK 151-2 (9.3) Central Delhi Kings won by 8 wkts",
-      "team1": {
-        "name": "28th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 150",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Central Delhi Kings CDK 151",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "28th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 150-9 (20) Central Delhi Kings CDK 151-2 (9.3) Central Delhi Kings won by 8 wkts",
       "status": "Match Details"
     },
     {
