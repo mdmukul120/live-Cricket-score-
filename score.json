@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 04:46:55 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-08-16 05:15:21 UTC",
+  "total_matches": 33,
   "matches": [
     {
       "title": "IND vs SL - Rain",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AUS vs BAN - Need 23 to win",
+      "title": "AUS vs BAN - BAN won",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,7 +26,7 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs BAN - Need 23 to win",
+      "score": "AUS vs BAN - BAN won",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Bangladesh LIVE 1st Test",
+      "title": "Australia vs Bangladesh 1st Test",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Bangladesh LIVE 1st Test",
+        "name": "Bangladesh 1st Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Australia vs Bangladesh LIVE 1st Test",
+      "score": "Australia vs Bangladesh 1st Test",
       "status": "Match Details"
     },
     {
@@ -404,6 +404,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Test • Darwin, Marrara Cricket Ground Australia AUS 198 & 284 Bangladesh BAN 426 & 57-1 Bangladesh won by 9 wkts",
+      "team1": {
+        "name": "1st Test • Darwin, Marrara Cricket Ground Australia AUS 198 & 284 Bangladesh BAN 426 & 57",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "1 Bangladesh won by 9 wkts",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "1st Test • Darwin, Marrara Cricket Ground Australia AUS 198 & 284 Bangladesh BAN 426 & 57-1 Bangladesh won by 9 wkts",
       "status": "Match Details"
     },
     {
