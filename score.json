@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 11:28:40 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-16 11:50:32 UTC",
+  "total_matches": 34,
   "matches": [
     {
       "title": "IND vs SL - IND opt to bat",
@@ -82,6 +82,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "team1": {
+        "name": "Professional County Club Select XI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Pakistan 3",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
+      "status": "Match Details"
+    },
+    {
       "title": "Australia vs Bangladesh 1st Test",
       "team1": {
         "name": "Australia",
@@ -105,32 +118,6 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Ireland vs Afghanistan 5th ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Greece vs Czech Republic 5th Match",
-      "team1": {
-        "name": "Greece",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Czech Republic 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Greece vs Czech Republic 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Isle of Man vs Spain 6th Match",
-      "team1": {
-        "name": "Isle of Man",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Spain 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Isle of Man vs Spain 6th Match",
       "status": "Match Details"
     },
     {
@@ -183,19 +170,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Bulgaria vs Isle of Man 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
-      "team1": {
-        "name": "Professional County Club Select XI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Pakistan 3",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Professional County Club Select XI vs Pakistan 3 -Day Warm-up match",
       "status": "Match Details"
     },
     {
@@ -342,19 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs Uganda 40th Match",
-      "team1": {
-        "name": "Singapore",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 40th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Singapore vs Uganda 40th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bahrain vs Tanzania 41st Match",
       "team1": {
         "name": "Bahrain",
@@ -365,6 +326,19 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "Bahrain vs Tanzania 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs Uganda 40th Match",
+      "team1": {
+        "name": "Singapore",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 40th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Singapore vs Uganda 40th Match",
       "status": "Match Details"
     },
     {
