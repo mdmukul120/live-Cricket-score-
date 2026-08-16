@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 20:01:08 UTC",
+  "last_updated": "2026-08-16 20:33:53 UTC",
   "total_matches": 31,
   "matches": [
+    {
+      "title": "IND vs SL - Stumps",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "IND vs SL - Stumps",
+      "status": "Match Details"
+    },
     {
       "title": "TRE vs MSG - MSG won",
       "team1": {
@@ -17,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "IND vs SL - Stumps",
+      "title": "SLK vs BBT - Preview",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "SL",
+        "name": "SLK",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Stumps",
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs BBT - Preview",
       "status": "Match Details"
     },
     {
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "AUS vs BAN - BAN won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ODW vs PD - ODW won",
-      "team1": {
-        "name": "ODW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "PD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ODW vs PD - ODW won",
       "status": "Match Details"
     },
     {
