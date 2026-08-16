@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 12:21:47 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-16 13:08:35 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "IND vs SL - IND opt to bat",
+      "title": "IND vs SL - Stumps",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,20 +13,20 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - IND opt to bat",
+      "score": "IND vs SL - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "TREW vs SULW - Preview",
+      "title": "SULW vs TREW - TREW opt to bowl",
       "team1": {
-        "name": "TREW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TREW vs SULW - Preview",
+      "team2": {
+        "name": "TREW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SULW vs TREW - TREW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka LIVE 1st Test",
+      "title": "India vs Sri Lanka 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 1st Test",
+        "name": "Sri Lanka 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka LIVE 1st Test",
+      "score": "India vs Sri Lanka 1st Test",
       "status": "Match Details"
     },
     {
@@ -170,6 +170,32 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Bulgaria vs Isle of Man 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Greece vs Portugal 11th Match",
+      "team1": {
+        "name": "Greece",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Portugal 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Greece vs Portugal 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Luxembourg vs Spain 12th Match",
+      "team1": {
+        "name": "Luxembourg",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Luxembourg vs Spain 12th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trent Rockets Women vs Sunrisers Leeds Women Final",
+      "title": "Sunrisers Leeds Women vs Trent Rockets Women Final",
       "team1": {
-        "name": "Trent Rockets Women",
+        "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sunrisers Leeds Women Final",
+        "name": "Trent Rockets Women Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trent Rockets Women vs Sunrisers Leeds Women Final",
+      "score": "Sunrisers Leeds Women vs Trent Rockets Women Final",
       "status": "Match Details"
     },
     {
