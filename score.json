@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 15:52:14 UTC",
+  "last_updated": "2026-08-16 16:19:28 UTC",
   "total_matches": 35,
   "matches": [
     {
@@ -17,6 +17,19 @@
       "status": "Match Details"
     },
     {
+      "title": "TRE vs MSG - MSG opt to bowl",
+      "team1": {
+        "name": "TRE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TRE vs MSG - MSG opt to bowl",
+      "status": "Match Details"
+    },
+    {
       "title": "SULW vs TREW - TREW won",
       "team1": {
         "name": "SULW",
@@ -27,19 +40,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SULW vs TREW - TREW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "TRE vs MSG - Preview",
-      "team1": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TRE vs MSG - Preview",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ODW vs PD - Need 193 to win",
+      "title": "ODW vs PD - Need 125 off 76b",
       "team1": {
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ODW vs PD - Need 193 to win",
+      "score": "ODW vs PD - Need 125 off 76b",
       "status": "Match Details"
     },
     {
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Isle of Man 10th Match",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Isle of Man 10th Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Bulgaria vs Isle of Man 10th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Germany vs Israel 9th Match",
       "team1": {
         "name": "Germany",
@@ -170,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Germany vs Israel 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Isle of Man 10th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Isle of Man 10th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Bulgaria vs Isle of Man 10th Match",
       "status": "Match Details"
     },
     {
