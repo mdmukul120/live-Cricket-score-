@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 17:08:22 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-08-16 17:33:47 UTC",
+  "total_matches": 31,
   "matches": [
     {
       "title": "TRE vs MSG - MSG opt to bowl",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ODW vs PD - Need 52 off 24b",
+      "title": "ODW vs PD - ODW won",
       "team1": {
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ODW vs PD - Need 52 off 24b",
+      "score": "ODW vs PD - ODW won",
       "status": "Match Details"
     },
     {
@@ -225,19 +225,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Trichy Grand Cholas 20th Match",
-      "team1": {
-        "name": "Vida Kovai Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trichy Grand Cholas 20th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Vida Kovai Kings vs Trichy Grand Cholas 20th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "North Delhi Strikers vs Central Delhi Kings 28th Match",
       "team1": {
         "name": "North Delhi Strikers",
@@ -251,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 29th Match",
+      "title": "Outer Delhi Warriors vs Purani Dilli 6 29th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 LIVE 29th Match",
+        "name": "Purani Dilli 6 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 29th Match",
+      "score": "Outer Delhi Warriors vs Purani Dilli 6 29th Match",
       "status": "Match Details"
     },
     {
@@ -378,6 +365,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Final • Blantyre, TCA Oval Zambia ZMB 92-9 (20) Rwanda RWA 93-5 (15.3) Rwanda won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "29th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 219-5 (20) Purani Dilli 6 PD 198-6 (20) Outer Delhi Warriors won by 21 runs",
+      "team1": {
+        "name": "29th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 219",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Purani Dilli 6 PD 198",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "29th Match • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 219-5 (20) Purani Dilli 6 PD 198-6 (20) Outer Delhi Warriors won by 21 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Semi Final 2 • Radlett, Brunton Memorial Ground Durham DUR 254-7 (50) Middlesex MDX 255-8 (48.4) Middlesex won by 2 wkts",
+      "team1": {
+        "name": "Semi Final 2 • Radlett, Brunton Memorial Ground Durham DUR 254",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Middlesex MDX 255",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Semi Final 2 • Radlett, Brunton Memorial Ground Durham DUR 254-7 (50) Middlesex MDX 255-8 (48.4) Middlesex won by 2 wkts",
       "status": "Match Details"
     },
     {
