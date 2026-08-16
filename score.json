@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 09:45:05 UTC",
+  "last_updated": "2026-08-16 10:04:33 UTC",
   "total_matches": 36,
   "matches": [
     {
@@ -30,32 +30,6 @@
       "status": "Match Details"
     },
     {
-      "title": "TKR vs JKM - JKM won",
-      "team1": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TKR vs JKM - JKM won",
-      "status": "Match Details"
-    },
-    {
-      "title": "IRE vs AFG - AFG won",
-      "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "IRE vs AFG - AFG won",
-      "status": "Match Details"
-    },
-    {
       "title": "TREW vs SULW - Preview",
       "team1": {
         "name": "TREW",
@@ -66,6 +40,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TREW vs SULW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "TRE vs MSG - Preview",
+      "team1": {
+        "name": "TRE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MSG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TRE vs MSG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "NDS vs CDK - Innings Break",
+      "team1": {
+        "name": "NDS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "CDK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NDS vs CDK - Innings Break",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Final",
+      "title": "Zambia vs TBC Final",
       "team1": {
-        "name": "TBC",
+        "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "TBC Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC Final",
+      "score": "Zambia vs TBC Final",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Delhi Strikers vs Central Delhi Kings LIVE 28th Match",
+      "title": "North Delhi Strikers vs Central Delhi Kings 28th Match",
       "team1": {
         "name": "North Delhi Strikers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings LIVE 28th Match",
+        "name": "Central Delhi Kings 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Delhi Strikers vs Central Delhi Kings LIVE 28th Match",
+      "score": "North Delhi Strikers vs Central Delhi Kings 28th Match",
       "status": "Match Details"
     },
     {
