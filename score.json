@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 09:11:55 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-16 09:45:05 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "IND vs SL - IND opt to bat",
@@ -134,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Finland vs Bulgaria 8th Match",
-      "team1": {
-        "name": "Finland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bulgaria 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Finland vs Bulgaria 8th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Germany vs Portugal 7th Match",
       "team1": {
         "name": "Germany",
@@ -157,6 +144,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Germany vs Portugal 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Finland vs Bulgaria 8th Match",
+      "team1": {
+        "name": "Finland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bulgaria 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Finland vs Bulgaria 8th Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Malawi vs Rwanda 9th Match",
+      "title": "Malawi vs Rwanda LIVE 9th Match",
       "team1": {
         "name": "Malawi",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "Rwanda 9th Match",
+        "name": "Rwanda LIVE 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malawi vs Rwanda 9th Match",
+      "score": "Malawi vs Rwanda LIVE 9th Match",
       "status": "Match Details"
     },
     {
@@ -407,29 +407,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Nottinghamshire Semi Final 1",
+      "title": "Nottinghamshire vs Leicestershire Semi Final 1",
       "team1": {
-        "name": "Leicestershire",
+        "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Nottinghamshire Semi Final 1",
+        "name": "Leicestershire Semi Final 1",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Leicestershire vs Nottinghamshire Semi Final 1",
+      "score": "Nottinghamshire vs Leicestershire Semi Final 1",
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Durham Semi Final 2",
+      "title": "Durham vs Middlesex Semi Final 2",
       "team1": {
-        "name": "Middlesex",
+        "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Durham Semi Final 2",
+        "name": "Middlesex Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Middlesex vs Durham Semi Final 2",
+      "score": "Durham vs Middlesex Semi Final 2",
       "status": "Match Details"
     },
     {
@@ -469,19 +469,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "1st Test • Darwin, Marrara Cricket Ground Australia AUS 198 & 284 Bangladesh BAN 426 & 57-1 Bangladesh won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "8th Match • Kingston, Jamaica, Sabina Park Trinbago Knight Riders TKR 182-6 (20) Jamaica Kingsmen JKM 183-5 (18.4) Jamaica Kingsmen won by 5 wkts",
-      "team1": {
-        "name": "8th Match • Kingston, Jamaica, Sabina Park Trinbago Knight Riders TKR 182",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "6 (20) Jamaica Kingsmen JKM 183",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "8th Match • Kingston, Jamaica, Sabina Park Trinbago Knight Riders TKR 182-6 (20) Jamaica Kingsmen JKM 183-5 (18.4) Jamaica Kingsmen won by 5 wkts",
       "status": "Match Details"
     }
   ]
