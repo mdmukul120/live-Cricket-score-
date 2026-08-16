@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 05:48:37 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-08-16 06:16:57 UTC",
+  "total_matches": 35,
   "matches": [
     {
-      "title": "IND vs SL - Rain",
+      "title": "IND vs SL - IND opt to bat",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Rain",
+      "score": "IND vs SL - IND opt to bat",
       "status": "Match Details"
     },
     {
@@ -339,6 +339,32 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "Bahrain vs Tanzania 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Italy 42nd Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Italy 42nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Italy 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tanzania vs Singapore 43rd Match",
+      "team1": {
+        "name": "Tanzania",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Singapore 43rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania vs Singapore 43rd Match",
       "status": "Match Details"
     },
     {
