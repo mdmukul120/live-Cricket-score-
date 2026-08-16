@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 14:57:54 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-16 15:29:46 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SULW vs TREW - Need 40 off 72b",
+      "title": "SULW vs TREW - TREW won",
       "team1": {
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs TREW - Need 40 off 72b",
+      "score": "SULW vs TREW - TREW won",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ODW vs PD - PD opt to bowl",
+      "title": "ODW vs PD - Innings Break",
       "team1": {
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ODW vs PD - PD opt to bowl",
+      "score": "ODW vs PD - Innings Break",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 29th Match",
+      "title": "Outer Delhi Warriors vs Purani Dilli 6 29th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 LIVE 29th Match",
+        "name": "Purani Dilli 6 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 29th Match",
+      "score": "Outer Delhi Warriors vs Purani Dilli 6 29th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Trent Rockets Women LIVE Final",
+      "title": "Sunrisers Leeds Women vs Trent Rockets Women Final",
       "team1": {
         "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women LIVE Final",
+        "name": "Trent Rockets Women Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs Trent Rockets Women LIVE Final",
+      "score": "Sunrisers Leeds Women vs Trent Rockets Women Final",
       "status": "Match Details"
     },
     {
@@ -456,6 +456,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "28th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 150-9 (20) Central Delhi Kings CDK 151-2 (9.3) Central Delhi Kings won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • London, Lord's 100 Sunrisers Leeds Women SULW 91 (91 Balls) Trent Rockets Women TREW 92-2 (54 Balls) Trent Rockets Women won by 8 wkts",
+      "team1": {
+        "name": "Final • London, Lord's 100 Sunrisers Leeds Women SULW 91 (91 Balls) Trent Rockets Women TREW 92",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (54 Balls) Trent Rockets Women won by 8 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • London, Lord's 100 Sunrisers Leeds Women SULW 91 (91 Balls) Trent Rockets Women TREW 92-2 (54 Balls) Trent Rockets Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
