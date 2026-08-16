@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 14:04:49 UTC",
+  "last_updated": "2026-08-16 14:36:13 UTC",
   "total_matches": 35,
   "matches": [
     {
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SULW vs TREW - TREW opt to bowl",
+      "title": "SULW vs TREW - Innings Break",
       "team1": {
         "name": "SULW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "TREW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SULW vs TREW - TREW opt to bowl",
+      "score": "SULW vs TREW - Innings Break",
       "status": "Match Details"
     },
     {
@@ -199,19 +199,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Zambia vs Malawi 8th Match",
-      "team1": {
-        "name": "Zambia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Malawi 8th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Zambia vs Malawi 8th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Malawi vs Rwanda 9th Match",
       "team1": {
         "name": "Malawi",
@@ -225,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zambia vs Rwanda LIVE Final",
+      "title": "Zambia vs Rwanda Final",
       "team1": {
         "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rwanda LIVE Final",
+        "name": "Rwanda Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zambia vs Rwanda LIVE Final",
+      "score": "Zambia vs Rwanda Final",
       "status": "Match Details"
     },
     {
@@ -381,42 +368,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Nottinghamshire Semi Final 1",
+      "title": "Leicestershire vs Nottinghamshire LIVE Semi Final 1",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Nottinghamshire Semi Final 1",
+        "name": "Nottinghamshire LIVE Semi Final 1",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Leicestershire vs Nottinghamshire Semi Final 1",
+      "score": "Leicestershire vs Nottinghamshire LIVE Semi Final 1",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex Semi Final 2",
+      "title": "Durham vs Middlesex LIVE Semi Final 2",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex Semi Final 2",
+        "name": "Middlesex LIVE Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex Semi Final 2",
+      "score": "Durham vs Middlesex LIVE Semi Final 2",
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Trent Rockets Women LIVE Final",
+      "title": "Sunrisers Leeds Women vs Trent Rockets Women Final",
       "team1": {
         "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women LIVE Final",
+        "name": "Trent Rockets Women Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs Trent Rockets Women LIVE Final",
+      "score": "Sunrisers Leeds Women vs Trent Rockets Women Final",
       "status": "Match Details"
     },
     {
@@ -430,6 +417,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Blantyre, TCA Oval Zambia ZMB 92-9 (20) Rwanda RWA 93-5 (15.3) Rwanda won by 5 wkts",
+      "team1": {
+        "name": "Final • Blantyre, TCA Oval Zambia ZMB 92",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Rwanda RWA 93",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Blantyre, TCA Oval Zambia ZMB 92-9 (20) Rwanda RWA 93-5 (15.3) Rwanda won by 5 wkts",
       "status": "Match Details"
     },
     {
