@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 13:08:35 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-16 13:44:44 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "NDS vs CDK - CDK won",
+      "title": "ODW vs PD - PD opt to bowl",
       "team1": {
-        "name": "NDS",
+        "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "CDK",
+        "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs CDK - CDK won",
+      "score": "ODW vs PD - PD opt to bowl",
       "status": "Match Details"
     },
     {
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Israel 9th Match",
-      "team1": {
-        "name": "Germany",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Israel 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Germany vs Israel 9th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bulgaria vs Isle of Man 10th Match",
       "team1": {
         "name": "Bulgaria",
@@ -170,6 +157,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Bulgaria vs Isle of Man 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Germany vs Israel 9th Match",
+      "team1": {
+        "name": "Germany",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Israel 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Germany vs Israel 9th Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs Purani Dilli 6 29th Match",
+      "title": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 29th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 29th Match",
+        "name": "Purani Dilli 6 LIVE 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs Purani Dilli 6 29th Match",
+      "score": "Outer Delhi Warriors vs Purani Dilli 6 LIVE 29th Match",
       "status": "Match Details"
     },
     {
@@ -339,6 +339,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "New Delhi Tigers vs East Delhi Riders 30th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Delhi Lions vs South Delhi Superstarz 31st Match",
+      "team1": {
+        "name": "West Delhi Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Delhi Superstarz 31st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "West Delhi Lions vs South Delhi Superstarz 31st Match",
       "status": "Match Details"
     },
     {
@@ -394,42 +407,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Nottinghamshire LIVE Semi Final 1",
+      "title": "Leicestershire vs Nottinghamshire Semi Final 1",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Nottinghamshire LIVE Semi Final 1",
+        "name": "Nottinghamshire Semi Final 1",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Leicestershire vs Nottinghamshire LIVE Semi Final 1",
+      "score": "Leicestershire vs Nottinghamshire Semi Final 1",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex LIVE Semi Final 2",
+      "title": "Durham vs Middlesex Semi Final 2",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex LIVE Semi Final 2",
+        "name": "Middlesex Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex LIVE Semi Final 2",
+      "score": "Durham vs Middlesex Semi Final 2",
       "status": "Match Details"
     },
     {
-      "title": "Sunrisers Leeds Women vs Trent Rockets Women Final",
+      "title": "Sunrisers Leeds Women vs Trent Rockets Women LIVE Final",
       "team1": {
         "name": "Sunrisers Leeds Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trent Rockets Women Final",
+        "name": "Trent Rockets Women LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sunrisers Leeds Women vs Trent Rockets Women Final",
+      "score": "Sunrisers Leeds Women vs Trent Rockets Women LIVE Final",
       "status": "Match Details"
     },
     {
