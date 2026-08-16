@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 10:58:39 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-16 11:28:40 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "IND vs SL - IND opt to bat",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDS vs CDK - Need 9 off 72b",
+      "title": "NDS vs CDK - CDK won",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "CDK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs CDK - Need 9 off 72b",
+      "score": "NDS vs CDK - CDK won",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zambia vs Rwanda Final",
+      "title": "Zambia vs Rwanda LIVE Final",
       "team1": {
         "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rwanda Final",
+        "name": "Rwanda LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zambia vs Rwanda Final",
+      "score": "Zambia vs Rwanda LIVE Final",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Delhi Strikers vs Central Delhi Kings LIVE 28th Match",
+      "title": "North Delhi Strikers vs Central Delhi Kings 28th Match",
       "team1": {
         "name": "North Delhi Strikers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings LIVE 28th Match",
+        "name": "Central Delhi Kings 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Delhi Strikers vs Central Delhi Kings LIVE 28th Match",
+      "score": "North Delhi Strikers vs Central Delhi Kings 28th Match",
       "status": "Match Details"
     },
     {
@@ -342,19 +342,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Tanzania 41st Match",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tanzania 41st Match",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "Bahrain vs Tanzania 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Singapore vs Uganda 40th Match",
       "team1": {
         "name": "Singapore",
@@ -365,6 +352,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Singapore vs Uganda 40th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Tanzania 41st Match",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tanzania 41st Match",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Bahrain vs Tanzania 41st Match",
       "status": "Match Details"
     },
     {
@@ -456,6 +456,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "9th Match • Blantyre, TCA Oval Malawi MWI 101-7 (20) Rwanda RWA 102-8 (18) Rwanda won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "28th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 150-9 (20) Central Delhi Kings CDK 151-2 (9.3) Central Delhi Kings won by 8 wkts",
+      "team1": {
+        "name": "28th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 150",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Central Delhi Kings CDK 151",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "28th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 150-9 (20) Central Delhi Kings CDK 151-2 (9.3) Central Delhi Kings won by 8 wkts",
       "status": "Match Details"
     }
   ]
