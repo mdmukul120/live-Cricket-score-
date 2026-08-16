@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 02:07:48 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-08-16 03:12:28 UTC",
+  "total_matches": 31,
   "matches": [
     {
-      "title": "AUS vs BAN - Trail by 12",
+      "title": "AUS vs BAN - Lead by 15",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -13,11 +13,11 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs BAN - Trail by 12",
+      "score": "AUS vs BAN - Lead by 15",
       "status": "Match Details"
     },
     {
-      "title": "TKR vs JKM - Innings Break",
+      "title": "TKR vs JKM - Need 63 off 49b",
       "team1": {
         "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TKR vs JKM - Innings Break",
+      "score": "TKR vs JKM - Need 63 off 49b",
       "status": "Match Details"
     },
     {
@@ -238,29 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Antigua and Barbuda Falcons vs Saint Lucia Kings 7th Match",
-      "team1": {
-        "name": "Antigua and Barbuda Falcons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saint Lucia Kings 7th Match",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Antigua and Barbuda Falcons vs Saint Lucia Kings 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Trinbago Knight Riders vs Jamaica Kingsmen 8th Match",
+      "title": "Trinbago Knight Riders vs Jamaica Kingsmen LIVE 8th Match",
       "team1": {
         "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen 8th Match",
+        "name": "Jamaica Kingsmen LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Jamaica Kingsmen 8th Match",
+      "score": "Trinbago Knight Riders vs Jamaica Kingsmen LIVE 8th Match",
       "status": "Match Details"
     },
     {
