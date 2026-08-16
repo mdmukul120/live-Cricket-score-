@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-16 03:12:28 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-08-16 04:02:38 UTC",
+  "total_matches": 32,
   "matches": [
-    {
-      "title": "AUS vs BAN - Lead by 15",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "AUS vs BAN - Lead by 15",
-      "status": "Match Details"
-    },
-    {
-      "title": "TKR vs JKM - Need 63 off 49b",
-      "team1": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TKR vs JKM - Need 63 off 49b",
-      "status": "Match Details"
-    },
     {
       "title": "IND vs SL - Stumps",
       "team1": {
@@ -40,6 +14,32 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUS vs BAN - Lead by 54",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AUS vs BAN - Lead by 54",
+      "status": "Match Details"
+    },
+    {
+      "title": "TKR vs JKM - JKM won",
+      "team1": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKR vs JKM - JKM won",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Jamaica Kingsmen LIVE 8th Match",
+      "title": "Trinbago Knight Riders vs Jamaica Kingsmen 8th Match",
       "team1": {
         "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen LIVE 8th Match",
+        "name": "Jamaica Kingsmen 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Jamaica Kingsmen LIVE 8th Match",
+      "score": "Trinbago Knight Riders vs Jamaica Kingsmen 8th Match",
       "status": "Match Details"
     },
     {
@@ -404,6 +404,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Thailand Women 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "8th Match • Kingston, Jamaica, Sabina Park Trinbago Knight Riders TKR 182-6 (20) Jamaica Kingsmen JKM 183-5 (18.4) Jamaica Kingsmen won by 5 wkts",
+      "team1": {
+        "name": "8th Match • Kingston, Jamaica, Sabina Park Trinbago Knight Riders TKR 182",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "6 (20) Jamaica Kingsmen JKM 183",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "8th Match • Kingston, Jamaica, Sabina Park Trinbago Knight Riders TKR 182-6 (20) Jamaica Kingsmen JKM 183-5 (18.4) Jamaica Kingsmen won by 5 wkts",
       "status": "Match Details"
     }
   ]
