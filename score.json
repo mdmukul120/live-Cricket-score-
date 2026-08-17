@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-17 08:24:56 UTC",
+  "last_updated": "2026-08-17 09:09:56 UTC",
   "total_matches": 32,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 298",
+      "title": "IND vs SL - Trail by 266",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 298",
+      "score": "IND vs SL - Trail by 266",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Israel 9th Match",
+      "title": "Israel vs Germany 9th Match",
       "team1": {
-        "name": "Germany",
+        "name": "Israel",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Israel 9th Match",
+        "name": "Germany 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Germany vs Israel 9th Match",
+      "score": "Israel vs Germany 9th Match",
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Isle of Man 10th Match",
+      "title": "Isle of Man vs Bulgaria 10th Match",
       "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Isle of Man 10th Match",
+        "name": "Isle of Man",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Bulgaria vs Isle of Man 10th Match",
+      "team2": {
+        "name": "Bulgaria 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Isle of Man vs Bulgaria 10th Match",
       "status": "Match Details"
     },
     {
@@ -290,19 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Italy 42nd Match",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Italy 42nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Italy 42nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Singapore vs Tanzania 43rd Match",
       "team1": {
         "name": "Singapore",
@@ -313,6 +300,19 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "Singapore vs Tanzania 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Italy LIVE 42nd Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Italy LIVE 42nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Italy LIVE 42nd Match",
       "status": "Match Details"
     },
     {
