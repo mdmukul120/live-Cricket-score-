@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-17 05:11:25 UTC",
+  "last_updated": "2026-08-17 05:52:24 UTC",
   "total_matches": 27,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 430",
+      "title": "IND vs SL - Trail by 400",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 430",
+      "score": "IND vs SL - Trail by 400",
       "status": "Match Details"
     },
     {
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Singapore 43rd Match",
-      "team1": {
-        "name": "Tanzania",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Singapore 43rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tanzania vs Singapore 43rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Hong Kong, China vs Italy 42nd Match",
       "team1": {
         "name": "Hong Kong, China",
@@ -274,6 +261,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hong Kong, China vs Italy 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs Tanzania 43rd Match",
+      "team1": {
+        "name": "Singapore",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tanzania 43rd Match",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Singapore vs Tanzania 43rd Match",
       "status": "Match Details"
     },
     {
