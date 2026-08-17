@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-17 02:50:36 UTC",
+  "last_updated": "2026-08-17 03:42:04 UTC",
   "total_matches": 26,
   "matches": [
-    {
-      "title": "BBT vs SLK - Saint Lucia Kings need 101 runs in 58 balls",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "BBT vs SLK - Saint Lucia Kings need 101 runs in 58 balls",
-      "status": "Match Details"
-    },
     {
       "title": "IND vs SL - Stumps",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "BBT vs SLK - BBT won",
+      "team1": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "BBT vs SLK - BBT won",
       "status": "Match Details"
     },
     {
@@ -186,29 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Jamaica Kingsmen 8th Match",
-      "team1": {
-        "name": "Trinbago Knight Riders",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jamaica Kingsmen 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Trinbago Knight Riders vs Jamaica Kingsmen 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Barbados Tridents vs Saint Lucia Kings LIVE 9th Match",
+      "title": "Barbados Tridents vs Saint Lucia Kings 9th Match",
       "team1": {
         "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Saint Lucia Kings LIVE 9th Match",
+        "name": "Saint Lucia Kings 9th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Barbados Tridents vs Saint Lucia Kings LIVE 9th Match",
+      "score": "Barbados Tridents vs Saint Lucia Kings 9th Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +316,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Papua New Guinea Women vs Thailand Women 3rd ODI",
+      "title": "Papua New Guinea Women vs Thailand Women LIVE 3rd ODI",
       "team1": {
         "name": "Papua New Guinea Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Thailand Women 3rd ODI",
+        "name": "Thailand Women LIVE 3rd ODI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Papua New Guinea Women vs Thailand Women 3rd ODI",
+      "score": "Papua New Guinea Women vs Thailand Women LIVE 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "9th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Barbados Tridents BBT 177-5 (18) Saint Lucia Kings SLK 168-7 (18) Barbados Tridents won by 9 runs - 18 overs game due to rain",
+      "team1": {
+        "name": "9th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Barbados Tridents BBT 177",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "5 (18) Saint Lucia Kings SLK 168",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "9th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Barbados Tridents BBT 177-5 (18) Saint Lucia Kings SLK 168-7 (18) Barbados Tridents won by 9 runs - 18 overs game due to rain",
       "status": "Match Details"
     }
   ]
