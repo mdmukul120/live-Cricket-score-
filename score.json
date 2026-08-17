@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-17 05:52:24 UTC",
-  "total_matches": 27,
+  "last_updated": "2026-08-17 06:47:39 UTC",
+  "total_matches": 29,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 400",
+      "title": "IND vs SL - Lunch",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 400",
+      "score": "IND vs SL - Lunch",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka LIVE 1st Test",
+      "title": "India vs Sri Lanka 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 1st Test",
+        "name": "Sri Lanka 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka LIVE 1st Test",
+      "score": "India vs Sri Lanka 1st Test",
       "status": "Match Details"
     },
     {
@@ -274,6 +274,32 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "Singapore vs Tanzania 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tanzania vs Italy 44th Match",
+      "team1": {
+        "name": "Tanzania",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Italy 44th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania vs Italy 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Uganda 45th Match",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 45th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahrain vs Uganda 45th Match",
       "status": "Match Details"
     },
     {
