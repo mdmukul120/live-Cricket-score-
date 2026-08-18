@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-18 22:25:20 UTC",
+  "last_updated": "2026-08-18 22:52:22 UTC",
   "total_matches": 22,
   "matches": [
     {
@@ -30,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "JKM vs SNP - Preview",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs SNP - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "CSG vs VKK - VKK won",
       "team1": {
         "name": "CSG",
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "CDK vs EDR - CDK won",
-      "status": "Match Details"
-    },
-    {
-      "title": "TRE vs MSG - MSG won",
-      "team1": {
-        "name": "TRE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TRE vs MSG - MSG won",
       "status": "Match Details"
     },
     {
