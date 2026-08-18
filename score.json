@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-18 09:58:06 UTC",
-  "total_matches": 27,
+  "last_updated": "2026-08-18 10:38:05 UTC",
+  "total_matches": 29,
   "matches": [
     {
-      "title": "IND vs SL - Rain",
+      "title": "IND vs SL - Need 358 to win",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Rain",
+      "score": "IND vs SL - Need 358 to win",
       "status": "Match Details"
     },
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PD vs NDS - NDS opt to bowl",
+      "title": "PD vs NDS - Need 172 to win",
       "team1": {
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PD vs NDS - NDS opt to bowl",
+      "score": "PD vs NDS - Need 172 to win",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka 1st Test",
+      "title": "India vs Sri Lanka LIVE 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 1st Test",
+        "name": "Sri Lanka LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 1st Test",
+      "score": "India vs Sri Lanka LIVE 1st Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "England vs Pakistan 1st Test",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Pakistan 1st Test",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "England vs Pakistan 1st Test",
       "status": "Match Details"
     },
     {
@@ -303,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Italy LIVE 44th Match",
+      "title": "Tanzania vs Italy 44th Match",
       "team1": {
         "name": "Tanzania",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "Italy LIVE 44th Match",
+        "name": "Italy 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tanzania vs Italy LIVE 44th Match",
+      "score": "Tanzania vs Italy 44th Match",
       "status": "Match Details"
     },
     {
@@ -339,6 +352,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "10th Match • Vantaa, Tikkurila Cricket Ground Isle of Man IOM 177-7 (20) Bulgaria BGR 88-8 (20) Isle of Man won by 89 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "44th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Tanzania TAN 142 (37.3) Italy ITA 143-2 (25.5) Italy won by 8 wkts",
+      "team1": {
+        "name": "44th Match • Dar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "es",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "44th Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Tanzania TAN 142 (37.3) Italy ITA 143-2 (25.5) Italy won by 8 wkts",
       "status": "Match Details"
     },
     {
