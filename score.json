@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-18 08:01:33 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-08-18 08:50:31 UTC",
+  "total_matches": 27,
   "matches": [
     {
-      "title": "IND vs SL - Lead by 337",
+      "title": "IND vs SL - Lead by 366",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Lead by 337",
+      "score": "IND vs SL - Lead by 366",
       "status": "Match Details"
     },
     {
@@ -108,19 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Greece vs Portugal 11th Match",
-      "team1": {
-        "name": "Greece",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Portugal 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Greece vs Portugal 11th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Spain vs Luxembourg 12th Match",
       "team1": {
         "name": "Spain",
@@ -134,16 +121,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Greece 13th Match",
+      "title": "Greece vs Portugal 11th Match",
       "team1": {
-        "name": "Germany",
+        "name": "Greece",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Greece 13th Match",
+        "name": "Portugal 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Germany vs Greece 13th Match",
+      "score": "Greece vs Portugal 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Greece vs Germany 13th Match",
+      "team1": {
+        "name": "Greece",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Germany 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Greece vs Germany 13th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Purani Dilli 6 vs North Delhi Strikers 32nd Match",
+      "title": "Purani Dilli 6 vs North Delhi Strikers LIVE 32nd Match",
       "team1": {
         "name": "Purani Dilli 6",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North Delhi Strikers 32nd Match",
+        "name": "North Delhi Strikers LIVE 32nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Purani Dilli 6 vs North Delhi Strikers 32nd Match",
+      "score": "Purani Dilli 6 vs North Delhi Strikers LIVE 32nd Match",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Italy LIVE 44th Match",
+      "title": "Tanzania vs Italy 44th Match",
       "team1": {
         "name": "Tanzania",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "Italy LIVE 44th Match",
+        "name": "Italy 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tanzania vs Italy LIVE 44th Match",
+      "score": "Tanzania vs Italy 44th Match",
       "status": "Match Details"
     },
     {
@@ -326,6 +326,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uganda vs Bahrain LIVE 45th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Vantaa, Tikkurila Cricket Ground Isle of Man IOM 177-7 (20) Bulgaria BGR 88-8 (20) Isle of Man won by 89 runs",
+      "team1": {
+        "name": "10th Match • Vantaa, Tikkurila Cricket Ground Isle of Man IOM 177",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "7 (20) Bulgaria BGR 88",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Vantaa, Tikkurila Cricket Ground Isle of Man IOM 177-7 (20) Bulgaria BGR 88-8 (20) Isle of Man won by 89 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "42nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Hong Kong, China HKC 174 (49.1) Italy ITA 175-4 (46) Italy won by 6 wkts",
+      "team1": {
+        "name": "42nd Match • Dar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "es",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "42nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Hong Kong, China HKC 174 (49.1) Italy ITA 175-4 (46) Italy won by 6 wkts",
       "status": "Match Details"
     }
   ]
