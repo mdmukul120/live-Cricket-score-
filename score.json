@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-18 10:38:05 UTC",
+  "last_updated": "2026-08-18 11:02:21 UTC",
   "total_matches": 29,
   "matches": [
     {
-      "title": "IND vs SL - Need 358 to win",
+      "title": "IND vs SL - Need 347 to win",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,33 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Need 358 to win",
+      "score": "IND vs SL - Need 347 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs PAK - Preview",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "ENG vs PAK - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "PD vs NDS - Need 142 off 74b",
+      "team1": {
+        "name": "PD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NDS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PD vs NDS - Need 142 off 74b",
       "status": "Match Details"
     },
     {
@@ -30,19 +56,6 @@
       "status": "Match Details"
     },
     {
-      "title": "PD vs NDS - Need 172 to win",
-      "team1": {
-        "name": "PD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PD vs NDS - Need 172 to win",
-      "status": "Match Details"
-    },
-    {
       "title": "CSG vs VKK - Preview",
       "team1": {
         "name": "CSG",
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "CSG vs VKK - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "JKM vs SNP - Preview",
-      "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKM vs SNP - Preview",
       "status": "Match Details"
     },
     {
