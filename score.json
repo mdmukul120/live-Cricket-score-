@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-18 13:02:42 UTC",
+  "last_updated": "2026-08-18 13:53:39 UTC",
   "total_matches": 29,
   "matches": [
     {
@@ -30,16 +30,29 @@
       "status": "Match Details"
     },
     {
-      "title": "PD vs NDS - PD won",
+      "title": "CSG vs VKK - VKK opt to bowl",
       "team1": {
-        "name": "PD",
+        "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "NDS",
+        "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PD vs NDS - PD won",
+      "score": "CSG vs VKK - VKK opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "CDK vs EDR - EDR opt to bowl",
+      "team1": {
+        "name": "CDK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "EDR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "CDK vs EDR - EDR opt to bowl",
       "status": "Match Details"
     },
     {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TRE vs MSG - MSG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "CSG vs VKK - Preview",
-      "team1": {
-        "name": "CSG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "VKK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "CSG vs VKK - Preview",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Greece vs Germany 13th Match",
-      "team1": {
-        "name": "Greece",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Germany 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Greece vs Germany 13th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Finland vs Luxembourg 14th Match",
       "team1": {
         "name": "Finland",
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Finland vs Luxembourg 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Greece vs Germany 13th Match",
+      "team1": {
+        "name": "Greece",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Germany 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Greece vs Germany 13th Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "East Delhi Riders vs Central Delhi Kings 33rd Match",
+      "title": "Central Delhi Kings vs East Delhi Riders LIVE 33rd Match",
       "team1": {
-        "name": "East Delhi Riders",
+        "name": "Central Delhi Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings 33rd Match",
+        "name": "East Delhi Riders LIVE 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Delhi Riders vs Central Delhi Kings 33rd Match",
+      "score": "Central Delhi Kings vs East Delhi Riders LIVE 33rd Match",
       "status": "Match Details"
     },
     {
@@ -248,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Delhi Tigers vs West Delhi Lions 35th Match",
+      "team1": {
+        "name": "New Delhi Tigers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "West Delhi Lions 35th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "New Delhi Tigers vs West Delhi Lions 35th Match",
       "status": "Match Details"
     },
     {
@@ -290,29 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Bahrain LIVE 45th Match",
+      "title": "Uganda vs Bahrain 45th Match",
       "team1": {
         "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bahrain LIVE 45th Match",
+        "name": "Bahrain 45th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda vs Bahrain LIVE 45th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "14th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 168-9 (20) Luxembourg LUX 95 (17.2) Finland won by 73 runs",
-      "team1": {
-        "name": "14th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 168",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Luxembourg LUX 95 (17.2) Finland won by 73 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "14th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 168-9 (20) Luxembourg LUX 95 (17.2) Finland won by 73 runs",
+      "score": "Uganda vs Bahrain 45th Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "10th Match • Vantaa, Tikkurila Cricket Ground Isle of Man IOM 177-7 (20) Bulgaria BGR 88-8 (20) Isle of Man won by 89 runs",
+      "title": "14th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 168-9 (20) Luxembourg LUX 95 (17.2) Finland won by 73 runs",
       "team1": {
-        "name": "10th Match • Vantaa, Tikkurila Cricket Ground Isle of Man IOM 177",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "7 (20) Bulgaria BGR 88",
+        "name": "14th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 168",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "10th Match • Vantaa, Tikkurila Cricket Ground Isle of Man IOM 177-7 (20) Bulgaria BGR 88-8 (20) Isle of Man won by 89 runs",
+      "team2": {
+        "name": "9 (20) Luxembourg LUX 95 (17.2) Finland won by 73 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "14th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 168-9 (20) Luxembourg LUX 95 (17.2) Finland won by 73 runs",
       "status": "Match Details"
     },
     {
@@ -368,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "42nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Hong Kong, China HKC 174 (49.1) Italy ITA 175-4 (46) Italy won by 6 wkts",
+      "title": "45th Match • Dar es Salaam, University of Dar-es-Salaam 2 Uganda UGA 204 (48.1) Bahrain BHR 209-6 (49.4) Bahrain won by 4 wkts",
       "team1": {
-        "name": "42nd Match • Dar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "45th Match • Dar es Salaam, University of Dar",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
         "name": "es",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "42nd Match • Dar-es-Salaam, University of Dar-es-Salaam 1 Hong Kong, China HKC 174 (49.1) Italy ITA 175-4 (46) Italy won by 6 wkts",
+      "score": "45th Match • Dar es Salaam, University of Dar-es-Salaam 2 Uganda UGA 204 (48.1) Bahrain BHR 209-6 (49.4) Bahrain won by 4 wkts",
       "status": "Match Details"
     }
   ]
