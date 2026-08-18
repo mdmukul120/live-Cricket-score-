@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-18 17:21:18 UTC",
+  "last_updated": "2026-08-18 17:52:32 UTC",
   "total_matches": 24,
   "matches": [
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "CSG vs VKK - Need 12 off 18b",
+      "title": "CSG vs VKK - VKK won",
       "team1": {
         "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CSG vs VKK - Need 12 off 18b",
+      "score": "CSG vs VKK - VKK won",
       "status": "Match Details"
     },
     {
-      "title": "CDK vs EDR - Need 67 off 36b",
+      "title": "CDK vs EDR - CDK won",
       "team1": {
         "name": "CDK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "EDR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CDK vs EDR - Need 67 off 36b",
+      "score": "CDK vs EDR - CDK won",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Chepauk Super Gillies vs Vida Kovai Kings LIVE 21st Match",
+      "title": "Chepauk Super Gillies vs Vida Kovai Kings 21st Match",
       "team1": {
         "name": "Chepauk Super Gillies",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Vida Kovai Kings LIVE 21st Match",
+        "name": "Vida Kovai Kings 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chepauk Super Gillies vs Vida Kovai Kings LIVE 21st Match",
+      "score": "Chepauk Super Gillies vs Vida Kovai Kings 21st Match",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs East Delhi Riders LIVE 33rd Match",
+      "title": "Central Delhi Kings vs East Delhi Riders 33rd Match",
       "team1": {
         "name": "Central Delhi Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Delhi Riders LIVE 33rd Match",
+        "name": "East Delhi Riders 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs East Delhi Riders LIVE 33rd Match",
+      "score": "Central Delhi Kings vs East Delhi Riders 33rd Match",
       "status": "Match Details"
     },
     {
@@ -264,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "13th Match • Kerava, Kerava National Cricket Ground Greece GRC 96 (18.1) Germany GER 98-3 (8.1) Germany won by 7 wkts",
-      "team1": {
-        "name": "13th Match • Kerava, Kerava National Cricket Ground Greece GRC 96 (18.1) Germany GER 98",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (8.1) Germany won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "13th Match • Kerava, Kerava National Cricket Ground Greece GRC 96 (18.1) Germany GER 98-3 (8.1) Germany won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "14th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 168-9 (20) Luxembourg LUX 95 (17.2) Finland won by 73 runs",
       "team1": {
         "name": "14th Match • Vantaa, Tikkurila Cricket Ground Finland FIN 168",
@@ -290,16 +277,29 @@
       "status": "Match Details"
     },
     {
-      "title": "32nd Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 211-6 (20) North Delhi Strikers NDS 191-4 (20) Purani Dilli 6 won by 20 runs",
+      "title": "21st Match • Chennai, MA Chidambaram Stadium Chepauk Super Gillies CSG 167 (19.3) Vida Kovai Kings VKK 171-5 (18.5) Vida Kovai Kings won by 5 wkts",
       "team1": {
-        "name": "32nd Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 211",
+        "name": "21st Match • Chennai, MA Chidambaram Stadium Chepauk Super Gillies CSG 167 (19.3) Vida Kovai Kings VKK 171",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) North Delhi Strikers NDS 191",
+        "name": "5 (18.5) Vida Kovai Kings won by 5 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "32nd Match • Delhi, Arun Jaitley Stadium Purani Dilli 6 PD 211-6 (20) North Delhi Strikers NDS 191-4 (20) Purani Dilli 6 won by 20 runs",
+      "score": "21st Match • Chennai, MA Chidambaram Stadium Chepauk Super Gillies CSG 167 (19.3) Vida Kovai Kings VKK 171-5 (18.5) Vida Kovai Kings won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "33rd Match • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 179 (19.5) East Delhi Riders EDR 149-7 (20) Central Delhi Kings won by 30 runs",
+      "team1": {
+        "name": "33rd Match • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 179 (19.5) East Delhi Riders EDR 149",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Central Delhi Kings won by 30 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "33rd Match • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 179 (19.5) East Delhi Riders EDR 149-7 (20) Central Delhi Kings won by 30 runs",
       "status": "Match Details"
     },
     {
