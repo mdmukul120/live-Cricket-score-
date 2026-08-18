@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-18 07:21:10 UTC",
-  "total_matches": 26,
+  "last_updated": "2026-08-18 08:01:33 UTC",
+  "total_matches": 25,
   "matches": [
     {
-      "title": "IND vs SL - Lead by 298",
+      "title": "IND vs SL - Lead by 337",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Lead by 298",
+      "score": "IND vs SL - Lead by 337",
       "status": "Match Details"
     },
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PD vs NDS - Preview",
+      "title": "PD vs NDS - NDS opt to bowl",
       "team1": {
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PD vs NDS - Preview",
+      "score": "PD vs NDS - NDS opt to bowl",
       "status": "Match Details"
     },
     {
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "India vs Sri Lanka LIVE 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Australia vs Bangladesh 1st Test",
-      "team1": {
-        "name": "Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Bangladesh 1st Test",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "Australia vs Bangladesh 1st Test",
       "status": "Match Details"
     },
     {
@@ -277,6 +264,19 @@
       "status": "Match Details"
     },
     {
+      "title": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
+      "team1": {
+        "name": "North Delhi Strikers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Delhi Superstarz 34th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Hong Kong, China vs Italy 42nd Match",
       "team1": {
         "name": "Hong Kong, China",
@@ -303,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Bahrain LIVE 45th Match",
-      "team1": {
-        "name": "Uganda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bahrain LIVE 45th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uganda vs Bahrain LIVE 45th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Tanzania vs Italy LIVE 44th Match",
       "team1": {
         "name": "Tanzania",
@@ -329,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Papua New Guinea Women vs Thailand Women 3rd ODI",
+      "title": "Uganda vs Bahrain LIVE 45th Match",
       "team1": {
-        "name": "Papua New Guinea Women",
+        "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Thailand Women 3rd ODI",
+        "name": "Bahrain LIVE 45th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Papua New Guinea Women vs Thailand Women 3rd ODI",
+      "score": "Uganda vs Bahrain LIVE 45th Match",
       "status": "Match Details"
     }
   ]
