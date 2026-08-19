@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 15:51:57 UTC",
+  "last_updated": "2026-08-19 16:25:41 UTC",
   "total_matches": 33,
   "matches": [
     {
-      "title": "PAK vs ENG - ENG opt to bowl",
+      "title": "PAK vs ENG - Innings Break",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - ENG opt to bowl",
+      "score": "PAK vs ENG - Innings Break",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Spain 16th Match",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain 16th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria vs Spain 16th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Czech Republic vs Israel 15th Match",
       "team1": {
         "name": "Czech Republic",
@@ -118,6 +105,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Israel 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Spain 16th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Spain 16th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs West Delhi Lions LIVE 35th Match",
+      "title": "New Delhi Tigers vs West Delhi Lions 35th Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Delhi Lions LIVE 35th Match",
+        "name": "West Delhi Lions 35th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs West Delhi Lions LIVE 35th Match",
+      "score": "New Delhi Tigers vs West Delhi Lions 35th Match",
       "status": "Match Details"
     },
     {
