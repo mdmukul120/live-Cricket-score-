@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 22:00:30 UTC",
+  "last_updated": "2026-08-19 22:35:42 UTC",
   "total_matches": 30,
   "matches": [
+    {
+      "title": "SLK vs GAW - GAW opt to bowl",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs GAW - GAW opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "PAK vs ENG - Stumps",
       "team1": {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "NDS vs SDS - SDS won",
-      "status": "Match Details"
-    },
-    {
-      "title": "TRI vs DGD - TRI won",
-      "team1": {
-        "name": "TRI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DGD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TRI vs DGD - TRI won",
       "status": "Match Details"
     },
     {
