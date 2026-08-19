@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 14:00:32 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-19 14:46:45 UTC",
+  "total_matches": 33,
   "matches": [
     {
       "title": "PAK vs ENG - ENG opt to bowl",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "TRI vs DGD - DGD opt to bowl",
+      "title": "TRI vs DGD - Rain",
       "team1": {
         "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "DGD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRI vs DGD - DGD opt to bowl",
+      "score": "TRI vs DGD - Rain",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic vs Israel 15th Match",
-      "team1": {
-        "name": "Czech Republic",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Israel 15th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Czech Republic vs Israel 15th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bulgaria vs Spain 16th Match",
       "team1": {
         "name": "Bulgaria",
@@ -118,6 +105,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bulgaria vs Spain 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Czech Republic vs Israel 15th Match",
+      "team1": {
+        "name": "Czech Republic",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Israel 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Czech Republic vs Israel 15th Match",
       "status": "Match Details"
     },
     {
@@ -238,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nellai Royal Kings vs SKM Salem Spartans 24th Match",
+      "team1": {
+        "name": "Nellai Royal Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SKM Salem Spartans 24th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Nellai Royal Kings vs SKM Salem Spartans 24th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Central Delhi Kings vs East Delhi Riders 33rd Match",
       "team1": {
         "name": "Central Delhi Kings",
@@ -264,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs West Delhi Lions 35th Match",
+      "title": "New Delhi Tigers vs West Delhi Lions LIVE 35th Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Delhi Lions 35th Match",
+        "name": "West Delhi Lions LIVE 35th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs West Delhi Lions 35th Match",
+      "score": "New Delhi Tigers vs West Delhi Lions LIVE 35th Match",
       "status": "Match Details"
     },
     {
@@ -342,32 +355,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Northamptonshire 35th Match",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Northamptonshire 35th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Lancashire vs Northamptonshire 35th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Worcestershire 36th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire 36th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Worcestershire 36th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Middlesex vs Kent 33rd Match",
       "team1": {
         "name": "Middlesex",
@@ -394,29 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Italy 44th Match",
+      "title": "Lancashire vs Northamptonshire 35th Match",
       "team1": {
-        "name": "Tanzania",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Italy 44th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Northamptonshire 35th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Tanzania vs Italy 44th Match",
+      "score": "Lancashire vs Northamptonshire 35th Match",
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Bahrain 45th Match",
+      "title": "Gloucestershire vs Worcestershire 36th Match",
       "team1": {
-        "name": "Uganda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Bahrain 45th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Worcestershire 36th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Uganda vs Bahrain 45th Match",
+      "score": "Gloucestershire vs Worcestershire 36th Match",
       "status": "Match Details"
     },
     {
