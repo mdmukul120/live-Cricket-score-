@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 13:14:06 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-19 14:00:32 UTC",
+  "total_matches": 34,
   "matches": [
     {
       "title": "PAK vs ENG - ENG opt to bowl",
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "DGD vs TRI - Preview",
+      "title": "TRI vs DGD - DGD opt to bowl",
       "team1": {
-        "name": "DGD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DGD vs TRI - Preview",
+      "team2": {
+        "name": "DGD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TRI vs DGD - DGD opt to bowl",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dindigul Dragons vs Trichy Grand Cholas 22nd Match",
+      "title": "Trichy Grand Cholas vs Dindigul Dragons 22nd Match",
       "team1": {
-        "name": "Dindigul Dragons",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Trichy Grand Cholas 22nd Match",
+        "name": "Trichy Grand Cholas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dindigul Dragons vs Trichy Grand Cholas 22nd Match",
+      "team2": {
+        "name": "Dindigul Dragons 22nd Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Trichy Grand Cholas vs Dindigul Dragons 22nd Match",
       "status": "Match Details"
     },
     {
@@ -394,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Bahrain 45th Match",
-      "team1": {
-        "name": "Uganda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bahrain 45th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uganda vs Bahrain 45th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Tanzania vs Italy 44th Match",
       "team1": {
         "name": "Tanzania",
@@ -420,6 +407,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Uganda vs Bahrain 45th Match",
+      "team1": {
+        "name": "Uganda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bahrain 45th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda vs Bahrain 45th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "China Women vs Oman Women 1st T20I",
       "team1": {
         "name": "China Women",
@@ -430,19 +430,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "China Women vs Oman Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Test • Galle, Galle International Stadium India IND 462 & 193 Sri Lanka SL 284 & 206 India won by 165 runs",
-      "team1": {
-        "name": "1st Test • Galle, Galle International Stadium India IND 462 & 193 Sri Lanka SL 284 & 206 India won by 165 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Test • Galle, Galle International Stadium India IND 462 & 193 Sri Lanka SL 284 & 206 India won by 165 runs",
       "status": "Match Details"
     },
     {
