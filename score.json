@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 11:44:15 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-08-19 12:14:21 UTC",
+  "total_matches": 35,
   "matches": [
     {
-      "title": "PAK vs ENG - ENG opt to bowl",
+      "title": "PAK vs ENG - Rain",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - ENG opt to bowl",
+      "score": "PAK vs ENG - Rain",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDS vs SDS - Need 45 off 24b",
+      "title": "NDS vs SDS - SDS won",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs SDS - Need 45 off 24b",
+      "score": "NDS vs SDS - SDS won",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Spain 16th Match",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain 16th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria vs Spain 16th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Czech Republic vs Israel 15th Match",
       "team1": {
         "name": "Czech Republic",
@@ -118,6 +105,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Israel 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Spain 16th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Spain 16th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +144,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Portugal 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Finland vs Isle of Man 19th Match",
+      "team1": {
+        "name": "Finland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Isle of Man 19th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Finland vs Isle of Man 19th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Greece vs Israel 20th Match",
+      "team1": {
+        "name": "Greece",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Israel 20th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Greece vs Israel 20th Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Delhi Strikers vs South Delhi Superstarz LIVE 34th Match",
+      "title": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
       "team1": {
         "name": "North Delhi Strikers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Delhi Superstarz LIVE 34th Match",
+        "name": "South Delhi Superstarz 34th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Delhi Strikers vs South Delhi Superstarz LIVE 34th Match",
+      "score": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
       "status": "Match Details"
     },
     {
@@ -316,32 +342,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Northamptonshire 35th Match",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Northamptonshire 35th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Lancashire vs Northamptonshire 35th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Worcestershire 36th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire 36th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Worcestershire 36th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Middlesex vs Kent 33rd Match",
       "team1": {
         "name": "Middlesex",
@@ -368,16 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Bahrain 45th Match",
+      "title": "Lancashire vs Northamptonshire 35th Match",
       "team1": {
-        "name": "Uganda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Bahrain 45th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Northamptonshire 35th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Uganda vs Bahrain 45th Match",
+      "score": "Lancashire vs Northamptonshire 35th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Worcestershire 36th Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Worcestershire 36th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Worcestershire 36th Match",
       "status": "Match Details"
     },
     {
@@ -391,6 +404,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Tanzania vs Italy 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda vs Bahrain 45th Match",
+      "team1": {
+        "name": "Uganda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bahrain 45th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda vs Bahrain 45th Match",
       "status": "Match Details"
     },
     {
@@ -417,6 +443,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "1st Test • Galle, Galle International Stadium India IND 462 & 193 Sri Lanka SL 284 & 206 India won by 165 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "34th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 207-9 (20) South Delhi Superstarz SDS 208-6 (19.3) South Delhi Superstarz won by 4 wkts",
+      "team1": {
+        "name": "34th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 207",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) South Delhi Superstarz SDS 208",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "34th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 207-9 (20) South Delhi Superstarz SDS 208-6 (19.3) South Delhi Superstarz won by 4 wkts",
       "status": "Match Details"
     }
   ]
