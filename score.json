@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 08:23:53 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-08-19 09:04:51 UTC",
+  "total_matches": 27,
   "matches": [
     {
       "title": "IND vs SL - IND won",
@@ -17,19 +17,6 @@
       "status": "Match Details"
     },
     {
-      "title": "JKM vs SNP - JKM won",
-      "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKM vs SNP - JKM won",
-      "status": "Match Details"
-    },
-    {
       "title": "ENG vs PAK - Preview",
       "team1": {
         "name": "ENG",
@@ -40,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "ENG vs PAK - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKM vs SNP - JKM won",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs SNP - JKM won",
       "status": "Match Details"
     },
     {
@@ -339,32 +339,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "11th Match • Kerava, Kerava National Cricket Ground Greece GRC 121 (19.3) Portugal PORT 124-3 (16) Portugal won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "16th Match • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 59 (14.4) Spain ESP 61-1 (4.5) Spain won by 9 wkts",
-      "team1": {
-        "name": "16th Match • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 59 (14.4) Spain ESP 61",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "1 (4.5) Spain won by 9 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "16th Match • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 59 (14.4) Spain ESP 61-1 (4.5) Spain won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154-6 (20) Israel ISR 155-3 (16) Israel won by 7 wkts",
-      "team1": {
-        "name": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Israel ISR 155",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154-6 (20) Israel ISR 155-3 (16) Israel won by 7 wkts",
       "status": "Match Details"
     },
     {
