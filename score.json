@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 09:47:05 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-08-19 10:14:01 UTC",
+  "total_matches": 35,
   "matches": [
-    {
-      "title": "IND vs SL - IND won",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "IND vs SL - IND won",
-      "status": "Match Details"
-    },
     {
       "title": "PAK vs ENG - ENG opt to bowl",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "PAK vs ENG - ENG opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "IND vs SL - IND won",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "IND vs SL - IND won",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDS vs SDS - SDS opt to bowl",
+      "title": "NDS vs SDS - Innings Break",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs SDS - SDS opt to bowl",
+      "score": "NDS vs SDS - Innings Break",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs England 1st Test",
+      "title": "Pakistan vs England LIVE 1st Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "England 1st Test",
+        "name": "England LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Pakistan vs England 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Finland vs Luxembourg 14th Match",
-      "team1": {
-        "name": "Finland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Luxembourg 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Finland vs Luxembourg 14th Match",
+      "score": "Pakistan vs England LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic vs Israel 15th Match",
+      "title": "Finland vs Luxembourg 14th Match",
       "team1": {
-        "name": "Czech Republic",
+        "name": "Finland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Israel 15th Match",
+        "name": "Luxembourg 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Czech Republic vs Israel 15th Match",
+      "score": "Finland vs Luxembourg 14th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bulgaria vs Spain 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Czech Republic vs Israel 15th Match",
+      "team1": {
+        "name": "Czech Republic",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Israel 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Czech Republic vs Israel 15th Match",
       "status": "Match Details"
     },
     {
@@ -225,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Madurai Panthers vs IDream Tiruppur Tamizhans 23rd Match",
+      "team1": {
+        "name": "Madurai Panthers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "IDream Tiruppur Tamizhans 23rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Madurai Panthers vs IDream Tiruppur Tamizhans 23rd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Purani Dilli 6 vs North Delhi Strikers 32nd Match",
       "team1": {
         "name": "Purani Dilli 6",
@@ -251,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Delhi Strikers vs South Delhi Superstarz LIVE 34th Match",
+      "title": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
       "team1": {
         "name": "North Delhi Strikers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Delhi Superstarz LIVE 34th Match",
+        "name": "South Delhi Superstarz 34th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Delhi Strikers vs South Delhi Superstarz LIVE 34th Match",
+      "score": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +290,120 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Italy 44th Match",
+      "title": "Surrey vs Nottinghamshire 41st Match",
       "team1": {
-        "name": "Tanzania",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Italy 44th Match",
+        "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tanzania vs Italy 44th Match",
+      "team2": {
+        "name": "Nottinghamshire 41st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Nottinghamshire 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Sussex 42nd Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Sussex 42nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warwickshire vs Sussex 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Glamorgan 43rd Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan 43rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Leicestershire vs Glamorgan 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Essex 44th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex 44th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Essex 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Yorkshire 45th Match",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire 45th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Hampshire vs Yorkshire 45th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Durham 34th Match",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham 34th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Durham 34th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Northamptonshire 35th Match",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Northamptonshire 35th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Lancashire vs Northamptonshire 35th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Worcestershire 36th Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Worcestershire 36th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Worcestershire 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Kent 33rd Match",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kent 33rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Middlesex vs Kent 33rd Match",
       "status": "Match Details"
     },
     {
@@ -300,6 +417,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uganda vs Bahrain 45th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tanzania vs Italy 44th Match",
+      "team1": {
+        "name": "Tanzania",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Italy 44th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania vs Italy 44th Match",
       "status": "Match Details"
     },
     {
