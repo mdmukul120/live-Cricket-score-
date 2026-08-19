@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 11:14:33 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-19 11:44:15 UTC",
+  "total_matches": 32,
   "matches": [
     {
-      "title": "PAK vs ENG - Rain",
+      "title": "PAK vs ENG - ENG opt to bowl",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Rain",
+      "score": "PAK vs ENG - ENG opt to bowl",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDS vs SDS - Need 95 off 62b",
+      "title": "NDS vs SDS - Need 45 off 24b",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs SDS - Need 95 off 62b",
+      "score": "NDS vs SDS - Need 45 off 24b",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Greece vs Germany 13th Match",
+      "title": "Bulgaria vs Spain 16th Match",
       "team1": {
-        "name": "Greece",
+        "name": "Bulgaria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Germany 13th Match",
+        "name": "Spain 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Greece vs Germany 13th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Finland vs Luxembourg 14th Match",
-      "team1": {
-        "name": "Finland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Luxembourg 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Finland vs Luxembourg 14th Match",
+      "score": "Bulgaria vs Spain 16th Match",
       "status": "Match Details"
     },
     {
@@ -131,19 +118,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Israel 15th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bulgaria vs Spain 16th Match",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain 16th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria vs Spain 16th Match",
       "status": "Match Details"
     },
     {
@@ -235,19 +209,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Madurai Panthers vs IDream Tiruppur Tamizhans 23rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Purani Dilli 6 vs North Delhi Strikers 32nd Match",
-      "team1": {
-        "name": "Purani Dilli 6",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "North Delhi Strikers 32nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Purani Dilli 6 vs North Delhi Strikers 32nd Match",
       "status": "Match Details"
     },
     {
@@ -355,32 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Kent 33rd Match",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kent 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Middlesex vs Kent 33rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Durham 34th Match",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham 34th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Durham 34th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Lancashire vs Northamptonshire 35th Match",
       "team1": {
         "name": "Lancashire",
@@ -404,6 +339,32 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Worcestershire 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Kent 33rd Match",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kent 33rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Middlesex vs Kent 33rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Durham 34th Match",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham 34th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Durham 34th Match",
       "status": "Match Details"
     },
     {
