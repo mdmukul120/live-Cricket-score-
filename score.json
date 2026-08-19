@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 03:34:33 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-08-19 04:20:24 UTC",
+  "total_matches": 27,
   "matches": [
     {
-      "title": "IND vs SL - Stumps",
+      "title": "IND vs SL - Need 282 to win",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Stumps",
+      "score": "IND vs SL - Need 282 to win",
       "status": "Match Details"
     },
     {
-      "title": "JKM vs SNP - Need 72 off 31b",
+      "title": "JKM vs SNP - JKM won",
       "team1": {
         "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKM vs SNP - Need 72 off 31b",
+      "score": "JKM vs SNP - JKM won",
       "status": "Match Details"
     },
     {
@@ -43,42 +43,42 @@
       "status": "Match Details"
     },
     {
-      "title": "CSG vs VKK - VKK won",
+      "title": "NDS vs SDS - Preview",
       "team1": {
-        "name": "CSG",
+        "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "VKK",
+        "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CSG vs VKK - VKK won",
+      "score": "NDS vs SDS - Preview",
       "status": "Match Details"
     },
     {
-      "title": "CDK vs EDR - CDK won",
+      "title": "DGD vs TRI - Preview",
       "team1": {
-        "name": "CDK",
+        "name": "DGD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "EDR",
+        "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CDK vs EDR - CDK won",
+      "score": "DGD vs TRI - Preview",
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka 1st Test",
+      "title": "India vs Sri Lanka LIVE 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 1st Test",
+        "name": "Sri Lanka LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 1st Test",
+      "score": "India vs Sri Lanka LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots LIVE 10th Match",
+      "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots 10th Match",
       "team1": {
         "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "St Kitts and Nevis Patriots LIVE 10th Match",
+        "name": "St Kitts and Nevis Patriots 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Kingsmen vs St Kitts and Nevis Patriots LIVE 10th Match",
+      "score": "Jamaica Kingsmen vs St Kitts and Nevis Patriots 10th Match",
       "status": "Match Details"
     },
     {
@@ -326,6 +326,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "12th Match • Vantaa, Tikkurila Cricket Ground Spain ESP 206-6 (20) Luxembourg LUX 65 (15) Spain won by 141 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Kerava, Kerava National Cricket Ground Greece GRC 121 (19.3) Portugal PORT 124-3 (16) Portugal won by 7 wkts",
+      "team1": {
+        "name": "11th Match • Kerava, Kerava National Cricket Ground Greece GRC 121 (19.3) Portugal PORT 124",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (16) Portugal won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Kerava, Kerava National Cricket Ground Greece GRC 121 (19.3) Portugal PORT 124-3 (16) Portugal won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Kingston, Jamaica, Sabina Park Jamaica Kingsmen JKM 181-6 (20) St Kitts and Nevis Patriots SNP 130 (18) Jamaica Kingsmen won by 51 runs",
+      "team1": {
+        "name": "10th Match • Kingston, Jamaica, Sabina Park Jamaica Kingsmen JKM 181",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "6 (20) St Kitts and Nevis Patriots SNP 130 (18) Jamaica Kingsmen won by 51 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Kingston, Jamaica, Sabina Park Jamaica Kingsmen JKM 181-6 (20) St Kitts and Nevis Patriots SNP 130 (18) Jamaica Kingsmen won by 51 runs",
       "status": "Match Details"
     }
   ]
