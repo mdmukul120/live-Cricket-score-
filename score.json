@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 09:04:51 UTC",
-  "total_matches": 27,
+  "last_updated": "2026-08-19 09:47:05 UTC",
+  "total_matches": 25,
   "matches": [
     {
       "title": "IND vs SL - IND won",
@@ -17,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "ENG vs PAK - Preview",
+      "title": "PAK vs ENG - ENG opt to bowl",
       "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "ENG vs PAK - Preview",
+      "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "PAK vs ENG - ENG opt to bowl",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "England vs Pakistan 1st Test",
+      "title": "Pakistan vs England 1st Test",
       "team1": {
-        "name": "England",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Pakistan 1st Test",
+        "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "England vs Pakistan 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Greece vs Germany 13th Match",
-      "team1": {
-        "name": "Greece",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "Germany 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England 1st Test",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Greece vs Germany 13th Match",
+      "score": "Pakistan vs England 1st Test",
       "status": "Match Details"
     },
     {
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Spain 16th Match",
+      "title": "Greece vs Germany 13th Match",
       "team1": {
-        "name": "Bulgaria",
+        "name": "Greece",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Spain 16th Match",
+        "name": "Germany 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bulgaria vs Spain 16th Match",
+      "score": "Greece vs Germany 13th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Israel 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Spain 16th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Spain 16th Match",
       "status": "Match Details"
     },
     {
@@ -326,32 +326,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "1st Test • Galle, Galle International Stadium India IND 462 & 193 Sri Lanka SL 284 & 206 India won by 165 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "11th Match • Kerava, Kerava National Cricket Ground Greece GRC 121 (19.3) Portugal PORT 124-3 (16) Portugal won by 7 wkts",
-      "team1": {
-        "name": "11th Match • Kerava, Kerava National Cricket Ground Greece GRC 121 (19.3) Portugal PORT 124",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (16) Portugal won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "11th Match • Kerava, Kerava National Cricket Ground Greece GRC 121 (19.3) Portugal PORT 124-3 (16) Portugal won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Kingston, Jamaica, Sabina Park Jamaica Kingsmen JKM 181-6 (20) St Kitts and Nevis Patriots SNP 130 (18) Jamaica Kingsmen won by 51 runs",
-      "team1": {
-        "name": "10th Match • Kingston, Jamaica, Sabina Park Jamaica Kingsmen JKM 181",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "6 (20) St Kitts and Nevis Patriots SNP 130 (18) Jamaica Kingsmen won by 51 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "10th Match • Kingston, Jamaica, Sabina Park Jamaica Kingsmen JKM 181-6 (20) St Kitts and Nevis Patriots SNP 130 (18) Jamaica Kingsmen won by 51 runs",
       "status": "Match Details"
     }
   ]
