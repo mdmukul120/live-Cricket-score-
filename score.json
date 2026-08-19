@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 07:01:31 UTC",
+  "last_updated": "2026-08-19 07:49:48 UTC",
   "total_matches": 27,
   "matches": [
     {
-      "title": "IND vs SL - Lunch",
+      "title": "IND vs SL - Need 172 to win",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Lunch",
+      "score": "IND vs SL - Need 172 to win",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDS vs SDS - Preview",
+      "title": "NDS vs SDS - SDS opt to bowl",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs SDS - Preview",
+      "score": "NDS vs SDS - SDS opt to bowl",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka 1st Test",
+      "title": "India vs Sri Lanka LIVE 1st Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 1st Test",
+        "name": "Sri Lanka LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 1st Test",
+      "score": "India vs Sri Lanka LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Finland vs Luxembourg 14th Match",
-      "team1": {
-        "name": "Finland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Luxembourg 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Finland vs Luxembourg 14th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Greece vs Germany 13th Match",
       "team1": {
         "name": "Greece",
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Spain 16th Match",
+      "title": "Finland vs Luxembourg 14th Match",
       "team1": {
-        "name": "Bulgaria",
+        "name": "Finland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Spain 16th Match",
+        "name": "Luxembourg 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bulgaria vs Spain 16th Match",
+      "score": "Finland vs Luxembourg 14th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Israel 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Spain 16th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Spain 16th Match",
       "status": "Match Details"
     },
     {
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Bahrain 45th Match",
-      "team1": {
-        "name": "Uganda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bahrain 45th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uganda vs Bahrain 45th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Tanzania vs Italy 44th Match",
       "team1": {
         "name": "Tanzania",
@@ -274,6 +261,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Tanzania vs Italy 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda vs Bahrain 45th Match",
+      "team1": {
+        "name": "Uganda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bahrain 45th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda vs Bahrain 45th Match",
       "status": "Match Details"
     },
     {
@@ -316,19 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154-6 (20) Israel ISR 155-3 (16) Israel won by 7 wkts",
-      "team1": {
-        "name": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Israel ISR 155",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154-6 (20) Israel ISR 155-3 (16) Israel won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "12th Match • Vantaa, Tikkurila Cricket Ground Spain ESP 206-6 (20) Luxembourg LUX 65 (15) Spain won by 141 runs",
       "team1": {
         "name": "12th Match • Vantaa, Tikkurila Cricket Ground Spain ESP 206",
@@ -339,6 +326,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "12th Match • Vantaa, Tikkurila Cricket Ground Spain ESP 206-6 (20) Luxembourg LUX 65 (15) Spain won by 141 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154-6 (20) Israel ISR 155-3 (16) Israel won by 7 wkts",
+      "team1": {
+        "name": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Israel ISR 155",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "15th Match • Kerava, Kerava National Cricket Ground Czech Republic CZE 154-6 (20) Israel ISR 155-3 (16) Israel won by 7 wkts",
       "status": "Match Details"
     },
     {
