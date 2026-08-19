@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-19 10:49:22 UTC",
+  "last_updated": "2026-08-19 11:14:33 UTC",
   "total_matches": 35,
   "matches": [
     {
-      "title": "PAK vs ENG - ENG opt to bowl",
+      "title": "PAK vs ENG - Rain",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - ENG opt to bowl",
+      "score": "PAK vs ENG - Rain",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDS vs SDS - Need 150 off 93b",
+      "title": "NDS vs SDS - Need 95 off 62b",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs SDS - Need 150 off 93b",
+      "score": "NDS vs SDS - Need 95 off 62b",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs England LIVE 1st Test",
+      "title": "Pakistan vs England 1st Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "England LIVE 1st Test",
+        "name": "England 1st Test",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Pakistan vs England LIVE 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Finland vs Luxembourg 14th Match",
-      "team1": {
-        "name": "Finland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Luxembourg 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Finland vs Luxembourg 14th Match",
+      "score": "Pakistan vs England 1st Test",
       "status": "Match Details"
     },
     {
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Spain 16th Match",
+      "title": "Finland vs Luxembourg 14th Match",
       "team1": {
-        "name": "Bulgaria",
+        "name": "Finland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Spain 16th Match",
+        "name": "Luxembourg 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bulgaria vs Spain 16th Match",
+      "score": "Finland vs Luxembourg 14th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic vs Israel 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Spain 16th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Spain 16th Match",
       "status": "Match Details"
     },
     {
@@ -407,19 +407,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Tanzania vs Italy 44th Match",
-      "team1": {
-        "name": "Tanzania",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Italy 44th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tanzania vs Italy 44th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Uganda vs Bahrain 45th Match",
       "team1": {
         "name": "Uganda",
@@ -430,6 +417,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uganda vs Bahrain 45th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tanzania vs Italy 44th Match",
+      "team1": {
+        "name": "Tanzania",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Italy 44th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tanzania vs Italy 44th Match",
       "status": "Match Details"
     },
     {
