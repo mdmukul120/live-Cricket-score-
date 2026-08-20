@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 09:15:47 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-08-20 09:53:57 UTC",
+  "total_matches": 32,
   "matches": [
     {
       "title": "PAK vs ENG - Stumps",
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MDP vs ITT - Preview",
+      "title": "MDP vs ITT - Delay",
       "team1": {
         "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +52,20 @@
         "name": "ITT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDP vs ITT - Preview",
+      "score": "MDP vs ITT - Delay",
       "status": "Match Details"
     },
     {
-      "title": "SUR vs NOTTS - Preview",
+      "title": "NOTTS vs SUR - SUR opt to bowl",
       "team1": {
-        "name": "SUR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "NOTTS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SUR vs NOTTS - Preview",
+      "team2": {
+        "name": "SUR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NOTTS vs SUR - SUR opt to bowl",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Luxembourg LIVE 17th Match",
+      "title": "Bulgaria vs Luxembourg 17th Match",
       "team1": {
         "name": "Bulgaria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Luxembourg LIVE 17th Match",
+        "name": "Luxembourg 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bulgaria vs Luxembourg LIVE 17th Match",
+      "score": "Bulgaria vs Luxembourg 17th Match",
       "status": "Match Details"
     },
     {
-      "title": "Portugal vs Czech Republic LIVE 18th Match",
+      "title": "Portugal vs Czech Republic 18th Match",
       "team1": {
         "name": "Portugal",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Czech Republic LIVE 18th Match",
+        "name": "Czech Republic 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Portugal vs Czech Republic LIVE 18th Match",
+      "score": "Portugal vs Czech Republic 18th Match",
       "status": "Match Details"
     },
     {
@@ -264,6 +264,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Nottinghamshire vs Surrey 41st Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Surrey 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Warwickshire 42nd Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire 42nd Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Sussex vs Warwickshire 42nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Leicestershire vs Glamorgan 43rd Match",
       "team1": {
         "name": "Leicestershire",
@@ -290,55 +316,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Yorkshire 45th Match",
+      "title": "Yorkshire vs Hampshire 45th Match",
       "team1": {
-        "name": "Hampshire",
+        "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Yorkshire 45th Match",
+        "name": "Hampshire 45th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Hampshire vs Yorkshire 45th Match",
+      "score": "Yorkshire vs Hampshire 45th Match",
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Nottinghamshire 41st Match",
+      "title": "Kent vs Middlesex 33rd Match",
       "team1": {
-        "name": "Surrey",
+        "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nottinghamshire 41st Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Nottinghamshire 41st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Sussex 42nd Match",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Sussex 42nd Match",
+        "name": "Middlesex 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Warwickshire vs Sussex 42nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Kent 33rd Match",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kent 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Middlesex vs Kent 33rd Match",
+      "score": "Kent vs Middlesex 33rd Match",
       "status": "Match Details"
     },
     {
@@ -404,6 +404,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "China Women vs Indonesia Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Oman Women vs Indonesia Women 3rd T20I",
+      "team1": {
+        "name": "Oman Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Indonesia Women 3rd T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Oman Women vs Indonesia Women 3rd T20I",
       "status": "Match Details"
     }
   ]
