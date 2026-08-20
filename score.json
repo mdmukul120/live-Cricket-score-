@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 17:12:20 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-08-20 17:48:12 UTC",
+  "total_matches": 37,
   "matches": [
     {
-      "title": "PAK vs ENG - Lead by 123",
+      "title": "PAK vs ENG - Lead by 160",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Lead by 123",
+      "score": "PAK vs ENG - Lead by 160",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "YORKS vs HAM - Trail by 142",
+      "title": "YORKS vs HAM - Trail by 128",
       "team1": {
         "name": "YORKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "HAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "YORKS vs HAM - Trail by 142",
+      "score": "YORKS vs HAM - Trail by 128",
       "status": "Match Details"
     },
     {
@@ -82,19 +82,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Luxembourg 17th Match",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Luxembourg 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria vs Luxembourg 17th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Portugal vs Czech Republic 18th Match",
       "team1": {
         "name": "Portugal",
@@ -105,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Portugal vs Czech Republic 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Luxembourg 17th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Luxembourg 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Luxembourg 17th Match",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs TBC 3rd Place Play-off",
+      "title": "Germany vs Finland 3rd Place Play-off",
       "team1": {
         "name": "Germany",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC 3rd Place Play",
+        "name": "Finland 3rd Place Play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Germany vs TBC 3rd Place Play-off",
+      "score": "Germany vs Finland 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -209,19 +209,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Antigua and Barbuda Falcons vs St Kitts and Nevis Patriots 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Trichy Grand Cholas vs Dindigul Dragons 22nd Match",
-      "team1": {
-        "name": "Trichy Grand Cholas",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dindigul Dragons 22nd Match",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Trichy Grand Cholas vs Dindigul Dragons 22nd Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Essex LIVE 44th Match",
+      "title": "Somerset vs Essex 44th Match",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE 44th Match",
+        "name": "Essex 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Essex LIVE 44th Match",
+      "score": "Somerset vs Essex 44th Match",
       "status": "Match Details"
     },
     {
@@ -355,42 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Worcestershire 36th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire 36th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Worcestershire 36th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Middlesex 33rd Match",
+      "title": "Kent vs Middlesex LIVE 33rd Match",
       "team1": {
         "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex 33rd Match",
+        "name": "Middlesex LIVE 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kent vs Middlesex 33rd Match",
+      "score": "Kent vs Middlesex LIVE 33rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Derbyshire LIVE 34th Match",
+      "title": "Durham vs Derbyshire 34th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Derbyshire LIVE 34th Match",
+        "name": "Derbyshire 34th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Derbyshire LIVE 34th Match",
+      "score": "Durham vs Derbyshire 34th Match",
       "status": "Match Details"
     },
     {
@@ -404,6 +378,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Northamptonshire vs Lancashire 35th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Worcestershire 36th Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Worcestershire 36th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Worcestershire 36th Match",
       "status": "Match Details"
     },
     {
@@ -456,32 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "20th Match • Vantaa, Tikkurila Cricket Ground Israel ISR 69-5 (8) Greece GRC 43-3 (5) Israel won by 1 run (DLS method)",
-      "status": "Match Details"
-    },
-    {
-      "title": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156-6 (20) Luxembourg LUX 97-4 (14) Bulgaria won by 6 runs (DLS method Target 104)",
-      "team1": {
-        "name": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Luxembourg LUX 97",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156-6 (20) Luxembourg LUX 97-4 (14) Bulgaria won by 6 runs (DLS method Target 104)",
-      "status": "Match Details"
-    },
-    {
-      "title": "18th Match • Vantaa, Tikkurila Cricket Ground Portugal PORT 211-6 (20) Czech Republic CZE 24-5 (8.5) Portugal won by 91 runs (DLS method Target 116)",
-      "team1": {
-        "name": "18th Match • Vantaa, Tikkurila Cricket Ground Portugal PORT 211",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Czech Republic CZE 24",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "18th Match • Vantaa, Tikkurila Cricket Ground Portugal PORT 211-6 (20) Czech Republic CZE 24-5 (8.5) Portugal won by 91 runs (DLS method Target 116)",
       "status": "Match Details"
     },
     {
