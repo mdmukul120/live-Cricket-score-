@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 11:00:27 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-08-20 11:36:44 UTC",
+  "total_matches": 31,
   "matches": [
     {
       "title": "PAK vs ENG - Rain",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "YORKS vs HAM - YORKS opt to bat",
+      "title": "YORKS vs HAM - Rain",
       "team1": {
         "name": "YORKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,7 @@
         "name": "HAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "YORKS vs HAM - YORKS opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "India vs Sri Lanka 1st Test",
-      "team1": {
-        "name": "India",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Sri Lanka 1st Test",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "India vs Sri Lanka 1st Test",
+      "score": "YORKS vs HAM - Rain",
       "status": "Match Details"
     },
     {
@@ -95,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Luxembourg LIVE 17th Match",
+      "title": "Bulgaria vs Luxembourg 17th Match",
       "team1": {
         "name": "Bulgaria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Luxembourg LIVE 17th Match",
+        "name": "Luxembourg 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bulgaria vs Luxembourg LIVE 17th Match",
+      "score": "Bulgaria vs Luxembourg 17th Match",
       "status": "Match Details"
     },
     {
@@ -251,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
-      "team1": {
-        "name": "North Delhi Strikers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Delhi Superstarz 34th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North Delhi Strikers vs South Delhi Superstarz 34th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "New Delhi Tigers vs West Delhi Lions 35th Match",
       "team1": {
         "name": "New Delhi Tigers",
@@ -277,29 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey LIVE 41st Match",
+      "title": "Nottinghamshire vs Surrey 41st Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Surrey LIVE 41st Match",
+        "name": "Surrey 41st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nottinghamshire vs Surrey LIVE 41st Match",
+      "score": "Nottinghamshire vs Surrey 41st Match",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire 42nd Match",
+      "title": "Sussex vs Warwickshire LIVE 42nd Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire 42nd Match",
+        "name": "Warwickshire LIVE 42nd Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Sussex vs Warwickshire 42nd Match",
+      "score": "Sussex vs Warwickshire LIVE 42nd Match",
       "status": "Match Details"
     },
     {
@@ -329,29 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Hampshire LIVE 45th Match",
+      "title": "Yorkshire vs Hampshire 45th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE 45th Match",
+        "name": "Hampshire 45th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Hampshire LIVE 45th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Worcestershire LIVE 36th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire LIVE 36th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Worcestershire LIVE 36th Match",
+      "score": "Yorkshire vs Hampshire 45th Match",
       "status": "Match Details"
     },
     {
@@ -368,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Durham 34th Match",
+      "title": "Durham vs Derbyshire 34th Match",
       "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham 34th Match",
+        "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Durham 34th Match",
+      "team2": {
+        "name": "Derbyshire 34th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Derbyshire 34th Match",
       "status": "Match Details"
     },
     {
@@ -391,6 +352,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Lancashire vs Northamptonshire 35th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Worcestershire LIVE 36th Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Worcestershire LIVE 36th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Worcestershire LIVE 36th Match",
       "status": "Match Details"
     },
     {
