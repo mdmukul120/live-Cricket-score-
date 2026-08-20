@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 03:27:19 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-08-20 04:10:26 UTC",
+  "total_matches": 30,
   "matches": [
     {
       "title": "SLK vs GAW - GAW won",
@@ -43,29 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "JKM vs SNP - JKM won",
+      "title": "MDP vs ITT - Preview",
       "team1": {
-        "name": "JKM",
+        "name": "MDP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ITT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MDP vs ITT - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ABF vs SNP - Preview",
+      "team1": {
+        "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKM vs SNP - JKM won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NDS vs SDS - SDS won",
-      "team1": {
-        "name": "NDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SDS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NDS vs SDS - SDS won",
+      "score": "ABF vs SNP - Preview",
       "status": "Match Details"
     },
     {
@@ -144,19 +144,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Greece vs Israel 20th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots 10th Match",
-      "team1": {
-        "name": "Jamaica Kingsmen",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "St Kitts and Nevis Patriots 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jamaica Kingsmen vs St Kitts and Nevis Patriots 10th Match",
       "status": "Match Details"
     },
     {
@@ -251,6 +238,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Surrey vs Nottinghamshire 41st Match",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nottinghamshire 41st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Nottinghamshire 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Sussex 42nd Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Sussex 42nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warwickshire vs Sussex 42nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Leicestershire vs Glamorgan 43rd Match",
       "team1": {
         "name": "Leicestershire",
@@ -287,32 +300,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Hampshire vs Yorkshire 45th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Nottinghamshire 41st Match",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nottinghamshire 41st Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Surrey vs Nottinghamshire 41st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Sussex 42nd Match",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Sussex 42nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warwickshire vs Sussex 42nd Match",
       "status": "Match Details"
     },
     {
