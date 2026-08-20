@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 07:52:31 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-08-20 08:34:36 UTC",
+  "total_matches": 32,
   "matches": [
-    {
-      "title": "SLK vs GAW - GAW won",
-      "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLK vs GAW - GAW won",
-      "status": "Match Details"
-    },
     {
       "title": "PAK vs ENG - Stumps",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "PAK vs ENG - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLK vs GAW - GAW won",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs GAW - GAW won",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Luxembourg 17th Match",
+      "title": "Bulgaria vs Luxembourg LIVE 17th Match",
       "team1": {
         "name": "Bulgaria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Luxembourg 17th Match",
+        "name": "Luxembourg LIVE 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bulgaria vs Luxembourg 17th Match",
+      "score": "Bulgaria vs Luxembourg LIVE 17th Match",
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic vs Portugal 18th Match",
+      "title": "Portugal vs Czech Republic LIVE 18th Match",
       "team1": {
-        "name": "Czech Republic",
+        "name": "Portugal",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Portugal 18th Match",
+        "name": "Czech Republic LIVE 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Czech Republic vs Portugal 18th Match",
+      "score": "Portugal vs Czech Republic LIVE 18th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +144,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Greece vs Israel 20th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC 3rd Place Play-off",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC 3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC 3rd Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC 7th Place Play-off",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC 7th Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC 7th Place Play-off",
       "status": "Match Details"
     },
     {
