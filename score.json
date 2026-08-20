@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 22:12:25 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-20 22:47:33 UTC",
+  "total_matches": 33,
   "matches": [
     {
-      "title": "ABF vs SNP - Preview",
+      "title": "SNP vs ABF - ABF opt to bowl",
       "team1": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ABF vs SNP - Preview",
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SNP vs ABF - ABF opt to bowl",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Antigua and Barbuda Falcons vs St Kitts and Nevis Patriots 12th Match",
+      "title": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 12th Match",
       "team1": {
-        "name": "Antigua and Barbuda Falcons",
+        "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "St Kitts and Nevis Patriots 12th Match",
+        "name": "Antigua and Barbuda Falcons 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Antigua and Barbuda Falcons vs St Kitts and Nevis Patriots 12th Match",
+      "score": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 12th Match",
       "status": "Match Details"
     },
     {
@@ -430,32 +430,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Oman Women vs Indonesia Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "20th Match • Vantaa, Tikkurila Cricket Ground Israel ISR 69-5 (8) Greece GRC 43-3 (5) Israel won by 1 run (DLS method)",
-      "team1": {
-        "name": "20th Match • Vantaa, Tikkurila Cricket Ground Israel ISR 69",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (8) Greece GRC 43",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "20th Match • Vantaa, Tikkurila Cricket Ground Israel ISR 69-5 (8) Greece GRC 43-3 (5) Israel won by 1 run (DLS method)",
-      "status": "Match Details"
-    },
-    {
-      "title": "24th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 140-7 (20) Nellai Royal Kings NRK 146-5 (16.1) Nellai Royal Kings won by 5 wkts",
-      "team1": {
-        "name": "24th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 140",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "7 (20) Nellai Royal Kings NRK 146",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "24th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 140-7 (20) Nellai Royal Kings NRK 146-5 (16.1) Nellai Royal Kings won by 5 wkts",
       "status": "Match Details"
     }
   ]
