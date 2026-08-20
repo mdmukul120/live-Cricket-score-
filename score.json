@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 11:36:44 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-08-20 12:01:05 UTC",
+  "total_matches": 33,
   "matches": [
     {
-      "title": "PAK vs ENG - Rain",
+      "title": "PAK vs ENG - Lunch",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Rain",
+      "score": "PAK vs ENG - Lunch",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MDP vs ITT - ITT opt to bowl",
+      "title": "MDP vs ITT - Innings Break",
       "team1": {
         "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "ITT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDP vs ITT - ITT opt to bowl",
+      "score": "MDP vs ITT - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "YORKS vs HAM - Rain",
+      "title": "YORKS vs HAM - YORKS opt to bat",
       "team1": {
         "name": "YORKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "HAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "YORKS vs HAM - Rain",
+      "score": "YORKS vs HAM - YORKS opt to bat",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC 3rd Place Play-off",
+      "title": "Germany vs TBC 3rd Place Play-off",
       "team1": {
-        "name": "TBC",
+        "name": "Germany",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "TBC 3rd Place Play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC 3rd Place Play-off",
+      "score": "Germany vs TBC 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Madurai Panthers vs IDream Tiruppur Tamizhans LIVE 23rd Match",
+      "title": "Madurai Panthers vs IDream Tiruppur Tamizhans 23rd Match",
       "team1": {
         "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "IDream Tiruppur Tamizhans LIVE 23rd Match",
+        "name": "IDream Tiruppur Tamizhans 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Madurai Panthers vs IDream Tiruppur Tamizhans LIVE 23rd Match",
+      "score": "Madurai Panthers vs IDream Tiruppur Tamizhans 23rd Match",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Hampshire 45th Match",
+      "title": "Yorkshire vs Hampshire LIVE 45th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire 45th Match",
+        "name": "Hampshire LIVE 45th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Hampshire 45th Match",
+      "score": "Yorkshire vs Hampshire LIVE 45th Match",
       "status": "Match Details"
     },
     {
@@ -404,6 +404,32 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Oman Women vs Indonesia Women 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "18th Match • Vantaa, Tikkurila Cricket Ground Portugal PORT 211-6 (20) Czech Republic CZE 24-5 (8.5) Portugal won by 91 runs (DLS method Target 116)",
+      "team1": {
+        "name": "18th Match • Vantaa, Tikkurila Cricket Ground Portugal PORT 211",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Czech Republic CZE 24",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "18th Match • Vantaa, Tikkurila Cricket Ground Portugal PORT 211-6 (20) Czech Republic CZE 24-5 (8.5) Portugal won by 91 runs (DLS method Target 116)",
+      "status": "Match Details"
+    },
+    {
+      "title": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156-6 (20) Luxembourg LUX 97-4 (14) Bulgaria won by 6 runs (DLS method Target 104)",
+      "team1": {
+        "name": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Luxembourg LUX 97",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156-6 (20) Luxembourg LUX 97-4 (14) Bulgaria won by 6 runs (DLS method Target 104)",
       "status": "Match Details"
     }
   ]
