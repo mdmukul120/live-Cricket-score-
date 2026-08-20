@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 02:34:12 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-08-20 03:27:19 UTC",
+  "total_matches": 31,
   "matches": [
     {
-      "title": "SLK vs GAW - Need 93 off 77b",
+      "title": "SLK vs GAW - GAW won",
       "team1": {
         "name": "SLK",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,7 +13,7 @@
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SLK vs GAW - Need 93 off 77b",
+      "score": "SLK vs GAW - GAW won",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Saint Lucia Kings vs Guyana Amazon Warriors LIVE 11th Match",
+      "title": "Saint Lucia Kings vs Guyana Amazon Warriors 11th Match",
       "team1": {
         "name": "Saint Lucia Kings",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors LIVE 11th Match",
+        "name": "Guyana Amazon Warriors 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Saint Lucia Kings vs Guyana Amazon Warriors LIVE 11th Match",
+      "score": "Saint Lucia Kings vs Guyana Amazon Warriors 11th Match",
       "status": "Match Details"
     },
     {
@@ -251,6 +251,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Leicestershire vs Glamorgan 43rd Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan 43rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Leicestershire vs Glamorgan 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Essex 44th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex 44th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Essex 44th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Hampshire vs Yorkshire 45th Match",
       "team1": {
         "name": "Hampshire",
@@ -287,32 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Warwickshire vs Sussex 42nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Glamorgan 43rd Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan 43rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Leicestershire vs Glamorgan 43rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Essex 44th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex 44th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Essex 44th Match",
       "status": "Match Details"
     },
     {
@@ -391,6 +391,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "China Women vs Indonesia Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Saint Lucia Kings SLK 151-7 (20) Guyana Amazon Warriors GAW 157-3 (18.1) Guyana Amazon Warriors won by 7 wkts",
+      "team1": {
+        "name": "11th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Saint Lucia Kings SLK 151",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "7 (20) Guyana Amazon Warriors GAW 157",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Gros Islet, St Lucia, Daren Sammy National Cricket Stadium Saint Lucia Kings SLK 151-7 (20) Guyana Amazon Warriors GAW 157-3 (18.1) Guyana Amazon Warriors won by 7 wkts",
       "status": "Match Details"
     }
   ]
