@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 21:48:18 UTC",
+  "last_updated": "2026-08-20 22:12:25 UTC",
   "total_matches": 35,
   "matches": [
-    {
-      "title": "PAK vs ENG - Stumps",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "PAK vs ENG - Stumps",
-      "status": "Match Details"
-    },
     {
       "title": "ABF vs SNP - Preview",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "ABF vs SNP - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs ENG - Stumps",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "PAK vs ENG - Stumps",
       "status": "Match Details"
     },
     {
@@ -277,6 +277,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nottinghamshire vs Surrey 41st Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Surrey 41st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sussex vs Warwickshire 42nd Match",
       "team1": {
         "name": "Sussex",
@@ -326,19 +339,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Yorkshire vs Hampshire 45th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Surrey 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey 41st Match",
       "status": "Match Details"
     },
     {
