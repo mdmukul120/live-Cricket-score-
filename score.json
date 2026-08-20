@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 22:47:33 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-08-20 23:12:35 UTC",
+  "total_matches": 34,
   "matches": [
     {
       "title": "SNP vs ABF - ABF opt to bowl",
@@ -82,19 +82,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Luxembourg 17th Match",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Luxembourg 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria vs Luxembourg 17th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Portugal vs Czech Republic 18th Match",
       "team1": {
         "name": "Portugal",
@@ -105,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Portugal vs Czech Republic 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Luxembourg 17th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Luxembourg 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Luxembourg 17th Match",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Finland 3rd Place Play-off",
+      "title": "Finland vs Germany 3rd Place Play-off",
       "team1": {
-        "name": "Germany",
+        "name": "Finland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Finland 3rd Place Play",
+        "name": "Germany 3rd Place Play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Germany vs Finland 3rd Place Play-off",
+      "score": "Finland vs Germany 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC 5th Place Play-off",
+      "title": "Isle of Man vs Israel 5th Place Play-off",
       "team1": {
-        "name": "TBC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Isle of Man",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "TBC 5th Place Play",
+        "name": "Israel 5th Place Play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC 5th Place Play-off",
+      "score": "Isle of Man vs Israel 5th Place Play-off",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 12th Match",
+      "title": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons LIVE 12th Match",
       "team1": {
         "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Antigua and Barbuda Falcons 12th Match",
+        "name": "Antigua and Barbuda Falcons LIVE 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 12th Match",
+      "score": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons LIVE 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Saint Lucia Kings vs Jamaica Kingsmen 13th Match",
+      "team1": {
+        "name": "Saint Lucia Kings",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Jamaica Kingsmen 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saint Lucia Kings vs Jamaica Kingsmen 13th Match",
       "status": "Match Details"
     },
     {
