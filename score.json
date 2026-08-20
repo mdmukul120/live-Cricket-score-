@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 14:45:38 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-20 15:19:36 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "PAK vs ENG - Trail by 20",
+      "title": "PAK vs ENG - Lead by 27",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Trail by 20",
+      "score": "PAK vs ENG - Lead by 27",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire LIVE 42nd Match",
+      "title": "Sussex vs Warwickshire 42nd Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire LIVE 42nd Match",
+        "name": "Warwickshire 42nd Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Sussex vs Warwickshire LIVE 42nd Match",
+      "score": "Sussex vs Warwickshire 42nd Match",
       "status": "Match Details"
     },
     {
@@ -368,29 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Middlesex LIVE 33rd Match",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Middlesex LIVE 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kent vs Middlesex LIVE 33rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Derbyshire 34th Match",
+      "title": "Durham vs Derbyshire LIVE 34th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Derbyshire 34th Match",
+        "name": "Derbyshire LIVE 34th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Derbyshire 34th Match",
+      "score": "Durham vs Derbyshire LIVE 34th Match",
       "status": "Match Details"
     },
     {
@@ -417,6 +404,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Worcestershire 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Middlesex 33rd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Middlesex 33rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kent vs Middlesex 33rd Match",
       "status": "Match Details"
     },
     {
@@ -459,19 +459,6 @@
       "status": "Match Details"
     },
     {
-      "title": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156-6 (20) Luxembourg LUX 97-4 (14) Bulgaria won by 6 runs (DLS method Target 104)",
-      "team1": {
-        "name": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Luxembourg LUX 97",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156-6 (20) Luxembourg LUX 97-4 (14) Bulgaria won by 6 runs (DLS method Target 104)",
-      "status": "Match Details"
-    },
-    {
       "title": "18th Match • Vantaa, Tikkurila Cricket Ground Portugal PORT 211-6 (20) Czech Republic CZE 24-5 (8.5) Portugal won by 91 runs (DLS method Target 116)",
       "team1": {
         "name": "18th Match • Vantaa, Tikkurila Cricket Ground Portugal PORT 211",
@@ -485,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156-6 (20) Luxembourg LUX 97-4 (14) Bulgaria won by 6 runs (DLS method Target 104)",
+      "team1": {
+        "name": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Luxembourg LUX 97",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "17th Match • Kerava, Kerava National Cricket Ground Bulgaria BGR 156-6 (20) Luxembourg LUX 97-4 (14) Bulgaria won by 6 runs (DLS method Target 104)",
+      "status": "Match Details"
+    },
+    {
       "title": "23rd Match • Chennai, MA Chidambaram Stadium Madurai Panthers MDP 157-9 (20) IDream Tiruppur Tamizhans ITT 160-6 (17.4) IDream Tiruppur Tamizhans won by 4 wkts",
       "team1": {
         "name": "23rd Match • Chennai, MA Chidambaram Stadium Madurai Panthers MDP 157",
@@ -495,6 +495,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "23rd Match • Chennai, MA Chidambaram Stadium Madurai Panthers MDP 157-9 (20) IDream Tiruppur Tamizhans ITT 160-6 (17.4) IDream Tiruppur Tamizhans won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 99-1 (13) Oman Women OMANW 34-4 (7) China Women won by 18 runs (DLS method Target 53)",
+      "team1": {
+        "name": "1st T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 99",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "1 (13) Oman Women OMANW 34",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 99-1 (13) Oman Women OMANW 34-4 (7) China Women won by 18 runs (DLS method Target 53)",
       "status": "Match Details"
     }
   ]
