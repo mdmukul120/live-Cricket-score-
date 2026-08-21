@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 13:05:51 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-21 13:56:32 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "PAK vs ENG - Trail by 174",
+      "title": "PAK vs ENG - Trail by 143",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Trail by 174",
+      "score": "PAK vs ENG - Trail by 143",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "VKK vs DGD - Dindigul Dragons need 159 runs in 84 balls",
+      "title": "VKK vs DGD - Dindigul Dragons need 102 runs in 36 balls",
       "team1": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "DGD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs DGD - Dindigul Dragons need 159 runs in 84 balls",
+      "score": "VKK vs DGD - Dindigul Dragons need 102 runs in 36 balls",
       "status": "Match Details"
     },
     {
-      "title": "YORKS vs HAM - Trail by 49",
+      "title": "YORKS vs HAM - Trail by 24",
       "team1": {
         "name": "YORKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "HAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "YORKS vs HAM - Trail by 49",
+      "score": "YORKS vs HAM - Trail by 24",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Czech Republic 7th Place Play-off",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Czech Republic 7th Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria vs Czech Republic 7th Place Play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "Germany vs Finland 3rd Place Play-off",
       "team1": {
         "name": "Germany",
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Germany vs Finland 3rd Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Czech Republic 7th Place Play-off",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Czech Republic 7th Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Czech Republic 7th Place Play-off",
       "status": "Match Details"
     },
     {
@@ -196,19 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Saint Lucia Kings vs Jamaica Kingsmen 13th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Madurai Panthers vs IDream Tiruppur Tamizhans 23rd Match",
-      "team1": {
-        "name": "Madurai Panthers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "IDream Tiruppur Tamizhans 23rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Madurai Panthers vs IDream Tiruppur Tamizhans 23rd Match",
       "status": "Match Details"
     },
     {
@@ -277,29 +264,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey 41st Match",
+      "title": "Central Delhi Kings vs West Delhi Lions 37th Match",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "West Delhi Lions 37th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs West Delhi Lions 37th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Surrey LIVE 41st Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Surrey 41st Match",
+        "name": "Surrey LIVE 41st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nottinghamshire vs Surrey 41st Match",
+      "score": "Nottinghamshire vs Surrey LIVE 41st Match",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire 42nd Match",
+      "title": "Sussex vs Warwickshire LIVE 42nd Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire 42nd Match",
+        "name": "Warwickshire LIVE 42nd Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Sussex vs Warwickshire 42nd Match",
+      "score": "Sussex vs Warwickshire LIVE 42nd Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Essex 44th Match",
+      "title": "Somerset vs Essex LIVE 44th Match",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex 44th Match",
+        "name": "Essex LIVE 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Essex 44th Match",
+      "score": "Somerset vs Essex LIVE 44th Match",
       "status": "Match Details"
     },
     {
@@ -342,68 +342,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Middlesex 33rd Match",
+      "title": "Kent vs Middlesex LIVE 33rd Match",
       "team1": {
         "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex 33rd Match",
+        "name": "Middlesex LIVE 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kent vs Middlesex 33rd Match",
+      "score": "Kent vs Middlesex LIVE 33rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Derbyshire 34th Match",
+      "title": "Durham vs Derbyshire LIVE 34th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Derbyshire 34th Match",
+        "name": "Derbyshire LIVE 34th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Derbyshire 34th Match",
+      "score": "Durham vs Derbyshire LIVE 34th Match",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Lancashire 35th Match",
+      "title": "Northamptonshire vs Lancashire LIVE 35th Match",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Lancashire 35th Match",
+        "name": "Lancashire LIVE 35th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Northamptonshire vs Lancashire 35th Match",
+      "score": "Northamptonshire vs Lancashire LIVE 35th Match",
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Worcestershire 36th Match",
+      "title": "Gloucestershire vs Worcestershire LIVE 36th Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Worcestershire 36th Match",
+        "name": "Worcestershire LIVE 36th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Worcestershire 36th Match",
+      "score": "Gloucestershire vs Worcestershire LIVE 36th Match",
       "status": "Match Details"
     },
     {
-      "title": "China Women vs Indonesia Women 2nd T20I",
+      "title": "Indonesia Women vs China Women 2nd T20I",
       "team1": {
-        "name": "China Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Indonesia Women 2nd T20I",
+        "name": "Indonesia Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "China Women vs Indonesia Women 2nd T20I",
+      "team2": {
+        "name": "China Women 2nd T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Indonesia Women vs China Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -459,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd Place Play-off • Kerava, Kerava National Cricket Ground Germany GER 144-7 (20) Finland FIN 76 (15.4) Germany won by 68 runs",
+      "title": "Luxembourg Women vs Belgium Women 2nd T20I",
       "team1": {
-        "name": "3rd Place Play",
+        "name": "Luxembourg Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "off • Kerava, Kerava National Cricket Ground Germany GER 144",
+        "name": "Belgium Women 2nd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd Place Play-off • Kerava, Kerava National Cricket Ground Germany GER 144-7 (20) Finland FIN 76 (15.4) Germany won by 68 runs",
+      "score": "Luxembourg Women vs Belgium Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -482,6 +482,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "7th Place Play-off • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 158 (19.5) Czech Republic CZE 164-5 (19.2) Czech Republic won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Place Play-off • Kerava, Kerava National Cricket Ground Germany GER 144-7 (20) Finland FIN 76 (15.4) Germany won by 68 runs",
+      "team1": {
+        "name": "3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "off • Kerava, Kerava National Cricket Ground Germany GER 144",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Place Play-off • Kerava, Kerava National Cricket Ground Germany GER 144-7 (20) Finland FIN 76 (15.4) Germany won by 68 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I • Hangzhou, Zhejiang University of Technology Cricket Field Indonesia Women IDNW 68-3 (9) China Women CHNW 69-3 (9) China Women won by 7 wkts",
+      "team1": {
+        "name": "2nd T20I • Hangzhou, Zhejiang University of Technology Cricket Field Indonesia Women IDNW 68",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "3 (9) China Women CHNW 69",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd T20I • Hangzhou, Zhejiang University of Technology Cricket Field Indonesia Women IDNW 68-3 (9) China Women CHNW 69-3 (9) China Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
