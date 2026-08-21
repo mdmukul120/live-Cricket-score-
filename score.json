@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 17:41:26 UTC",
+  "last_updated": "2026-08-21 18:13:27 UTC",
   "total_matches": 41,
   "matches": [
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "TRI vs CSG - Need 43 off 23b",
+      "title": "TRI vs CSG - TRI won",
       "team1": {
         "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRI vs CSG - Need 43 off 23b",
+      "score": "TRI vs CSG - TRI won",
       "status": "Match Details"
     },
     {
-      "title": "YORKS vs HAM - Lead by 99",
+      "title": "YORKS vs HAM - Stumps",
       "team1": {
         "name": "YORKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "HAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "YORKS vs HAM - Lead by 99",
+      "score": "YORKS vs HAM - Stumps",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Israel vs Isle of Man 5th Place Play-off",
-      "team1": {
-        "name": "Israel",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Isle of Man 5th Place Play",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Israel vs Isle of Man 5th Place Play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "Portugal vs Spain Final",
       "team1": {
         "name": "Portugal",
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Portugal vs Spain Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Israel vs Isle of Man 5th Place Play-off",
+      "team1": {
+        "name": "Israel",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Isle of Man 5th Place Play",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Israel vs Isle of Man 5th Place Play-off",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trichy Grand Cholas vs Chepauk Super Gillies LIVE 26th Match",
+      "title": "Trichy Grand Cholas vs Chepauk Super Gillies 26th Match",
       "team1": {
         "name": "Trichy Grand Cholas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Chepauk Super Gillies LIVE 26th Match",
+        "name": "Chepauk Super Gillies 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy Grand Cholas vs Chepauk Super Gillies LIVE 26th Match",
+      "score": "Trichy Grand Cholas vs Chepauk Super Gillies 26th Match",
       "status": "Match Details"
     },
     {
@@ -277,42 +277,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Glamorgan LIVE 43rd Match",
+      "title": "Leicestershire vs Glamorgan 43rd Match",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan LIVE 43rd Match",
+        "name": "Glamorgan 43rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Glamorgan LIVE 43rd Match",
+      "score": "Leicestershire vs Glamorgan 43rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Essex LIVE 44th Match",
+      "title": "Somerset vs Essex 44th Match",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE 44th Match",
+        "name": "Essex 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Essex LIVE 44th Match",
+      "score": "Somerset vs Essex 44th Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Hampshire LIVE 45th Match",
+      "title": "Yorkshire vs Hampshire 45th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE 45th Match",
+        "name": "Hampshire 45th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Hampshire LIVE 45th Match",
+      "score": "Yorkshire vs Hampshire 45th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Middlesex LIVE 33rd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Middlesex LIVE 33rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kent vs Middlesex LIVE 33rd Match",
       "status": "Match Details"
     },
     {
@@ -352,19 +365,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Worcestershire 36th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Middlesex LIVE 33rd Match",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Middlesex LIVE 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kent vs Middlesex LIVE 33rd Match",
       "status": "Match Details"
     },
     {
@@ -459,19 +459,6 @@
       "status": "Match Details"
     },
     {
-      "title": "7th Place Play-off • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 158 (19.5) Czech Republic CZE 164-5 (19.2) Czech Republic won by 5 wkts",
-      "team1": {
-        "name": "7th Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "off • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 158 (19.5) Czech Republic CZE 164",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Place Play-off • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 158 (19.5) Czech Republic CZE 164-5 (19.2) Czech Republic won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "5th Place Play-off • Vantaa, Tikkurila Cricket Ground Israel ISR 88 (18.2) Isle of Man IOM 89-1 (10.1) Isle of Man won by 9 wkts",
       "team1": {
         "name": "5th Place Play",
@@ -508,6 +495,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "25th Match • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 171-3 (16) Dindigul Dragons DGD 93 (13.2) Vida Kovai Kings won by 85 runs (DLS Method)",
+      "status": "Match Details"
+    },
+    {
+      "title": "26th Match • Chennai, MA Chidambaram Stadium Trichy Grand Cholas TRI 191-7 (20) Chepauk Super Gillies CSG 177-6 (20) Trichy Grand Cholas won by 14 runs",
+      "team1": {
+        "name": "26th Match • Chennai, MA Chidambaram Stadium Trichy Grand Cholas TRI 191",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Chepauk Super Gillies CSG 177",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "26th Match • Chennai, MA Chidambaram Stadium Trichy Grand Cholas TRI 191-7 (20) Chepauk Super Gillies CSG 177-6 (20) Trichy Grand Cholas won by 14 runs",
       "status": "Match Details"
     },
     {
