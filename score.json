@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 16:32:16 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-08-21 17:04:14 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "PAK vs ENG - ENG won",
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "TRI vs CSG - Need 188 to win",
+      "title": "TRI vs CSG - Need 127 off 76b",
       "team1": {
         "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRI vs CSG - Need 188 to win",
+      "score": "TRI vs CSG - Need 127 off 76b",
       "status": "Match Details"
     },
     {
-      "title": "YORKS vs HAM - Lead by 56",
+      "title": "YORKS vs HAM - Lead by 80",
       "team1": {
         "name": "YORKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "HAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "YORKS vs HAM - Lead by 56",
+      "score": "YORKS vs HAM - Lead by 80",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Portugal vs Spain LIVE Final",
-      "team1": {
-        "name": "Portugal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain LIVE Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Portugal vs Spain LIVE Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Israel vs Isle of Man 5th Place Play-off",
       "team1": {
         "name": "Israel",
@@ -144,6 +131,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Israel vs Isle of Man 5th Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Portugal vs Spain Final",
+      "team1": {
+        "name": "Portugal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Portugal vs Spain Final",
       "status": "Match Details"
     },
     {
@@ -290,29 +290,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Glamorgan 43rd Match",
+      "title": "Leicestershire vs Glamorgan LIVE 43rd Match",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan 43rd Match",
+        "name": "Glamorgan LIVE 43rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Glamorgan 43rd Match",
+      "score": "Leicestershire vs Glamorgan LIVE 43rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Essex 44th Match",
+      "title": "Somerset vs Essex LIVE 44th Match",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex 44th Match",
+        "name": "Essex LIVE 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Essex 44th Match",
+      "score": "Somerset vs Essex LIVE 44th Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Middlesex 33rd Match",
+      "title": "Kent vs Middlesex LIVE 33rd Match",
       "team1": {
         "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex 33rd Match",
+        "name": "Middlesex LIVE 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kent vs Middlesex 33rd Match",
+      "score": "Kent vs Middlesex LIVE 33rd Match",
       "status": "Match Details"
     },
     {
@@ -472,6 +472,32 @@
       "status": "Match Details"
     },
     {
+      "title": "5th Place Play-off • Vantaa, Tikkurila Cricket Ground Israel ISR 88 (18.2) Isle of Man IOM 89-1 (10.1) Isle of Man won by 9 wkts",
+      "team1": {
+        "name": "5th Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "off • Vantaa, Tikkurila Cricket Ground Israel ISR 88 (18.2) Isle of Man IOM 89",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "5th Place Play-off • Vantaa, Tikkurila Cricket Ground Israel ISR 88 (18.2) Isle of Man IOM 89-1 (10.1) Isle of Man won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160-6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
+      "team1": {
+        "name": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160-6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "3rd Place Play-off • Kerava, Kerava National Cricket Ground Germany GER 144-7 (20) Finland FIN 76 (15.4) Germany won by 68 runs",
       "team1": {
         "name": "3rd Place Play",
@@ -495,19 +521,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "7th Place Play-off • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 158 (19.5) Czech Republic CZE 164-5 (19.2) Czech Republic won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Place Play-off • Vantaa, Tikkurila Cricket Ground Israel ISR 88 (18.2) Isle of Man IOM 89-1 (10.1) Isle of Man won by 9 wkts",
-      "team1": {
-        "name": "5th Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "off • Vantaa, Tikkurila Cricket Ground Israel ISR 88 (18.2) Isle of Man IOM 89",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "5th Place Play-off • Vantaa, Tikkurila Cricket Ground Israel ISR 88 (18.2) Isle of Man IOM 89-1 (10.1) Isle of Man won by 9 wkts",
       "status": "Match Details"
     },
     {
