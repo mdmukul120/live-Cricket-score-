@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 11:36:24 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-21 12:01:11 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "PAK vs ENG - Trail by 202",
+      "title": "PAK vs ENG - Trail by 185",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Trail by 202",
+      "score": "PAK vs ENG - Trail by 185",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "YORKS vs HAM - Trail by 67",
+      "title": "YORKS vs HAM - Trail by 54",
       "team1": {
         "name": "YORKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "HAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "YORKS vs HAM - Trail by 67",
+      "score": "YORKS vs HAM - Trail by 54",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Finland LIVE 3rd Place Play-off",
-      "team1": {
-        "name": "Germany",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Finland LIVE 3rd Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Germany vs Finland LIVE 3rd Place Play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "Bulgaria vs Czech Republic 7th Place Play-off",
       "team1": {
         "name": "Bulgaria",
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bulgaria vs Czech Republic 7th Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Germany vs Finland 3rd Place Play-off",
+      "team1": {
+        "name": "Germany",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Finland 3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Germany vs Finland 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -456,6 +456,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Luxembourg Women vs Belgium Women 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Place Play-off • Kerava, Kerava National Cricket Ground Germany GER 144-7 (20) Finland FIN 76 (15.4) Germany won by 68 runs",
+      "team1": {
+        "name": "3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "off • Kerava, Kerava National Cricket Ground Germany GER 144",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Place Play-off • Kerava, Kerava National Cricket Ground Germany GER 144-7 (20) Finland FIN 76 (15.4) Germany won by 68 runs",
       "status": "Match Details"
     }
   ]
