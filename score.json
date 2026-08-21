@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 01:54:40 UTC",
+  "last_updated": "2026-08-21 03:05:40 UTC",
   "total_matches": 36,
   "matches": [
     {
-      "title": "SNP vs ABF - Need 108 off 54b",
+      "title": "SNP vs ABF - ABF won",
       "team1": {
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs ABF - Need 108 off 54b",
+      "score": "SNP vs ABF - ABF won",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Luxembourg 17th Match",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Luxembourg 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria vs Luxembourg 17th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Portugal vs Czech Republic 18th Match",
       "team1": {
         "name": "Portugal",
@@ -118,6 +105,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Portugal vs Czech Republic 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bulgaria vs Luxembourg 17th Match",
+      "team1": {
+        "name": "Bulgaria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Luxembourg 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria vs Luxembourg 17th Match",
       "status": "Match Details"
     },
     {
@@ -199,29 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Saint Lucia Kings vs Guyana Amazon Warriors 11th Match",
-      "team1": {
-        "name": "Saint Lucia Kings",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Guyana Amazon Warriors 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Saint Lucia Kings vs Guyana Amazon Warriors 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons LIVE 12th Match",
+      "title": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 12th Match",
       "team1": {
         "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Antigua and Barbuda Falcons LIVE 12th Match",
+        "name": "Antigua and Barbuda Falcons 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons LIVE 12th Match",
+      "score": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 12th Match",
       "status": "Match Details"
     },
     {
@@ -303,6 +290,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Yorkshire vs Hampshire 45th Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire 45th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Hampshire 45th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Nottinghamshire vs Surrey 41st Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -352,19 +352,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Somerset vs Essex 44th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Hampshire 45th Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Hampshire 45th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Yorkshire vs Hampshire 45th Match",
       "status": "Match Details"
     },
     {
@@ -469,6 +456,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "China Women vs Oman Women 4th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match • North Sound, Antigua, Sir Vivian Richards Stadium St Kitts and Nevis Patriots SNP 187-6 (20) Antigua and Barbuda Falcons ABF 191-7 (19.3) Antigua and Barbuda Falcons won by 3 wkts",
+      "team1": {
+        "name": "12th Match • North Sound, Antigua, Sir Vivian Richards Stadium St Kitts and Nevis Patriots SNP 187",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Antigua and Barbuda Falcons ABF 191",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "12th Match • North Sound, Antigua, Sir Vivian Richards Stadium St Kitts and Nevis Patriots SNP 187-6 (20) Antigua and Barbuda Falcons ABF 191-7 (19.3) Antigua and Barbuda Falcons won by 3 wkts",
       "status": "Match Details"
     }
   ]
