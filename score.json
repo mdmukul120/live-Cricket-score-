@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-20 23:43:05 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-21 00:03:00 UTC",
+  "total_matches": 35,
   "matches": [
     {
       "title": "SNP vs ABF - ABF opt to bowl",
@@ -79,6 +79,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "Pakistan vs England 1st Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia vs Bangladesh 2nd Test",
+      "team1": {
+        "name": "Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Bangladesh 2nd Test",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Australia vs Bangladesh 2nd Test",
       "status": "Match Details"
     },
     {
