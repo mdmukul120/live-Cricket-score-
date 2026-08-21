@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 10:36:37 UTC",
+  "last_updated": "2026-08-21 11:02:14 UTC",
   "total_matches": 37,
   "matches": [
     {
-      "title": "PAK vs ENG - Lead by 238",
+      "title": "PAK vs ENG - Trail by 234",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,20 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Lead by 238",
-      "status": "Match Details"
-    },
-    {
-      "title": "SNP vs ABF - ABF won",
-      "team1": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SNP vs ABF - ABF won",
+      "score": "PAK vs ENG - Trail by 234",
       "status": "Match Details"
     },
     {
@@ -43,20 +30,20 @@
       "status": "Match Details"
     },
     {
-      "title": "IND vs SL - IND won",
+      "title": "SLK vs JKM - Preview",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "SL",
+        "name": "SLK",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - IND won",
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs JKM - Preview",
       "status": "Match Details"
     },
     {
-      "title": "VKK vs DGD - DGD opt to bowl",
+      "title": "VKK vs DGD - Rain",
       "team1": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +52,20 @@
         "name": "DGD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs DGD - DGD opt to bowl",
+      "score": "VKK vs DGD - Rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "YORKS vs HAM - Trail by 80",
+      "team1": {
+        "name": "YORKS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "HAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "YORKS vs HAM - Trail by 80",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Portugal vs Czech Republic 18th Match",
-      "team1": {
-        "name": "Portugal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Czech Republic 18th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Portugal vs Czech Republic 18th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bulgaria vs Luxembourg 17th Match",
       "team1": {
         "name": "Bulgaria",
@@ -118,6 +105,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bulgaria vs Luxembourg 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Portugal vs Czech Republic 18th Match",
+      "team1": {
+        "name": "Portugal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Czech Republic 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Portugal vs Czech Republic 18th Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Dindigul Dragons LIVE 25th Match",
+      "title": "Vida Kovai Kings vs Dindigul Dragons 25th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dindigul Dragons LIVE 25th Match",
+        "name": "Dindigul Dragons 25th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Vida Kovai Kings vs Dindigul Dragons LIVE 25th Match",
+      "score": "Vida Kovai Kings vs Dindigul Dragons 25th Match",
       "status": "Match Details"
     },
     {
