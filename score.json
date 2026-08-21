@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 13:56:32 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-21 14:43:14 UTC",
+  "total_matches": 42,
   "matches": [
     {
-      "title": "PAK vs ENG - Trail by 143",
+      "title": "PAK vs ENG -",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Trail by 143",
+      "score": "PAK vs ENG -",
       "status": "Match Details"
     },
     {
@@ -43,20 +43,20 @@
       "status": "Match Details"
     },
     {
-      "title": "VKK vs DGD - Dindigul Dragons need 102 runs in 36 balls",
+      "title": "TRI vs CSG - TRI opt to bat",
       "team1": {
-        "name": "VKK",
+        "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "DGD",
+        "name": "CSG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs DGD - Dindigul Dragons need 102 runs in 36 balls",
+      "score": "TRI vs CSG - TRI opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "YORKS vs HAM - Trail by 24",
+      "title": "YORKS vs HAM - Lead by 11",
       "team1": {
         "name": "YORKS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "HAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "YORKS vs HAM - Trail by 24",
+      "score": "YORKS vs HAM - Lead by 11",
       "status": "Match Details"
     },
     {
@@ -212,29 +212,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Dindigul Dragons LIVE 25th Match",
+      "title": "Vida Kovai Kings vs Dindigul Dragons 25th Match",
       "team1": {
         "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dindigul Dragons LIVE 25th Match",
+        "name": "Dindigul Dragons 25th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Vida Kovai Kings vs Dindigul Dragons LIVE 25th Match",
+      "score": "Vida Kovai Kings vs Dindigul Dragons 25th Match",
       "status": "Match Details"
     },
     {
-      "title": "Trichy Grand Cholas vs Chepauk Super Gillies 26th Match",
+      "title": "Trichy Grand Cholas vs Chepauk Super Gillies LIVE 26th Match",
       "team1": {
         "name": "Trichy Grand Cholas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Chepauk Super Gillies 26th Match",
+        "name": "Chepauk Super Gillies LIVE 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy Grand Cholas vs Chepauk Super Gillies 26th Match",
+      "score": "Trichy Grand Cholas vs Chepauk Super Gillies LIVE 26th Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Outer Delhi Warriors vs East Delhi Riders 36th Match",
+      "title": "Nellai Royal Kings vs Madurai Panthers 28th Match",
+      "team1": {
+        "name": "Nellai Royal Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Madurai Panthers 28th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nellai Royal Kings vs Madurai Panthers 28th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Outer Delhi Warriors vs East Delhi Riders LIVE 36th Match",
       "team1": {
         "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Delhi Riders 36th Match",
+        "name": "East Delhi Riders LIVE 36th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Outer Delhi Warriors vs East Delhi Riders 36th Match",
+      "score": "Outer Delhi Warriors vs East Delhi Riders LIVE 36th Match",
       "status": "Match Details"
     },
     {
@@ -472,6 +485,19 @@
       "status": "Match Details"
     },
     {
+      "title": "1st Test • Leeds, Headingley Pakistan PAK 171 & 135 England ENG 409 Day 3: 2nd Session - England won by an innings and 103 runs",
+      "team1": {
+        "name": "1st Test • Leeds, Headingley Pakistan PAK 171 & 135 England ENG 409 Day 3: 2nd Session",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "England won by an innings and 103 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "1st Test • Leeds, Headingley Pakistan PAK 171 & 135 England ENG 409 Day 3: 2nd Session - England won by an innings and 103 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "7th Place Play-off • Vantaa, Tikkurila Cricket Ground Bulgaria BGR 158 (19.5) Czech Republic CZE 164-5 (19.2) Czech Republic won by 5 wkts",
       "team1": {
         "name": "7th Place Play",
@@ -495,6 +521,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Place Play-off • Kerava, Kerava National Cricket Ground Germany GER 144-7 (20) Finland FIN 76 (15.4) Germany won by 68 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "25th Match • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 171-3 (16) Dindigul Dragons DGD 93 (13.2) Vida Kovai Kings won by 85 runs (DLS Method)",
+      "team1": {
+        "name": "25th Match • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 171",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (16) Dindigul Dragons DGD 93 (13.2) Vida Kovai Kings won by 85 runs (DLS Method)",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "25th Match • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 171-3 (16) Dindigul Dragons DGD 93 (13.2) Vida Kovai Kings won by 85 runs (DLS Method)",
       "status": "Match Details"
     },
     {
