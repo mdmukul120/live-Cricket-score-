@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 19:53:06 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-21 20:23:45 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "PAK vs ENG - ENG won",
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria vs Czech Republic 7th Place Play-off",
-      "team1": {
-        "name": "Bulgaria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Czech Republic 7th Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria vs Czech Republic 7th Place Play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "Germany vs Finland 3rd Place Play-off",
       "team1": {
         "name": "Germany",
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Portugal vs Spain Final",
+      "title": "Bulgaria vs Czech Republic 7th Place Play-off",
       "team1": {
-        "name": "Portugal",
+        "name": "Bulgaria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Spain Final",
+        "name": "Czech Republic 7th Place Play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Portugal vs Spain Final",
+      "score": "Bulgaria vs Czech Republic 7th Place Play-off",
       "status": "Match Details"
     },
     {
@@ -144,6 +131,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Israel vs Isle of Man 5th Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Portugal vs Spain Final",
+      "team1": {
+        "name": "Portugal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Portugal vs Spain Final",
       "status": "Match Details"
     },
     {
@@ -446,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Test • Leeds, Headingley Pakistan PAK 171 & 135 England ENG 409 England won by an innings and 103 runs",
+      "title": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160-6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
       "team1": {
-        "name": "1st Test • Leeds, Headingley Pakistan PAK 171 & 135 England ENG 409 England won by an innings and 103 runs",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Team 2",
+        "name": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st Test • Leeds, Headingley Pakistan PAK 171 & 135 England ENG 409 England won by an innings and 103 runs",
+      "team2": {
+        "name": "6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160-6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
       "status": "Match Details"
     },
     {
@@ -469,19 +469,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "5th Place Play-off • Vantaa, Tikkurila Cricket Ground Israel ISR 88 (18.2) Isle of Man IOM 89-1 (10.1) Isle of Man won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160-6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
-      "team1": {
-        "name": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Final • Kerava, Kerava National Cricket Ground Portugal PORT 160-6 (20) Spain ESP 103 (17.1) Portugal won by 57 runs",
       "status": "Match Details"
     },
     {
