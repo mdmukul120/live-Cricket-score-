@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-21 22:59:38 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-21 23:32:55 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "JKM vs SLK - SLK opt to bowl",
@@ -17,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "AUS vs BAN - Preview",
+      "title": "BAN vs AUS - AUS opt to bowl",
       "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs BAN - Preview",
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "BAN vs AUS - AUS opt to bowl",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Bangladesh 2nd Test",
+      "title": "Bangladesh vs Australia 2nd Test",
       "team1": {
-        "name": "Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Bangladesh 2nd Test",
+        "name": "Bangladesh",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Australia vs Bangladesh 2nd Test",
+      "team2": {
+        "name": "Australia 2nd Test",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Bangladesh vs Australia 2nd Test",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Saint Lucia Kings 13th Match",
+      "title": "Jamaica Kingsmen vs Saint Lucia Kings LIVE 13th Match",
       "team1": {
         "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Saint Lucia Kings 13th Match",
+        "name": "Saint Lucia Kings LIVE 13th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Jamaica Kingsmen vs Saint Lucia Kings 13th Match",
+      "score": "Jamaica Kingsmen vs Saint Lucia Kings LIVE 13th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Antigua and Barbuda Falcons vs Trinbago Knight Riders 14th Match",
+      "team1": {
+        "name": "Antigua and Barbuda Falcons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trinbago Knight Riders 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Antigua and Barbuda Falcons vs Trinbago Knight Riders 14th Match",
       "status": "Match Details"
     },
     {
