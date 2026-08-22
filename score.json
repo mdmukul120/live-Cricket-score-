@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 20:43:46 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-08-22 21:02:30 UTC",
+  "total_matches": 41,
   "matches": [
     {
       "title": "BAN vs AUS - Stumps",
@@ -290,6 +290,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Kent vs Middlesex 33rd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Middlesex 33rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kent vs Middlesex 33rd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Northamptonshire vs Lancashire 35th Match",
       "team1": {
         "name": "Northamptonshire",
@@ -313,19 +326,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Worcestershire 36th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Middlesex 33rd Match",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Middlesex 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kent vs Middlesex 33rd Match",
       "status": "Match Details"
     },
     {
@@ -511,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101-9 (20) Indonesia Women IDNW 100-1 (15.1) Indonesia Women won by 9 wkts (DLS method)",
+      "title": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
       "team1": {
-        "name": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101",
+        "name": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) Indonesia Women IDNW 100",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "5 (15) Luxembourg Women LUXW 139",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101-9 (20) Indonesia Women IDNW 100-1 (15.1) Indonesia Women won by 9 wkts (DLS method)",
+      "score": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
       "status": "Match Details"
     },
     {
@@ -534,19 +534,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "1st T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 198-6 (20) Luxembourg Women LUXW 172-4 (20) Belgium Women won by 26 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
-      "team1": {
-        "name": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (15) Luxembourg Women LUXW 139",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
       "status": "Match Details"
     }
   ]
