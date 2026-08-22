@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 13:12:17 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-22 13:46:10 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "BAN vs AUS - Stumps",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SAL vs ITT - Need 57 off 23b",
+      "title": "SAL vs ITT - SAL won",
       "team1": {
         "name": "SAL",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -65,7 +65,7 @@
         "name": "ITT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SAL vs ITT - Need 57 off 23b",
+      "score": "SAL vs ITT - SAL won",
       "status": "Match Details"
     },
     {
@@ -160,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Vida Kovai Kings vs Dindigul Dragons 25th Match",
-      "team1": {
-        "name": "Vida Kovai Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dindigul Dragons 25th Match",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Vida Kovai Kings vs Dindigul Dragons 25th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Trichy Grand Cholas vs Chepauk Super Gillies 26th Match",
       "team1": {
         "name": "Trichy Grand Cholas",
@@ -186,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SKM Salem Spartans vs IDream Tiruppur Tamizhans LIVE 27th Match",
+      "title": "SKM Salem Spartans vs IDream Tiruppur Tamizhans 27th Match",
       "team1": {
         "name": "SKM Salem Spartans",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "IDream Tiruppur Tamizhans LIVE 27th Match",
+        "name": "IDream Tiruppur Tamizhans 27th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SKM Salem Spartans vs IDream Tiruppur Tamizhans LIVE 27th Match",
+      "score": "SKM Salem Spartans vs IDream Tiruppur Tamizhans 27th Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +212,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs West Delhi Lions 37th Match",
+      "title": "Central Delhi Kings vs West Delhi Lions LIVE 37th Match",
       "team1": {
         "name": "Central Delhi Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Delhi Lions 37th Match",
+        "name": "West Delhi Lions LIVE 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs West Delhi Lions 37th Match",
+      "score": "Central Delhi Kings vs West Delhi Lions LIVE 37th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "North Delhi Strikers vs Outer Delhi Warriors 38th Match",
+      "team1": {
+        "name": "North Delhi Strikers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Outer Delhi Warriors 38th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North Delhi Strikers vs Outer Delhi Warriors 38th Match",
       "status": "Match Details"
     },
     {
@@ -248,6 +248,32 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "South Africa A vs Bangladesh A 1st Unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Essex LIVE 44th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex LIVE 44th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Essex LIVE 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Hampshire LIVE 45th Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire LIVE 45th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Hampshire LIVE 45th Match",
       "status": "Match Details"
     },
     {
@@ -287,32 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Leicestershire vs Glamorgan LIVE 43rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Essex LIVE 44th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex LIVE 44th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Essex LIVE 44th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Hampshire LIVE 45th Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Hampshire LIVE 45th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Yorkshire vs Hampshire LIVE 45th Match",
       "status": "Match Details"
     },
     {
@@ -469,6 +469,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Luxembourg Women vs Belgium Women 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Luxembourg Women vs Belgium Women 4th T20I",
+      "team1": {
+        "name": "Luxembourg Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Belgium Women 4th T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Luxembourg Women vs Belgium Women 4th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169-8 (20) IDream Tiruppur Tamizhans ITT 124-9 (20) SKM Salem Spartans won by 45 runs",
+      "team1": {
+        "name": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "8 (20) IDream Tiruppur Tamizhans ITT 124",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169-8 (20) IDream Tiruppur Tamizhans ITT 124-9 (20) SKM Salem Spartans won by 45 runs",
       "status": "Match Details"
     },
     {
