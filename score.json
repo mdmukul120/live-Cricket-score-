@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 10:38:07 UTC",
+  "last_updated": "2026-08-22 10:58:51 UTC",
   "total_matches": 39,
   "matches": [
     {
@@ -108,19 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Finland 3rd Place Play-off",
-      "team1": {
-        "name": "Germany",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Finland 3rd Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Germany vs Finland 3rd Place Play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "Bulgaria vs Czech Republic 7th Place Play-off",
       "team1": {
         "name": "Bulgaria",
@@ -134,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Israel vs Isle of Man 5th Place Play-off",
+      "title": "Germany vs Finland 3rd Place Play-off",
       "team1": {
-        "name": "Israel",
+        "name": "Germany",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Isle of Man 5th Place Play",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "Finland 3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Israel vs Isle of Man 5th Place Play-off",
+      "score": "Germany vs Finland 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -157,6 +144,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Portugal vs Spain Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Israel vs Isle of Man 5th Place Play-off",
+      "team1": {
+        "name": "Israel",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Isle of Man 5th Place Play",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Israel vs Isle of Man 5th Place Play-off",
       "status": "Match Details"
     },
     {
@@ -381,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Derbyshire LIVE 34th Match",
+      "title": "Durham vs Derbyshire 34th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Derbyshire LIVE 34th Match",
+        "name": "Derbyshire 34th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Derbyshire LIVE 34th Match",
+      "score": "Durham vs Derbyshire 34th Match",
       "status": "Match Details"
     },
     {
