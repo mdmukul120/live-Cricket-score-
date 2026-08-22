@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 16:15:19 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-08-22 16:44:35 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "BAN vs AUS - Stumps",
@@ -30,19 +30,6 @@
       "status": "Match Details"
     },
     {
-      "title": "PAK vs ENG - ENG won",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "PAK vs ENG - ENG won",
-      "status": "Match Details"
-    },
-    {
       "title": "ABF vs TKR - Preview",
       "team1": {
         "name": "ABF",
@@ -56,7 +43,20 @@
       "status": "Match Details"
     },
     {
-      "title": "MDP vs NRK - MDP opt to bat",
+      "title": "PAK vs ENG - ENG won",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "PAK vs ENG - ENG won",
+      "status": "Match Details"
+    },
+    {
+      "title": "MDP vs NRK - Need 169 to win",
       "team1": {
         "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "NRK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDP vs NRK - MDP opt to bat",
+      "score": "MDP vs NRK - Need 169 to win",
       "status": "Match Details"
     },
     {
@@ -105,32 +105,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "Bangladesh vs Australia 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Israel vs Isle of Man 5th Place Play-off",
-      "team1": {
-        "name": "Israel",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Isle of Man 5th Place Play",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Israel vs Isle of Man 5th Place Play-off",
-      "status": "Match Details"
-    },
-    {
-      "title": "Portugal vs Spain Final",
-      "team1": {
-        "name": "Portugal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Portugal vs Spain Final",
       "status": "Match Details"
     },
     {
@@ -251,16 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa A vs Bangladesh A 1st Unofficial Test",
+      "title": "Nottinghamshire vs Surrey LIVE 41st Match",
       "team1": {
-        "name": "South Africa A",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Bangladesh A 1st Unofficial Test",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "Surrey LIVE 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa A vs Bangladesh A 1st Unofficial Test",
+      "score": "Nottinghamshire vs Surrey LIVE 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Warwickshire LIVE 42nd Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire LIVE 42nd Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Sussex vs Warwickshire LIVE 42nd Match",
       "status": "Match Details"
     },
     {
@@ -303,32 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey LIVE 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey LIVE 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey LIVE 41st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Warwickshire LIVE 42nd Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire LIVE 42nd Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Sussex vs Warwickshire LIVE 42nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "East Zone vs North East Zone 1st Quarter final",
       "team1": {
         "name": "East Zone",
@@ -368,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Derbyshire 34th Match",
+      "title": "Durham vs Derbyshire LIVE 34th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Derbyshire 34th Match",
+        "name": "Derbyshire LIVE 34th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Derbyshire 34th Match",
+      "score": "Durham vs Derbyshire LIVE 34th Match",
       "status": "Match Details"
     },
     {
@@ -404,6 +365,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Worcestershire LIVE 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa A vs Bangladesh A 1st Unofficial Test",
+      "team1": {
+        "name": "South Africa A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Bangladesh A 1st Unofficial Test",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "South Africa A vs Bangladesh A 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -446,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Luxembourg Women vs Belgium Women 1st T20I",
+      "title": "Belgium Women vs Luxembourg Women 1st T20I",
       "team1": {
-        "name": "Luxembourg Women",
+        "name": "Belgium Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Belgium Women 1st T20I",
+        "name": "Luxembourg Women 1st T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Luxembourg Women vs Belgium Women 1st T20I",
+      "score": "Belgium Women vs Luxembourg Women 1st T20I",
       "status": "Match Details"
     },
     {
