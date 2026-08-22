@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 10:06:08 UTC",
+  "last_updated": "2026-08-22 10:38:07 UTC",
   "total_matches": 39,
   "matches": [
     {
@@ -134,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Portugal vs Spain Final",
-      "team1": {
-        "name": "Portugal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Portugal vs Spain Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Israel vs Isle of Man 5th Place Play-off",
       "team1": {
         "name": "Israel",
@@ -157,6 +144,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Israel vs Isle of Man 5th Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Portugal vs Spain Final",
+      "team1": {
+        "name": "Portugal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Portugal vs Spain Final",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire 42nd Match",
+      "title": "Nottinghamshire vs Surrey LIVE 41st Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey LIVE 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Surrey LIVE 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Warwickshire LIVE 42nd Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire 42nd Match",
+        "name": "Warwickshire LIVE 42nd Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Sussex vs Warwickshire 42nd Match",
+      "score": "Sussex vs Warwickshire LIVE 42nd Match",
       "status": "Match Details"
     },
     {
@@ -326,19 +339,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Yorkshire vs Hampshire LIVE 45th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Surrey 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey 41st Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Worcestershire 36th Match",
+      "title": "Gloucestershire vs Worcestershire LIVE 36th Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Worcestershire 36th Match",
+        "name": "Worcestershire LIVE 36th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Worcestershire 36th Match",
+      "score": "Gloucestershire vs Worcestershire LIVE 36th Match",
       "status": "Match Details"
     },
     {
