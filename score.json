@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 17:54:54 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-08-22 18:35:04 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "BAN vs AUS - Stumps",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MDP vs NRK - Need 79 off 16b",
+      "title": "MDP vs NRK - MDP won",
       "team1": {
         "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "NRK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDP vs NRK - Need 79 off 16b",
+      "score": "MDP vs NRK - MDP won",
       "status": "Match Details"
     },
     {
@@ -147,42 +147,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Madurai Panthers vs Nellai Royal Kings LIVE 28th Match",
+      "title": "Madurai Panthers vs Nellai Royal Kings 28th Match",
       "team1": {
         "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nellai Royal Kings LIVE 28th Match",
+        "name": "Nellai Royal Kings 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Madurai Panthers vs Nellai Royal Kings LIVE 28th Match",
+      "score": "Madurai Panthers vs Nellai Royal Kings 28th Match",
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Qualifier 1",
+      "title": "Madurai Panthers vs Trichy Grand Cholas Qualifier 1",
       "team1": {
-        "name": "TBC",
+        "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Qualifier 1",
+        "name": "Trichy Grand Cholas Qualifier 1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC Qualifier 1",
+      "score": "Madurai Panthers vs Trichy Grand Cholas Qualifier 1",
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs West Delhi Lions LIVE 37th Match",
+      "title": "Central Delhi Kings vs West Delhi Lions 37th Match",
       "team1": {
         "name": "Central Delhi Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Delhi Lions LIVE 37th Match",
+        "name": "West Delhi Lions 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs West Delhi Lions LIVE 37th Match",
+      "score": "Central Delhi Kings vs West Delhi Lions 37th Match",
       "status": "Match Details"
     },
     {
@@ -199,42 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey LIVE 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey LIVE 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey LIVE 41st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Warwickshire LIVE 42nd Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire LIVE 42nd Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Sussex vs Warwickshire LIVE 42nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Glamorgan LIVE 43rd Match",
+      "title": "Leicestershire vs Glamorgan 43rd Match",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan LIVE 43rd Match",
+        "name": "Glamorgan 43rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Glamorgan LIVE 43rd Match",
+      "score": "Leicestershire vs Glamorgan 43rd Match",
       "status": "Match Details"
     },
     {
@@ -264,6 +238,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Nottinghamshire vs Surrey 41st Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Surrey 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Warwickshire 42nd Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire 42nd Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Sussex vs Warwickshire 42nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "East Zone vs North East Zone 1st Quarter final",
       "team1": {
         "name": "East Zone",
@@ -290,55 +290,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Middlesex LIVE 33rd Match",
+      "title": "Kent vs Middlesex 33rd Match",
       "team1": {
         "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex LIVE 33rd Match",
+        "name": "Middlesex 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kent vs Middlesex LIVE 33rd Match",
+      "score": "Kent vs Middlesex 33rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Derbyshire LIVE 34th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire LIVE 34th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Derbyshire LIVE 34th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Lancashire LIVE 35th Match",
+      "title": "Northamptonshire vs Lancashire 35th Match",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Lancashire LIVE 35th Match",
+        "name": "Lancashire 35th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Northamptonshire vs Lancashire LIVE 35th Match",
+      "score": "Northamptonshire vs Lancashire 35th Match",
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Worcestershire LIVE 36th Match",
+      "title": "Gloucestershire vs Worcestershire 36th Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Worcestershire LIVE 36th Match",
+        "name": "Worcestershire 36th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Worcestershire LIVE 36th Match",
+      "score": "Gloucestershire vs Worcestershire 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Derbyshire 34th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Derbyshire 34th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Derbyshire 34th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Luxembourg Women LIVE 1st T20I",
+      "title": "Belgium Women vs Luxembourg Women 1st T20I",
       "team1": {
         "name": "Belgium Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Luxembourg Women LIVE 1st T20I",
+        "name": "Luxembourg Women 1st T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belgium Women vs Luxembourg Women LIVE 1st T20I",
+      "score": "Belgium Women vs Luxembourg Women 1st T20I",
       "status": "Match Details"
     },
     {
@@ -446,6 +446,19 @@
       "status": "Match Details"
     },
     {
+      "title": "28th Match • Chennai, MA Chidambaram Stadium Madurai Panthers MDP 198-5 (20) Nellai Royal Kings NRK 126 (19.1) Madurai Panthers won by 72 runs",
+      "team1": {
+        "name": "28th Match • Chennai, MA Chidambaram Stadium Madurai Panthers MDP 198",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Nellai Royal Kings NRK 126 (19.1) Madurai Panthers won by 72 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "28th Match • Chennai, MA Chidambaram Stadium Madurai Panthers MDP 198-5 (20) Nellai Royal Kings NRK 126 (19.1) Madurai Panthers won by 72 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169-8 (20) IDream Tiruppur Tamizhans ITT 124-9 (20) SKM Salem Spartans won by 45 runs",
       "team1": {
         "name": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169",
@@ -456,6 +469,58 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169-8 (20) IDream Tiruppur Tamizhans ITT 124-9 (20) SKM Salem Spartans won by 45 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "37th Match • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 232-8 (20) West Delhi Lions WDL 211-8 (20) Central Delhi Kings won by 21 runs",
+      "team1": {
+        "name": "37th Match • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 232",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) West Delhi Lions WDL 211",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "37th Match • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 232-8 (20) West Delhi Lions WDL 211-8 (20) Central Delhi Kings won by 21 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "41st Match • London, Kennington Oval Nottinghamshire NOTTS 184 & 306 Surrey SUR 162 & 183 Nottinghamshire won by 145 runs",
+      "team1": {
+        "name": "41st Match • London, Kennington Oval Nottinghamshire NOTTS 184 & 306 Surrey SUR 162 & 183 Nottinghamshire won by 145 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "41st Match • London, Kennington Oval Nottinghamshire NOTTS 184 & 306 Surrey SUR 162 & 183 Nottinghamshire won by 145 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "42nd Match • Birmingham, Edgbaston Sussex SUS 156 & 207 Warwickshire WARKS 161 & 206-9 Warwickshire won by 1 wkt",
+      "team1": {
+        "name": "42nd Match • Birmingham, Edgbaston Sussex SUS 156 & 207 Warwickshire WARKS 161 & 206",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "9 Warwickshire won by 1 wkt",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "42nd Match • Birmingham, Edgbaston Sussex SUS 156 & 207 Warwickshire WARKS 161 & 206-9 Warwickshire won by 1 wkt",
+      "status": "Match Details"
+    },
+    {
+      "title": "34th Match • Derby, County Ground Durham DUR 283 & 295-6 d Derbyshire DERBY 156 & 84 Durham won by 338 runs",
+      "team1": {
+        "name": "34th Match • Derby, County Ground Durham DUR 283 & 295",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 d Derbyshire DERBY 156 & 84 Durham won by 338 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "34th Match • Derby, County Ground Durham DUR 283 & 295-6 d Derbyshire DERBY 156 & 84 Durham won by 338 runs",
       "status": "Match Details"
     },
     {
@@ -472,16 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "4th T20I • Hangzhou, Zhejiang University of Technology Cricket Field Oman Women OMANW 45 (17.3) China Women CHNW 47-2 (9.2) China Women won by 8 wkts",
+      "title": "1st T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 198-6 (20) Luxembourg Women LUXW 172-4 (20) Belgium Women won by 26 runs",
       "team1": {
-        "name": "4th T20I • Hangzhou, Zhejiang University of Technology Cricket Field Oman Women OMANW 45 (17.3) China Women CHNW 47",
+        "name": "1st T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 198",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "2 (9.2) China Women won by 8 wkts",
+        "name": "6 (20) Luxembourg Women LUXW 172",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "4th T20I • Hangzhou, Zhejiang University of Technology Cricket Field Oman Women OMANW 45 (17.3) China Women CHNW 47-2 (9.2) China Women won by 8 wkts",
+      "score": "1st T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 198-6 (20) Luxembourg Women LUXW 172-4 (20) Belgium Women won by 26 runs",
       "status": "Match Details"
     }
   ]
