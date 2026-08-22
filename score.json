@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 07:43:02 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-22 08:03:13 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "BAN vs AUS - Stumps",
@@ -108,19 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany vs Finland 3rd Place Play-off",
-      "team1": {
-        "name": "Germany",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Finland 3rd Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Germany vs Finland 3rd Place Play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "Bulgaria vs Czech Republic 7th Place Play-off",
       "team1": {
         "name": "Bulgaria",
@@ -131,6 +118,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bulgaria vs Czech Republic 7th Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Germany vs Finland 3rd Place Play-off",
+      "team1": {
+        "name": "Germany",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Finland 3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Germany vs Finland 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -264,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Hampshire 45th Match",
+      "title": "South Africa A vs Bangladesh A 1st Unofficial Test",
       "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "South Africa A",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Hampshire 45th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Bangladesh A 1st Unofficial Test",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Yorkshire vs Hampshire 45th Match",
+      "score": "South Africa A vs Bangladesh A 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -326,6 +326,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Somerset vs Essex 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Hampshire 45th Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire 45th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Hampshire 45th Match",
       "status": "Match Details"
     },
     {
