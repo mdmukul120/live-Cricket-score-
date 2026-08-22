@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 15:28:58 UTC",
+  "last_updated": "2026-08-22 15:51:07 UTC",
   "total_matches": 41,
   "matches": [
     {
@@ -108,19 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Portugal vs Spain Final",
-      "team1": {
-        "name": "Portugal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Spain Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Portugal vs Spain Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Israel vs Isle of Man 5th Place Play-off",
       "team1": {
         "name": "Israel",
@@ -131,6 +118,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Israel vs Isle of Man 5th Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Portugal vs Spain Final",
+      "team1": {
+        "name": "Portugal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Spain Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Portugal vs Spain Final",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs West Delhi Lions LIVE 37th Match",
+      "title": "Central Delhi Kings vs West Delhi Lions 37th Match",
       "team1": {
         "name": "Central Delhi Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Delhi Lions LIVE 37th Match",
+        "name": "West Delhi Lions 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs West Delhi Lions LIVE 37th Match",
+      "score": "Central Delhi Kings vs West Delhi Lions 37th Match",
       "status": "Match Details"
     },
     {
@@ -251,42 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa A vs Bangladesh A 1st Unofficial Test",
-      "team1": {
-        "name": "South Africa A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Bangladesh A 1st Unofficial Test",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "South Africa A vs Bangladesh A 1st Unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Surrey 41st Match",
+      "title": "Nottinghamshire vs Surrey LIVE 41st Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Surrey 41st Match",
+        "name": "Surrey LIVE 41st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nottinghamshire vs Surrey 41st Match",
+      "score": "Nottinghamshire vs Surrey LIVE 41st Match",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire 42nd Match",
+      "title": "Sussex vs Warwickshire LIVE 42nd Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire 42nd Match",
+        "name": "Warwickshire LIVE 42nd Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Sussex vs Warwickshire 42nd Match",
+      "score": "Sussex vs Warwickshire LIVE 42nd Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Worcestershire 36th Match",
+      "title": "Gloucestershire vs Worcestershire LIVE 36th Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Worcestershire 36th Match",
+        "name": "Worcestershire LIVE 36th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Worcestershire 36th Match",
+      "score": "Gloucestershire vs Worcestershire LIVE 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa A vs Bangladesh A 1st Unofficial Test",
+      "team1": {
+        "name": "South Africa A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Bangladesh A 1st Unofficial Test",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "South Africa A vs Bangladesh A 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -511,19 +511,6 @@
       "status": "Match Details"
     },
     {
-      "title": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101-9 (20) Indonesia Women IDNW 100-1 (15.1) Indonesia Women won by 9 wkts (DLS method)",
-      "team1": {
-        "name": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Indonesia Women IDNW 100",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101-9 (20) Indonesia Women IDNW 100-1 (15.1) Indonesia Women won by 9 wkts (DLS method)",
-      "status": "Match Details"
-    },
-    {
       "title": "4th T20I • Hangzhou, Zhejiang University of Technology Cricket Field Oman Women OMANW 45 (17.3) China Women CHNW 47-2 (9.2) China Women won by 8 wkts",
       "team1": {
         "name": "4th T20I • Hangzhou, Zhejiang University of Technology Cricket Field Oman Women OMANW 45 (17.3) China Women CHNW 47",
@@ -534,6 +521,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th T20I • Hangzhou, Zhejiang University of Technology Cricket Field Oman Women OMANW 45 (17.3) China Women CHNW 47-2 (9.2) China Women won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101-9 (20) Indonesia Women IDNW 100-1 (15.1) Indonesia Women won by 9 wkts (DLS method)",
+      "team1": {
+        "name": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Indonesia Women IDNW 100",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101-9 (20) Indonesia Women IDNW 100-1 (15.1) Indonesia Women won by 9 wkts (DLS method)",
       "status": "Match Details"
     }
   ]
