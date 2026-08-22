@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 22:23:49 UTC",
+  "last_updated": "2026-08-22 22:48:34 UTC",
   "total_matches": 41,
   "matches": [
+    {
+      "title": "TKR vs ABF - ABF opt to bowl",
+      "team1": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKR vs ABF - ABF opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "BAN vs AUS - Stumps",
       "team1": {
@@ -27,19 +40,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "SL vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "ABF vs TKR - Preview",
-      "team1": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ABF vs TKR - Preview",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Antigua and Barbuda Falcons vs Trinbago Knight Riders 14th Match",
+      "title": "Trinbago Knight Riders vs Antigua and Barbuda Falcons 14th Match",
       "team1": {
-        "name": "Antigua and Barbuda Falcons",
+        "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trinbago Knight Riders 14th Match",
+        "name": "Antigua and Barbuda Falcons 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Antigua and Barbuda Falcons vs Trinbago Knight Riders 14th Match",
+      "score": "Trinbago Knight Riders vs Antigua and Barbuda Falcons 14th Match",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire 42nd Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire 42nd Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Sussex vs Warwickshire 42nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Nottinghamshire vs Surrey 41st Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -261,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nottinghamshire vs Surrey 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Warwickshire 42nd Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire 42nd Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Sussex vs Warwickshire 42nd Match",
       "status": "Match Details"
     },
     {
@@ -290,19 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Middlesex 33rd Match",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Middlesex 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kent vs Middlesex 33rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Northamptonshire vs Lancashire 35th Match",
       "team1": {
         "name": "Northamptonshire",
@@ -326,6 +313,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Worcestershire 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Middlesex 33rd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Middlesex 33rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kent vs Middlesex 33rd Match",
       "status": "Match Details"
     },
     {
@@ -511,19 +511,6 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
-      "team1": {
-        "name": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (15) Luxembourg Women LUXW 139",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
-      "status": "Match Details"
-    },
-    {
       "title": "1st T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 198-6 (20) Luxembourg Women LUXW 172-4 (20) Belgium Women won by 26 runs",
       "team1": {
         "name": "1st T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 198",
@@ -534,6 +521,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "1st T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 198-6 (20) Luxembourg Women LUXW 172-4 (20) Belgium Women won by 26 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
+      "team1": {
+        "name": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (15) Luxembourg Women LUXW 139",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
       "status": "Match Details"
     }
   ]
