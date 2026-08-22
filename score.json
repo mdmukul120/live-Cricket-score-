@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 14:56:58 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-08-22 15:28:58 UTC",
+  "total_matches": 41,
   "matches": [
     {
       "title": "BAN vs AUS - Stumps",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "MDP vs NRK - Rain",
+      "title": "MDP vs NRK - MDP opt to bat",
       "team1": {
         "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "NRK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDP vs NRK - Rain",
+      "score": "MDP vs NRK - MDP opt to bat",
       "status": "Match Details"
     },
     {
@@ -108,19 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Israel vs Isle of Man 5th Place Play-off",
-      "team1": {
-        "name": "Israel",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Isle of Man 5th Place Play",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Israel vs Isle of Man 5th Place Play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "Portugal vs Spain Final",
       "team1": {
         "name": "Portugal",
@@ -131,6 +118,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Portugal vs Spain Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Israel vs Isle of Man 5th Place Play-off",
+      "team1": {
+        "name": "Israel",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Isle of Man 5th Place Play",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Israel vs Isle of Man 5th Place Play-off",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Madurai Panthers vs Nellai Royal Kings 28th Match",
+      "title": "Madurai Panthers vs Nellai Royal Kings LIVE 28th Match",
       "team1": {
         "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nellai Royal Kings 28th Match",
+        "name": "Nellai Royal Kings LIVE 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Madurai Panthers vs Nellai Royal Kings 28th Match",
+      "score": "Madurai Panthers vs Nellai Royal Kings LIVE 28th Match",
       "status": "Match Details"
     },
     {
@@ -264,68 +264,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey LIVE 41st Match",
+      "title": "Nottinghamshire vs Surrey 41st Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Surrey LIVE 41st Match",
+        "name": "Surrey 41st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nottinghamshire vs Surrey LIVE 41st Match",
+      "score": "Nottinghamshire vs Surrey 41st Match",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire LIVE 42nd Match",
+      "title": "Sussex vs Warwickshire 42nd Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire LIVE 42nd Match",
+        "name": "Warwickshire 42nd Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Sussex vs Warwickshire LIVE 42nd Match",
+      "score": "Sussex vs Warwickshire 42nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Glamorgan 43rd Match",
+      "title": "Leicestershire vs Glamorgan LIVE 43rd Match",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan 43rd Match",
+        "name": "Glamorgan LIVE 43rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Glamorgan 43rd Match",
+      "score": "Leicestershire vs Glamorgan LIVE 43rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Essex 44th Match",
+      "title": "Somerset vs Essex LIVE 44th Match",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex 44th Match",
+        "name": "Essex LIVE 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Essex 44th Match",
+      "score": "Somerset vs Essex LIVE 44th Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Hampshire 45th Match",
+      "title": "Yorkshire vs Hampshire LIVE 45th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire 45th Match",
+        "name": "Hampshire LIVE 45th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Hampshire 45th Match",
+      "score": "Yorkshire vs Hampshire LIVE 45th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Worcestershire LIVE 36th Match",
+      "title": "Gloucestershire vs Worcestershire 36th Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Worcestershire LIVE 36th Match",
+        "name": "Worcestershire 36th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Worcestershire LIVE 36th Match",
+      "score": "Gloucestershire vs Worcestershire 36th Match",
       "status": "Match Details"
     },
     {
@@ -508,6 +508,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169-8 (20) IDream Tiruppur Tamizhans ITT 124-9 (20) SKM Salem Spartans won by 45 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101-9 (20) Indonesia Women IDNW 100-1 (15.1) Indonesia Women won by 9 wkts (DLS method)",
+      "team1": {
+        "name": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Indonesia Women IDNW 100",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "5th T20I • Hangzhou, Zhejiang University of Technology Cricket Field China Women CHNW 101-9 (20) Indonesia Women IDNW 100-1 (15.1) Indonesia Women won by 9 wkts (DLS method)",
       "status": "Match Details"
     },
     {
