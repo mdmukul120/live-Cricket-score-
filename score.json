@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 13:46:10 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-22 14:05:02 UTC",
+  "total_matches": 40,
   "matches": [
     {
       "title": "BAN vs AUS - Stumps",
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SAL vs ITT - SAL won",
+      "title": "MDP vs NRK - MDP opt to bat",
       "team1": {
-        "name": "SAL",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "ITT",
+        "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SAL vs ITT - SAL won",
+      "team2": {
+        "name": "NRK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MDP vs NRK - MDP opt to bat",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Nellai Royal Kings vs Madurai Panthers 28th Match",
+      "title": "Madurai Panthers vs Nellai Royal Kings LIVE 28th Match",
       "team1": {
-        "name": "Nellai Royal Kings",
+        "name": "Madurai Panthers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Madurai Panthers 28th Match",
+        "name": "Nellai Royal Kings LIVE 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nellai Royal Kings vs Madurai Panthers 28th Match",
+      "score": "Madurai Panthers vs Nellai Royal Kings LIVE 28th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC Qualifier 1",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Qualifier 1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Qualifier 1",
       "status": "Match Details"
     },
     {
@@ -251,32 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Essex LIVE 44th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex LIVE 44th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Essex LIVE 44th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Hampshire LIVE 45th Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Hampshire LIVE 45th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Yorkshire vs Hampshire LIVE 45th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Nottinghamshire vs Surrey LIVE 41st Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -313,6 +300,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Leicestershire vs Glamorgan LIVE 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Essex LIVE 44th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex LIVE 44th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Essex LIVE 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Hampshire LIVE 45th Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire LIVE 45th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Hampshire LIVE 45th Match",
       "status": "Match Details"
     },
     {
