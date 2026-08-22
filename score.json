@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 19:01:57 UTC",
+  "last_updated": "2026-08-22 19:31:03 UTC",
   "total_matches": 42,
   "matches": [
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Sussex vs Warwickshire 42nd Match",
       "team1": {
         "name": "Sussex",
@@ -261,6 +248,19 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "Sussex vs Warwickshire 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Surrey 41st Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Surrey 41st Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Luxembourg Women LIVE 2nd T20I",
+      "title": "Belgium Women vs Luxembourg Women 2nd T20I",
       "team1": {
         "name": "Belgium Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Luxembourg Women LIVE 2nd T20I",
+        "name": "Luxembourg Women 2nd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belgium Women vs Luxembourg Women LIVE 2nd T20I",
+      "score": "Belgium Women vs Luxembourg Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -443,19 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Luxembourg Women vs Belgium Women 4th T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169-8 (20) IDream Tiruppur Tamizhans ITT 124-9 (20) SKM Salem Spartans won by 45 runs",
-      "team1": {
-        "name": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "8 (20) IDream Tiruppur Tamizhans ITT 124",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "27th Match • Chennai, MA Chidambaram Stadium SKM Salem Spartans SAL 169-8 (20) IDream Tiruppur Tamizhans ITT 124-9 (20) SKM Salem Spartans won by 45 runs",
       "status": "Match Details"
     },
     {
@@ -547,6 +534,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "1st T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 198-6 (20) Luxembourg Women LUXW 172-4 (20) Belgium Women won by 26 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
+      "team1": {
+        "name": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (15) Luxembourg Women LUXW 139",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
       "status": "Match Details"
     }
   ]
