@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-23 10:08:41 UTC",
+  "last_updated": "2026-08-23 10:40:56 UTC",
   "total_matches": 35,
   "matches": [
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs WZONE - NZONE opt to bat",
+      "title": "NZONE vs WZONE - Innings Break",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -52,7 +52,7 @@
         "name": "WZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs WZONE - NZONE opt to bat",
+      "score": "NZONE vs WZONE - Innings Break",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Sussex vs Warwickshire 42nd Match",
       "team1": {
         "name": "Sussex",
@@ -261,6 +248,19 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "Sussex vs Warwickshire 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Surrey 41st Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Surrey 41st Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs West Zone LIVE 2nd Quarter final",
+      "title": "North Zone vs West Zone 2nd Quarter final",
       "team1": {
         "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Zone LIVE 2nd Quarter final",
+        "name": "West Zone 2nd Quarter final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs West Zone LIVE 2nd Quarter final",
+      "score": "North Zone vs West Zone 2nd Quarter final",
       "status": "Match Details"
     },
     {
@@ -420,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Luxembourg Women vs Belgium Women 3rd T20I",
+      "title": "Belgium Women vs Luxembourg Women LIVE 3rd T20I",
       "team1": {
-        "name": "Luxembourg Women",
+        "name": "Belgium Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Belgium Women 3rd T20I",
+        "name": "Luxembourg Women LIVE 3rd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Luxembourg Women vs Belgium Women 3rd T20I",
+      "score": "Belgium Women vs Luxembourg Women LIVE 3rd T20I",
       "status": "Match Details"
     },
     {
