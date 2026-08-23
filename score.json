@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-22 23:55:17 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-23 01:41:42 UTC",
+  "total_matches": 35,
   "matches": [
     {
-      "title": "TKR vs ABF - ABF opt to bowl",
-      "team1": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TKR vs ABF - ABF opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "BAN vs AUS - Stumps",
+      "title": "BAN vs AUS - Trail by 122",
       "team1": {
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
@@ -26,7 +13,20 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "BAN vs AUS - Stumps",
+      "score": "BAN vs AUS - Trail by 122",
+      "status": "Match Details"
+    },
+    {
+      "title": "TKR vs ABF - Need 137 off 93b",
+      "team1": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKR vs ABF - Need 137 off 93b",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh vs Australia 2nd Test",
+      "title": "Bangladesh vs Australia LIVE 2nd Test",
       "team1": {
         "name": "Bangladesh",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "Australia 2nd Test",
+        "name": "Australia LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Bangladesh vs Australia 2nd Test",
+      "score": "Bangladesh vs Australia LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Sussex vs Warwickshire 42nd Match",
       "team1": {
         "name": "Sussex",
@@ -274,6 +261,19 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "Sussex vs Warwickshire 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Surrey 41st Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Surrey 41st Match",
       "status": "Match Details"
     },
     {
@@ -456,58 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Luxembourg Women vs Belgium Women 4th T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "42nd Match • Birmingham, Edgbaston Sussex SUS 156 & 207 Warwickshire WARKS 161 & 206-9 Warwickshire won by 1 wkt",
-      "team1": {
-        "name": "42nd Match • Birmingham, Edgbaston Sussex SUS 156 & 207 Warwickshire WARKS 161 & 206",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "9 Warwickshire won by 1 wkt",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "42nd Match • Birmingham, Edgbaston Sussex SUS 156 & 207 Warwickshire WARKS 161 & 206-9 Warwickshire won by 1 wkt",
-      "status": "Match Details"
-    },
-    {
-      "title": "41st Match • London, Kennington Oval Nottinghamshire NOTTS 184 & 306 Surrey SUR 162 & 183 Nottinghamshire won by 145 runs",
-      "team1": {
-        "name": "41st Match • London, Kennington Oval Nottinghamshire NOTTS 184 & 306 Surrey SUR 162 & 183 Nottinghamshire won by 145 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "41st Match • London, Kennington Oval Nottinghamshire NOTTS 184 & 306 Surrey SUR 162 & 183 Nottinghamshire won by 145 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "34th Match • Derby, County Ground Durham DUR 283 & 295-6 d Derbyshire DERBY 156 & 84 Durham won by 338 runs",
-      "team1": {
-        "name": "34th Match • Derby, County Ground Durham DUR 283 & 295",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 d Derbyshire DERBY 156 & 84 Durham won by 338 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "34th Match • Derby, County Ground Durham DUR 283 & 295-6 d Derbyshire DERBY 156 & 84 Durham won by 338 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
-      "team1": {
-        "name": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (15) Luxembourg Women LUXW 139",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 122-5 (15) Luxembourg Women LUXW 139-0 (12.5) Luxembourg Women won by 10 wkts (DLS method)",
       "status": "Match Details"
     }
   ]
