@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-23 11:53:09 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-23 12:36:40 UTC",
+  "total_matches": 35,
   "matches": [
     {
-      "title": "IND vs SL - IND opt to bat",
+      "title": "IND vs SL - Stumps",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - IND opt to bat",
+      "score": "IND vs SL - Stumps",
       "status": "Match Details"
     },
     {
@@ -30,32 +30,6 @@
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - Stumps",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NEZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs NEZONE - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZONE vs WZONE - Stumps",
-      "team1": {
-        "name": "NZONE",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "WZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NZONE vs WZONE - Stumps",
-      "status": "Match Details"
-    },
-    {
       "title": "MDP vs TRI - Preview",
       "team1": {
         "name": "MDP",
@@ -69,16 +43,42 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka LIVE 2nd Test",
+      "title": "ABF vs GAW - Preview",
+      "team1": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ABF vs GAW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "NHNTS vs LANCS - Need 340 to win",
+      "team1": {
+        "name": "NHNTS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LANCS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NHNTS vs LANCS - Need 340 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "India vs Sri Lanka 2nd Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 2nd Test",
+        "name": "Sri Lanka 2nd Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka LIVE 2nd Test",
+      "score": "India vs Sri Lanka 2nd Test",
       "status": "Match Details"
     },
     {
@@ -199,42 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Glamorgan LIVE 43rd Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan LIVE 43rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Leicestershire vs Glamorgan LIVE 43rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Essex LIVE 44th Match",
+      "title": "Somerset vs Essex 44th Match",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE 44th Match",
+        "name": "Essex 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Essex LIVE 44th Match",
+      "score": "Somerset vs Essex 44th Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Hampshire LIVE 45th Match",
+      "title": "Yorkshire vs Hampshire 45th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE 45th Match",
+        "name": "Hampshire 45th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Hampshire LIVE 45th Match",
+      "score": "Yorkshire vs Hampshire 45th Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nottinghamshire vs Surrey 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Glamorgan 43rd Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan 43rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Leicestershire vs Glamorgan 43rd Match",
       "status": "Match Details"
     },
     {
@@ -342,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh A vs South Africa A LIVE 1st Unofficial Test",
+      "title": "Bangladesh A vs South Africa A 1st Unofficial Test",
       "team1": {
         "name": "Bangladesh A",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "South Africa A LIVE 1st Unofficial Test",
+        "name": "South Africa A 1st Unofficial Test",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Bangladesh A vs South Africa A LIVE 1st Unofficial Test",
+      "score": "Bangladesh A vs South Africa A 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -394,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Luxembourg Women 1st T20I",
-      "team1": {
-        "name": "Belgium Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Luxembourg Women 1st T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Belgium Women vs Luxembourg Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Belgium Women vs Luxembourg Women 2nd T20I",
       "team1": {
         "name": "Belgium Women",
@@ -420,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Luxembourg Women LIVE 3rd T20I",
+      "title": "Belgium Women vs Luxembourg Women 3rd T20I",
       "team1": {
         "name": "Belgium Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Luxembourg Women LIVE 3rd T20I",
+        "name": "Luxembourg Women 3rd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belgium Women vs Luxembourg Women LIVE 3rd T20I",
+      "score": "Belgium Women vs Luxembourg Women 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -443,6 +430,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Luxembourg Women vs Belgium Women 4th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "43rd Match • Leicester, Grace Road Leicestershire LEIC 151 & 257 Glamorgan GLAM 152 & 214 Leicestershire won by 42 runs",
+      "team1": {
+        "name": "43rd Match • Leicester, Grace Road Leicestershire LEIC 151 & 257 Glamorgan GLAM 152 & 214 Leicestershire won by 42 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "43rd Match • Leicester, Grace Road Leicestershire LEIC 151 & 257 Glamorgan GLAM 152 & 214 Leicestershire won by 42 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121-7 (20) Luxembourg Women LUXW 122-6 (18.4) Luxembourg Women won by 4 wkts",
+      "team1": {
+        "name": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Luxembourg Women LUXW 122",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121-7 (20) Luxembourg Women LUXW 122-6 (18.4) Luxembourg Women won by 4 wkts",
       "status": "Match Details"
     }
   ]
