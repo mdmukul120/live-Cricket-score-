@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-23 02:50:22 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-23 03:42:28 UTC",
+  "total_matches": 35,
   "matches": [
-    {
-      "title": "BAN vs AUS - Trail by 105",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "BAN vs AUS - Trail by 105",
-      "status": "Match Details"
-    },
-    {
-      "title": "TKR vs ABF - Need 25 off 16b",
-      "team1": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TKR vs ABF - Need 25 off 16b",
-      "status": "Match Details"
-    },
     {
       "title": "SL vs IND - Preview",
       "team1": {
@@ -40,6 +14,32 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "SL vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "BAN vs AUS - Trail by 83",
+      "team1": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "BAN vs AUS - Trail by 83",
+      "status": "Match Details"
+    },
+    {
+      "title": "TKR vs ABF - ABF won",
+      "team1": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKR vs ABF - ABF won",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MDP vs NRK - MDP won",
+      "title": "EZONE vs NEZONE - Preview",
       "team1": {
-        "name": "MDP",
+        "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "NRK",
+        "name": "NEZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MDP vs NRK - MDP won",
+      "score": "EZONE vs NEZONE - Preview",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Antigua and Barbuda Falcons LIVE 14th Match",
+      "title": "Trinbago Knight Riders vs Antigua and Barbuda Falcons 14th Match",
       "team1": {
         "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Antigua and Barbuda Falcons LIVE 14th Match",
+        "name": "Antigua and Barbuda Falcons 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Antigua and Barbuda Falcons LIVE 14th Match",
+      "score": "Trinbago Knight Riders vs Antigua and Barbuda Falcons 14th Match",
       "status": "Match Details"
     },
     {
@@ -443,6 +443,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Luxembourg Women vs Belgium Women 4th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "14th Match • North Sound, Antigua, Sir Vivian Richards Stadium Trinbago Knight Riders TKR 165-6 (20) Antigua and Barbuda Falcons ABF 168-5 (18.3) Antigua and Barbuda Falcons won by 5 wkts",
+      "team1": {
+        "name": "14th Match • North Sound, Antigua, Sir Vivian Richards Stadium Trinbago Knight Riders TKR 165",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Antigua and Barbuda Falcons ABF 168",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "14th Match • North Sound, Antigua, Sir Vivian Richards Stadium Trinbago Knight Riders TKR 165-6 (20) Antigua and Barbuda Falcons ABF 168-5 (18.3) Antigua and Barbuda Falcons won by 5 wkts",
       "status": "Match Details"
     }
   ]
