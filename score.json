@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-23 11:01:20 UTC",
+  "last_updated": "2026-08-23 11:31:07 UTC",
   "total_matches": 34,
   "matches": [
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - NEZONE opt to bowl",
+      "title": "EZONE vs NEZONE - Stumps",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "NEZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs NEZONE - NEZONE opt to bowl",
+      "score": "EZONE vs NEZONE - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs WZONE - Trail by 221",
+      "title": "NZONE vs WZONE - Stumps",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -52,7 +52,7 @@
         "name": "WZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs WZONE - Trail by 221",
+      "score": "NZONE vs WZONE - Stumps",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire 42nd Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire 42nd Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Sussex vs Warwickshire 42nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Nottinghamshire vs Surrey 41st Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -264,29 +251,42 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs North East Zone LIVE 1st Quarter final",
+      "title": "Sussex vs Warwickshire 42nd Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire 42nd Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Sussex vs Warwickshire 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Zone vs North East Zone 1st Quarter final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North East Zone LIVE 1st Quarter final",
+        "name": "North East Zone 1st Quarter final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs North East Zone LIVE 1st Quarter final",
+      "score": "East Zone vs North East Zone 1st Quarter final",
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs West Zone LIVE 2nd Quarter final",
+      "title": "North Zone vs West Zone 2nd Quarter final",
       "team1": {
         "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Zone LIVE 2nd Quarter final",
+        "name": "West Zone 2nd Quarter final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs West Zone LIVE 2nd Quarter final",
+      "score": "North Zone vs West Zone 2nd Quarter final",
       "status": "Match Details"
     },
     {
@@ -342,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh A vs South Africa A 1st Unofficial Test",
+      "title": "Bangladesh A vs South Africa A LIVE 1st Unofficial Test",
       "team1": {
         "name": "Bangladesh A",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "South Africa A 1st Unofficial Test",
+        "name": "South Africa A LIVE 1st Unofficial Test",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Bangladesh A vs South Africa A 1st Unofficial Test",
+      "score": "Bangladesh A vs South Africa A LIVE 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -420,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Luxembourg Women 3rd T20I",
+      "title": "Belgium Women vs Luxembourg Women LIVE 3rd T20I",
       "team1": {
         "name": "Belgium Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Luxembourg Women 3rd T20I",
+        "name": "Luxembourg Women LIVE 3rd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belgium Women vs Luxembourg Women 3rd T20I",
+      "score": "Belgium Women vs Luxembourg Women LIVE 3rd T20I",
       "status": "Match Details"
     },
     {
