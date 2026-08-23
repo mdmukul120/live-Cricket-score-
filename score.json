@@ -1,23 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-08-23 03:42:28 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-08-23 04:23:40 UTC",
+  "total_matches": 34,
   "matches": [
     {
-      "title": "SL vs IND - Preview",
+      "title": "IND vs SL - IND opt to bat",
       "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SL vs IND - Preview",
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "IND vs SL - IND opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "BAN vs AUS - Trail by 83",
+      "title": "BAN vs AUS - Trail by 72",
       "team1": {
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
@@ -26,7 +26,7 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "BAN vs AUS - Trail by 83",
+      "score": "BAN vs AUS - Trail by 72",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - Preview",
+      "title": "EZONE vs NEZONE - NEZONE opt to bowl",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,20 @@
         "name": "NEZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs NEZONE - Preview",
+      "score": "EZONE vs NEZONE - NEZONE opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs India 2nd Test",
+      "title": "India vs Sri Lanka 2nd Test",
       "team1": {
-        "name": "Sri Lanka",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "India 2nd Test",
+        "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sri Lanka vs India 2nd Test",
+      "team2": {
+        "name": "Sri Lanka 2nd Test",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "India vs Sri Lanka 2nd Test",
       "status": "Match Details"
     },
     {
@@ -264,29 +264,29 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs North East Zone 1st Quarter final",
+      "title": "East Zone vs North East Zone LIVE 1st Quarter final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North East Zone 1st Quarter final",
+        "name": "North East Zone LIVE 1st Quarter final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs North East Zone 1st Quarter final",
+      "score": "East Zone vs North East Zone LIVE 1st Quarter final",
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs West Zone 2nd Quarter final",
+      "title": "North Zone vs West Zone LIVE 2nd Quarter final",
       "team1": {
         "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Zone 2nd Quarter final",
+        "name": "West Zone LIVE 2nd Quarter final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs West Zone 2nd Quarter final",
+      "score": "North Zone vs West Zone LIVE 2nd Quarter final",
       "status": "Match Details"
     },
     {
@@ -352,19 +352,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "South Africa A vs Bangladesh A 1st Unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Oman Women vs China Women 4th T20I",
-      "team1": {
-        "name": "Oman Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "China Women 4th T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman Women vs China Women 4th T20I",
       "status": "Match Details"
     },
     {
