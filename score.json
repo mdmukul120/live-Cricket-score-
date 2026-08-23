@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-23 17:26:19 UTC",
+  "last_updated": "2026-08-23 17:48:55 UTC",
   "total_matches": 40,
   "matches": [
     {
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "TRI vs MDP - Rain",
+      "title": "TRI vs MDP - No Result",
       "team1": {
         "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "MDP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRI vs MDP - Rain",
+      "score": "TRI vs MDP - No Result",
       "status": "Match Details"
     },
     {
-      "title": "NDS vs ODW - Need 82 off 28b",
+      "title": "NDS vs ODW - NDS won",
       "team1": {
         "name": "NDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDS vs ODW - Need 82 off 28b",
+      "score": "NDS vs ODW - NDS won",
       "status": "Match Details"
     },
     {
@@ -134,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Madurai Panthers vs Nellai Royal Kings 28th Match",
-      "team1": {
-        "name": "Madurai Panthers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nellai Royal Kings 28th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Madurai Panthers vs Nellai Royal Kings 28th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Trichy Grand Cholas vs Madurai Panthers Qualifier 1",
       "team1": {
         "name": "Trichy Grand Cholas",
@@ -173,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Delhi Strikers vs Outer Delhi Warriors LIVE 38th Match",
+      "title": "North Delhi Strikers vs Outer Delhi Warriors 38th Match",
       "team1": {
         "name": "North Delhi Strikers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors LIVE 38th Match",
+        "name": "Outer Delhi Warriors 38th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Delhi Strikers vs Outer Delhi Warriors LIVE 38th Match",
+      "score": "North Delhi Strikers vs Outer Delhi Warriors 38th Match",
       "status": "Match Details"
     },
     {
@@ -199,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Glamorgan 43rd Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan 43rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Leicestershire vs Glamorgan 43rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Nottinghamshire vs Surrey 41st Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -225,16 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Essex 44th Match",
+      "title": "Sussex vs Warwickshire 42nd Match",
       "team1": {
-        "name": "Somerset",
+        "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex 44th Match",
+        "name": "Warwickshire 42nd Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Sussex vs Warwickshire 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Glamorgan 43rd Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan 43rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Essex 44th Match",
+      "score": "Leicestershire vs Glamorgan 43rd Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Warwickshire 42nd Match",
+      "title": "Somerset vs Essex 44th Match",
       "team1": {
-        "name": "Sussex",
+        "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire 42nd Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "Essex 44th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sussex vs Warwickshire 42nd Match",
+      "score": "Somerset vs Essex 44th Match",
       "status": "Match Details"
     },
     {
@@ -290,19 +277,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Lancashire 35th Match",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire 35th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Lancashire 35th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Durham vs Derbyshire 34th Match",
       "team1": {
         "name": "Durham",
@@ -313,6 +287,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Durham vs Derbyshire 34th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Lancashire 35th Match",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Lancashire 35th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Northamptonshire vs Lancashire 35th Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "45th Match • Southampton, The Rose Bowl Yorkshire YORKS 173 & 301 Hampshire HAM 197 & 238 Yorkshire won by 39 runs",
+      "title": "38th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 166-7 (20) Outer Delhi Warriors ODW 127-7 (20) North Delhi Strikers won by 39 runs",
       "team1": {
-        "name": "45th Match • Southampton, The Rose Bowl Yorkshire YORKS 173 & 301 Hampshire HAM 197 & 238 Yorkshire won by 39 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Team 2",
+        "name": "38th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 166",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "45th Match • Southampton, The Rose Bowl Yorkshire YORKS 173 & 301 Hampshire HAM 197 & 238 Yorkshire won by 39 runs",
+      "team2": {
+        "name": "7 (20) Outer Delhi Warriors ODW 127",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "38th Match • Delhi, Arun Jaitley Stadium North Delhi Strikers NDS 166-7 (20) Outer Delhi Warriors ODW 127-7 (20) North Delhi Strikers won by 39 runs",
       "status": "Match Details"
     },
     {
@@ -433,6 +420,19 @@
       "status": "Match Details"
     },
     {
+      "title": "45th Match • Southampton, The Rose Bowl Yorkshire YORKS 173 & 301 Hampshire HAM 197 & 238 Yorkshire won by 39 runs",
+      "team1": {
+        "name": "45th Match • Southampton, The Rose Bowl Yorkshire YORKS 173 & 301 Hampshire HAM 197 & 238 Yorkshire won by 39 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "45th Match • Southampton, The Rose Bowl Yorkshire YORKS 173 & 301 Hampshire HAM 197 & 238 Yorkshire won by 39 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "44th Match • Taunton, The Cooper Associates County Ground Somerset SOM 469 & 103-2 Essex ESS 158 & 412 (f/o) Somerset won by 8 wkts",
       "team1": {
         "name": "44th Match • Taunton, The Cooper Associates County Ground Somerset SOM 469 & 103",
@@ -446,19 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "33rd Match • Northwood, Merchant Taylors' School Ground Kent KENT 350 & 254 Middlesex MDX 249 & 309 Kent won by 46 runs",
-      "team1": {
-        "name": "33rd Match • Northwood, Merchant Taylors' School Ground Kent KENT 350 & 254 Middlesex MDX 249 & 309 Kent won by 46 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "33rd Match • Northwood, Merchant Taylors' School Ground Kent KENT 350 & 254 Middlesex MDX 249 & 309 Kent won by 46 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "36th Match • Cheltenham, College Ground Gloucestershire GLOUCS 150 & 395-7 d Worcestershire WORCS 267 & 281-2 Worcestershire won by 8 wkts",
       "team1": {
         "name": "36th Match • Cheltenham, College Ground Gloucestershire GLOUCS 150 & 395",
@@ -469,6 +456,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "36th Match • Cheltenham, College Ground Gloucestershire GLOUCS 150 & 395-7 d Worcestershire WORCS 267 & 281-2 Worcestershire won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "33rd Match • Northwood, Merchant Taylors' School Ground Kent KENT 350 & 254 Middlesex MDX 249 & 309 Kent won by 46 runs",
+      "team1": {
+        "name": "33rd Match • Northwood, Merchant Taylors' School Ground Kent KENT 350 & 254 Middlesex MDX 249 & 309 Kent won by 46 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "33rd Match • Northwood, Merchant Taylors' School Ground Kent KENT 350 & 254 Middlesex MDX 249 & 309 Kent won by 46 runs",
       "status": "Match Details"
     },
     {
@@ -498,19 +498,6 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121-7 (20) Luxembourg Women LUXW 122-6 (18.4) Luxembourg Women won by 4 wkts",
-      "team1": {
-        "name": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Luxembourg Women LUXW 122",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121-7 (20) Luxembourg Women LUXW 122-6 (18.4) Luxembourg Women won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "4th T20I • Walferdange, Pierre Werner Cricket Ground Luxembourg Women LUXW 194-0 (20) Belgium Women BELW 147-8 (20) Luxembourg Women won by 47 runs",
       "team1": {
         "name": "4th T20I • Walferdange, Pierre Werner Cricket Ground Luxembourg Women LUXW 194",
@@ -521,6 +508,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th T20I • Walferdange, Pierre Werner Cricket Ground Luxembourg Women LUXW 194-0 (20) Belgium Women BELW 147-8 (20) Luxembourg Women won by 47 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121-7 (20) Luxembourg Women LUXW 122-6 (18.4) Luxembourg Women won by 4 wkts",
+      "team1": {
+        "name": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Luxembourg Women LUXW 122",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd T20I • Walferdange, Pierre Werner Cricket Ground Belgium Women BELW 121-7 (20) Luxembourg Women LUXW 122-6 (18.4) Luxembourg Women won by 4 wkts",
       "status": "Match Details"
     }
   ]
