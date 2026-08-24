@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-24 12:18:31 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-08-24 13:26:35 UTC",
+  "total_matches": 27,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 500",
+      "title": "IND vs SL - Stumps",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 500",
+      "score": "IND vs SL - Stumps",
       "status": "Match Details"
     },
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SDS vs NDT - Preview",
+      "title": "SDS vs NDT - Delay",
       "team1": {
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "NDT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SDS vs NDT - Preview",
+      "score": "SDS vs NDT - Delay",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka LIVE 2nd Test",
+      "title": "India vs Sri Lanka 2nd Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 2nd Test",
+        "name": "Sri Lanka 2nd Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka LIVE 2nd Test",
+      "score": "India vs Sri Lanka 2nd Test",
       "status": "Match Details"
     },
     {
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Surrey 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Leicestershire vs Glamorgan 43rd Match",
       "team1": {
         "name": "Leicestershire",
@@ -209,6 +196,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Leicestershire vs Glamorgan 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Surrey 41st Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 41st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Surrey 41st Match",
       "status": "Match Details"
     },
     {
@@ -238,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Durham vs Derbyshire 34th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Derbyshire 34th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Derbyshire 34th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Kent vs Middlesex 33rd Match",
       "team1": {
         "name": "Kent",
@@ -248,19 +261,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kent vs Middlesex 33rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Worcestershire 36th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire 36th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Worcestershire 36th Match",
       "status": "Match Details"
     },
     {
@@ -277,29 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Derbyshire 34th Match",
+      "title": "Gloucestershire vs Worcestershire 36th Match",
       "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire 34th Match",
+        "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Derbyshire 34th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "East Zone vs North East Zone 1st Quarter final",
-      "team1": {
-        "name": "East Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "North East Zone 1st Quarter final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Worcestershire 36th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "East Zone vs North East Zone 1st Quarter final",
+      "score": "Gloucestershire vs Worcestershire 36th Match",
       "status": "Match Details"
     },
     {
@@ -316,6 +303,19 @@
       "status": "Match Details"
     },
     {
+      "title": "East Zone vs North East Zone 1st Quarter final",
+      "team1": {
+        "name": "East Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North East Zone 1st Quarter final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "East Zone vs North East Zone 1st Quarter final",
+      "status": "Match Details"
+    },
+    {
       "title": "Bangladesh A vs South Africa A 1st Unofficial Test",
       "team1": {
         "name": "Bangladesh A",
@@ -326,19 +326,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Bangladesh A vs South Africa A 1st Unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Indonesia Women vs Oman Women 6th T20I",
-      "team1": {
-        "name": "Indonesia Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Oman Women 6th T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Indonesia Women vs Oman Women 6th T20I",
       "status": "Match Details"
     },
     {
