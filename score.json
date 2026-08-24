@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-24 16:41:39 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-08-24 17:17:19 UTC",
+  "total_matches": 16,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDT vs SDS - Innings Break",
+      "title": "NDT vs SDS - Need 160 to win",
       "team1": {
         "name": "NDT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDT vs SDS - Innings Break",
+      "score": "NDT vs SDS - Need 160 to win",
       "status": "Match Details"
     },
     {
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "India vs Sri Lanka 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan vs England 1st Test",
-      "team1": {
-        "name": "Pakistan",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "England 1st Test",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Pakistan vs England 1st Test",
       "status": "Match Details"
     },
     {
@@ -147,29 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Delhi Strikers vs Outer Delhi Warriors 38th Match",
-      "team1": {
-        "name": "North Delhi Strikers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Outer Delhi Warriors 38th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North Delhi Strikers vs Outer Delhi Warriors 38th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "New Delhi Tigers vs South Delhi Superstarz 39th Match",
+      "title": "New Delhi Tigers vs South Delhi Superstarz LIVE 39th Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Delhi Superstarz 39th Match",
+        "name": "South Delhi Superstarz LIVE 39th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs South Delhi Superstarz 39th Match",
+      "score": "New Delhi Tigers vs South Delhi Superstarz LIVE 39th Match",
       "status": "Match Details"
     },
     {
@@ -183,123 +157,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Purani Dilli 6 vs East Delhi Riders 40th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Warwickshire 42nd Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire 42nd Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Sussex vs Warwickshire 42nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Surrey 41st Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 41st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Surrey 41st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Essex 44th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex 44th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Essex 44th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Glamorgan 43rd Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan 43rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Leicestershire vs Glamorgan 43rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Hampshire 45th Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Hampshire 45th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Yorkshire vs Hampshire 45th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Worcestershire 36th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Worcestershire 36th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Worcestershire 36th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Derbyshire 34th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Derbyshire 34th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Derbyshire 34th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Lancashire 35th Match",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire 35th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Northamptonshire vs Lancashire 35th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Middlesex 33rd Match",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Middlesex 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kent vs Middlesex 33rd Match",
       "status": "Match Details"
     },
     {
@@ -352,19 +209,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "China Women vs Indonesia Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Luxembourg Women vs Belgium Women 4th T20I",
-      "team1": {
-        "name": "Luxembourg Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Belgium Women 4th T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Luxembourg Women vs Belgium Women 4th T20I",
       "status": "Match Details"
     }
   ]
