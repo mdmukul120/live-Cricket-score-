@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-24 18:36:44 UTC",
-  "total_matches": 15,
+  "last_updated": "2026-08-24 19:16:45 UTC",
+  "total_matches": 16,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NDT vs SDS - Need 11 off 12b",
+      "title": "NDT vs SDS - SDS won",
       "team1": {
         "name": "NDT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDT vs SDS - Need 11 off 12b",
+      "score": "NDT vs SDS - SDS won",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Delhi Tigers vs South Delhi Superstarz LIVE 39th Match",
+      "title": "New Delhi Tigers vs South Delhi Superstarz 39th Match",
       "team1": {
         "name": "New Delhi Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Delhi Superstarz LIVE 39th Match",
+        "name": "South Delhi Superstarz 39th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Delhi Tigers vs South Delhi Superstarz LIVE 39th Match",
+      "score": "New Delhi Tigers vs South Delhi Superstarz 39th Match",
       "status": "Match Details"
     },
     {
@@ -196,6 +196,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "China Women vs Indonesia Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "39th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 168-9 (20) South Delhi Superstarz SDS 171-5 (18.3) South Delhi Superstarz won by 5 wkts",
+      "team1": {
+        "name": "39th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 168",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) South Delhi Superstarz SDS 171",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "39th Match • Delhi, Arun Jaitley Stadium New Delhi Tigers NDT 168-9 (20) South Delhi Superstarz SDS 171-5 (18.3) South Delhi Superstarz won by 5 wkts",
       "status": "Match Details"
     }
   ]
