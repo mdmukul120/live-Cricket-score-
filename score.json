@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-25 07:56:46 UTC",
-  "total_matches": 17,
+  "last_updated": "2026-08-25 08:52:32 UTC",
+  "total_matches": 19,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 363",
+      "title": "IND vs SL - Trail by 330",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 363",
+      "score": "IND vs SL - Trail by 330",
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - Trail by 229",
+      "title": "EZONE vs NEZONE - EZONE won",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "NEZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs NEZONE - Trail by 229",
+      "score": "EZONE vs NEZONE - EZONE won",
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs WZONE - Need 259 to win",
+      "title": "NZONE vs WZONE - Need 203 to win",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -39,7 +39,7 @@
         "name": "WZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs WZONE - Need 259 to win",
+      "score": "NZONE vs WZONE - Need 203 to win",
       "status": "Match Details"
     },
     {
@@ -147,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Central Delhi Kings vs TBC Qualifier 1 (1v2)",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Qualifier 1 (1v2)",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs TBC Qualifier 1 (1v2)",
+      "status": "Match Details"
+    },
+    {
       "title": "North Zone vs West Zone LIVE 2nd Quarter final",
       "team1": {
         "name": "North Zone",
@@ -160,29 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs North East Zone LIVE 1st Quarter final",
+      "title": "East Zone vs North East Zone 1st Quarter final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North East Zone LIVE 1st Quarter final",
+        "name": "North East Zone 1st Quarter final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs North East Zone LIVE 1st Quarter final",
+      "score": "East Zone vs North East Zone 1st Quarter final",
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh A vs South Africa A 1st Unofficial Test",
+      "title": "Bangladesh A vs South Africa A LIVE 1st Unofficial Test",
       "team1": {
         "name": "Bangladesh A",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "South Africa A 1st Unofficial Test",
+        "name": "South Africa A LIVE 1st Unofficial Test",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Bangladesh A vs South Africa A 1st Unofficial Test",
+      "score": "Bangladesh A vs South Africa A LIVE 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -209,6 +222,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "Turkey Women vs Austria Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Quarter final • Bengaluru, BCCI Centre of Excellence Ground 2 East Zone EZONE 467 North East Zone NEZONE 111 & 146 (f/o) East Zone won by an innings and 210 runs",
+      "team1": {
+        "name": "1st Quarter final • Bengaluru, BCCI Centre of Excellence Ground 2 East Zone EZONE 467 North East Zone NEZONE 111 & 146 (f/o) East Zone won by an innings and 210 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Quarter final • Bengaluru, BCCI Centre of Excellence Ground 2 East Zone EZONE 467 North East Zone NEZONE 111 & 146 (f/o) East Zone won by an innings and 210 runs",
       "status": "Match Details"
     },
     {
