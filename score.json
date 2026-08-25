@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-25 16:03:00 UTC",
+  "last_updated": "2026-08-25 16:51:39 UTC",
   "total_matches": 22,
   "matches": [
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "PD vs EDR - Delay",
+      "title": "EDR vs PD - PD opt to bowl",
       "team1": {
-        "name": "PD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "EDR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PD vs EDR - Delay",
+      "team2": {
+        "name": "PD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "EDR vs PD - PD opt to bowl",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Purani Dilli 6 vs East Delhi Riders 40th Match",
+      "title": "East Delhi Riders vs Purani Dilli 6 LIVE 40th Match",
       "team1": {
-        "name": "Purani Dilli 6",
+        "name": "East Delhi Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Delhi Riders 40th Match",
+        "name": "Purani Dilli 6 LIVE 40th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Purani Dilli 6 vs East Delhi Riders 40th Match",
+      "score": "East Delhi Riders vs Purani Dilli 6 LIVE 40th Match",
       "status": "Match Details"
     },
     {
