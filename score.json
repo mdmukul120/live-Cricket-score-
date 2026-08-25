@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-25 03:27:49 UTC",
+  "last_updated": "2026-08-25 04:17:58 UTC",
   "total_matches": 15,
   "matches": [
     {
-      "title": "IND vs SL - Stumps",
+      "title": "IND vs SL - Trail by 491",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,33 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Stumps",
+      "score": "IND vs SL - Trail by 491",
+      "status": "Match Details"
+    },
+    {
+      "title": "EZONE vs NEZONE - Trail by 346",
+      "team1": {
+        "name": "EZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NEZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "EZONE vs NEZONE - Trail by 346",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZONE vs WZONE - Lead by 185",
+      "team1": {
+        "name": "NZONE",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "WZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NZONE vs WZONE - Lead by 185",
       "status": "Match Details"
     },
     {
@@ -43,42 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - Stumps",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NEZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs NEZONE - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZONE vs WZONE - Stumps",
-      "team1": {
-        "name": "NZONE",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "WZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NZONE vs WZONE - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "India vs Sri Lanka 2nd Test",
+      "title": "India vs Sri Lanka LIVE 2nd Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 2nd Test",
+        "name": "Sri Lanka LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 2nd Test",
+      "score": "India vs Sri Lanka LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -147,29 +147,29 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs North East Zone 1st Quarter final",
+      "title": "East Zone vs North East Zone LIVE 1st Quarter final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North East Zone 1st Quarter final",
+        "name": "North East Zone LIVE 1st Quarter final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs North East Zone 1st Quarter final",
+      "score": "East Zone vs North East Zone LIVE 1st Quarter final",
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs West Zone 2nd Quarter final",
+      "title": "North Zone vs West Zone LIVE 2nd Quarter final",
       "team1": {
         "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Zone 2nd Quarter final",
+        "name": "West Zone LIVE 2nd Quarter final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs West Zone 2nd Quarter final",
+      "score": "North Zone vs West Zone LIVE 2nd Quarter final",
       "status": "Match Details"
     },
     {
