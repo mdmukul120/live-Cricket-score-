@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-25 04:17:58 UTC",
+  "last_updated": "2026-08-25 04:59:19 UTC",
   "total_matches": 15,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 491",
+      "title": "IND vs SL - Trail by 467",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 491",
+      "score": "IND vs SL - Trail by 467",
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - Trail by 346",
+      "title": "EZONE vs NEZONE - Trail by 325",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "NEZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs NEZONE - Trail by 346",
+      "score": "EZONE vs NEZONE - Trail by 325",
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs WZONE - Lead by 185",
+      "title": "NZONE vs WZONE - Lead by 209",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -39,20 +39,7 @@
         "name": "WZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs WZONE - Lead by 185",
-      "status": "Match Details"
-    },
-    {
-      "title": "ITT vs VKK - No Result",
-      "team1": {
-        "name": "ITT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "VKK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ITT vs VKK - No Result",
+      "score": "NZONE vs WZONE - Lead by 209",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "NDT vs SDS - SDS won",
+      "status": "Match Details"
+    },
+    {
+      "title": "PD vs EDR - Preview",
+      "team1": {
+        "name": "PD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "EDR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PD vs EDR - Preview",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "China Women vs Indonesia Women Final",
+      "title": "Indonesia Women vs China Women Final",
       "team1": {
-        "name": "China Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Indonesia Women Final",
+        "name": "Indonesia Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "China Women vs Indonesia Women Final",
+      "team2": {
+        "name": "China Women Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Indonesia Women vs China Women Final",
       "status": "Match Details"
     }
   ]
