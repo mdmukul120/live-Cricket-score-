@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-25 05:40:18 UTC",
+  "last_updated": "2026-08-25 06:04:28 UTC",
   "total_matches": 17,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 433",
+      "title": "IND vs SL - Trail by 404",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 433",
+      "score": "IND vs SL - Trail by 404",
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - Trail by 297",
+      "title": "EZONE vs NEZONE - Trail by 277",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "NEZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs NEZONE - Trail by 297",
+      "score": "EZONE vs NEZONE - Trail by 277",
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs WZONE - Lead by 248",
+      "title": "NZONE vs WZONE - Lead by 268",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -39,7 +39,7 @@
         "name": "WZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs WZONE - Lead by 248",
+      "score": "NZONE vs WZONE - Lead by 268",
       "status": "Match Details"
     },
     {
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs West Zone LIVE 2nd Quarter final",
-      "team1": {
-        "name": "North Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "West Zone LIVE 2nd Quarter final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North Zone vs West Zone LIVE 2nd Quarter final",
-      "status": "Match Details"
-    },
-    {
       "title": "East Zone vs North East Zone LIVE 1st Quarter final",
       "team1": {
         "name": "East Zone",
@@ -170,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "East Zone vs North East Zone LIVE 1st Quarter final",
+      "status": "Match Details"
+    },
+    {
+      "title": "North Zone vs West Zone LIVE 2nd Quarter final",
+      "team1": {
+        "name": "North Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "West Zone LIVE 2nd Quarter final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North Zone vs West Zone LIVE 2nd Quarter final",
       "status": "Match Details"
     },
     {
