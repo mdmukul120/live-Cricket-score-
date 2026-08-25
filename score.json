@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-25 04:59:19 UTC",
-  "total_matches": 15,
+  "last_updated": "2026-08-25 05:40:18 UTC",
+  "total_matches": 17,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 467",
+      "title": "IND vs SL - Trail by 433",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 467",
+      "score": "IND vs SL - Trail by 433",
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - Trail by 325",
+      "title": "EZONE vs NEZONE - Trail by 297",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "NEZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs NEZONE - Trail by 325",
+      "score": "EZONE vs NEZONE - Trail by 297",
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs WZONE - Lead by 209",
+      "title": "NZONE vs WZONE - Lead by 248",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -39,7 +39,7 @@
         "name": "WZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs WZONE - Lead by 209",
+      "score": "NZONE vs WZONE - Lead by 248",
       "status": "Match Details"
     },
     {
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs North East Zone LIVE 1st Quarter final",
-      "team1": {
-        "name": "East Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "North East Zone LIVE 1st Quarter final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "East Zone vs North East Zone LIVE 1st Quarter final",
-      "status": "Match Details"
-    },
-    {
       "title": "North Zone vs West Zone LIVE 2nd Quarter final",
       "team1": {
         "name": "North Zone",
@@ -170,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North Zone vs West Zone LIVE 2nd Quarter final",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Zone vs North East Zone LIVE 1st Quarter final",
+      "team1": {
+        "name": "East Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North East Zone LIVE 1st Quarter final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "East Zone vs North East Zone LIVE 1st Quarter final",
       "status": "Match Details"
     },
     {
@@ -196,6 +196,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Indonesia Women vs China Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Turkey Women vs Austria Women 1st Match",
+      "team1": {
+        "name": "Turkey Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Austria Women 1st Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Turkey Women vs Austria Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Hangzhou, Zhejiang University of Technology Cricket Field Indonesia Women IDNW 71-8 (18) China Women CHNW 65-4 (13.3) China Women won by 6 wkts (DLS Method)",
+      "team1": {
+        "name": "Final • Hangzhou, Zhejiang University of Technology Cricket Field Indonesia Women IDNW 71",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "8 (18) China Women CHNW 65",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Hangzhou, Zhejiang University of Technology Cricket Field Indonesia Women IDNW 71-8 (18) China Women CHNW 65-4 (13.3) China Women won by 6 wkts (DLS Method)",
       "status": "Match Details"
     }
   ]
