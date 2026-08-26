@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 12:02:08 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-08-26 13:12:09 UTC",
+  "total_matches": 36,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "RDD vs ADF - Preview",
+      "title": "ADF vs RDD - RDD opt to bowl",
       "team1": {
-        "name": "RDD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RDD vs ADF - Preview",
+      "team2": {
+        "name": "RDD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ADF vs RDD - RDD opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SDS vs CDK - Need 48 off 23b",
+      "title": "SDS vs CDK - SDS won",
       "team1": {
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "CDK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SDS vs CDK - Need 48 off 23b",
+      "score": "SDS vs CDK - SDS won",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs Central Delhi Kings LIVE Qualifier 1 (1v2)",
+      "title": "South Delhi Superstarz vs Central Delhi Kings Qualifier 1 (1v2)",
       "team1": {
         "name": "South Delhi Superstarz",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings LIVE Qualifier 1 (1v2)",
+        "name": "Central Delhi Kings Qualifier 1 (1v2)",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Delhi Superstarz vs Central Delhi Kings LIVE Qualifier 1 (1v2)",
+      "score": "South Delhi Superstarz vs Central Delhi Kings Qualifier 1 (1v2)",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Rotterdam Dockers vs Amsterdam Flames 1st Match",
+      "title": "Amsterdam Flames vs Rotterdam Dockers 1st Match",
       "team1": {
-        "name": "Rotterdam Dockers",
+        "name": "Amsterdam Flames",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Amsterdam Flames 1st Match",
+        "name": "Rotterdam Dockers 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rotterdam Dockers vs Amsterdam Flames 1st Match",
+      "score": "Amsterdam Flames vs Rotterdam Dockers 1st Match",
       "status": "Match Details"
     },
     {
@@ -277,19 +277,6 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs North East Zone 1st Quarter final",
-      "team1": {
-        "name": "East Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "North East Zone 1st Quarter final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "East Zone vs North East Zone 1st Quarter final",
-      "status": "Match Details"
-    },
-    {
       "title": "North Zone vs West Zone 2nd Quarter final",
       "team1": {
         "name": "North Zone",
@@ -300,6 +287,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North Zone vs West Zone 2nd Quarter final",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Zone vs North East Zone 1st Quarter final",
+      "team1": {
+        "name": "East Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North East Zone 1st Quarter final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "East Zone vs North East Zone 1st Quarter final",
       "status": "Match Details"
     },
     {
@@ -381,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Romania Women vs Isle of Man Women 2nd Match, Group B",
+      "title": "Romania Women vs Isle of Man Women LIVE 2nd Match, Group B",
       "team1": {
         "name": "Romania Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Isle of Man Women 2nd Match, Group B",
+        "name": "Isle of Man Women LIVE 2nd Match, Group B",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Romania Women vs Isle of Man Women 2nd Match, Group B",
+      "score": "Romania Women vs Isle of Man Women LIVE 2nd Match, Group B",
       "status": "Match Details"
     },
     {
@@ -430,6 +430,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic Women vs Turkey Women 5th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Romania Women vs Norway Women 6th Match, Group B",
+      "team1": {
+        "name": "Romania Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Norway Women 6th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Romania Women vs Norway Women 6th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Qualifier 1 (1v2) • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 193-7 (20) Central Delhi Kings CDK 178 (19.4) South Delhi Superstarz won by 15 runs",
+      "team1": {
+        "name": "Qualifier 1 (1v2) • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 193",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Central Delhi Kings CDK 178 (19.4) South Delhi Superstarz won by 15 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qualifier 1 (1v2) • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 193-7 (20) Central Delhi Kings CDK 178 (19.4) South Delhi Superstarz won by 15 runs",
       "status": "Match Details"
     },
     {
