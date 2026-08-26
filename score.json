@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 18:27:56 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-26 21:01:34 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -277,19 +277,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs West Zone 2nd Quarter final",
-      "team1": {
-        "name": "North Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "West Zone 2nd Quarter final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North Zone vs West Zone 2nd Quarter final",
-      "status": "Match Details"
-    },
-    {
       "title": "East Zone vs North East Zone 1st Quarter final",
       "team1": {
         "name": "East Zone",
@@ -300,6 +287,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "East Zone vs North East Zone 1st Quarter final",
+      "status": "Match Details"
+    },
+    {
+      "title": "North Zone vs West Zone 2nd Quarter final",
+      "team1": {
+        "name": "North Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "West Zone 2nd Quarter final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North Zone vs West Zone 2nd Quarter final",
       "status": "Match Details"
     },
     {
@@ -495,19 +495,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "3rd Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 104-8 (20) Guernsey Women GGYW 19 (6.5) Austria Women won by 85 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127-2 (20) Isle of Man Women IOMW 128-7 (13.2) Isle of Man Women won by 3 wkts",
-      "team1": {
-        "name": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (20) Isle of Man Women IOMW 128",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127-2 (20) Isle of Man Women IOMW 128-7 (13.2) Isle of Man Women won by 3 wkts",
       "status": "Match Details"
     }
   ]
