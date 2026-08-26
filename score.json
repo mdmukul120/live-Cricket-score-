@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 09:34:31 UTC",
-  "total_matches": 24,
+  "last_updated": "2026-08-26 10:16:57 UTC",
+  "total_matches": 34,
   "matches": [
     {
-      "title": "IND vs SL - Tea",
+      "title": "IND vs SL - Lead by 5",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Tea",
+      "score": "IND vs SL - Lead by 5",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka 2nd Test",
+      "title": "India vs Sri Lanka LIVE 2nd Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 2nd Test",
+        "name": "Sri Lanka LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 2nd Test",
+      "score": "India vs Sri Lanka LIVE 2nd Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "England vs Pakistan 2nd Test",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Pakistan 2nd Test",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "England vs Pakistan 2nd Test",
       "status": "Match Details"
     },
     {
@@ -199,6 +212,71 @@
       "status": "Match Details"
     },
     {
+      "title": "Warwickshire vs Nottinghamshire 46th Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Nottinghamshire 46th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Nottinghamshire 46th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Surrey 47th Match",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Surrey 47th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Essex vs Surrey 47th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Leicestershire 48th Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire 48th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Leicestershire 48th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Hampshire 49th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hampshire 49th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Glamorgan vs Hampshire 49th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Somerset 50th Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Somerset 50th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sussex vs Somerset 50th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "North Zone vs West Zone 2nd Quarter final",
       "team1": {
         "name": "North Zone",
@@ -225,6 +303,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Derbyshire vs Middlesex 37th Match",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex 37th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Middlesex 37th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Kent 38th Match",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent 38th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northamptonshire vs Kent 38th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Lancashire 39th Match",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Lancashire 39th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Lancashire 39th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Gloucestershire 40th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gloucestershire 40th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Gloucestershire 40th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Bangladesh A vs South Africa A 1st Unofficial Test",
       "team1": {
         "name": "Bangladesh A",
@@ -238,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Austria Women vs Turkey Women LIVE 1st Match, Group A",
+      "title": "Austria Women vs Turkey Women 1st Match, Group A",
       "team1": {
         "name": "Austria Women",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Turkey Women LIVE 1st Match, Group A",
+        "name": "Turkey Women 1st Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Austria Women vs Turkey Women LIVE 1st Match, Group A",
+      "score": "Austria Women vs Turkey Women 1st Match, Group A",
       "status": "Match Details"
     },
     {
@@ -303,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Quarter final • Bengaluru, BCCI Centre of Excellence Ground 1 North Zone NZONE 251 & 222 West Zone WZONE 187 & 234 North Zone won by 52 runs",
+      "title": "1st Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 35 (8.1) Turkey Women TRKW 40-2 (5.3) Turkey Women won by 8 wkts",
       "team1": {
-        "name": "2nd Quarter final • Bengaluru, BCCI Centre of Excellence Ground 1 North Zone NZONE 251 & 222 West Zone WZONE 187 & 234 North Zone won by 52 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "1st Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 35 (8.1) Turkey Women TRKW 40",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Team 2",
+        "name": "2 (5.3) Turkey Women won by 8 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd Quarter final • Bengaluru, BCCI Centre of Excellence Ground 1 North Zone NZONE 251 & 222 West Zone WZONE 187 & 234 North Zone won by 52 runs",
+      "score": "1st Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 35 (8.1) Turkey Women TRKW 40-2 (5.3) Turkey Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
