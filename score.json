@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 08:51:10 UTC",
-  "total_matches": 22,
+  "last_updated": "2026-08-26 09:34:31 UTC",
+  "total_matches": 24,
   "matches": [
     {
-      "title": "IND vs SL - Trail by 32",
+      "title": "IND vs SL - Tea",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Trail by 32",
+      "score": "IND vs SL - Tea",
       "status": "Match Details"
     },
     {
@@ -27,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "ABF vs BBT - ABF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZONE vs WZONE - NZONE won",
-      "team1": {
-        "name": "NZONE",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "WZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NZONE vs WZONE - NZONE won",
       "status": "Match Details"
     },
     {
@@ -69,16 +56,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka LIVE 2nd Test",
+      "title": "SDS vs CDK - CDK opt to bowl",
+      "team1": {
+        "name": "SDS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "CDK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SDS vs CDK - CDK opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "India vs Sri Lanka 2nd Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 2nd Test",
+        "name": "Sri Lanka 2nd Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka LIVE 2nd Test",
+      "score": "India vs Sri Lanka 2nd Test",
       "status": "Match Details"
     },
     {
@@ -186,6 +186,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Belfast Wolves vs Dublin Guardians 2nd Match",
+      "team1": {
+        "name": "Belfast Wolves",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dublin Guardians 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Belfast Wolves vs Dublin Guardians 2nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "North Zone vs West Zone 2nd Quarter final",
       "team1": {
         "name": "North Zone",
@@ -225,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Austria Women vs Turkey Women 1st Match, Group A",
+      "title": "Austria Women vs Turkey Women LIVE 1st Match, Group A",
       "team1": {
         "name": "Austria Women",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Turkey Women 1st Match, Group A",
+        "name": "Turkey Women LIVE 1st Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Austria Women vs Turkey Women 1st Match, Group A",
+      "score": "Austria Women vs Turkey Women LIVE 1st Match, Group A",
       "status": "Match Details"
     },
     {
@@ -274,6 +287,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Greece Women vs Isle of Man Women 4th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Czech Republic Women vs Turkey Women 5th Match, Group A",
+      "team1": {
+        "name": "Czech Republic Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Turkey Women 5th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Czech Republic Women vs Turkey Women 5th Match, Group A",
       "status": "Match Details"
     },
     {
