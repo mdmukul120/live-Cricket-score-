@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 15:51:26 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-26 16:43:25 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ADF vs RDD - Need 75 off 68b",
+      "title": "ADF vs RDD - RDD won",
       "team1": {
         "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ADF vs RDD - Need 75 off 68b",
+      "score": "ADF vs RDD - RDD won",
       "status": "Match Details"
     },
     {
-      "title": "VKK vs TRI - Need 184 to win",
+      "title": "VKK vs TRI - Need 117 off 57b",
       "team1": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +52,11 @@
         "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs TRI - Need 184 to win",
+      "score": "VKK vs TRI - Need 117 off 57b",
       "status": "Match Details"
     },
     {
-      "title": "ODW vs PD - PD opt to bowl",
+      "title": "ODW vs PD - Need 104 off 84b",
       "team1": {
         "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ODW vs PD - PD opt to bowl",
+      "score": "ODW vs PD - Need 104 off 84b",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amsterdam Flames vs Rotterdam Dockers LIVE 1st Match",
+      "title": "Amsterdam Flames vs Rotterdam Dockers 1st Match",
       "team1": {
         "name": "Amsterdam Flames",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rotterdam Dockers LIVE 1st Match",
+        "name": "Rotterdam Dockers 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amsterdam Flames vs Rotterdam Dockers LIVE 1st Match",
+      "score": "Amsterdam Flames vs Rotterdam Dockers 1st Match",
       "status": "Match Details"
     },
     {
@@ -472,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127-2 (20) Isle of Man Women IOMW 128-7 (13.2) Isle of Man Women won by 3 wkts",
+      "title": "1st Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 157-8 (20) Rotterdam Dockers RDD 158-5 (18.1) Rotterdam Dockers won by 5 wkts",
       "team1": {
-        "name": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127",
+        "name": "1st Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 157",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "2 (20) Isle of Man Women IOMW 128",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "8 (20) Rotterdam Dockers RDD 158",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127-2 (20) Isle of Man Women IOMW 128-7 (13.2) Isle of Man Women won by 3 wkts",
+      "score": "1st Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 157-8 (20) Rotterdam Dockers RDD 158-5 (18.1) Rotterdam Dockers won by 5 wkts",
       "status": "Match Details"
     },
     {
@@ -495,6 +495,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "3rd Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 104-8 (20) Guernsey Women GGYW 19 (6.5) Austria Women won by 85 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127-2 (20) Isle of Man Women IOMW 128-7 (13.2) Isle of Man Women won by 3 wkts",
+      "team1": {
+        "name": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (20) Isle of Man Women IOMW 128",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127-2 (20) Isle of Man Women IOMW 128-7 (13.2) Isle of Man Women won by 3 wkts",
       "status": "Match Details"
     }
   ]
