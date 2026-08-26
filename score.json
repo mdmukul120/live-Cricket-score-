@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 01:50:58 UTC",
-  "total_matches": 20,
+  "last_updated": "2026-08-26 02:58:13 UTC",
+  "total_matches": 21,
   "matches": [
-    {
-      "title": "ABF vs BBT - Need 92 off 61b",
-      "team1": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ABF vs BBT - Need 92 off 61b",
-      "status": "Match Details"
-    },
     {
       "title": "IND vs SL - Stumps",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "ABF vs BBT - ABF won",
+      "team1": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ABF vs BBT - ABF won",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Antigua and Barbuda Falcons vs Barbados Tridents LIVE 16th Match",
+      "title": "Antigua and Barbuda Falcons vs Barbados Tridents 16th Match",
       "team1": {
         "name": "Antigua and Barbuda Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Barbados Tridents LIVE 16th Match",
+        "name": "Barbados Tridents 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Antigua and Barbuda Falcons vs Barbados Tridents LIVE 16th Match",
+      "score": "Antigua and Barbuda Falcons vs Barbados Tridents 16th Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +261,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Austria Women vs Guernsey Women 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "16th Match • North Sound, Antigua, Sir Vivian Richards Stadium Antigua and Barbuda Falcons ABF 155-5 (20) Barbados Tridents BBT 125 (18) Antigua and Barbuda Falcons won by 30 runs",
+      "team1": {
+        "name": "16th Match • North Sound, Antigua, Sir Vivian Richards Stadium Antigua and Barbuda Falcons ABF 155",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Barbados Tridents BBT 125 (18) Antigua and Barbuda Falcons won by 30 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "16th Match • North Sound, Antigua, Sir Vivian Richards Stadium Antigua and Barbuda Falcons ABF 155-5 (20) Barbados Tridents BBT 125 (18) Antigua and Barbuda Falcons won by 30 runs",
       "status": "Match Details"
     }
   ]
