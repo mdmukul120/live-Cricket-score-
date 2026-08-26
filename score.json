@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 04:50:07 UTC",
+  "last_updated": "2026-08-26 05:24:27 UTC",
   "total_matches": 22,
   "matches": [
     {
-      "title": "IND vs SL - Innings Break",
+      "title": "IND vs SL - Trail by 201",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Innings Break",
+      "score": "IND vs SL - Trail by 201",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka 2nd Test",
+      "title": "India vs Sri Lanka LIVE 2nd Test",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 2nd Test",
+        "name": "Sri Lanka LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 2nd Test",
+      "score": "India vs Sri Lanka LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs North East Zone 1st Quarter final",
-      "team1": {
-        "name": "East Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "North East Zone 1st Quarter final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "East Zone vs North East Zone 1st Quarter final",
-      "status": "Match Details"
-    },
-    {
       "title": "North Zone vs West Zone 2nd Quarter final",
       "team1": {
         "name": "North Zone",
@@ -209,6 +196,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North Zone vs West Zone 2nd Quarter final",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Zone vs North East Zone 1st Quarter final",
+      "team1": {
+        "name": "East Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North East Zone 1st Quarter final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "East Zone vs North East Zone 1st Quarter final",
       "status": "Match Details"
     },
     {
