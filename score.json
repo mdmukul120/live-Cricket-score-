@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 14:06:24 UTC",
+  "last_updated": "2026-08-26 15:51:26 UTC",
   "total_matches": 38,
   "matches": [
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ADF vs RDD - RDD opt to bowl",
+      "title": "ADF vs RDD - Need 75 off 68b",
       "team1": {
         "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ADF vs RDD - RDD opt to bowl",
+      "score": "ADF vs RDD - Need 75 off 68b",
       "status": "Match Details"
     },
     {
-      "title": "VKK vs TRI - VKK opt to bat",
+      "title": "VKK vs TRI - Need 184 to win",
       "team1": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +52,20 @@
         "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs TRI - VKK opt to bat",
+      "score": "VKK vs TRI - Need 184 to win",
       "status": "Match Details"
     },
     {
-      "title": "SDS vs CDK - SDS won",
+      "title": "ODW vs PD - PD opt to bowl",
       "team1": {
-        "name": "SDS",
+        "name": "ODW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "CDK",
+        "name": "PD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SDS vs CDK - SDS won",
+      "score": "ODW vs PD - PD opt to bowl",
       "status": "Match Details"
     },
     {
@@ -290,19 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs West Zone 2nd Quarter final",
-      "team1": {
-        "name": "North Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "West Zone 2nd Quarter final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North Zone vs West Zone 2nd Quarter final",
-      "status": "Match Details"
-    },
-    {
       "title": "East Zone vs North East Zone 1st Quarter final",
       "team1": {
         "name": "East Zone",
@@ -313,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "East Zone vs North East Zone 1st Quarter final",
+      "status": "Match Details"
+    },
+    {
+      "title": "North Zone vs West Zone 2nd Quarter final",
+      "team1": {
+        "name": "North Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "West Zone 2nd Quarter final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North Zone vs West Zone 2nd Quarter final",
       "status": "Match Details"
     },
     {
@@ -485,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 35 (8.1) Turkey Women TRKW 40-2 (5.3) Turkey Women won by 8 wkts",
+      "title": "3rd Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 104-8 (20) Guernsey Women GGYW 19 (6.5) Austria Women won by 85 runs",
       "team1": {
-        "name": "1st Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 35 (8.1) Turkey Women TRKW 40",
+        "name": "3rd Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 104",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "2 (5.3) Turkey Women won by 8 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "8 (20) Guernsey Women GGYW 19 (6.5) Austria Women won by 85 runs",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "1st Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 35 (8.1) Turkey Women TRKW 40-2 (5.3) Turkey Women won by 8 wkts",
+      "score": "3rd Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 104-8 (20) Guernsey Women GGYW 19 (6.5) Austria Women won by 85 runs",
       "status": "Match Details"
     }
   ]
