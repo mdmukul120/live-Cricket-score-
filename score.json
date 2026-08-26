@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 03:59:01 UTC",
-  "total_matches": 21,
+  "last_updated": "2026-08-26 04:50:07 UTC",
+  "total_matches": 22,
   "matches": [
     {
-      "title": "IND vs SL - Stumps",
+      "title": "IND vs SL - Innings Break",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "IND vs SL - Stumps",
+      "score": "IND vs SL - Innings Break",
       "status": "Match Details"
     },
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs WZONE - Stumps",
+      "title": "NZONE vs WZONE - NZONE won",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -39,33 +39,33 @@
         "name": "WZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs WZONE - Stumps",
+      "score": "NZONE vs WZONE - NZONE won",
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - EZONE won",
+      "title": "RDD vs ADF - Preview",
       "team1": {
-        "name": "EZONE",
+        "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "NEZONE",
+        "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs NEZONE - EZONE won",
+      "score": "RDD vs ADF - Preview",
       "status": "Match Details"
     },
     {
-      "title": "TKR vs SLK - Preview",
+      "title": "TRI vs VKK - Preview",
       "team1": {
-        "name": "TKR",
+        "name": "TRI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "VKK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TKR vs SLK - Preview",
+      "score": "TRI vs VKK - Preview",
       "status": "Match Details"
     },
     {
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs West Zone 2nd Quarter final",
-      "team1": {
-        "name": "North Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "West Zone 2nd Quarter final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North Zone vs West Zone 2nd Quarter final",
-      "status": "Match Details"
-    },
-    {
       "title": "East Zone vs North East Zone 1st Quarter final",
       "team1": {
         "name": "East Zone",
@@ -209,6 +196,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "East Zone vs North East Zone 1st Quarter final",
+      "status": "Match Details"
+    },
+    {
+      "title": "North Zone vs West Zone 2nd Quarter final",
+      "team1": {
+        "name": "North Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "West Zone 2nd Quarter final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North Zone vs West Zone 2nd Quarter final",
       "status": "Match Details"
     },
     {
@@ -274,6 +274,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "16th Match • North Sound, Antigua, Sir Vivian Richards Stadium Antigua and Barbuda Falcons ABF 155-5 (20) Barbados Tridents BBT 125 (18) Antigua and Barbuda Falcons won by 30 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Quarter final • Bengaluru, BCCI Centre of Excellence Ground 1 North Zone NZONE 251 & 222 West Zone WZONE 187 & 234 North Zone won by 52 runs",
+      "team1": {
+        "name": "2nd Quarter final • Bengaluru, BCCI Centre of Excellence Ground 1 North Zone NZONE 251 & 222 West Zone WZONE 187 & 234 North Zone won by 52 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Quarter final • Bengaluru, BCCI Centre of Excellence Ground 1 North Zone NZONE 251 & 222 West Zone WZONE 187 & 234 North Zone won by 52 runs",
       "status": "Match Details"
     }
   ]
