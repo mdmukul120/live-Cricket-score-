@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 13:12:09 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-26 14:06:24 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "IND vs SL - Stumps",
@@ -43,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "TRI vs VKK - Preview",
+      "title": "VKK vs TRI - VKK opt to bat",
       "team1": {
-        "name": "TRI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "VKK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TRI vs VKK - Preview",
+      "team2": {
+        "name": "TRI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "VKK vs TRI - VKK opt to bat",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Trichy Grand Cholas vs Vida Kovai Kings Qualifier 2",
+      "title": "Vida Kovai Kings vs Trichy Grand Cholas LIVE Qualifier 2",
       "team1": {
-        "name": "Trichy Grand Cholas",
+        "name": "Vida Kovai Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Vida Kovai Kings Qualifier 2",
+        "name": "Trichy Grand Cholas LIVE Qualifier 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trichy Grand Cholas vs Vida Kovai Kings Qualifier 2",
+      "score": "Vida Kovai Kings vs Trichy Grand Cholas LIVE Qualifier 2",
       "status": "Match Details"
     },
     {
@@ -173,29 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Purani Dilli 6 vs Outer Delhi Warriors Eliminator (3v4)",
+      "title": "Outer Delhi Warriors vs Purani Dilli 6 LIVE Eliminator (3v4)",
       "team1": {
-        "name": "Purani Dilli 6",
+        "name": "Outer Delhi Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Outer Delhi Warriors Eliminator (3v4)",
+        "name": "Purani Dilli 6 LIVE Eliminator (3v4)",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Purani Dilli 6 vs Outer Delhi Warriors Eliminator (3v4)",
+      "score": "Outer Delhi Warriors vs Purani Dilli 6 LIVE Eliminator (3v4)",
       "status": "Match Details"
     },
     {
-      "title": "Amsterdam Flames vs Rotterdam Dockers 1st Match",
+      "title": "Amsterdam Flames vs Rotterdam Dockers LIVE 1st Match",
       "team1": {
         "name": "Amsterdam Flames",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rotterdam Dockers 1st Match",
+        "name": "Rotterdam Dockers LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amsterdam Flames vs Rotterdam Dockers 1st Match",
+      "score": "Amsterdam Flames vs Rotterdam Dockers LIVE 1st Match",
       "status": "Match Details"
     },
     {
@@ -209,6 +209,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Belfast Wolves vs Dublin Guardians 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Edinburgh Castle Rockers vs Glasgow Cosmics 3rd Match",
+      "team1": {
+        "name": "Edinburgh Castle Rockers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glasgow Cosmics 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Edinburgh Castle Rockers vs Glasgow Cosmics 3rd Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Romania Women vs Isle of Man Women LIVE 2nd Match, Group B",
+      "title": "Romania Women vs Isle of Man Women 2nd Match, Group B",
       "team1": {
         "name": "Romania Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Isle of Man Women LIVE 2nd Match, Group B",
+        "name": "Isle of Man Women 2nd Match, Group B",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Romania Women vs Isle of Man Women LIVE 2nd Match, Group B",
+      "score": "Romania Women vs Isle of Man Women 2nd Match, Group B",
       "status": "Match Details"
     },
     {
@@ -456,6 +469,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Qualifier 1 (1v2) • Delhi, Arun Jaitley Stadium South Delhi Superstarz SDS 193-7 (20) Central Delhi Kings CDK 178 (19.4) South Delhi Superstarz won by 15 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127-2 (20) Isle of Man Women IOMW 128-7 (13.2) Isle of Man Women won by 3 wkts",
+      "team1": {
+        "name": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (20) Isle of Man Women IOMW 128",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "2nd Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 127-2 (20) Isle of Man Women IOMW 128-7 (13.2) Isle of Man Women won by 3 wkts",
       "status": "Match Details"
     },
     {
