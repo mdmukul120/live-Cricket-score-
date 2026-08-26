@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-25 23:57:43 UTC",
-  "total_matches": 21,
+  "last_updated": "2026-08-26 01:50:58 UTC",
+  "total_matches": 20,
   "matches": [
     {
-      "title": "ABF vs BBT - BBT opt to bowl",
+      "title": "ABF vs BBT - Need 92 off 61b",
       "team1": {
         "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ABF vs BBT - BBT opt to bowl",
+      "score": "ABF vs BBT - Need 92 off 61b",
       "status": "Match Details"
     },
     {
@@ -30,19 +30,6 @@
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs NEZONE - EZONE won",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NEZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs NEZONE - EZONE won",
-      "status": "Match Details"
-    },
-    {
       "title": "NZONE vs WZONE - Stumps",
       "team1": {
         "name": "NZONE",
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "NDT vs SDS - SDS won",
+      "title": "EZONE vs NEZONE - EZONE won",
       "team1": {
-        "name": "NDT",
+        "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SDS",
+        "name": "NEZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NDT vs SDS - SDS won",
+      "score": "EZONE vs NEZONE - EZONE won",
+      "status": "Match Details"
+    },
+    {
+      "title": "TKR vs SLK - Preview",
+      "team1": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "TKR vs SLK - Preview",
       "status": "Match Details"
     },
     {
@@ -261,19 +261,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Austria Women vs Guernsey Women 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "40th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 118-6 (10) Purani Dilli 6 PD 108-6 (10) East Delhi Riders won by 10 runs  -  (Match reduced to 10 overs per side due to rain)",
-      "team1": {
-        "name": "40th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 118",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (10) Purani Dilli 6 PD 108",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "40th Match • Delhi, Arun Jaitley Stadium East Delhi Riders EDR 118-6 (10) Purani Dilli 6 PD 108-6 (10) East Delhi Riders won by 10 runs  -  (Match reduced to 10 overs per side due to rain)",
       "status": "Match Details"
     }
   ]
