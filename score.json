@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-26 21:01:34 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-08-27 00:44:33 UTC",
+  "total_matches": 35,
   "matches": [
+    {
+      "title": "SLK vs TKR - TKR opt to bowl",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs TKR - TKR opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "IND vs SL - Stumps",
       "team1": {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "VKK vs TRI - VKK won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ODW vs PD - PD won",
-      "team1": {
-        "name": "ODW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "PD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ODW vs PD - PD won",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Saint Lucia Kings 17th Match",
+      "title": "Saint Lucia Kings vs Trinbago Knight Riders LIVE 17th Match",
       "team1": {
-        "name": "Trinbago Knight Riders",
+        "name": "Saint Lucia Kings",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Trinbago Knight Riders LIVE 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saint Lucia Kings vs Trinbago Knight Riders LIVE 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "St Kitts and Nevis Patriots vs Jamaica Kingsmen 18th Match",
+      "team1": {
+        "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Saint Lucia Kings 17th Match",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Jamaica Kingsmen 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Saint Lucia Kings 17th Match",
+      "score": "St Kitts and Nevis Patriots vs Jamaica Kingsmen 18th Match",
       "status": "Match Details"
     },
     {
@@ -443,58 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Romania Women vs Norway Women 6th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qualifier 2 • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 183-5 (20) Trichy Grand Cholas TRI 99 (15.4) Vida Kovai Kings won by 84 runs",
-      "team1": {
-        "name": "Qualifier 2 • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 183",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Trichy Grand Cholas TRI 99 (15.4) Vida Kovai Kings won by 84 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qualifier 2 • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 183-5 (20) Trichy Grand Cholas TRI 99 (15.4) Vida Kovai Kings won by 84 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Eliminator (3v4) • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 179 (19.4) Purani Dilli 6 PD 183-3 (14.5) Purani Dilli 6 won by 7 wkts",
-      "team1": {
-        "name": "Eliminator (3v4) • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 179 (19.4) Purani Dilli 6 PD 183",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (14.5) Purani Dilli 6 won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Eliminator (3v4) • Delhi, Arun Jaitley Stadium Outer Delhi Warriors ODW 179 (19.4) Purani Dilli 6 PD 183-3 (14.5) Purani Dilli 6 won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 157-8 (20) Rotterdam Dockers RDD 158-5 (18.1) Rotterdam Dockers won by 5 wkts",
-      "team1": {
-        "name": "1st Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 157",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Rotterdam Dockers RDD 158",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 157-8 (20) Rotterdam Dockers RDD 158-5 (18.1) Rotterdam Dockers won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 104-8 (20) Guernsey Women GGYW 19 (6.5) Austria Women won by 85 runs",
-      "team1": {
-        "name": "3rd Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 104",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "8 (20) Guernsey Women GGYW 19 (6.5) Austria Women won by 85 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "3rd Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 104-8 (20) Guernsey Women GGYW 19 (6.5) Austria Women won by 85 runs",
       "status": "Match Details"
     }
   ]
