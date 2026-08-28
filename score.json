@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-27 20:46:01 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-08-28 04:55:28 UTC",
+  "total_matches": 35,
   "matches": [
+    {
+      "title": "JKM vs SNP - JKM won",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs SNP - JKM won",
+      "status": "Match Details"
+    },
     {
       "title": "ENG vs PAK - Stumps",
       "team1": {
@@ -43,29 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "BFW vs DBG - BFW won",
+      "title": "TKR vs BBT - Preview",
       "team1": {
-        "name": "BFW",
+        "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "DBG",
+        "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BFW vs DBG - BFW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SNP vs JKM - Preview",
-      "team1": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SNP vs JKM - Preview",
+      "score": "TKR vs BBT - Preview",
       "status": "Match Details"
     },
     {
@@ -108,29 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Saint Lucia Kings vs Trinbago Knight Riders 17th Match",
+      "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots 18th Match",
       "team1": {
-        "name": "Saint Lucia Kings",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Trinbago Knight Riders 17th Match",
+        "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Saint Lucia Kings vs Trinbago Knight Riders 17th Match",
+      "team2": {
+        "name": "St Kitts and Nevis Patriots 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jamaica Kingsmen vs St Kitts and Nevis Patriots 18th Match",
       "status": "Match Details"
     },
     {
-      "title": "St Kitts and Nevis Patriots vs Jamaica Kingsmen 18th Match",
+      "title": "Trinbago Knight Riders vs Barbados Tridents 19th Match",
       "team1": {
-        "name": "St Kitts and Nevis Patriots",
+        "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen 18th Match",
+        "name": "Barbados Tridents 19th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "St Kitts and Nevis Patriots vs Jamaica Kingsmen 18th Match",
+      "score": "Trinbago Knight Riders vs Barbados Tridents 19th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +144,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Madurai Panthers vs Vida Kovai Kings Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Delhi Kings vs Purani Dilli 6 Qualifier 2 (Looser Q1 vs Winner Eliminator)",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Purani Dilli 6 Qualifier 2 (Looser Q1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs Purani Dilli 6 Qualifier 2 (Looser Q1 vs Winner Eliminator)",
       "status": "Match Details"
     },
     {
@@ -183,19 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Amsterdam Flames vs Edinburgh Castle Rockers 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Central Delhi Kings vs Purani Dilli 6 Qualifier 2 (Looser Q1 vs Winner Eliminator)",
-      "team1": {
-        "name": "Central Delhi Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Purani Dilli 6 Qualifier 2 (Looser Q1",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Central Delhi Kings vs Purani Dilli 6 Qualifier 2 (Looser Q1 vs Winner Eliminator)",
       "status": "Match Details"
     },
     {
@@ -264,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Durham 40th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham 40th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gloucestershire vs Durham 40th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Derbyshire vs Middlesex 37th Match",
       "team1": {
         "name": "Derbyshire",
@@ -313,6 +300,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Worcestershire vs Lancashire 39th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Durham 40th Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham 40th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gloucestershire vs Durham 40th Match",
       "status": "Match Details"
     },
     {
@@ -407,6 +407,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Scotland Women vs Netherlands Women 1st ODI",
+      "team1": {
+        "name": "Scotland Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Netherlands Women 1st ODI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Scotland Women vs Netherlands Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Germany Women vs Sweden Women 1st Match",
       "team1": {
         "name": "Germany Women",
@@ -433,42 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Scotland Women vs Netherlands Women 1st ODI",
+      "title": "18th Match • Basseterre, St Kitts, Warner Park Jamaica Kingsmen JKM 182-7 (20) St Kitts and Nevis Patriots SNP 171-6 (20) Jamaica Kingsmen won by 11 runs",
       "team1": {
-        "name": "Scotland Women",
+        "name": "18th Match • Basseterre, St Kitts, Warner Park Jamaica Kingsmen JKM 182",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Netherlands Women 1st ODI",
+        "name": "7 (20) St Kitts and Nevis Patriots SNP 171",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Scotland Women vs Netherlands Women 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmics GGC 115 (20) Edinburgh Castle Rockers ECR 116-3 (11.3) Edinburgh Castle Rockers won by 7 wkts",
-      "team1": {
-        "name": "3rd Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmics GGC 115 (20) Edinburgh Castle Rockers ECR 116",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (11.3) Edinburgh Castle Rockers won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmics GGC 115 (20) Edinburgh Castle Rockers ECR 116-3 (11.3) Edinburgh Castle Rockers won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 157-2 (20) Norway Women NOYW 129-4 (17) Norway Women  won by 1 run (DLS method)",
-      "team1": {
-        "name": "6th Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 157",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (20) Norway Women NOYW 129",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 157-2 (20) Norway Women NOYW 129-4 (17) Norway Women  won by 1 run (DLS method)",
+      "score": "18th Match • Basseterre, St Kitts, Warner Park Jamaica Kingsmen JKM 182-7 (20) St Kitts and Nevis Patriots SNP 171-6 (20) Jamaica Kingsmen won by 11 runs",
       "status": "Match Details"
     }
   ]
