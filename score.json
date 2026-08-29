@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-08-29 00:59:35 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-08-29 07:48:49 UTC",
+  "total_matches": 44,
   "matches": [
-    {
-      "title": "BBT vs TKR - TKR opt to bowl",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BBT vs TKR - TKR opt to bowl",
-      "status": "Match Details"
-    },
     {
       "title": "ENG vs PAK - Stumps",
       "team1": {
@@ -30,42 +17,55 @@
       "status": "Match Details"
     },
     {
-      "title": "NAM vs RSA - NAM won",
+      "title": "RSA vs ZIM - Preview",
       "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "NAM vs RSA - NAM won",
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "RSA vs ZIM - Preview",
       "status": "Match Details"
     },
     {
-      "title": "VKK vs MDP - VKK won",
+      "title": "GGC vs DBG - Preview",
       "team1": {
-        "name": "VKK",
+        "name": "GGC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MDP",
+        "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VKK vs MDP - VKK won",
+      "score": "GGC vs DBG - Preview",
       "status": "Match Details"
     },
     {
-      "title": "THAIW vs HKC W - THAIW won",
+      "title": "SLW vs UAEW - Preview",
       "team1": {
-        "name": "THAIW",
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "UAEW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLW vs UAEW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "BBT vs TKR - TKR won",
+      "team1": {
+        "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "HKC W",
+        "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "THAIW vs HKC W - THAIW won",
+      "score": "BBT vs TKR - TKR won",
       "status": "Match Details"
     },
     {
@@ -108,29 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs St Kitts and Nevis Patriots 18th Match",
-      "team1": {
-        "name": "Jamaica Kingsmen",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "St Kitts and Nevis Patriots 18th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jamaica Kingsmen vs St Kitts and Nevis Patriots 18th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Barbados Tridents vs Trinbago Knight Riders LIVE 19th Match",
+      "title": "Barbados Tridents vs Trinbago Knight Riders 19th Match",
       "team1": {
         "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trinbago Knight Riders LIVE 19th Match",
+        "name": "Trinbago Knight Riders 19th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs Trinbago Knight Riders LIVE 19th Match",
+      "score": "Barbados Tridents vs Trinbago Knight Riders 19th Match",
       "status": "Match Details"
     },
     {
@@ -212,6 +199,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Central Zone vs East Zone 1st Semi-Final",
+      "team1": {
+        "name": "Central Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "East Zone 1st Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Zone vs East Zone 1st Semi-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Zone vs North Zone 2nd Semi-Final",
+      "team1": {
+        "name": "South Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North Zone 2nd Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Zone vs North Zone 2nd Semi-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Oman vs Singapore 1st Match, Group B",
+      "team1": {
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 1st Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Oman vs Singapore 1st Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 2nd Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Nottinghamshire vs Warwickshire 46th Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -277,19 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Middlesex 37th Match",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex 37th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Middlesex 37th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Kent vs Northamptonshire 38th Match",
       "team1": {
         "name": "Kent",
@@ -326,6 +352,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Gloucestershire vs Durham 40th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Middlesex 37th Match",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex 37th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Middlesex 37th Match",
       "status": "Match Details"
     },
     {
@@ -433,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Netherlands Women vs Scotland Women 1st ODI",
+      "title": "TBC vs TBC 3rd Place Play-off",
       "team1": {
-        "name": "Netherlands Women",
+        "name": "TBC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Scotland Women 1st ODI",
+        "name": "TBC 3rd Place Play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Netherlands Women vs Scotland Women 1st ODI",
+      "score": "TBC vs TBC 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -498,16 +537,42 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Match • Gelsenkirchen, GelsenTrabPark Sweden Women SWEW 145-4 (18) Denmark Women DENW 74-9 (18) Sweden Women won by 71 runs",
+      "title": "Denmark Women vs Sweden Women 5th Match",
       "team1": {
-        "name": "2nd Match • Gelsenkirchen, GelsenTrabPark Sweden Women SWEW 145",
+        "name": "Denmark Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "4 (18) Denmark Women DENW 74",
+        "name": "Sweden Women 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd Match • Gelsenkirchen, GelsenTrabPark Sweden Women SWEW 145-4 (18) Denmark Women DENW 74-9 (18) Sweden Women won by 71 runs",
+      "score": "Denmark Women vs Sweden Women 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Netherlands Women vs Scotland Women 1st ODI",
+      "team1": {
+        "name": "Netherlands Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Scotland Women 1st ODI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Netherlands Women vs Scotland Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "19th Match • Port of Spain, Trinidad, Queen's Park Oval Barbados Tridents BBT 127-9 (20) Trinbago Knight Riders TKR 128-3 (14.5) Trinbago Knight Riders won by 7 wkts",
+      "team1": {
+        "name": "19th Match • Port of Spain, Trinidad, Queen's Park Oval Barbados Tridents BBT 127",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Trinbago Knight Riders TKR 128",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "19th Match • Port of Spain, Trinidad, Queen's Park Oval Barbados Tridents BBT 127-9 (20) Trinbago Knight Riders TKR 128-3 (14.5) Trinbago Knight Riders won by 7 wkts",
       "status": "Match Details"
     }
   ]
