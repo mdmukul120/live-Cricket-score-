@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-08-28 17:13:34 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-08-29 00:59:35 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "ENG vs PAK - Lead by 240",
+      "title": "BBT vs TKR - TKR opt to bowl",
+      "team1": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BBT vs TKR - TKR opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs PAK - Stumps",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -13,7 +26,7 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "ENG vs PAK - Lead by 240",
+      "score": "ENG vs PAK - Stumps",
       "status": "Match Details"
     },
     {
@@ -30,19 +43,6 @@
       "status": "Match Details"
     },
     {
-      "title": "ADF vs ECR - Abandon",
-      "team1": {
-        "name": "ADF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ECR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ADF vs ECR - Abandon",
-      "status": "Match Details"
-    },
-    {
       "title": "VKK vs MDP - VKK won",
       "team1": {
         "name": "VKK",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "THAIW vs HKC W - Need 44 off 36b",
+      "title": "THAIW vs HKC W - THAIW won",
       "team1": {
         "name": "THAIW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,20 +65,20 @@
         "name": "HKC W",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "THAIW vs HKC W - Need 44 off 36b",
+      "score": "THAIW vs HKC W - THAIW won",
       "status": "Match Details"
     },
     {
-      "title": "England vs Pakistan LIVE 2nd Test",
+      "title": "England vs Pakistan 2nd Test",
       "team1": {
         "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 2nd Test",
+        "name": "Pakistan 2nd Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "England vs Pakistan LIVE 2nd Test",
+      "score": "England vs Pakistan 2nd Test",
       "status": "Match Details"
     },
     {
@@ -121,42 +121,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Barbados Tridents 19th Match",
+      "title": "Barbados Tridents vs Trinbago Knight Riders LIVE 19th Match",
+      "team1": {
+        "name": "Barbados Tridents",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trinbago Knight Riders LIVE 19th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Barbados Tridents vs Trinbago Knight Riders LIVE 19th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trinbago Knight Riders vs Jamaica Kingsmen 20th Match",
       "team1": {
         "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Barbados Tridents 19th Match",
+        "name": "Jamaica Kingsmen 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Barbados Tridents 19th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Vida Kovai Kings vs Madurai Panthers Final",
-      "team1": {
-        "name": "Vida Kovai Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Madurai Panthers Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Vida Kovai Kings vs Madurai Panthers Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Central Delhi Kings vs Purani Dilli 6 LIVE Qualifier 2 (Loser Q1 vs Winner Eliminator)",
-      "team1": {
-        "name": "Central Delhi Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Purani Dilli 6 LIVE Qualifier 2 (Loser Q1",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Central Delhi Kings vs Purani Dilli 6 LIVE Qualifier 2 (Loser Q1 vs Winner Eliminator)",
+      "score": "Trinbago Knight Riders vs Jamaica Kingsmen 20th Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +186,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Vida Kovai Kings vs Madurai Panthers Final",
+      "team1": {
+        "name": "Vida Kovai Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Madurai Panthers Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vida Kovai Kings vs Madurai Panthers Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Delhi Kings vs Purani Dilli 6 Qualifier 2 (Loser Q1 vs Winner Eliminator)",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Purani Dilli 6 Qualifier 2 (Loser Q1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs Purani Dilli 6 Qualifier 2 (Loser Q1 vs Winner Eliminator)",
+      "status": "Match Details"
+    },
+    {
       "title": "Nottinghamshire vs Warwickshire 46th Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -212,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Essex LIVE 47th Match",
+      "title": "Surrey vs Essex 47th Match",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE 47th Match",
+        "name": "Essex 47th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Surrey vs Essex LIVE 47th Match",
+      "score": "Surrey vs Essex 47th Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Sussex LIVE 50th Match",
+      "title": "Somerset vs Sussex 50th Match",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sussex LIVE 50th Match",
+        "name": "Sussex 50th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Sussex LIVE 50th Match",
+      "score": "Somerset vs Sussex 50th Match",
       "status": "Match Details"
     },
     {
@@ -290,42 +303,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Worcestershire LIVE 39th Match",
+      "title": "Lancashire vs Worcestershire 39th Match",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Worcestershire LIVE 39th Match",
+        "name": "Worcestershire 39th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Lancashire vs Worcestershire LIVE 39th Match",
+      "score": "Lancashire vs Worcestershire 39th Match",
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Durham LIVE 40th Match",
+      "title": "Gloucestershire vs Durham 40th Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Durham LIVE 40th Match",
+        "name": "Durham 40th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gloucestershire vs Durham LIVE 40th Match",
+      "score": "Gloucestershire vs Durham 40th Match",
       "status": "Match Details"
     },
     {
-      "title": "Thailand Women vs Hong Kong, China Women LIVE Match 1, Group A",
+      "title": "Thailand Women vs Hong Kong, China Women Match 1, Group A",
       "team1": {
         "name": "Thailand Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hong Kong, China Women LIVE Match 1, Group A",
+        "name": "Hong Kong, China Women Match 1, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Thailand Women vs Hong Kong, China Women LIVE Match 1, Group A",
+      "score": "Thailand Women vs Hong Kong, China Women Match 1, Group A",
       "status": "Match Details"
     },
     {
@@ -485,94 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Match •  Windhoek, Namibia Cricket Ground Namibia NAM 163-9 (20) South Africa RSA 145-9 (20) Namibia won by 18 runs",
+      "title": "2nd Match • Gelsenkirchen, GelsenTrabPark Sweden Women SWEW 145-4 (18) Denmark Women DENW 74-9 (18) Sweden Women won by 71 runs",
       "team1": {
-        "name": "1st Match •  Windhoek, Namibia Cricket Ground Namibia NAM 163",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "9 (20) South Africa RSA 145",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "1st Match •  Windhoek, Namibia Cricket Ground Namibia NAM 163-9 (20) South Africa RSA 145-9 (20) Namibia won by 18 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 182-7 (20) Madurai Panthers MDP 98 (14.2) Vida Kovai Kings won by 84 runs",
-      "team1": {
-        "name": "Final • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 182",
+        "name": "2nd Match • Gelsenkirchen, GelsenTrabPark Sweden Women SWEW 145",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) Madurai Panthers MDP 98 (14.2) Vida Kovai Kings won by 84 runs",
+        "name": "4 (18) Denmark Women DENW 74",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Final • Chennai, MA Chidambaram Stadium Vida Kovai Kings VKK 182-7 (20) Madurai Panthers MDP 98 (14.2) Vida Kovai Kings won by 84 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qualifier 2 (Loser Q1 vs Winner Eliminator)  • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 218-5 (20) Purani Dilli 6 PD 105-6 (13) Purani Dilli 6 need 114 runs in 42 balls",
-      "team1": {
-        "name": "Qualifier 2 (Loser Q1",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Winner Eliminator)  • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 218",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Qualifier 2 (Loser Q1 vs Winner Eliminator)  • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 218-5 (20) Purani Dilli 6 PD 105-6 (13) Purani Dilli 6 need 114 runs in 42 balls",
-      "status": "Match Details"
-    },
-    {
-      "title": "9th Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Czech Republic Women CZEW 73 (19.2) Austria Women AUTW 74-5 (16.4) Austria Women won by 5 wkts",
-      "team1": {
-        "name": "9th Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Czech Republic Women CZEW 73 (19.2) Austria Women AUTW 74",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "5 (16.4) Austria Women won by 5 wkts",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "9th Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Czech Republic Women CZEW 73 (19.2) Austria Women AUTW 74-5 (16.4) Austria Women won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "8th Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Turkey Women TRKW 126-9 (20) Guernsey Women GGYW 109-5 (20) Turkey Women won by 17 runs",
-      "team1": {
-        "name": "8th Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Turkey Women TRKW 126",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Guernsey Women GGYW 109",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "8th Match, Group A • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Turkey Women TRKW 126-9 (20) Guernsey Women GGYW 109-5 (20) Turkey Women won by 17 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st ODI • Glasgow, Titwood Netherlands Women NEDW 270-4 (50) Scotland Women SCOW 212 (48.5) Netherlands Women won by 58 runs",
-      "team1": {
-        "name": "1st ODI • Glasgow, Titwood Netherlands Women NEDW 270",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (50) Scotland Women SCOW 212 (48.5) Netherlands Women won by 58 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st ODI • Glasgow, Titwood Netherlands Women NEDW 270-4 (50) Scotland Women SCOW 212 (48.5) Netherlands Women won by 58 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 93-6 (11) Sweden Women SWEW 71-1 (7.1) Sweden Women won by 14 runs (DLS method) Target 58",
-      "team1": {
-        "name": "1st Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 93",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (11) Sweden Women SWEW 71",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 93-6 (11) Sweden Women SWEW 71-1 (7.1) Sweden Women won by 14 runs (DLS method) Target 58",
+      "score": "2nd Match • Gelsenkirchen, GelsenTrabPark Sweden Women SWEW 145-4 (18) Denmark Women DENW 74-9 (18) Sweden Women won by 71 runs",
       "status": "Match Details"
     }
   ]
