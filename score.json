@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-29 13:25:57 UTC",
+  "last_updated": "2026-08-29 17:20:21 UTC",
   "total_matches": 50,
   "matches": [
     {
-      "title": "ENG vs PAK - Lead by 263",
+      "title": "ENG vs PAK - Rain",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -13,11 +13,24 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "ENG vs PAK - Lead by 263",
+      "score": "ENG vs PAK - Rain",
       "status": "Match Details"
     },
     {
-      "title": "ZIM vs RSA - ZIM opt to bat",
+      "title": "UAEW vs SLW - SLW won",
+      "team1": {
+        "name": "UAEW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "UAEW vs SLW - SLW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs RSA - RSA won",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -26,85 +39,59 @@
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "ZIM vs RSA - ZIM opt to bat",
+      "score": "ZIM vs RSA - RSA won",
       "status": "Match Details"
     },
     {
-      "title": "GGC vs DBG - GGC won",
+      "title": "BFW vs RDD - No Result",
       "team1": {
-        "name": "GGC",
+        "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "DBG",
+        "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs DBG - GGC won",
+      "score": "BFW vs RDD - No Result",
       "status": "Match Details"
     },
     {
-      "title": "SLW vs UAEW - Preview",
+      "title": "TKR vs JKM - Preview",
       "team1": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "UAEW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLW vs UAEW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "BBT vs TKR - TKR won",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BBT vs TKR - TKR won",
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKR vs JKM - Preview",
       "status": "Match Details"
     },
     {
-      "title": "England vs Pakistan LIVE 2nd Test",
+      "title": "England vs Pakistan 2nd Test",
       "team1": {
         "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 2nd Test",
+        "name": "Pakistan 2nd Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "England vs Pakistan LIVE 2nd Test",
+      "score": "England vs Pakistan 2nd Test",
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs South Africa 1st Match",
-      "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Africa 1st Match",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Namibia vs South Africa 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zimbabwe vs South Africa LIVE 2nd Match",
+      "title": "Zimbabwe vs South Africa 2nd Match",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "South Africa LIVE 2nd Match",
+        "name": "South Africa 2nd Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Zimbabwe vs South Africa LIVE 2nd Match",
+      "score": "Zimbabwe vs South Africa 2nd Match",
       "status": "Match Details"
     },
     {
@@ -134,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Amsterdam Flames vs Edinburgh Castle Rockers 4th Match",
-      "team1": {
-        "name": "Amsterdam Flames",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Edinburgh Castle Rockers 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Amsterdam Flames vs Edinburgh Castle Rockers 4th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Glasgow Cosmic vs Dublin Guardians 5th Match",
       "team1": {
         "name": "Glasgow Cosmic",
@@ -160,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Rotterdam Dockers vs Belfast Wolves 6th Match",
+      "title": "Belfast Wolves vs Rotterdam Dockers 6th Match",
       "team1": {
-        "name": "Rotterdam Dockers",
+        "name": "Belfast Wolves",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Belfast Wolves 6th Match",
+        "name": "Rotterdam Dockers 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rotterdam Dockers vs Belfast Wolves 6th Match",
+      "score": "Belfast Wolves vs Rotterdam Dockers 6th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +186,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs Purani Dilli 6 Qualifier 2 (Loser Q1 vs Winner Eliminator)",
+      "title": "Amritsar Soormas vs Mohali Kings 1st Match",
       "team1": {
-        "name": "Central Delhi Kings",
+        "name": "Amritsar Soormas",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Mohali Kings 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Amritsar Soormas vs Mohali Kings 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Delhi Superstarz vs Central Delhi Kings Final",
+      "team1": {
+        "name": "South Delhi Superstarz",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Purani Dilli 6 Qualifier 2 (Loser Q1",
+        "name": "Central Delhi Kings Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs Purani Dilli 6 Qualifier 2 (Loser Q1 vs Winner Eliminator)",
+      "score": "South Delhi Superstarz vs Central Delhi Kings Final",
       "status": "Match Details"
     },
     {
@@ -316,29 +303,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Leicestershire LIVE 48th Match",
+      "title": "Yorkshire vs Leicestershire 48th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire LIVE 48th Match",
+        "name": "Leicestershire 48th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Yorkshire vs Leicestershire LIVE 48th Match",
+      "score": "Yorkshire vs Leicestershire 48th Match",
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Glamorgan 49th Match",
+      "title": "Hampshire vs Glamorgan LIVE 49th Match",
       "team1": {
         "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Glamorgan 49th Match",
+        "name": "Glamorgan LIVE 49th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hampshire vs Glamorgan 49th Match",
+      "score": "Hampshire vs Glamorgan LIVE 49th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Durham LIVE 40th Match",
+      "title": "Gloucestershire vs Durham 40th Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Durham LIVE 40th Match",
+        "name": "Durham 40th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gloucestershire vs Durham LIVE 40th Match",
+      "score": "Gloucestershire vs Durham 40th Match",
       "status": "Match Details"
     },
     {
@@ -420,29 +407,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs United Arab Emirates Women Match 2, Group B",
+      "title": "United Arab Emirates Women vs Sri Lanka Women Match 2, Group B",
       "team1": {
-        "name": "Sri Lanka Women",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "United Arab Emirates Women Match 2, Group B",
+        "name": "United Arab Emirates Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sri Lanka Women vs United Arab Emirates Women Match 2, Group B",
+      "team2": {
+        "name": "Sri Lanka Women Match 2, Group B",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "United Arab Emirates Women vs Sri Lanka Women Match 2, Group B",
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic Women vs Austria Women 9th Match, Group A",
+      "title": "India Women vs Thailand Women Match 3, Group A",
       "team1": {
-        "name": "Czech Republic Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India Women",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Austria Women 9th Match, Group A",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Thailand Women Match 3, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Czech Republic Women vs Austria Women 9th Match, Group A",
+      "score": "India Women vs Thailand Women Match 3, Group A",
       "status": "Match Details"
     },
     {
@@ -602,6 +589,19 @@
       "status": "Match Details"
     },
     {
+      "title": "2nd Match •  Windhoek, Namibia Cricket Ground Zimbabwe ZIM 144-8 (20) South Africa RSA 146-3 (13.4) South Africa won by 7 wkts",
+      "team1": {
+        "name": "2nd Match •  Windhoek, Namibia Cricket Ground Zimbabwe ZIM 144",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "8 (20) South Africa RSA 146",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "2nd Match •  Windhoek, Namibia Cricket Ground Zimbabwe ZIM 144-8 (20) South Africa RSA 146-3 (13.4) South Africa won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "5th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 183-5 (20) Dublin Guardians DBG 150 (19.3) Glasgow Cosmic won by 33 runs",
       "team1": {
         "name": "5th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 183",
@@ -615,16 +615,16 @@
       "status": "Match Details"
     },
     {
-      "title": "10th Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Greece Women GRCW 109-5 (20) Norway Women NOYW 110-4 (18) Norway Women won by 6 wkts",
+      "title": "Match 2, Group B • Dubai, Dubai International Cricket Stadium United Arab Emirates Women UAEW 79 (19.5) Sri Lanka Women SLW 80-1 (7.5) Sri Lanka Women won by 9 wkts",
       "team1": {
-        "name": "10th Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Greece Women GRCW 109",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Match 2, Group B • Dubai, Dubai International Cricket Stadium United Arab Emirates Women UAEW 79 (19.5) Sri Lanka Women SLW 80",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "5 (20) Norway Women NOYW 110",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "1 (7.5) Sri Lanka Women won by 9 wkts",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "10th Match, Group B • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Greece Women GRCW 109-5 (20) Norway Women NOYW 110-4 (18) Norway Women won by 6 wkts",
+      "score": "Match 2, Group B • Dubai, Dubai International Cricket Stadium United Arab Emirates Women UAEW 79 (19.5) Sri Lanka Women SLW 80-1 (7.5) Sri Lanka Women won by 9 wkts",
       "status": "Match Details"
     },
     {
