@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-30 18:35:16 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-08-30 21:32:26 UTC",
+  "total_matches": 45,
   "matches": [
     {
       "title": "ENG vs PAK - ENG won",
@@ -43,7 +43,20 @@
       "status": "Match Details"
     },
     {
-      "title": "CDK vs SDS - Need 12 off 16b",
+      "title": "SNP vs ABF - Preview",
+      "team1": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SNP vs ABF - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "CDK vs SDS - SDS won",
       "team1": {
         "name": "CDK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +65,7 @@
         "name": "SDS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CDK vs SDS - Need 12 off 16b",
-      "status": "Match Details"
-    },
-    {
-      "title": "AMS vs MHK - MHK won",
-      "team1": {
-        "name": "AMS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MHK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "AMS vs MHK - MHK won",
+      "score": "CDK vs SDS - SDS won",
       "status": "Match Details"
     },
     {
@@ -118,6 +118,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 21st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trinbago Knight Riders vs Guyana Amazon Warriors 22nd Match",
+      "team1": {
+        "name": "Trinbago Knight Riders",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors 22nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trinbago Knight Riders vs Guyana Amazon Warriors 22nd Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Delhi Kings vs South Delhi Superstarz LIVE Final",
+      "title": "Central Delhi Kings vs South Delhi Superstarz Final",
       "team1": {
         "name": "Central Delhi Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Delhi Superstarz LIVE Final",
+        "name": "South Delhi Superstarz Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Delhi Kings vs South Delhi Superstarz LIVE Final",
+      "score": "Central Delhi Kings vs South Delhi Superstarz Final",
       "status": "Match Details"
     },
     {
@@ -225,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Singapore 1st Match, Group B",
-      "team1": {
-        "name": "Oman",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Singapore 1st Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman vs Singapore 1st Match, Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
       "team1": {
         "name": "Hong Kong, China",
@@ -248,6 +248,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Oman vs Singapore 1st Match, Group B",
+      "team1": {
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 1st Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Oman vs Singapore 1st Match, Group B",
       "status": "Match Details"
     },
     {
@@ -290,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Warwickshire 46th Match",
+      "title": "Somerset vs Sussex 50th Match",
       "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire 46th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "Sussex 50th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nottinghamshire vs Warwickshire 46th Match",
+      "score": "Somerset vs Sussex 50th Match",
       "status": "Match Details"
     },
     {
@@ -316,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Sussex 50th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sussex 50th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Sussex 50th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Yorkshire vs Leicestershire 48th Match",
       "team1": {
         "name": "Yorkshire",
@@ -339,6 +339,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Yorkshire vs Leicestershire 48th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Warwickshire 46th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 46th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Nottinghamshire vs Warwickshire 46th Match",
       "status": "Match Details"
     },
     {
@@ -355,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Northamptonshire 38th Match",
+      "title": "Lancashire vs Worcestershire 39th Match",
       "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northamptonshire 38th Match",
+        "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Kent vs Northamptonshire 38th Match",
+      "team2": {
+        "name": "Worcestershire 39th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Lancashire vs Worcestershire 39th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Worcestershire 39th Match",
+      "title": "Kent vs Northamptonshire 38th Match",
       "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire 39th Match",
+        "name": "Northamptonshire 38th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Lancashire vs Worcestershire 39th Match",
+      "score": "Kent vs Northamptonshire 38th Match",
       "status": "Match Details"
     },
     {
@@ -472,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Germany Women vs Denmark Women LIVE 6th Match",
+      "title": "Germany Women vs Denmark Women 6th Match",
       "team1": {
         "name": "Germany Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Denmark Women LIVE 6th Match",
+        "name": "Denmark Women 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Germany Women vs Denmark Women LIVE 6th Match",
+      "score": "Germany Women vs Denmark Women 6th Match",
       "status": "Match Details"
     },
     {
@@ -524,19 +537,6 @@
       "status": "Match Details"
     },
     {
-      "title": "7th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 56-2 (5) Belfast Wolves BFW 59-1 (3.5) Belfast Wolves won by 9 wkts (Match reduced to 5 overs per side due to rain)",
-      "team1": {
-        "name": "7th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 56",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (5) Belfast Wolves BFW 59",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 56-2 (5) Belfast Wolves BFW 59-1 (3.5) Belfast Wolves won by 9 wkts (Match reduced to 5 overs per side due to rain)",
-      "status": "Match Details"
-    },
-    {
       "title": "1st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 258 (19.5) Mohali Kings MHK 262-5 (19.3) Mohali Kings won by 5 wkts",
       "team1": {
         "name": "1st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 258 (19.5) Mohali Kings MHK 262",
@@ -547,6 +547,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "1st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 258 (19.5) Mohali Kings MHK 262-5 (19.3) Mohali Kings won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 182-8 (20) South Delhi Superstarz SDS 186-3 (18.2) South Delhi Superstarz won by 7 wkts",
+      "team1": {
+        "name": "Final • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 182",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) South Delhi Superstarz SDS 186",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 182-8 (20) South Delhi Superstarz SDS 186-3 (18.2) South Delhi Superstarz won by 7 wkts",
       "status": "Match Details"
     },
     {
@@ -563,16 +576,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Isle of Man Women IOMW 117-8 (20) Turkey Women TRKW 118-5 (15) Turkey Women won by 5 wkts",
+      "title": "6th Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 119-9 (20) Denmark Women DENW 82-7 (20) Germany Women won by 37 runs",
       "team1": {
-        "name": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Isle of Man Women IOMW 117",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "8 (20) Turkey Women TRKW 118",
+        "name": "6th Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 119",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Isle of Man Women IOMW 117-8 (20) Turkey Women TRKW 118-5 (15) Turkey Women won by 5 wkts",
+      "team2": {
+        "name": "9 (20) Denmark Women DENW 82",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 119-9 (20) Denmark Women DENW 82-7 (20) Germany Women won by 37 runs",
       "status": "Match Details"
     }
   ]
