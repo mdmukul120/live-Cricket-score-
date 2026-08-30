@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-08-30 21:32:26 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-08-30 23:48:30 UTC",
+  "total_matches": 42,
   "matches": [
+    {
+      "title": "SNP vs ABF - Delay",
+      "team1": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SNP vs ABF - Delay",
+      "status": "Match Details"
+    },
     {
       "title": "ENG vs PAK - ENG won",
       "team1": {
@@ -30,29 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "DBG vs ECR - ECR won",
+      "title": "NAM vs ZIM - Preview",
       "team1": {
-        "name": "DBG",
+        "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ECR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "DBG vs ECR - ECR won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SNP vs ABF - Preview",
-      "team1": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SNP vs ABF - Preview",
+      "score": "NAM vs ZIM - Preview",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia 2nd Match, Group A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Oman vs Singapore 1st Match, Group B",
       "team1": {
         "name": "Oman",
@@ -261,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Oman vs Singapore 1st Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 2nd Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
       "status": "Match Details"
     },
     {
@@ -303,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Sussex 50th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sussex 50th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Sussex 50th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Surrey vs Essex 47th Match",
       "team1": {
         "name": "Surrey",
@@ -326,19 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Surrey vs Essex 47th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Leicestershire 48th Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire 48th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Yorkshire vs Leicestershire 48th Match",
       "status": "Match Details"
     },
     {
@@ -368,6 +342,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Yorkshire vs Leicestershire 48th Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire 48th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Leicestershire 48th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Sussex 50th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sussex 50th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Sussex 50th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Northamptonshire 38th Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northamptonshire 38th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Northamptonshire 38th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Lancashire vs Worcestershire 39th Match",
       "team1": {
         "name": "Lancashire",
@@ -391,19 +404,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Derbyshire vs Middlesex 37th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Northamptonshire 38th Match",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northamptonshire 38th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Kent vs Northamptonshire 38th Match",
       "status": "Match Details"
     },
     {
@@ -511,32 +511,6 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Test • London, Lord's England ENG 290 & 208 Pakistan PAK 110 & 194 England won by 194 runs",
-      "team1": {
-        "name": "2nd Test • London, Lord's England ENG 290 & 208 Pakistan PAK 110 & 194 England won by 194 runs",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Test • London, Lord's England ENG 290 & 208 Pakistan PAK 110 & 194 England won by 194 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "8th Match • Voorburg, Sportpark Duivesteijn Dublin Guardians DBG 109 (18) Edinburgh Castle Rockers ECR 110-6 (13.4) Edinburgh Castle Rockers won by 4 wkts",
-      "team1": {
-        "name": "8th Match • Voorburg, Sportpark Duivesteijn Dublin Guardians DBG 109 (18) Edinburgh Castle Rockers ECR 110",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (13.4) Edinburgh Castle Rockers won by 4 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "8th Match • Voorburg, Sportpark Duivesteijn Dublin Guardians DBG 109 (18) Edinburgh Castle Rockers ECR 110-6 (13.4) Edinburgh Castle Rockers won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "1st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 258 (19.5) Mohali Kings MHK 262-5 (19.3) Mohali Kings won by 5 wkts",
       "team1": {
         "name": "1st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 258 (19.5) Mohali Kings MHK 262",
@@ -560,19 +534,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Final • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 182-8 (20) South Delhi Superstarz SDS 186-3 (18.2) South Delhi Superstarz won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Match 3, Group A • Dubai, Dubai International Cricket Stadium India Women INDW 159-9 (20) Thailand Women THAIW 65 (16.1) India Women won by 94 runs",
-      "team1": {
-        "name": "Match 3, Group A • Dubai, Dubai International Cricket Stadium India Women INDW 159",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "9 (20) Thailand Women THAIW 65 (16.1) India Women won by 94 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Match 3, Group A • Dubai, Dubai International Cricket Stadium India Women INDW 159-9 (20) Thailand Women THAIW 65 (16.1) India Women won by 94 runs",
       "status": "Match Details"
     },
     {
