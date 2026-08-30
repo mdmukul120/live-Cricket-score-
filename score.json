@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-30 00:20:34 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-08-30 05:35:44 UTC",
+  "total_matches": 44,
   "matches": [
     {
-      "title": "TKR vs JKM - JKM opt to bowl",
+      "title": "TKR vs JKM - JKM won",
       "team1": {
         "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TKR vs JKM - JKM opt to bowl",
+      "score": "TKR vs JKM - JKM won",
       "status": "Match Details"
     },
     {
@@ -30,42 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "UAEW vs SLW - SLW won",
+      "title": "NZONE vs SZONE - NZONE opt to bat",
       "team1": {
-        "name": "UAEW",
+        "name": "NZONE",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "SZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NZONE vs SZONE - NZONE opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "ADF vs BFW - Preview",
+      "team1": {
+        "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "UAEW vs SLW - SLW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs RSA - RSA won",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "ZIM vs RSA - RSA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BFW vs RDD - No Result",
-      "team1": {
         "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "RDD",
+      "score": "ADF vs BFW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "CZONE vs EZONE - EZONE opt to bowl",
+      "team1": {
+        "name": "CZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BFW vs RDD - No Result",
+      "team2": {
+        "name": "EZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "CZONE vs EZONE - EZONE opt to bowl",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Trinbago Knight Riders 19th Match",
-      "team1": {
-        "name": "Barbados Tridents",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trinbago Knight Riders 19th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Barbados Tridents vs Trinbago Knight Riders 19th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Trinbago Knight Riders vs Jamaica Kingsmen LIVE 20th Match",
+      "title": "Trinbago Knight Riders vs Jamaica Kingsmen 20th Match",
       "team1": {
         "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen LIVE 20th Match",
+        "name": "Jamaica Kingsmen 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Jamaica Kingsmen LIVE 20th Match",
+      "score": "Trinbago Knight Riders vs Jamaica Kingsmen 20th Match",
       "status": "Match Details"
     },
     {
@@ -212,29 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Zone vs East Zone 1st Semi-Final",
+      "title": "Central Zone vs East Zone LIVE 1st Semi-Final",
       "team1": {
         "name": "Central Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Zone 1st Semi",
+        "name": "East Zone LIVE 1st Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Zone vs East Zone 1st Semi-Final",
+      "score": "Central Zone vs East Zone LIVE 1st Semi-Final",
       "status": "Match Details"
     },
     {
-      "title": "South Zone vs North Zone 2nd Semi-Final",
+      "title": "North Zone vs South Zone LIVE 2nd Semi-Final",
       "team1": {
-        "name": "South Zone",
+        "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North Zone 2nd Semi",
+        "name": "South Zone LIVE 2nd Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Zone vs North Zone 2nd Semi-Final",
+      "score": "North Zone vs South Zone LIVE 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -264,6 +251,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Qatar vs United Arab Emirates 3rd Match, Group B",
+      "team1": {
+        "name": "Qatar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 3rd Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qatar vs United Arab Emirates 3rd Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Nepal 4th Match, Group A",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal 4th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahrain vs Nepal 4th Match, Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "South Africa A vs Bangladesh A 2nd Unofficial Test",
       "team1": {
         "name": "South Africa A",
@@ -274,6 +287,19 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "South Africa A vs Bangladesh A 2nd Unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Warwickshire 46th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 46th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Nottinghamshire vs Warwickshire 46th Match",
       "status": "Match Details"
     },
     {
@@ -326,19 +352,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Somerset vs Sussex 50th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Warwickshire 46th Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire 46th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Nottinghamshire vs Warwickshire 46th Match",
       "status": "Match Details"
     },
     {
@@ -547,6 +560,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Scotland Women vs Netherlands Women 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "20th Match • Port of Spain, Trinidad, Queen's Park Oval Trinbago Knight Riders TKR 180-6 (20) Jamaica Kingsmen JKM 127-3 (14.4) Jamaica Kingsmen won by 7 runs (DLS Method)",
+      "team1": {
+        "name": "20th Match • Port of Spain, Trinidad, Queen's Park Oval Trinbago Knight Riders TKR 180",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Jamaica Kingsmen JKM 127",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "20th Match • Port of Spain, Trinidad, Queen's Park Oval Trinbago Knight Riders TKR 180-6 (20) Jamaica Kingsmen JKM 127-3 (14.4) Jamaica Kingsmen won by 7 runs (DLS Method)",
       "status": "Match Details"
     }
   ]
