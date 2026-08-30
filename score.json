@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-08-30 10:40:39 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-08-30 15:02:14 UTC",
+  "total_matches": 49,
   "matches": [
     {
-      "title": "ENG vs PAK - Lead by 386",
+      "title": "ENG vs PAK - Need 268 to win",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -13,11 +13,11 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "ENG vs PAK - Lead by 386",
+      "score": "ENG vs PAK - Need 268 to win",
       "status": "Match Details"
     },
     {
-      "title": "INDW vs THAIW - Preview",
+      "title": "INDW vs THAIW - THAIW opt to bowl",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -26,24 +26,24 @@
         "name": "THAIW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "INDW vs THAIW - Preview",
+      "score": "INDW vs THAIW - THAIW opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "TKR vs JKM - JKM won",
+      "title": "DBG vs ECR - DBG opt to bat",
       "team1": {
-        "name": "TKR",
+        "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "JKM",
+        "name": "ECR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TKR vs JKM - JKM won",
+      "score": "DBG vs ECR - DBG opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs SZONE - Trail by 185",
+      "title": "NZONE vs SZONE - Stumps",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -52,11 +52,11 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs SZONE - Trail by 185",
+      "score": "NZONE vs SZONE - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "CZONE vs EZONE - EZONE opt to bowl",
+      "title": "CZONE vs EZONE - Stumps",
       "team1": {
         "name": "CZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CZONE vs EZONE - EZONE opt to bowl",
+      "score": "CZONE vs EZONE - Stumps",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Namibia vs Zimbabwe 3rd Match",
+      "team1": {
+        "name": "Namibia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Zimbabwe 3rd Match",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Namibia vs Zimbabwe 3rd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Trinbago Knight Riders vs Jamaica Kingsmen 20th Match",
       "team1": {
         "name": "Trinbago Knight Riders",
@@ -118,19 +131,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 21st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glasgow Cosmic vs Dublin Guardians 5th Match",
-      "team1": {
-        "name": "Glasgow Cosmic",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dublin Guardians 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glasgow Cosmic vs Dublin Guardians 5th Match",
       "status": "Match Details"
     },
     {
@@ -160,29 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Edinburgh Castle Rockers vs Dublin Guardians 8th Match",
+      "title": "Dublin Guardians vs Edinburgh Castle Rockers LIVE 8th Match",
       "team1": {
-        "name": "Edinburgh Castle Rockers",
+        "name": "Dublin Guardians",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dublin Guardians 8th Match",
+        "name": "Edinburgh Castle Rockers LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Edinburgh Castle Rockers vs Dublin Guardians 8th Match",
+      "score": "Dublin Guardians vs Edinburgh Castle Rockers LIVE 8th Match",
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Mohali Kings 1st Match",
+      "title": "Amritsar Soormas vs Mohali Kings LIVE 1st Match",
       "team1": {
         "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Mohali Kings 1st Match",
+        "name": "Mohali Kings LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Mohali Kings 1st Match",
+      "score": "Amritsar Soormas vs Mohali Kings LIVE 1st Match",
       "status": "Match Details"
     },
     {
@@ -199,42 +199,55 @@
       "status": "Match Details"
     },
     {
-      "title": "South Delhi Superstarz vs Central Delhi Kings Final",
+      "title": "Mohali Kings vs Bathinda Royals 3rd Match",
       "team1": {
-        "name": "South Delhi Superstarz",
+        "name": "Mohali Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Delhi Kings Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Bathinda Royals 3rd Match",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "South Delhi Superstarz vs Central Delhi Kings Final",
+      "score": "Mohali Kings vs Bathinda Royals 3rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Central Zone vs East Zone LIVE 1st Semi-Final",
+      "title": "Central Delhi Kings vs South Delhi Superstarz LIVE Final",
+      "team1": {
+        "name": "Central Delhi Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Delhi Superstarz LIVE Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Delhi Kings vs South Delhi Superstarz LIVE Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Zone vs East Zone 1st Semi-Final",
       "team1": {
         "name": "Central Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Zone LIVE 1st Semi",
+        "name": "East Zone 1st Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Zone vs East Zone LIVE 1st Semi-Final",
+      "score": "Central Zone vs East Zone 1st Semi-Final",
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs South Zone LIVE 2nd Semi-Final",
+      "title": "North Zone vs South Zone 2nd Semi-Final",
       "team1": {
         "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone LIVE 2nd Semi",
+        "name": "South Zone 2nd Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs South Zone LIVE 2nd Semi-Final",
+      "score": "North Zone vs South Zone 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -290,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa A vs Bangladesh A 2nd Unofficial Test",
+      "title": "South Africa A vs Bangladesh A LIVE 2nd Unofficial Test",
       "team1": {
         "name": "South Africa A",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Bangladesh A 2nd Unofficial Test",
+        "name": "Bangladesh A LIVE 2nd Unofficial Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "South Africa A vs Bangladesh A 2nd Unofficial Test",
+      "score": "South Africa A vs Bangladesh A LIVE 2nd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -316,16 +329,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Essex LIVE 47th Match",
+      "title": "Surrey vs Essex 47th Match",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE 47th Match",
+        "name": "Essex 47th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Surrey vs Essex LIVE 47th Match",
+      "score": "Surrey vs Essex 47th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Glamorgan 49th Match",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan 49th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Glamorgan 49th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Sussex 50th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sussex 50th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Sussex 50th Match",
       "status": "Match Details"
     },
     {
@@ -342,55 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Glamorgan LIVE 49th Match",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan LIVE 49th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Glamorgan LIVE 49th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Sussex LIVE 50th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sussex LIVE 50th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Somerset vs Sussex LIVE 50th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Middlesex LIVE 37th Match",
+      "title": "Derbyshire vs Middlesex 37th Match",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Middlesex LIVE 37th Match",
+        "name": "Middlesex 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Middlesex LIVE 37th Match",
+      "score": "Derbyshire vs Middlesex 37th Match",
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Northamptonshire LIVE 38th Match",
+      "title": "Kent vs Northamptonshire 38th Match",
       "team1": {
         "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northamptonshire LIVE 38th Match",
+        "name": "Northamptonshire 38th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Kent vs Northamptonshire LIVE 38th Match",
+      "score": "Kent vs Northamptonshire 38th Match",
       "status": "Match Details"
     },
     {
@@ -433,29 +446,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Thailand Women Match 3, Group A",
+      "title": "India Women vs Thailand Women LIVE Match 3, Group A",
       "team1": {
         "name": "India Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Thailand Women Match 3, Group A",
+        "name": "Thailand Women LIVE Match 3, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "India Women vs Thailand Women Match 3, Group A",
+      "score": "India Women vs Thailand Women LIVE Match 3, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic Women vs Guernsey Women 11th Match, Group A",
+      "title": "Bangladesh Women vs Indonesia Women Match 4, Group B",
       "team1": {
-        "name": "Czech Republic Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Bangladesh Women",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "Guernsey Women 11th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Indonesia Women Match 4, Group B",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Czech Republic Women vs Guernsey Women 11th Match, Group A",
+      "score": "Bangladesh Women vs Indonesia Women Match 4, Group B",
       "status": "Match Details"
     },
     {
@@ -472,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Norway Women vs Austria Women LIVE 3rd Place Play-off",
+      "title": "Norway Women vs Austria Women 3rd Place Play-off",
       "team1": {
         "name": "Norway Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Austria Women LIVE 3rd Place Play",
+        "name": "Austria Women 3rd Place Play",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Norway Women vs Austria Women LIVE 3rd Place Play-off",
+      "score": "Norway Women vs Austria Women 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -495,19 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Isle of Man Women vs Turkey Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Germany Women vs Denmark Women 3rd Match",
-      "team1": {
-        "name": "Germany Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Denmark Women 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Germany Women vs Denmark Women 3rd Match",
       "status": "Match Details"
     },
     {
@@ -563,16 +563,16 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Match, Group A • Bangi, YSD-UKM Cricket Oval Hong Kong, China HKC 273 (48.5) Saudi Arabia SAU 257 (49.2) Hong Kong, China won by 16 runs",
+      "title": "7th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 56-2 (5) Belfast Wolves BFW 59-1 (3.5) Belfast Wolves won by 9 wkts (Match reduced to 5 overs per side due to rain)",
       "team1": {
-        "name": "2nd Match, Group A • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "7th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 56",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "UKM Cricket Oval Hong Kong, China HKC 273 (48.5) Saudi Arabia SAU 257 (49.2) Hong Kong, China won by 16 runs",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "2 (5) Belfast Wolves BFW 59",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd Match, Group A • Bangi, YSD-UKM Cricket Oval Hong Kong, China HKC 273 (48.5) Saudi Arabia SAU 257 (49.2) Hong Kong, China won by 16 runs",
+      "score": "7th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 56-2 (5) Belfast Wolves BFW 59-1 (3.5) Belfast Wolves won by 9 wkts (Match reduced to 5 overs per side due to rain)",
       "status": "Match Details"
     },
     {
@@ -589,6 +589,19 @@
       "status": "Match Details"
     },
     {
+      "title": "2nd Match, Group A • Bangi, YSD-UKM Cricket Oval Hong Kong, China HKC 273 (48.5) Saudi Arabia SAU 257 (49.2) Hong Kong, China won by 16 runs",
+      "team1": {
+        "name": "2nd Match, Group A • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "UKM Cricket Oval Hong Kong, China HKC 273 (48.5) Saudi Arabia SAU 257 (49.2) Hong Kong, China won by 16 runs",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "2nd Match, Group A • Bangi, YSD-UKM Cricket Oval Hong Kong, China HKC 273 (48.5) Saudi Arabia SAU 257 (49.2) Hong Kong, China won by 16 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "40th Match • Chester-le-Street, Riverside Ground Gloucestershire GLOUCS 137 & 250 Durham DUR 384 & 4-0 Durham won by 10 wkts",
       "team1": {
         "name": "40th Match • Chester",
@@ -599,6 +612,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "40th Match • Chester-le-Street, Riverside Ground Gloucestershire GLOUCS 137 & 250 Durham DUR 384 & 4-0 Durham won by 10 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Isle of Man Women IOMW 117-8 (20) Turkey Women TRKW 118-5 (15) Turkey Women won by 5 wkts",
+      "team1": {
+        "name": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Isle of Man Women IOMW 117",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "8 (20) Turkey Women TRKW 118",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Isle of Man Women IOMW 117-8 (20) Turkey Women TRKW 118-5 (15) Turkey Women won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Place Play-off • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Norway Women NOYW 81 (17.3) Austria Women AUTW 82-3 (16.4) Austria Women won by 7 wkts",
+      "team1": {
+        "name": "3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "off • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Norway Women NOYW 81 (17.3) Austria Women AUTW 82",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "3rd Place Play-off • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Norway Women NOYW 81 (17.3) Austria Women AUTW 82-3 (16.4) Austria Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
