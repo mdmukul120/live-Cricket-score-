@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-08-30 23:48:30 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-08-31 01:43:57 UTC",
+  "total_matches": 41,
   "matches": [
     {
       "title": "SNP vs ABF - Delay",
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Singapore 1st Match, Group B",
-      "team1": {
-        "name": "Oman",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Singapore 1st Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman vs Singapore 1st Match, Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
       "team1": {
         "name": "Hong Kong, China",
@@ -261,6 +248,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Hong Kong, China vs Saudi Arabia 2nd Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Oman vs Singapore 1st Match, Group B",
+      "team1": {
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 1st Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Oman vs Singapore 1st Match, Group B",
       "status": "Match Details"
     },
     {
@@ -290,6 +290,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 5th Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kuwait vs Singapore 6th Match, Group B",
+      "team1": {
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 6th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kuwait vs Singapore 6th Match, Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "South Africa A vs Bangladesh A 2nd Unofficial Test",
       "team1": {
         "name": "South Africa A",
@@ -300,45 +326,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "South Africa A vs Bangladesh A 2nd Unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Essex 47th Match",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex 47th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Surrey vs Essex 47th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Warwickshire 46th Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire 46th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Nottinghamshire vs Warwickshire 46th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Glamorgan 49th Match",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan 49th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Glamorgan 49th Match",
       "status": "Match Details"
     },
     {
@@ -355,6 +342,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Hampshire vs Glamorgan 49th Match",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan 49th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Glamorgan 49th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Essex 47th Match",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex 47th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Surrey vs Essex 47th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Somerset vs Sussex 50th Match",
       "team1": {
         "name": "Somerset",
@@ -365,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Somerset vs Sussex 50th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Warwickshire 46th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 46th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Nottinghamshire vs Warwickshire 46th Match",
       "status": "Match Details"
     },
     {
@@ -508,45 +534,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Scotland Women vs Netherlands Women 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 258 (19.5) Mohali Kings MHK 262-5 (19.3) Mohali Kings won by 5 wkts",
-      "team1": {
-        "name": "1st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 258 (19.5) Mohali Kings MHK 262",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "5 (19.3) Mohali Kings won by 5 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 258 (19.5) Mohali Kings MHK 262-5 (19.3) Mohali Kings won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 182-8 (20) South Delhi Superstarz SDS 186-3 (18.2) South Delhi Superstarz won by 7 wkts",
-      "team1": {
-        "name": "Final • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 182",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) South Delhi Superstarz SDS 186",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Final • Delhi, Arun Jaitley Stadium Central Delhi Kings CDK 182-8 (20) South Delhi Superstarz SDS 186-3 (18.2) South Delhi Superstarz won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 119-9 (20) Denmark Women DENW 82-7 (20) Germany Women won by 37 runs",
-      "team1": {
-        "name": "6th Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 119",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Denmark Women DENW 82",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Gelsenkirchen, GelsenTrabPark Germany Women GERW 119-9 (20) Denmark Women DENW 82-7 (20) Germany Women won by 37 runs",
       "status": "Match Details"
     }
   ]
