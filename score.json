@@ -1,45 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-08-31 01:43:57 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-08-31 07:43:23 UTC",
+  "total_matches": 42,
   "matches": [
     {
-      "title": "SNP vs ABF - Delay",
+      "title": "CZONE vs EZONE - Trail by 67",
       "team1": {
-        "name": "SNP",
+        "name": "CZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ABF",
+        "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs ABF - Delay",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENG vs PAK - ENG won",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "ENG vs PAK - ENG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs THAIW - INDW won",
-      "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "THAIW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "INDW vs THAIW - INDW won",
+      "score": "CZONE vs EZONE - Trail by 67",
       "status": "Match Details"
     },
     {
@@ -56,16 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "CDK vs SDS - SDS won",
+      "title": "SNP vs ABF - Abandon",
       "team1": {
-        "name": "CDK",
+        "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SDS",
+        "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CDK vs SDS - SDS won",
+      "score": "SNP vs ABF - Abandon",
+      "status": "Match Details"
+    },
+    {
+      "title": "BANW vs IDNW - Preview",
+      "team1": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "IDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BANW vs IDNW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs PAK - ENG won",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "ENG vs PAK - ENG won",
       "status": "Match Details"
     },
     {
@@ -92,19 +92,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "Namibia vs Zimbabwe 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Trinbago Knight Riders vs Jamaica Kingsmen 20th Match",
-      "team1": {
-        "name": "Trinbago Knight Riders",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jamaica Kingsmen 20th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Trinbago Knight Riders vs Jamaica Kingsmen 20th Match",
       "status": "Match Details"
     },
     {
@@ -173,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jalandhar Warriors vs Fazilka Falcons 2nd Match",
+      "title": "Jalandhar Warriors vs Fazilka Falcons LIVE 2nd Match",
       "team1": {
         "name": "Jalandhar Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Fazilka Falcons 2nd Match",
+        "name": "Fazilka Falcons LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jalandhar Warriors vs Fazilka Falcons 2nd Match",
+      "score": "Jalandhar Warriors vs Fazilka Falcons LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +186,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Bathinda Royals vs Ludhiana Lions 4th Match",
+      "team1": {
+        "name": "Bathinda Royals",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Ludhiana Lions 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bathinda Royals vs Ludhiana Lions 4th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Central Delhi Kings vs South Delhi Superstarz Final",
       "team1": {
         "name": "Central Delhi Kings",
@@ -212,29 +212,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Zone vs East Zone 1st Semi-Final",
+      "title": "Central Zone vs East Zone LIVE 1st Semi-Final",
       "team1": {
         "name": "Central Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Zone 1st Semi",
+        "name": "East Zone LIVE 1st Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Zone vs East Zone 1st Semi-Final",
+      "score": "Central Zone vs East Zone LIVE 1st Semi-Final",
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs South Zone 2nd Semi-Final",
+      "title": "North Zone vs South Zone LIVE 2nd Semi-Final",
       "team1": {
         "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone 2nd Semi",
+        "name": "South Zone LIVE 2nd Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs South Zone 2nd Semi-Final",
+      "score": "North Zone vs South Zone LIVE 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -264,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Qatar vs United Arab Emirates 3rd Match, Group B",
+      "title": "United Arab Emirates vs Qatar 3rd Match, Group B",
       "team1": {
-        "name": "Qatar",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 3rd Match, Group B",
+        "name": "Qatar 3rd Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Qatar vs United Arab Emirates 3rd Match, Group B",
+      "score": "United Arab Emirates vs Qatar 3rd Match, Group B",
       "status": "Match Details"
     },
     {
@@ -329,32 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Leicestershire 48th Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire 48th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Yorkshire vs Leicestershire 48th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Glamorgan 49th Match",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Glamorgan 49th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hampshire vs Glamorgan 49th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Surrey vs Essex 47th Match",
       "team1": {
         "name": "Surrey",
@@ -394,6 +368,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Hampshire vs Glamorgan 49th Match",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Glamorgan 49th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Glamorgan 49th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Leicestershire 48th Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire 48th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Yorkshire vs Leicestershire 48th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Durham 40th Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham 40th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gloucestershire vs Durham 40th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Middlesex 37th Match",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex 37th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Middlesex 37th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Kent vs Northamptonshire 38th Match",
       "team1": {
         "name": "Kent",
@@ -417,32 +443,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Lancashire vs Worcestershire 39th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Middlesex 37th Match",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex 37th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Middlesex 37th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Durham 40th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Durham 40th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gloucestershire vs Durham 40th Match",
       "status": "Match Details"
     },
     {
@@ -534,6 +534,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Scotland Women vs Netherlands Women 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match, Group A • Bangi, YSD-UKM Cricket Oval Bahrain BHR 87 (36.2) Nepal NEP 88-3 (21) Nepal won by 7 wkts",
+      "team1": {
+        "name": "4th Match, Group A • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "UKM Cricket Oval Bahrain BHR 87 (36.2) Nepal NEP 88",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match, Group A • Bangi, YSD-UKM Cricket Oval Bahrain BHR 87 (36.2) Nepal NEP 88-3 (21) Nepal won by 7 wkts",
       "status": "Match Details"
     }
   ]
