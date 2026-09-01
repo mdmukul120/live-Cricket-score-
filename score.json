@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-01 15:12:51 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-09-01 18:29:57 UTC",
+  "total_matches": 40,
   "matches": [
     {
-      "title": "RSA vs ZIM - Need 44 off 15b",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "RSA vs ZIM - Need 44 off 15b",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAKW vs THAIW - PAKW opt to bat",
+      "title": "PAKW vs THAIW - PAKW won",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -26,11 +13,24 @@
         "name": "THAIW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PAKW vs THAIW - PAKW opt to bat",
+      "score": "PAKW vs THAIW - PAKW won",
       "status": "Match Details"
     },
     {
-      "title": "IREW vs ENGW - ENGW opt to bowl",
+      "title": "RSA vs ZIM - RSA won",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "RSA vs ZIM - RSA won",
+      "status": "Match Details"
+    },
+    {
+      "title": "IREW vs ENGW - ENGW won",
       "team1": {
         "name": "IREW",
         "flag": "https://flagcdn.com/w80/ie.png"
@@ -39,11 +39,24 @@
         "name": "ENGW",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "IREW vs ENGW - ENGW opt to bowl",
+      "score": "IREW vs ENGW - ENGW won",
       "status": "Match Details"
     },
     {
-      "title": "GGC vs RDD - Innings Break",
+      "title": "SNP vs BBT - Preview",
+      "team1": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SNP vs BBT - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "GGC vs RDD - RDD won",
       "team1": {
         "name": "GGC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,59 +65,20 @@
         "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs RDD - Innings Break",
+      "score": "GGC vs RDD - RDD won",
       "status": "Match Details"
     },
     {
-      "title": "CZONE vs EZONE - EZONE won",
-      "team1": {
-        "name": "CZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "CZONE vs EZONE - EZONE won",
-      "status": "Match Details"
-    },
-    {
-      "title": "England vs Pakistan 2nd Test",
-      "team1": {
-        "name": "England",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Pakistan 2nd Test",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "England vs Pakistan 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zimbabwe vs Namibia 3rd Match",
-      "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "Namibia 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Zimbabwe vs Namibia 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa vs Zimbabwe LIVE 4th Match",
+      "title": "South Africa vs Zimbabwe 4th Match",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Zimbabwe LIVE 4th Match",
+        "name": "Zimbabwe 4th Match",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "South Africa vs Zimbabwe LIVE 4th Match",
+      "score": "South Africa vs Zimbabwe 4th Match",
       "status": "Match Details"
     },
     {
@@ -173,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Mohali Kings vs Bathinda Royals 3rd Match",
-      "team1": {
-        "name": "Mohali Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bathinda Royals 3rd Match",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Mohali Kings vs Bathinda Royals 3rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bathinda Royals vs Ludhiana Lions 4th Match",
       "team1": {
         "name": "Bathinda Royals",
@@ -199,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Jalandhar Warriors LIVE 5th Match",
+      "title": "Amritsar Soormas vs Jalandhar Warriors 5th Match",
       "team1": {
         "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Jalandhar Warriors LIVE 5th Match",
+        "name": "Jalandhar Warriors 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Jalandhar Warriors LIVE 5th Match",
+      "score": "Amritsar Soormas vs Jalandhar Warriors 5th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs South Zone 2nd Semi-Final",
+      "title": "North Zone vs South Zone LIVE 2nd Semi-Final",
       "team1": {
         "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone 2nd Semi",
+        "name": "South Zone LIVE 2nd Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs South Zone 2nd Semi-Final",
+      "score": "North Zone vs South Zone LIVE 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -261,71 +222,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Central Zone vs East Zone 1st Semi-Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
-      "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia 5th Match, Group A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kuwait vs Singapore 6th Match, Group B",
-      "team1": {
-        "name": "Kuwait",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Singapore 6th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kuwait vs Singapore 6th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bahrain vs Hong Kong, China 7th Match, Group A",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hong Kong, China 7th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahrain vs Hong Kong, China 7th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Oman vs Qatar 8th Match, Group B",
-      "team1": {
-        "name": "Oman",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 8th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman vs Qatar 8th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa A vs Bangladesh A LIVE 2nd Unofficial Test",
-      "team1": {
-        "name": "South Africa A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Bangladesh A LIVE 2nd Unofficial Test",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "South Africa A vs Bangladesh A LIVE 2nd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -394,6 +290,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Kuwait vs Singapore 6th Match, Group B",
+      "team1": {
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 6th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kuwait vs Singapore 6th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 5th Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Oman vs Qatar 8th Match, Group B",
+      "team1": {
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Qatar 8th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Oman vs Qatar 8th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Hong Kong, China 7th Match, Group A",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hong Kong, China 7th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahrain vs Hong Kong, China 7th Match, Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Gloucestershire vs Derbyshire 41st Match",
       "team1": {
         "name": "Gloucestershire",
@@ -446,29 +394,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh Women vs Indonesia Women Match 4, Group B",
+      "title": "South Africa A vs Bangladesh A LIVE 2nd Unofficial Test",
       "team1": {
-        "name": "Bangladesh Women",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "South Africa A",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Indonesia Women Match 4, Group B",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Bangladesh A LIVE 2nd Unofficial Test",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Bangladesh Women vs Indonesia Women Match 4, Group B",
+      "score": "South Africa A vs Bangladesh A LIVE 2nd Unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Thailand Women LIVE Match 5, Group A",
+      "title": "Pakistan Women vs Thailand Women Match 5, Group A",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Thailand Women LIVE Match 5, Group A",
+        "name": "Thailand Women Match 5, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pakistan Women vs Thailand Women LIVE Match 5, Group A",
+      "score": "Pakistan Women vs Thailand Women Match 5, Group A",
       "status": "Match Details"
     },
     {
@@ -485,29 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland Women vs England Women LIVE 1st ODI",
+      "title": "Ireland Women vs England Women 1st ODI",
       "team1": {
         "name": "Ireland Women",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "England Women LIVE 1st ODI",
+        "name": "England Women 1st ODI",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Ireland Women vs England Women LIVE 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Netherlands Women vs Scotland Women 2nd ODI (Rescheduled match)",
-      "team1": {
-        "name": "Netherlands Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Scotland Women 2nd ODI (Rescheduled match)",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Netherlands Women vs Scotland Women 2nd ODI (Rescheduled match)",
+      "score": "Ireland Women vs England Women 1st ODI",
       "status": "Match Details"
     },
     {
@@ -524,55 +459,68 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 165 (19) Ludhiana Lions LDL 169-7 (18.4) Ludhiana Lions won by 3 wkts",
+      "title": "4th Match •  Windhoek, Namibia Cricket Ground South Africa RSA 185-7 (20) Zimbabwe ZIM 142 (17.4) South Africa won by 43 runs",
       "team1": {
-        "name": "4th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 165 (19) Ludhiana Lions LDL 169",
+        "name": "4th Match •  Windhoek, Namibia Cricket Ground South Africa RSA 185",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "7 (18.4) Ludhiana Lions won by 3 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 165 (19) Ludhiana Lions LDL 169-7 (18.4) Ludhiana Lions won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Semi-Final • Bengaluru, BCCI Centre of Excellence Ground 1 Central Zone CZONE 266 & 158 East Zone EZONE 266 & 162-6 East Zone won by 4 wkts",
-      "team1": {
-        "name": "1st Semi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Final • Bengaluru, BCCI Centre of Excellence Ground 1 Central Zone CZONE 266 & 158 East Zone EZONE 266 & 162",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "1st Semi-Final • Bengaluru, BCCI Centre of Excellence Ground 1 Central Zone CZONE 266 & 158 East Zone EZONE 266 & 162-6 East Zone won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 270-8 (50) Saudi Arabia SAU 177 (34) Malaysia won by 93 runs",
-      "team1": {
-        "name": "5th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 270",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (50) Saudi Arabia SAU 177 (34) Malaysia won by 93 runs",
+        "name": "7 (20) Zimbabwe ZIM 142 (17.4) South Africa won by 43 runs",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "5th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 270-8 (50) Saudi Arabia SAU 177 (34) Malaysia won by 93 runs",
+      "score": "4th Match •  Windhoek, Namibia Cricket Ground South Africa RSA 185-7 (20) Zimbabwe ZIM 142 (17.4) South Africa won by 43 runs",
       "status": "Match Details"
     },
     {
-      "title": "6th Match, Group B • Bangi, YSD-UKM Cricket Oval Kuwait KUW 249-4 (43.4) Singapore SIN 96 (27.3) Kuwait won by 153 runs",
+      "title": "9th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 140-9 (20) Rotterdam Dockers RDD 141-5 (19.5) Rotterdam Dockers won by 5 wkts",
       "team1": {
-        "name": "6th Match, Group B • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "UKM Cricket Oval Kuwait KUW 249",
+        "name": "9th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 140",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "6th Match, Group B • Bangi, YSD-UKM Cricket Oval Kuwait KUW 249-4 (43.4) Singapore SIN 96 (27.3) Kuwait won by 153 runs",
+      "team2": {
+        "name": "9 (20) Rotterdam Dockers RDD 141",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "9th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 140-9 (20) Rotterdam Dockers RDD 141-5 (19.5) Rotterdam Dockers won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 264-5 (20) Jalandhar Warriors JLW 265-2 (16.5) Jalandhar Warriors won by 8 wkts",
+      "team1": {
+        "name": "5th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 264",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "5 (20) Jalandhar Warriors JLW 265",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 264-5 (20) Jalandhar Warriors JLW 265-2 (16.5) Jalandhar Warriors won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Match 5, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 119-9 (20) Thailand Women THAIW 84-8 (20) Pakistan Women won by 35 runs",
+      "team1": {
+        "name": "Match 5, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 119",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "9 (20) Thailand Women THAIW 84",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Match 5, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 119-9 (20) Thailand Women THAIW 84-8 (20) Pakistan Women won by 35 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st ODI • Leicester, Grace Road Ireland Women IREW 281-5 (50) England Women ENGW 283-4 (38.1) England Women won by 6 wkts",
+      "team1": {
+        "name": "1st ODI • Leicester, Grace Road Ireland Women IREW 281",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "5 (50) England Women ENGW 283",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "1st ODI • Leicester, Grace Road Ireland Women IREW 281-5 (50) England Women ENGW 283-4 (38.1) England Women won by 6 wkts",
       "status": "Match Details"
     }
   ]
