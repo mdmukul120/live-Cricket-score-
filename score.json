@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-01 00:35:08 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-09-01 05:39:14 UTC",
+  "total_matches": 30,
   "matches": [
     {
-      "title": "GAW vs TKR - Trinbago Knight Riders need 180 runs in 93 balls",
+      "title": "GAW vs TKR - GAW won",
       "team1": {
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,37 +13,11 @@
         "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs TKR - Trinbago Knight Riders need 180 runs in 93 balls",
+      "score": "GAW vs TKR - GAW won",
       "status": "Match Details"
     },
     {
-      "title": "ZIM vs NAM - ZIM won",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ZIM vs NAM - ZIM won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BANW vs IDNW - BANW won",
-      "team1": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "IDNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BANW vs IDNW - BANW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "CZONE vs EZONE - Stumps",
+      "title": "CZONE vs EZONE - Lead by 96",
       "team1": {
         "name": "CZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,11 +26,11 @@
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CZONE vs EZONE - Stumps",
+      "score": "CZONE vs EZONE - Lead by 96",
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs SZONE - Stumps",
+      "title": "NZONE vs SZONE - Trail by 99",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -65,7 +39,33 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs SZONE - Stumps",
+      "score": "NZONE vs SZONE - Trail by 99",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAKW vs THAIW - Preview",
+      "team1": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "THAIW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PAKW vs THAIW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs ZIM - Preview",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "RSA vs ZIM - Preview",
       "status": "Match Details"
     },
     {
@@ -108,29 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 21st Match",
-      "team1": {
-        "name": "St Kitts and Nevis Patriots",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Antigua and Barbuda Falcons 21st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "St Kitts and Nevis Patriots vs Antigua and Barbuda Falcons 21st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Guyana Amazon Warriors vs Trinbago Knight Riders LIVE 22nd Match",
+      "title": "Guyana Amazon Warriors vs Trinbago Knight Riders 22nd Match",
       "team1": {
         "name": "Guyana Amazon Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trinbago Knight Riders LIVE 22nd Match",
+        "name": "Trinbago Knight Riders 22nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Guyana Amazon Warriors vs Trinbago Knight Riders LIVE 22nd Match",
+      "score": "Guyana Amazon Warriors vs Trinbago Knight Riders 22nd Match",
       "status": "Match Details"
     },
     {
@@ -212,29 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Zone vs East Zone 1st Semi-Final",
+      "title": "Central Zone vs East Zone LIVE 1st Semi-Final",
       "team1": {
         "name": "Central Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "East Zone 1st Semi",
+        "name": "East Zone LIVE 1st Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Zone vs East Zone 1st Semi-Final",
+      "score": "Central Zone vs East Zone LIVE 1st Semi-Final",
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs South Zone 2nd Semi-Final",
+      "title": "North Zone vs South Zone LIVE 2nd Semi-Final",
       "team1": {
         "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone 2nd Semi",
+        "name": "South Zone LIVE 2nd Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs South Zone 2nd Semi-Final",
+      "score": "North Zone vs South Zone LIVE 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -264,29 +251,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
+      "title": "Malaysia vs Saudi Arabia LIVE 5th Match, Group A",
       "team1": {
         "name": "Malaysia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Saudi Arabia 5th Match, Group A",
+        "name": "Saudi Arabia LIVE 5th Match, Group A",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
+      "score": "Malaysia vs Saudi Arabia LIVE 5th Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs Singapore 6th Match, Group B",
+      "title": "Kuwait vs Singapore LIVE 6th Match, Group B",
       "team1": {
         "name": "Kuwait",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Singapore 6th Match, Group B",
+        "name": "Singapore LIVE 6th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kuwait vs Singapore 6th Match, Group B",
+      "score": "Kuwait vs Singapore LIVE 6th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Hong Kong, China 7th Match, Group A",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hong Kong, China 7th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahrain vs Hong Kong, China 7th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Oman vs Qatar 8th Match, Group B",
+      "team1": {
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Qatar 8th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Oman vs Qatar 8th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -365,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Scotland Women vs Netherlands Women 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "22nd Match • Port of Spain, Trinidad, Queen's Park Oval Guyana Amazon Warriors GAW 185-5 (16) Trinbago Knight Riders TKR 172-7 (16) Guyana Amazon Warriors won by 9 runs (DLS Method), TKR target 182",
+      "team1": {
+        "name": "22nd Match • Port of Spain, Trinidad, Queen's Park Oval Guyana Amazon Warriors GAW 185",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (16) Trinbago Knight Riders TKR 172",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "22nd Match • Port of Spain, Trinidad, Queen's Park Oval Guyana Amazon Warriors GAW 185-5 (16) Trinbago Knight Riders TKR 172-7 (16) Guyana Amazon Warriors won by 9 runs (DLS Method), TKR target 182",
       "status": "Match Details"
     }
   ]
