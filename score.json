@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-01 21:16:43 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-09-01 23:24:15 UTC",
+  "total_matches": 38,
   "matches": [
+    {
+      "title": "BBT vs SNP - SNP opt to bowl",
+      "team1": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BBT vs SNP - SNP opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "PAKW vs THAIW - PAKW won",
       "team1": {
@@ -40,19 +53,6 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "IREW vs ENGW - ENGW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SNP vs BBT - Preview",
-      "team1": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SNP vs BBT - Preview",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "St Kitts and Nevis Patriots vs Barbados Tridents 23rd Match",
+      "title": "Barbados Tridents vs St Kitts and Nevis Patriots LIVE 23rd Match",
       "team1": {
-        "name": "St Kitts and Nevis Patriots",
+        "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Barbados Tridents 23rd Match",
+        "name": "St Kitts and Nevis Patriots LIVE 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "St Kitts and Nevis Patriots vs Barbados Tridents 23rd Match",
+      "score": "Barbados Tridents vs St Kitts and Nevis Patriots LIVE 23rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trinbago Knight Riders vs Antigua and Barbuda Falcons 24th Match",
+      "team1": {
+        "name": "Trinbago Knight Riders",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Antigua and Barbuda Falcons 24th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trinbago Knight Riders vs Antigua and Barbuda Falcons 24th Match",
       "status": "Match Details"
     },
     {
@@ -290,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
-      "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia 5th Match, Group A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Kuwait vs Singapore 6th Match, Group B",
       "team1": {
         "name": "Kuwait",
@@ -313,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kuwait vs Singapore 6th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 5th Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -456,32 +469,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Scotland Women vs Netherlands Women 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "9th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 140-9 (20) Rotterdam Dockers RDD 141-5 (19.5) Rotterdam Dockers won by 5 wkts",
-      "team1": {
-        "name": "9th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 140",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Rotterdam Dockers RDD 141",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "9th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 140-9 (20) Rotterdam Dockers RDD 141-5 (19.5) Rotterdam Dockers won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 264-5 (20) Jalandhar Warriors JLW 265-2 (16.5) Jalandhar Warriors won by 8 wkts",
-      "team1": {
-        "name": "5th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 264",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "5 (20) Jalandhar Warriors JLW 265",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 264-5 (20) Jalandhar Warriors JLW 265-2 (16.5) Jalandhar Warriors won by 8 wkts",
       "status": "Match Details"
     },
     {
