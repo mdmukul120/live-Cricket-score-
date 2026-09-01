@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-01 05:39:14 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-09-01 10:28:21 UTC",
+  "total_matches": 39,
   "matches": [
     {
       "title": "GAW vs TKR - GAW won",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "CZONE vs EZONE - Lead by 96",
+      "title": "CZONE vs EZONE - Need 39 to win",
       "team1": {
         "name": "CZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,11 +26,11 @@
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "CZONE vs EZONE - Lead by 96",
+      "score": "CZONE vs EZONE - Need 39 to win",
       "status": "Match Details"
     },
     {
-      "title": "NZONE vs SZONE - Trail by 99",
+      "title": "NZONE vs SZONE - Lead by 89",
       "team1": {
         "name": "NZONE",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -39,7 +39,7 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZONE vs SZONE - Trail by 99",
+      "score": "NZONE vs SZONE - Lead by 89",
       "status": "Match Details"
     },
     {
@@ -147,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Dublin Guardians vs Rotterdam Dockers 10th Match",
+      "team1": {
+        "name": "Dublin Guardians",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rotterdam Dockers 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Dublin Guardians vs Rotterdam Dockers 10th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Jalandhar Warriors vs Fazilka Falcons 2nd Match",
       "team1": {
         "name": "Jalandhar Warriors",
@@ -173,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bathinda Royals vs Ludhiana Lions 4th Match",
+      "title": "Bathinda Royals vs Ludhiana Lions LIVE 4th Match",
       "team1": {
         "name": "Bathinda Royals",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Ludhiana Lions 4th Match",
+        "name": "Ludhiana Lions LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bathinda Royals vs Ludhiana Lions 4th Match",
+      "score": "Bathinda Royals vs Ludhiana Lions LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -196,6 +209,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Jalandhar Warriors vs Amritsar Soormas 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mohali Kings vs Ludhiana Lions 6th Match",
+      "team1": {
+        "name": "Mohali Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Ludhiana Lions 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mohali Kings vs Ludhiana Lions 6th Match",
       "status": "Match Details"
     },
     {
@@ -225,45 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Qatar 3rd Match, Group B",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 3rd Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Qatar 3rd Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bahrain vs Nepal 4th Match, Group A",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 4th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahrain vs Nepal 4th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Malaysia vs Saudi Arabia LIVE 5th Match, Group A",
-      "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia LIVE 5th Match, Group A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Malaysia vs Saudi Arabia LIVE 5th Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Kuwait vs Singapore LIVE 6th Match, Group B",
       "team1": {
         "name": "Kuwait",
@@ -274,6 +261,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kuwait vs Singapore LIVE 6th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 5th Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -313,6 +313,123 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "South Africa A vs Bangladesh A 2nd Unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Sussex 51st Match",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sussex 51st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Essex vs Sussex 51st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Yorkshire 52nd Match",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yorkshire 52nd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Surrey vs Yorkshire 52nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Leicestershire 53rd Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire 53rd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Leicestershire 53rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Glamorgan 54th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glamorgan 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Glamorgan 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Warwickshire 55th Match",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 55th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Hampshire vs Warwickshire 55th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Derbyshire 41st Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire 41st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Derbyshire 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Worcestershire 42nd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire 42nd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Worcestershire 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Durham 43rd Match",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham 43rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northamptonshire vs Durham 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Lancashire 44th Match",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lancashire 44th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Lancashire 44th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "22nd Match • Port of Spain, Trinidad, Queen's Park Oval Guyana Amazon Warriors GAW 185-5 (16) Trinbago Knight Riders TKR 172-7 (16) Guyana Amazon Warriors won by 9 runs (DLS Method), TKR target 182",
+      "title": "5th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 270-8 (50) Saudi Arabia SAU 177 (34) Malaysia won by 93 runs",
       "team1": {
-        "name": "22nd Match • Port of Spain, Trinidad, Queen's Park Oval Guyana Amazon Warriors GAW 185",
+        "name": "5th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 270",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (16) Trinbago Knight Riders TKR 172",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "8 (50) Saudi Arabia SAU 177 (34) Malaysia won by 93 runs",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "22nd Match • Port of Spain, Trinidad, Queen's Park Oval Guyana Amazon Warriors GAW 185-5 (16) Trinbago Knight Riders TKR 172-7 (16) Guyana Amazon Warriors won by 9 runs (DLS Method), TKR target 182",
+      "score": "5th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 270-8 (50) Saudi Arabia SAU 177 (34) Malaysia won by 93 runs",
       "status": "Match Details"
     }
   ]
