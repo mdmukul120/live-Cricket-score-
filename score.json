@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-02 21:17:40 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-09-02 23:23:06 UTC",
+  "total_matches": 35,
   "matches": [
+    {
+      "title": "ABF vs TKR - TKR opt to bowl",
+      "team1": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ABF vs TKR - TKR opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "SLW vs IDNW - SLW won",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SLW vs IDNW - SLW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "TKR vs ABF - Preview",
-      "team1": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TKR vs ABF - Preview",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Antigua and Barbuda Falcons 24th Match",
+      "title": "Antigua and Barbuda Falcons vs Trinbago Knight Riders LIVE 24th Match",
       "team1": {
-        "name": "Trinbago Knight Riders",
+        "name": "Antigua and Barbuda Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Antigua and Barbuda Falcons 24th Match",
+        "name": "Trinbago Knight Riders LIVE 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Antigua and Barbuda Falcons 24th Match",
+      "score": "Antigua and Barbuda Falcons vs Trinbago Knight Riders LIVE 24th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings 25th Match",
+      "team1": {
+        "name": "St Kitts and Nevis Patriots",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saint Lucia Kings 25th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "St Kitts and Nevis Patriots vs Saint Lucia Kings 25th Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +212,19 @@
       "status": "Match Details"
     },
     {
+      "title": "North Zone vs South Zone 2nd Semi-Final",
+      "team1": {
+        "name": "North Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Zone 2nd Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North Zone vs South Zone 2nd Semi-Final",
+      "status": "Match Details"
+    },
+    {
       "title": "Central Zone vs East Zone 1st Semi-Final",
       "team1": {
         "name": "Central Zone",
@@ -212,16 +238,29 @@
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs South Zone 2nd Semi-Final",
+      "title": "Glamorgan vs Somerset 54th Match",
       "team1": {
-        "name": "North Zone",
+        "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone 2nd Semi",
+        "name": "Somerset 54th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North Zone vs South Zone 2nd Semi-Final",
+      "score": "Glamorgan vs Somerset 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Hampshire 55th Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Hampshire 55th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Hampshire 55th Match",
       "status": "Match Details"
     },
     {
@@ -261,32 +300,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Nottinghamshire vs Leicestershire 53rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Somerset 54th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Somerset 54th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Somerset 54th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Hampshire 55th Match",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Hampshire 55th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Hampshire 55th Match",
       "status": "Match Details"
     },
     {
@@ -443,45 +456,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "England Women vs Ireland Women 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "11th Match • Voorburg, Sportpark Duivesteijn Edinburgh Castle Rockers ECR 189-5 (20) Belfast Wolves BFW 130 (17.1) Edinburgh Castle Rockers won by 59 runs",
-      "team1": {
-        "name": "11th Match • Voorburg, Sportpark Duivesteijn Edinburgh Castle Rockers ECR 189",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Belfast Wolves BFW 130 (17.1) Edinburgh Castle Rockers won by 59 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "11th Match • Voorburg, Sportpark Duivesteijn Edinburgh Castle Rockers ECR 189-5 (20) Belfast Wolves BFW 130 (17.1) Edinburgh Castle Rockers won by 59 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 182-9 (20) Amritsar Soormas AMS 186-3 (17.3) Amritsar Soormas won by 7 wkts",
-      "team1": {
-        "name": "7th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 182",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "9 (20) Amritsar Soormas AMS 186",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "7th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 182-9 (20) Amritsar Soormas AMS 186-3 (17.3) Amritsar Soormas won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Match 6, Group B • Dubai, Dubai International Cricket Stadium Sri Lanka Women SLW 124-7 (20) Indonesia Women IDNW 49 (18.3) Sri Lanka Women won by 75 runs",
-      "team1": {
-        "name": "Match 6, Group B • Dubai, Dubai International Cricket Stadium Sri Lanka Women SLW 124",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "7 (20) Indonesia Women IDNW 49 (18.3) Sri Lanka Women won by 75 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Match 6, Group B • Dubai, Dubai International Cricket Stadium Sri Lanka Women SLW 124-7 (20) Indonesia Women IDNW 49 (18.3) Sri Lanka Women won by 75 runs",
       "status": "Match Details"
     }
   ]
