@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-02 01:14:47 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-09-02 05:55:23 UTC",
+  "total_matches": 38,
   "matches": [
     {
-      "title": "BBT vs SNP - Need 206 to win",
+      "title": "BBT vs SNP - SNP won",
       "team1": {
         "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,59 +13,59 @@
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BBT vs SNP - Need 206 to win",
+      "score": "BBT vs SNP - SNP won",
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs THAIW - PAKW won",
+      "title": "NZONE vs SZONE - Need 132 to win",
       "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "NZONE",
+        "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "THAIW",
+        "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PAKW vs THAIW - PAKW won",
+      "score": "NZONE vs SZONE - Need 132 to win",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs ZIM - RSA won",
+      "title": "MHK vs LDL - Preview",
       "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "MHK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "LDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RSA vs ZIM - RSA won",
+      "score": "MHK vs LDL - Preview",
       "status": "Match Details"
     },
     {
-      "title": "IREW vs ENGW - ENGW won",
+      "title": "DBG vs RDD - Preview",
       "team1": {
-        "name": "IREW",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "ENGW",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "IREW vs ENGW - ENGW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "GGC vs RDD - RDD won",
-      "team1": {
-        "name": "GGC",
+        "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs RDD - RDD won",
+      "score": "DBG vs RDD - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLW vs IDNW - Preview",
+      "team1": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "IDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLW vs IDNW - Preview",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs St Kitts and Nevis Patriots LIVE 23rd Match",
+      "title": "Barbados Tridents vs St Kitts and Nevis Patriots 23rd Match",
       "team1": {
         "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "St Kitts and Nevis Patriots LIVE 23rd Match",
+        "name": "St Kitts and Nevis Patriots 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs St Kitts and Nevis Patriots LIVE 23rd Match",
+      "score": "Barbados Tridents vs St Kitts and Nevis Patriots 23rd Match",
       "status": "Match Details"
     },
     {
@@ -225,6 +225,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Somerset vs Glamorgan 54th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glamorgan 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Glamorgan 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Warwickshire 55th Match",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 55th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Hampshire vs Warwickshire 55th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Sussex 51st Match",
       "team1": {
         "name": "Essex",
@@ -264,29 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Glamorgan 54th Match",
+      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
       "team1": {
-        "name": "Somerset",
+        "name": "Malaysia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Glamorgan 54th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Saudi Arabia 5th Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Somerset vs Glamorgan 54th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Warwickshire 55th Match",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire 55th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Hampshire vs Warwickshire 55th Match",
+      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -303,42 +316,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs Saudi Arabia 5th Match, Group A",
-      "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia 5th Match, Group A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Malaysia vs Saudi Arabia 5th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bahrain vs Hong Kong, China 7th Match, Group A",
+      "title": "Bahrain vs Hong Kong, China LIVE 7th Match, Group A",
       "team1": {
         "name": "Bahrain",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hong Kong, China 7th Match, Group A",
+        "name": "Hong Kong, China LIVE 7th Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bahrain vs Hong Kong, China 7th Match, Group A",
+      "score": "Bahrain vs Hong Kong, China LIVE 7th Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Qatar 8th Match, Group B",
+      "title": "Qatar vs Oman LIVE 8th Match, Group B",
       "team1": {
-        "name": "Oman",
+        "name": "Qatar",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Qatar 8th Match, Group B",
+        "name": "Oman LIVE 8th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Oman vs Qatar 8th Match, Group B",
+      "score": "Qatar vs Oman LIVE 8th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kuwait vs United Arab Emirates 9th Match, Group B",
+      "team1": {
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 9th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kuwait vs United Arab Emirates 9th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Nepal 10th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal 10th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malaysia vs Nepal 10th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -456,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Scotland Women vs Netherlands Women 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "23rd Match • Basseterre, St Kitts, Warner Park Barbados Tridents BBT 217-4 (20) St Kitts and Nevis Patriots SNP 220-4 (19.1) St Kitts and Nevis Patriots won by 6 wkts",
+      "team1": {
+        "name": "23rd Match • Basseterre, St Kitts, Warner Park Barbados Tridents BBT 217",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) St Kitts and Nevis Patriots SNP 220",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "23rd Match • Basseterre, St Kitts, Warner Park Barbados Tridents BBT 217-4 (20) St Kitts and Nevis Patriots SNP 220-4 (19.1) St Kitts and Nevis Patriots won by 6 wkts",
       "status": "Match Details"
     }
   ]
