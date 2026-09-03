@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-02 23:23:06 UTC",
+  "last_updated": "2026-09-03 01:17:11 UTC",
   "total_matches": 35,
   "matches": [
     {
-      "title": "ABF vs TKR - TKR opt to bowl",
+      "title": "ABF vs TKR - Need 158 to win",
       "team1": {
         "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ABF vs TKR - TKR opt to bowl",
+      "score": "ABF vs TKR - Need 158 to win",
       "status": "Match Details"
     },
     {
@@ -212,19 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North Zone vs South Zone 2nd Semi-Final",
-      "team1": {
-        "name": "North Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Zone 2nd Semi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North Zone vs South Zone 2nd Semi-Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Central Zone vs East Zone 1st Semi-Final",
       "team1": {
         "name": "Central Zone",
@@ -238,29 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Somerset 54th Match",
+      "title": "North Zone vs South Zone 2nd Semi-Final",
       "team1": {
-        "name": "Glamorgan",
+        "name": "North Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Somerset 54th Match",
+        "name": "South Zone 2nd Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Somerset 54th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Hampshire 55th Match",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Hampshire 55th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Hampshire 55th Match",
+      "score": "North Zone vs South Zone 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -300,6 +274,32 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Nottinghamshire vs Leicestershire 53rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Somerset 54th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Somerset 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Somerset 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Hampshire 55th Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Hampshire 55th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Hampshire 55th Match",
       "status": "Match Details"
     },
     {
