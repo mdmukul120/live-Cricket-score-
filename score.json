@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-03 01:17:11 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-09-03 05:55:40 UTC",
+  "total_matches": 37,
   "matches": [
-    {
-      "title": "ABF vs TKR - Need 158 to win",
-      "team1": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ABF vs TKR - Need 158 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "SLW vs IDNW - SLW won",
-      "team1": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "IDNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLW vs IDNW - SLW won",
-      "status": "Match Details"
-    },
     {
       "title": "NAM vs ZIM - Preview",
       "team1": {
@@ -56,16 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "ECR vs BFW - ECR won",
+      "title": "ADF vs GGC - Preview",
       "team1": {
-        "name": "ECR",
+        "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BFW",
+        "name": "GGC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ECR vs BFW - ECR won",
+      "score": "ADF vs GGC - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ABF vs TKR - ABF won",
+      "team1": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ABF vs TKR - ABF won",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLW vs IDNW - SLW won",
+      "team1": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "IDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLW vs IDNW - SLW won",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs St Kitts and Nevis Patriots 23rd Match",
-      "team1": {
-        "name": "Barbados Tridents",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "St Kitts and Nevis Patriots 23rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Barbados Tridents vs St Kitts and Nevis Patriots 23rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Antigua and Barbuda Falcons vs Trinbago Knight Riders LIVE 24th Match",
+      "title": "Antigua and Barbuda Falcons vs Trinbago Knight Riders 24th Match",
       "team1": {
         "name": "Antigua and Barbuda Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trinbago Knight Riders LIVE 24th Match",
+        "name": "Trinbago Knight Riders 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Antigua and Barbuda Falcons vs Trinbago Knight Riders LIVE 24th Match",
+      "score": "Antigua and Barbuda Falcons vs Trinbago Knight Riders 24th Match",
       "status": "Match Details"
     },
     {
@@ -212,19 +199,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Zone vs East Zone 1st Semi-Final",
-      "team1": {
-        "name": "Central Zone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "East Zone 1st Semi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Central Zone vs East Zone 1st Semi-Final",
-      "status": "Match Details"
-    },
-    {
       "title": "North Zone vs South Zone 2nd Semi-Final",
       "team1": {
         "name": "North Zone",
@@ -235,6 +209,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North Zone vs South Zone 2nd Semi-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Zone vs East Zone 1st Semi-Final",
+      "team1": {
+        "name": "Central Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "East Zone 1st Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Zone vs East Zone 1st Semi-Final",
       "status": "Match Details"
     },
     {
@@ -329,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs United Arab Emirates 9th Match, Group B",
+      "title": "United Arab Emirates vs Kuwait 9th Match, Group B",
       "team1": {
-        "name": "Kuwait",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 9th Match, Group B",
+        "name": "Kuwait 9th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kuwait vs United Arab Emirates 9th Match, Group B",
+      "score": "United Arab Emirates vs Kuwait 9th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -352,6 +339,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Malaysia vs Nepal 10th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Qatar vs Singapore 11th Match, Group B",
+      "team1": {
+        "name": "Qatar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 11th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qatar vs Singapore 11th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Saudi Arabia 12th Match, Group A",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 12th Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Bahrain vs Saudi Arabia 12th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -456,6 +469,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "England Women vs Ireland Women 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "24th Match • Port of Spain, Trinidad, Queen's Park Oval Antigua and Barbuda Falcons ABF 183-4 (20) Trinbago Knight Riders TKR 175-7 (20) Antigua and Barbuda Falcons won by 8 runs",
+      "team1": {
+        "name": "24th Match • Port of Spain, Trinidad, Queen's Park Oval Antigua and Barbuda Falcons ABF 183",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Trinbago Knight Riders TKR 175",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "24th Match • Port of Spain, Trinidad, Queen's Park Oval Antigua and Barbuda Falcons ABF 183-4 (20) Trinbago Knight Riders TKR 175-7 (20) Antigua and Barbuda Falcons won by 8 runs",
       "status": "Match Details"
     }
   ]
