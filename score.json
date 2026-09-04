@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-04 14:33:44 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-09-04 17:46:45 UTC",
+  "total_matches": 52,
   "matches": [
     {
-      "title": "RSA vs NAM - Need 127 off 65b",
+      "title": "RSA vs NAM - RSA won",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -13,11 +13,11 @@
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RSA vs NAM - Need 127 off 65b",
+      "score": "RSA vs NAM - RSA won",
       "status": "Match Details"
     },
     {
-      "title": "IDNW vs UAEW - UAEW opt to bowl",
+      "title": "IDNW vs UAEW - UAEW won",
       "team1": {
         "name": "IDNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,72 +26,59 @@
         "name": "UAEW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "IDNW vs UAEW - UAEW opt to bowl",
+      "score": "IDNW vs UAEW - UAEW won",
       "status": "Match Details"
     },
     {
-      "title": "GGC vs BFW - Delay",
+      "title": "BFW vs GGC - BFW won",
       "team1": {
-        "name": "GGC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs BFW - Delay",
+      "team2": {
+        "name": "GGC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BFW vs GGC - BFW won",
       "status": "Match Details"
     },
     {
-      "title": "AMS vs BTR - BTR won",
+      "title": "INDW vs PAKW - Preview",
       "team1": {
-        "name": "AMS",
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "INDW vs PAKW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "LDL vs JLW - JLW won",
+      "team1": {
+        "name": "LDL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BTR",
+        "name": "JLW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "AMS vs BTR - BTR won",
+      "score": "LDL vs JLW - JLW won",
       "status": "Match Details"
     },
     {
-      "title": "GAW vs JKM - Preview",
-      "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs JKM - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "Namibia vs Zimbabwe 5th Match",
-      "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Zimbabwe 5th Match",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "Namibia vs Zimbabwe 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa vs Namibia LIVE 6th Match",
+      "title": "South Africa vs Namibia 6th Match",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Namibia LIVE 6th Match",
+        "name": "Namibia 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa vs Namibia LIVE 6th Match",
+      "score": "South Africa vs Namibia 6th Match",
       "status": "Match Details"
     },
     {
@@ -121,29 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glasgow Cosmic vs Amsterdam Flames 12th Match",
+      "title": "Belfast Wolves vs Glasgow Cosmic 13th Match",
       "team1": {
-        "name": "Glasgow Cosmic",
+        "name": "Belfast Wolves",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Amsterdam Flames 12th Match",
+        "name": "Glasgow Cosmic 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glasgow Cosmic vs Amsterdam Flames 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glasgow Cosmic vs Belfast Wolves 13th Match",
-      "team1": {
-        "name": "Glasgow Cosmic",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Belfast Wolves 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glasgow Cosmic vs Belfast Wolves 13th Match",
+      "score": "Belfast Wolves vs Glasgow Cosmic 13th Match",
       "status": "Match Details"
     },
     {
@@ -173,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Mohali Kings vs Fazilka Falcons 9th Match",
-      "team1": {
-        "name": "Mohali Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Fazilka Falcons 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mohali Kings vs Fazilka Falcons 9th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Amritsar Soormas vs Bathinda Royals 10th Match",
       "team1": {
         "name": "Amritsar Soormas",
@@ -199,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Jalandhar Warriors LIVE 11th Match",
+      "title": "Ludhiana Lions vs Jalandhar Warriors 11th Match",
       "team1": {
         "name": "Ludhiana Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jalandhar Warriors LIVE 11th Match",
+        "name": "Jalandhar Warriors 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Ludhiana Lions vs Jalandhar Warriors LIVE 11th Match",
+      "score": "Ludhiana Lions vs Jalandhar Warriors 11th Match",
       "status": "Match Details"
     },
     {
@@ -238,55 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Essex LIVE 51st Match",
+      "title": "Sussex vs Essex 51st Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE 51st Match",
+        "name": "Essex 51st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sussex vs Essex LIVE 51st Match",
+      "score": "Sussex vs Essex 51st Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Surrey LIVE 52nd Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey LIVE 52nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Surrey LIVE 52nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Leicestershire LIVE 53rd Match",
+      "title": "Nottinghamshire vs Leicestershire 53rd Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire LIVE 53rd Match",
+        "name": "Leicestershire 53rd Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Leicestershire LIVE 53rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Hampshire LIVE 55th Match",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Hampshire LIVE 55th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Hampshire LIVE 55th Match",
+      "score": "Nottinghamshire vs Leicestershire 53rd Match",
       "status": "Match Details"
     },
     {
@@ -300,6 +235,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Glamorgan vs Somerset 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Surrey 52nd Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 52nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Surrey 52nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Hampshire 55th Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Hampshire 55th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Hampshire 55th Match",
       "status": "Match Details"
     },
     {
@@ -355,55 +316,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Derbyshire LIVE 41st Match",
+      "title": "Gloucestershire vs Derbyshire 41st Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Derbyshire LIVE 41st Match",
+        "name": "Derbyshire 41st Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Derbyshire LIVE 41st Match",
+      "score": "Gloucestershire vs Derbyshire 41st Match",
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Worcestershire LIVE 42nd Match",
+      "title": "Kent vs Worcestershire 42nd Match",
       "team1": {
         "name": "Kent",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire LIVE 42nd Match",
+        "name": "Worcestershire 42nd Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Kent vs Worcestershire LIVE 42nd Match",
+      "score": "Kent vs Worcestershire 42nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Northamptonshire LIVE 43rd Match",
+      "title": "Durham vs Northamptonshire 43rd Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northamptonshire LIVE 43rd Match",
+        "name": "Northamptonshire 43rd Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Northamptonshire LIVE 43rd Match",
+      "score": "Durham vs Northamptonshire 43rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Lancashire LIVE 44th Match",
+      "title": "Middlesex vs Lancashire 44th Match",
       "team1": {
         "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lancashire LIVE 44th Match",
+        "name": "Lancashire 44th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Middlesex vs Lancashire LIVE 44th Match",
+      "score": "Middlesex vs Lancashire 44th Match",
       "status": "Match Details"
     },
     {
@@ -485,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic Women vs Belgium Women 3rd Match",
+      "title": "Czech Republic Women vs Belgium Women LIVE 3rd Match",
       "team1": {
         "name": "Czech Republic Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Belgium Women 3rd Match",
+        "name": "Belgium Women LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Czech Republic Women vs Belgium Women 3rd Match",
+      "score": "Czech Republic Women vs Belgium Women LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -550,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Croatia Women vs Bulgaria Women LIVE 2nd Match",
+      "title": "Croatia Women vs Bulgaria Women 2nd Match",
       "team1": {
         "name": "Croatia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bulgaria Women LIVE 2nd Match",
+        "name": "Bulgaria Women 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Croatia Women vs Bulgaria Women LIVE 2nd Match",
+      "score": "Croatia Women vs Bulgaria Women 2nd Match",
       "status": "Match Details"
     },
     {
@@ -589,16 +550,55 @@
       "status": "Match Details"
     },
     {
-      "title": "10th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 105-7 (11) Bathinda Royals BTR 108-2 (7.5) Bathinda Royals won by 8 wkt (Match reduced to 11 overs DLS method Target 107)",
+      "title": "6th Match •  Windhoek, Namibia Cricket Ground South Africa RSA 228-4 (20) Namibia NAM 217-3 (20) South Africa won by 11 runs",
       "team1": {
-        "name": "10th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 105",
+        "name": "6th Match •  Windhoek, Namibia Cricket Ground South Africa RSA 228",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "7 (11) Bathinda Royals BTR 108",
+        "name": "4 (20) Namibia NAM 217",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match •  Windhoek, Namibia Cricket Ground South Africa RSA 228-4 (20) Namibia NAM 217-3 (20) South Africa won by 11 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "13th Match • Voorburg, Sportpark Duivesteijn Belfast Wolves BFW 146-3 (12) Glasgow Cosmic GGC 120-8 (12) Belfast Wolves won by 26 runs",
+      "team1": {
+        "name": "13th Match • Voorburg, Sportpark Duivesteijn Belfast Wolves BFW 146",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (12) Glasgow Cosmic GGC 120",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "13th Match • Voorburg, Sportpark Duivesteijn Belfast Wolves BFW 146-3 (12) Glasgow Cosmic GGC 120-8 (12) Belfast Wolves won by 26 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 167-7 (20) Jalandhar Warriors JLW 173-3 (15.5) Jalandhar Warriors won by 7 wkts",
+      "team1": {
+        "name": "11th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 167",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "10th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 105-7 (11) Bathinda Royals BTR 108-2 (7.5) Bathinda Royals won by 8 wkt (Match reduced to 11 overs DLS method Target 107)",
+      "team2": {
+        "name": "7 (20) Jalandhar Warriors JLW 173",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 167-7 (20) Jalandhar Warriors JLW 173-3 (15.5) Jalandhar Warriors won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "52nd Match • London, Kennington Oval Yorkshire YORKS 185 & 82 Surrey SUR 83 & 187-9 Surrey won by 1 wkt",
+      "team1": {
+        "name": "52nd Match • London, Kennington Oval Yorkshire YORKS 185 & 82 Surrey SUR 83 & 187",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "9 Surrey won by 1 wkt",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "52nd Match • London, Kennington Oval Yorkshire YORKS 185 & 82 Surrey SUR 83 & 187-9 Surrey won by 1 wkt",
       "status": "Match Details"
     },
     {
@@ -615,16 +615,42 @@
       "status": "Match Details"
     },
     {
-      "title": "12th Match, Group A • Bangi, YSD-UKM Cricket Oval Saudi Arabia SAU 221 (48.4) Bahrain BHR 204-8 (50) Saudi Arabia won by 17 runs",
+      "title": "55th Match • Southampton, The Rose Bowl Warwickshire WARKS 398 Hampshire HAM 115 & 154 (f/o) Warwickshire won by an innings and 129 runs",
       "team1": {
-        "name": "12th Match, Group A • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "55th Match • Southampton, The Rose Bowl Warwickshire WARKS 398 Hampshire HAM 115 & 154 (f/o) Warwickshire won by an innings and 129 runs",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "UKM Cricket Oval Saudi Arabia SAU 221 (48.4) Bahrain BHR 204",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "12th Match, Group A • Bangi, YSD-UKM Cricket Oval Saudi Arabia SAU 221 (48.4) Bahrain BHR 204-8 (50) Saudi Arabia won by 17 runs",
+      "score": "55th Match • Southampton, The Rose Bowl Warwickshire WARKS 398 Hampshire HAM 115 & 154 (f/o) Warwickshire won by an innings and 129 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "44th Match • Northwood, Merchant Taylors' School Ground Middlesex MDX 247 & 200 Lancashire LANCS 151 & 136 Middlesex won by 160 runs",
+      "team1": {
+        "name": "44th Match • Northwood, Merchant Taylors' School Ground Middlesex MDX 247 & 200 Lancashire LANCS 151 & 136 Middlesex won by 160 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "44th Match • Northwood, Merchant Taylors' School Ground Middlesex MDX 247 & 200 Lancashire LANCS 151 & 136 Middlesex won by 160 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Match 8, Group B • Dubai, Dubai International Cricket Stadium Indonesia Women IDNW 71 (19.4) United Arab Emirates Women UAEW 75-4 (13.1) United Arab Emirates Women won by 6 wkts",
+      "team1": {
+        "name": "Match 8, Group B • Dubai, Dubai International Cricket Stadium Indonesia Women IDNW 71 (19.4) United Arab Emirates Women UAEW 75",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "4 (13.1) United Arab Emirates Women won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Match 8, Group B • Dubai, Dubai International Cricket Stadium Indonesia Women IDNW 71 (19.4) United Arab Emirates Women UAEW 75-4 (13.1) United Arab Emirates Women won by 6 wkts",
       "status": "Match Details"
     },
     {
@@ -641,29 +667,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Match • Prague, Scott Page Field, Vinor Portugal Women PORTW 157-4 (20) Belgium Women BELW 105-4 (20) Portugal Women won by 52 runs",
+      "title": "2nd Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 153-5 (20) Bulgaria Women BGRW 63-8 (20) Croatia Women won by 90 runs",
       "team1": {
-        "name": "1st Match • Prague, Scott Page Field, Vinor Portugal Women PORTW 157",
+        "name": "2nd Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 153",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "4 (20) Belgium Women BELW 105",
+        "name": "5 (20) Bulgaria Women BGRW 63",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st Match • Prague, Scott Page Field, Vinor Portugal Women PORTW 157-4 (20) Belgium Women BELW 105-4 (20) Portugal Women won by 52 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 99-9 (20) Serbia Women SRBW 91-4 (20) Croatia Women won by 8 runs",
-      "team1": {
-        "name": "1st Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 99",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Serbia Women SRBW 91",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 99-9 (20) Serbia Women SRBW 91-4 (20) Croatia Women won by 8 runs",
+      "score": "2nd Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 153-5 (20) Bulgaria Women BGRW 63-8 (20) Croatia Women won by 90 runs",
       "status": "Match Details"
     }
   ]
