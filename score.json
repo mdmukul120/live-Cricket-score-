@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-04 05:53:13 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-09-04 10:40:47 UTC",
+  "total_matches": 42,
   "matches": [
-    {
-      "title": "SNP vs SLK - SNP won",
-      "team1": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "SNP vs SLK - SNP won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs HKC W - INDW won",
-      "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "HKC W",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "INDW vs HKC W - INDW won",
-      "status": "Match Details"
-    },
     {
       "title": "NAM vs RSA - Preview",
       "team1": {
@@ -40,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "NAM vs RSA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "UAEW vs IDNW - Preview",
+      "team1": {
+        "name": "UAEW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "IDNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "UAEW vs IDNW - Preview",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "GGC vs ADF - ADF won",
+      "title": "AMS vs BTR - BTR opt to bowl",
       "team1": {
-        "name": "GGC",
+        "name": "AMS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ADF",
+        "name": "BTR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs ADF - ADF won",
+      "score": "AMS vs BTR - BTR opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "GAW vs JKM - Preview",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs JKM - Preview",
       "status": "Match Details"
     },
     {
@@ -147,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Rotterdam Dockers vs Edinburgh Castle Rockers 14th Match",
+      "team1": {
+        "name": "Rotterdam Dockers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Edinburgh Castle Rockers 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rotterdam Dockers vs Edinburgh Castle Rockers 14th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Jalandhar Warriors vs Bathinda Royals 8th Match",
       "team1": {
         "name": "Jalandhar Warriors",
@@ -173,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bathinda Royals vs Amritsar Soormas 10th Match",
+      "title": "Amritsar Soormas vs Bathinda Royals LIVE 10th Match",
       "team1": {
-        "name": "Bathinda Royals",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Amritsar Soormas 10th Match",
+        "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Bathinda Royals vs Amritsar Soormas 10th Match",
+      "team2": {
+        "name": "Bathinda Royals LIVE 10th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Amritsar Soormas vs Bathinda Royals LIVE 10th Match",
       "status": "Match Details"
     },
     {
@@ -199,107 +212,81 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Essex 51st Match",
+      "title": "Fazilka Falcons vs Bathinda Royals 12th Match",
       "team1": {
-        "name": "Sussex",
+        "name": "Fazilka Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex 51st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Bathinda Royals 12th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sussex vs Essex 51st Match",
+      "score": "Fazilka Falcons vs Bathinda Royals 12th Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Surrey 52nd Match",
+      "title": "Yorkshire vs Surrey LIVE 52nd Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Surrey 52nd Match",
+        "name": "Surrey LIVE 52nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Yorkshire vs Surrey 52nd Match",
+      "score": "Yorkshire vs Surrey LIVE 52nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Leicestershire 53rd Match",
+      "title": "Nottinghamshire vs Leicestershire LIVE 53rd Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire 53rd Match",
+        "name": "Leicestershire LIVE 53rd Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Leicestershire 53rd Match",
+      "score": "Nottinghamshire vs Leicestershire LIVE 53rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Somerset 54th Match",
+      "title": "Glamorgan vs Somerset LIVE 54th Match",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Somerset 54th Match",
+        "name": "Somerset LIVE 54th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Somerset 54th Match",
+      "score": "Glamorgan vs Somerset LIVE 54th Match",
       "status": "Match Details"
     },
     {
-      "title": "Warwickshire vs Hampshire 55th Match",
+      "title": "Warwickshire vs Hampshire LIVE 55th Match",
       "team1": {
         "name": "Warwickshire",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "Hampshire 55th Match",
+        "name": "Hampshire LIVE 55th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Warwickshire vs Hampshire 55th Match",
+      "score": "Warwickshire vs Hampshire LIVE 55th Match",
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs Nepal 10th Match, Group A",
+      "title": "Sussex vs Essex LIVE 51st Match",
       "team1": {
-        "name": "Malaysia",
+        "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal 10th Match, Group A",
+        "name": "Essex LIVE 51st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malaysia vs Nepal 10th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Arab Emirates vs Kuwait 9th Match, Group B",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kuwait 9th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Kuwait 9th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Singapore vs Qatar 11th Match, Group B",
-      "team1": {
-        "name": "Singapore",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 11th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Singapore vs Qatar 11th Match, Group B",
+      "score": "Sussex vs Essex LIVE 51st Match",
       "status": "Match Details"
     },
     {
@@ -313,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Saudi Arabia vs Bahrain 12th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs Qatar 11th Match, Group B",
+      "team1": {
+        "name": "Singapore",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Qatar 11th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Singapore vs Qatar 11th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -342,6 +342,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Gloucestershire vs Derbyshire LIVE 41st Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire LIVE 41st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Derbyshire LIVE 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Worcestershire 42nd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire 42nd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Worcestershire 42nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Durham vs Northamptonshire 43rd Match",
       "team1": {
         "name": "Durham",
@@ -365,32 +391,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Middlesex vs Lancashire 44th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Derbyshire 41st Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Derbyshire 41st Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Derbyshire 41st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Worcestershire 42nd Match",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire 42nd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Kent vs Worcestershire 42nd Match",
       "status": "Match Details"
     },
     {
@@ -433,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Portugal Women 1st Match",
+      "title": "Portugal Women vs Belgium Women LIVE 1st Match",
       "team1": {
-        "name": "Belgium Women",
+        "name": "Portugal Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Portugal Women 1st Match",
+        "name": "Belgium Women LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belgium Women vs Portugal Women 1st Match",
+      "score": "Portugal Women vs Belgium Women LIVE 1st Match",
       "status": "Match Details"
     },
     {
@@ -472,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Belgium Women vs Portugal Women 4th Match",
+      "team1": {
+        "name": "Belgium Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Portugal Women 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Belgium Women vs Portugal Women 4th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Serbia Women vs Croatia Women 1st Match",
       "team1": {
         "name": "Serbia Women",
@@ -498,16 +511,42 @@
       "status": "Match Details"
     },
     {
-      "title": "25th Match • Basseterre, St Kitts, Warner Park St Kitts and Nevis Patriots SNP 235-4 (20) Saint Lucia Kings SLK 98 (13.5) St Kitts and Nevis Patriots won by 137 runs",
+      "title": "Bulgaria Women vs Croatia Women 3rd Match",
       "team1": {
-        "name": "25th Match • Basseterre, St Kitts, Warner Park St Kitts and Nevis Patriots SNP 235",
+        "name": "Bulgaria Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "4 (20) Saint Lucia Kings SLK 98 (13.5) St Kitts and Nevis Patriots won by 137 runs",
+        "name": "Croatia Women 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bulgaria Women vs Croatia Women 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match, Group A • Bangi, YSD-UKM Cricket Oval Saudi Arabia SAU 221 (48.4) Bahrain BHR 204-8 (50) Saudi Arabia won by 17 runs",
+      "team1": {
+        "name": "12th Match, Group A • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "UKM Cricket Oval Saudi Arabia SAU 221 (48.4) Bahrain BHR 204",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "25th Match • Basseterre, St Kitts, Warner Park St Kitts and Nevis Patriots SNP 235-4 (20) Saint Lucia Kings SLK 98 (13.5) St Kitts and Nevis Patriots won by 137 runs",
+      "score": "12th Match, Group A • Bangi, YSD-UKM Cricket Oval Saudi Arabia SAU 221 (48.4) Bahrain BHR 204-8 (50) Saudi Arabia won by 17 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match, Group B • Kuala Lumpur, Bayuemas Oval Singapore SIN 150 (38.2) Qatar QAT 153-2 (28.1) Qatar won by 8 wkts",
+      "team1": {
+        "name": "11th Match, Group B • Kuala Lumpur, Bayuemas Oval Singapore SIN 150 (38.2) Qatar QAT 153",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (28.1) Qatar won by 8 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match, Group B • Kuala Lumpur, Bayuemas Oval Singapore SIN 150 (38.2) Qatar QAT 153-2 (28.1) Qatar won by 8 wkts",
       "status": "Match Details"
     }
   ]
