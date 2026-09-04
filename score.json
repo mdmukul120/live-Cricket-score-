@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-04 01:07:18 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-09-04 05:53:13 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "SNP vs SLK - Need 225 to win",
+      "title": "SNP vs SLK - SNP won",
       "team1": {
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "SLK",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "SNP vs SLK - Need 225 to win",
+      "score": "SNP vs SLK - SNP won",
       "status": "Match Details"
     },
     {
@@ -30,16 +30,29 @@
       "status": "Match Details"
     },
     {
-      "title": "NAM vs ZIM - ZIM won",
+      "title": "NAM vs RSA - Preview",
       "team1": {
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "NAM vs ZIM - ZIM won",
+      "score": "NAM vs RSA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "GGC vs BFW - Preview",
+      "team1": {
+        "name": "GGC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BFW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GGC vs BFW - Preview",
       "status": "Match Details"
     },
     {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "GGC vs ADF - ADF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "IREW vs ENGW - ENGW won",
-      "team1": {
-        "name": "IREW",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "ENGW",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "IREW vs ENGW - ENGW won",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Antigua and Barbuda Falcons vs Trinbago Knight Riders 24th Match",
-      "team1": {
-        "name": "Antigua and Barbuda Falcons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trinbago Knight Riders 24th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Antigua and Barbuda Falcons vs Trinbago Knight Riders 24th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings LIVE 25th Match",
+      "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings 25th Match",
       "team1": {
         "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Saint Lucia Kings LIVE 25th Match",
+        "name": "Saint Lucia Kings 25th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "St Kitts and Nevis Patriots vs Saint Lucia Kings LIVE 25th Match",
+      "score": "St Kitts and Nevis Patriots vs Saint Lucia Kings 25th Match",
       "status": "Match Details"
     },
     {
@@ -277,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Kuwait 9th Match, Group B",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kuwait 9th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Kuwait 9th Match, Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Malaysia vs Nepal 10th Match, Group A",
       "team1": {
         "name": "Malaysia",
@@ -303,55 +277,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Qatar vs Singapore 11th Match, Group B",
+      "title": "United Arab Emirates vs Kuwait 9th Match, Group B",
       "team1": {
-        "name": "Qatar",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Singapore 11th Match, Group B",
+        "name": "Kuwait 9th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Qatar vs Singapore 11th Match, Group B",
+      "score": "United Arab Emirates vs Kuwait 9th Match, Group B",
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Saudi Arabia 12th Match, Group A",
+      "title": "Singapore vs Qatar 11th Match, Group B",
       "team1": {
-        "name": "Bahrain",
+        "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Saudi Arabia 12th Match, Group A",
+        "name": "Qatar 11th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Singapore vs Qatar 11th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Saudi Arabia vs Bahrain 12th Match, Group A",
+      "team1": {
+        "name": "Saudi Arabia",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Bahrain vs Saudi Arabia 12th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Derbyshire 41st Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
       "team2": {
-        "name": "Derbyshire 41st Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Bahrain 12th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gloucestershire vs Derbyshire 41st Match",
+      "score": "Saudi Arabia vs Bahrain 12th Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Worcestershire 42nd Match",
+      "title": "Kuwait vs Oman 13th Match, Group B",
       "team1": {
-        "name": "Kent",
+        "name": "Kuwait",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire 42nd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Oman 13th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kent vs Worcestershire 42nd Match",
+      "score": "Kuwait vs Oman 13th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Hong Kong, China 14th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hong Kong, China 14th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malaysia vs Hong Kong, China 14th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -378,6 +365,32 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Middlesex vs Lancashire 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Derbyshire 41st Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire 41st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Derbyshire 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Worcestershire 42nd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire 42nd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Worcestershire 42nd Match",
       "status": "Match Details"
     },
     {
@@ -482,6 +495,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bulgaria Women vs Croatia Women 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "25th Match • Basseterre, St Kitts, Warner Park St Kitts and Nevis Patriots SNP 235-4 (20) Saint Lucia Kings SLK 98 (13.5) St Kitts and Nevis Patriots won by 137 runs",
+      "team1": {
+        "name": "25th Match • Basseterre, St Kitts, Warner Park St Kitts and Nevis Patriots SNP 235",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Saint Lucia Kings SLK 98 (13.5) St Kitts and Nevis Patriots won by 137 runs",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "25th Match • Basseterre, St Kitts, Warner Park St Kitts and Nevis Patriots SNP 235-4 (20) Saint Lucia Kings SLK 98 (13.5) St Kitts and Nevis Patriots won by 137 runs",
       "status": "Match Details"
     }
   ]
