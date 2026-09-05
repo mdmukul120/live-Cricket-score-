@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-05 04:34:15 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-09-05 08:34:10 UTC",
+  "total_matches": 48,
   "matches": [
     {
       "title": "INDW vs PAKW - Preview",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "FZF vs BTR - Preview",
+      "title": "FZF vs BTR - BTR opt to bowl",
       "team1": {
         "name": "FZF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "BTR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "FZF vs BTR - Preview",
+      "score": "FZF vs BTR - BTR opt to bowl",
       "status": "Match Details"
     },
     {
@@ -173,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Fazilka Falcons vs Bathinda Royals 12th Match",
+      "title": "Fazilka Falcons vs Bathinda Royals LIVE 12th Match",
       "team1": {
         "name": "Fazilka Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bathinda Royals 12th Match",
+        "name": "Bathinda Royals LIVE 12th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Fazilka Falcons vs Bathinda Royals 12th Match",
+      "score": "Fazilka Falcons vs Bathinda Royals LIVE 12th Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +199,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Bathinda Royals vs Jalandhar Warriors 14th Match",
+      "team1": {
+        "name": "Bathinda Royals",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Jalandhar Warriors 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bathinda Royals vs Jalandhar Warriors 14th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "East Zone vs South Zone Final",
       "team1": {
         "name": "East Zone",
@@ -209,71 +222,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "East Zone vs South Zone Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Essex 51st Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex 51st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sussex vs Essex 51st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Leicestershire LIVE 53rd Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire LIVE 53rd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Leicestershire LIVE 53rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Surrey 52nd Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 52nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Surrey 52nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Somerset 54th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Somerset 54th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Somerset 54th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Hampshire 55th Match",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Hampshire 55th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Hampshire 55th Match",
       "status": "Match Details"
     },
     {
@@ -352,6 +300,84 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Singapore vs United Arab Emirates 16th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa A vs Bangladesh A 1st Unofficial ODI",
+      "team1": {
+        "name": "South Africa A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Bangladesh A 1st Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "South Africa A vs Bangladesh A 1st Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Essex 51st Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex 51st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sussex vs Essex 51st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Leicestershire LIVE 53rd Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire LIVE 53rd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Leicestershire LIVE 53rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Surrey 52nd Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 52nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Surrey 52nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Somerset 54th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Somerset 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Somerset 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Hampshire 55th Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Hampshire 55th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Hampshire 55th Match",
       "status": "Match Details"
     },
     {
@@ -524,6 +550,19 @@
       "status": "Match Details"
     },
     {
+      "title": "TBC vs TBC 3rd place play-off",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC 3rd place play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC 3rd place play-off",
+      "status": "Match Details"
+    },
+    {
       "title": "Croatia Women vs Serbia Women 1st Match",
       "team1": {
         "name": "Croatia Women",
@@ -576,16 +615,16 @@
       "status": "Match Details"
     },
     {
-      "title": "26th Match • Guyana, Providence Stadium Jamaica Kingsmen JKM 159-7 (20) Guyana Amazon Warriors GAW 160-2 (17.2) Guyana Amazon Warriors won by 8 wkts",
+      "title": "Serbia Women vs Croatia Women 5th Match",
       "team1": {
-        "name": "26th Match • Guyana, Providence Stadium Jamaica Kingsmen JKM 159",
+        "name": "Serbia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) Guyana Amazon Warriors GAW 160",
+        "name": "Croatia Women 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "26th Match • Guyana, Providence Stadium Jamaica Kingsmen JKM 159-7 (20) Guyana Amazon Warriors GAW 160-2 (17.2) Guyana Amazon Warriors won by 8 wkts",
+      "score": "Serbia Women vs Croatia Women 5th Match",
       "status": "Match Details"
     }
   ]
