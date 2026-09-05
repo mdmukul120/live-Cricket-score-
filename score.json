@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-05 15:07:02 UTC",
-  "total_matches": 60,
+  "last_updated": "2026-09-05 17:19:59 UTC",
+  "total_matches": 58,
   "matches": [
     {
-      "title": "PAKW vs INDW - PAKW opt to bat",
+      "title": "PAKW vs INDW - INDW won",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,11 +13,11 @@
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "PAKW vs INDW - PAKW opt to bat",
+      "score": "PAKW vs INDW - INDW won",
       "status": "Match Details"
     },
     {
-      "title": "ADF vs DBG - Innings Break",
+      "title": "ADF vs DBG - ADF won",
       "team1": {
         "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ADF vs DBG - Innings Break",
+      "score": "ADF vs DBG - ADF won",
       "status": "Match Details"
     },
     {
@@ -69,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Namibia 6th Match",
-      "team1": {
-        "name": "South Africa",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Namibia 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Africa vs Namibia 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "South Africa vs Zimbabwe Final",
       "team1": {
         "name": "South Africa",
@@ -118,19 +105,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Barbados Tridents vs Trinbago Knight Riders 27th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Belfast Wolves vs Glasgow Cosmic 13th Match",
-      "team1": {
-        "name": "Belfast Wolves",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Glasgow Cosmic 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Belfast Wolves vs Glasgow Cosmic 13th Match",
       "status": "Match Details"
     },
     {
@@ -186,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Jalandhar Warriors 11th Match",
-      "team1": {
-        "name": "Ludhiana Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jalandhar Warriors 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Ludhiana Lions vs Jalandhar Warriors 11th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Fazilka Falcons vs Bathinda Royals 12th Match",
       "team1": {
         "name": "Fazilka Falcons",
@@ -212,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jalandhar Warriors vs Mohali Kings 13th Match",
+      "title": "Jalandhar Warriors vs Mohali Kings LIVE 13th Match",
       "team1": {
         "name": "Jalandhar Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mohali Kings 13th Match",
+        "name": "Mohali Kings LIVE 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jalandhar Warriors vs Mohali Kings 13th Match",
+      "score": "Jalandhar Warriors vs Mohali Kings LIVE 13th Match",
       "status": "Match Details"
     },
     {
@@ -329,19 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Leicestershire 53rd Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire 53rd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Leicestershire 53rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Sussex vs Essex 51st Match",
       "team1": {
         "name": "Sussex",
@@ -352,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Sussex vs Essex 51st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Leicestershire 53rd Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire 53rd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Leicestershire 53rd Match",
       "status": "Match Details"
     },
     {
@@ -394,19 +355,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Derbyshire 41st Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Derbyshire 41st Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Derbyshire 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Kent vs Worcestershire 42nd Match",
       "team1": {
         "name": "Kent",
@@ -430,6 +378,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Durham vs Northamptonshire 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Derbyshire 41st Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire 41st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Derbyshire 41st Match",
       "status": "Match Details"
     },
     {
@@ -459,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs India Women LIVE Match 9, Group A",
+      "title": "Pakistan Women vs India Women Match 9, Group A",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "India Women LIVE Match 9, Group A",
+        "name": "India Women Match 9, Group A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Pakistan Women vs India Women LIVE Match 9, Group A",
+      "score": "Pakistan Women vs India Women Match 9, Group A",
       "status": "Match Details"
     },
     {
@@ -563,16 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic Women vs Portugal Women 6th Match",
+      "title": "Portugal Women vs Czech Republic Women 6th Match",
       "team1": {
-        "name": "Czech Republic Women",
+        "name": "Portugal Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Portugal Women 6th Match",
+        "name": "Czech Republic Women 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Czech Republic Women vs Portugal Women 6th Match",
+      "score": "Portugal Women vs Czech Republic Women 6th Match",
       "status": "Match Details"
     },
     {
@@ -599,19 +560,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "TBC vs TBC Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Croatia Women vs Bulgaria Women 2nd Match",
-      "team1": {
-        "name": "Croatia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bulgaria Women 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Croatia Women vs Bulgaria Women 2nd Match",
       "status": "Match Details"
     },
     {
@@ -680,6 +628,19 @@
       "status": "Match Details"
     },
     {
+      "title": "15th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 169-7 (20) Dublin Guardians DBG 160-8 (20) Amsterdam Flames won by 9 runs",
+      "team1": {
+        "name": "15th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 169",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Dublin Guardians DBG 160",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "15th Match • Voorburg, Sportpark Duivesteijn Amsterdam Flames ADF 169-7 (20) Dublin Guardians DBG 160-8 (20) Amsterdam Flames won by 9 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "12th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 214-4 (20) Bathinda Royals BTR 101-4 (11) Fazilka Falcons won by 17 runs  -  DLS Method",
       "team1": {
         "name": "12th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 214",
@@ -693,42 +654,29 @@
       "status": "Match Details"
     },
     {
-      "title": "51st Match • Chelmsford, The Ambassador Cruise Line Ground Sussex SUS 275 & 230 Essex ESS 177 & 281 Sussex won by 47 runs",
+      "title": "42nd Match • Canterbury, St Lawrence Ground Kent KENT 238 & 358 Worcestershire WORCS 217 & 295 Kent won by 84 runs",
       "team1": {
-        "name": "51st Match • Chelmsford, The Ambassador Cruise Line Ground Sussex SUS 275 & 230 Essex ESS 177 & 281 Sussex won by 47 runs",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "42nd Match • Canterbury, St Lawrence Ground Kent KENT 238 & 358 Worcestershire WORCS 217 & 295 Kent won by 84 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
         "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "51st Match • Chelmsford, The Ambassador Cruise Line Ground Sussex SUS 275 & 230 Essex ESS 177 & 281 Sussex won by 47 runs",
+      "score": "42nd Match • Canterbury, St Lawrence Ground Kent KENT 238 & 358 Worcestershire WORCS 217 & 295 Kent won by 84 runs",
       "status": "Match Details"
     },
     {
-      "title": "14th Match, Group A • Bangi, YSD-UKM Cricket Oval Hong Kong, China HKC 209 (46.3) Malaysia MLY 209-9 (50) Match tied (Hong Kong, China won the Super Over)",
+      "title": "41st Match • Bristol, County Ground Gloucestershire GLOUCS 237 & 359-5 d Derbyshire DERBY 278 & 105 Gloucestershire won by 213 runs",
       "team1": {
-        "name": "14th Match, Group A • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "41st Match • Bristol, County Ground Gloucestershire GLOUCS 237 & 359",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "UKM Cricket Oval Hong Kong, China HKC 209 (46.3) Malaysia MLY 209",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "5 d Derbyshire DERBY 278 & 105 Gloucestershire won by 213 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "14th Match, Group A • Bangi, YSD-UKM Cricket Oval Hong Kong, China HKC 209 (46.3) Malaysia MLY 209-9 (50) Match tied (Hong Kong, China won the Super Over)",
-      "status": "Match Details"
-    },
-    {
-      "title": "13th Match, Group B • Kuala Lumpur, Bayuemas Oval Oman OMAN 252-7 (50) Kuwait KUW 256-6 (49.4) Kuwait won by 4 wkts",
-      "team1": {
-        "name": "13th Match, Group B • Kuala Lumpur, Bayuemas Oval Oman OMAN 252",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (50) Kuwait KUW 256",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "13th Match, Group B • Kuala Lumpur, Bayuemas Oval Oman OMAN 252-7 (50) Kuwait KUW 256-6 (49.4) Kuwait won by 4 wkts",
+      "score": "41st Match • Bristol, County Ground Gloucestershire GLOUCS 237 & 359-5 d Derbyshire DERBY 278 & 105 Gloucestershire won by 213 runs",
       "status": "Match Details"
     },
     {
@@ -745,6 +693,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Match 9, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 55 (18.1) India Women INDW 57-3 (8.4) India Women won by 7 wkts",
+      "team1": {
+        "name": "Match 9, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 55 (18.1) India Women INDW 57",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "3 (8.4) India Women won by 7 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Match 9, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 55 (18.1) India Women INDW 57-3 (8.4) India Women won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "6th Match • Prague, Scott Page Field, Vinor Portugal Women PORTW 126 (19.2) Czech Republic Women CZEW 127-4 (20) Czech Republic Women won by 6 wkts",
+      "team1": {
+        "name": "6th Match • Prague, Scott Page Field, Vinor Portugal Women PORTW 126 (19.2) Czech Republic Women CZEW 127",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Czech Republic Women won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Prague, Scott Page Field, Vinor Portugal Women PORTW 126 (19.2) Czech Republic Women CZEW 127-4 (20) Czech Republic Women won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "5th Match • Prague, Scott Page Field, Vinor Belgium Women BELW 52 (13.2) Czech Republic Women CZEW 56-0 (5.3) Czech Republic Women won by 10 wkts",
       "team1": {
         "name": "5th Match • Prague, Scott Page Field, Vinor Belgium Women BELW 52 (13.2) Czech Republic Women CZEW 56",
@@ -758,19 +732,6 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Prague, Scott Page Field, Vinor Belgium Women BELW 141-6 (20) Portugal Women PORTW 145-3 (19) Portugal Women won by 7 wkts",
-      "team1": {
-        "name": "4th Match • Prague, Scott Page Field, Vinor Belgium Women BELW 141",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Portugal Women PORTW 145",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Prague, Scott Page Field, Vinor Belgium Women BELW 141-6 (20) Portugal Women PORTW 145-3 (19) Portugal Women won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "3rd Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 189-2 (20) Bulgaria Women BGRW 67 (13.3) Croatia Women won by 122 runs",
       "team1": {
         "name": "3rd Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 189",
@@ -781,6 +742,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Match • Belgrade, Lisicji Jarak Cricket Ground Croatia Women CRTW 189-2 (20) Bulgaria Women BGRW 67 (13.3) Croatia Women won by 122 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 90-9 (20) Serbia Women SRBW 94-3 (12.4) Serbia Women won by 7 wkts",
+      "team1": {
+        "name": "4th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 90",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Serbia Women SRBW 94",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 90-9 (20) Serbia Women SRBW 94-3 (12.4) Serbia Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
