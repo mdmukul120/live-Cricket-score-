@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-05 00:10:52 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-09-05 04:34:15 UTC",
+  "total_matches": 45,
   "matches": [
-    {
-      "title": "JKM vs GAW - GAW opt to bowl",
-      "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKM vs GAW - GAW opt to bowl",
-      "status": "Match Details"
-    },
     {
       "title": "INDW vs PAKW - Preview",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "INDW vs PAKW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKM vs GAW - GAW won",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs GAW - GAW won",
       "status": "Match Details"
     },
     {
@@ -43,29 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "IDNW vs UAEW - UAEW won",
+      "title": "RDD vs ECR - Preview",
       "team1": {
-        "name": "IDNW",
+        "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "UAEW",
+        "name": "ECR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "IDNW vs UAEW - UAEW won",
+      "score": "RDD vs ECR - Preview",
       "status": "Match Details"
     },
     {
-      "title": "BFW vs GGC - BFW won",
+      "title": "FZF vs BTR - Preview",
       "team1": {
-        "name": "BFW",
+        "name": "FZF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "GGC",
+        "name": "BTR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BFW vs GGC - BFW won",
+      "score": "FZF vs BTR - Preview",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "St Kitts and Nevis Patriots vs Saint Lucia Kings 25th Match",
-      "team1": {
-        "name": "St Kitts and Nevis Patriots",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saint Lucia Kings 25th Match",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "St Kitts and Nevis Patriots vs Saint Lucia Kings 25th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors LIVE 26th Match",
+      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors 26th Match",
       "team1": {
         "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors LIVE 26th Match",
+        "name": "Guyana Amazon Warriors 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors LIVE 26th Match",
+      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors 26th Match",
       "status": "Match Details"
     },
     {
@@ -212,6 +199,19 @@
       "status": "Match Details"
     },
     {
+      "title": "East Zone vs South Zone Final",
+      "team1": {
+        "name": "East Zone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Zone Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "East Zone vs South Zone Final",
+      "status": "Match Details"
+    },
+    {
       "title": "Sussex vs Essex 51st Match",
       "team1": {
         "name": "Sussex",
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Warwickshire vs Hampshire 55th Match",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Hampshire 55th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Hampshire 55th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Glamorgan vs Somerset 54th Match",
       "team1": {
         "name": "Glamorgan",
@@ -277,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs Qatar 11th Match, Group B",
+      "title": "Warwickshire vs Hampshire 55th Match",
       "team1": {
-        "name": "Singapore",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "Qatar 11th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Hampshire 55th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Singapore vs Qatar 11th Match, Group B",
+      "score": "Warwickshire vs Hampshire 55th Match",
       "status": "Match Details"
     },
     {
@@ -303,29 +290,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs Oman 13th Match, Group B",
+      "title": "Singapore vs Qatar 11th Match, Group B",
       "team1": {
-        "name": "Kuwait",
+        "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Oman 13th Match, Group B",
+        "name": "Qatar 11th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kuwait vs Oman 13th Match, Group B",
+      "score": "Singapore vs Qatar 11th Match, Group B",
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs Hong Kong, China 14th Match, Group A",
+      "title": "Oman vs Kuwait 13th Match, Group B",
       "team1": {
-        "name": "Malaysia",
+        "name": "Oman",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hong Kong, China 14th Match, Group A",
+        "name": "Kuwait 13th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malaysia vs Hong Kong, China 14th Match, Group A",
+      "score": "Oman vs Kuwait 13th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Malaysia 14th Match, Group A",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Malaysia 14th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Malaysia 14th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nepal vs Saudi Arabia 15th Match, Group A",
+      "team1": {
+        "name": "Nepal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 15th Match, Group A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Nepal vs Saudi Arabia 15th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Singapore vs United Arab Emirates 16th Match, Group B",
+      "team1": {
+        "name": "Singapore",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 16th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Singapore vs United Arab Emirates 16th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -547,6 +573,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Serbia Women vs Bulgaria Women 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "26th Match • Guyana, Providence Stadium Jamaica Kingsmen JKM 159-7 (20) Guyana Amazon Warriors GAW 160-2 (17.2) Guyana Amazon Warriors won by 8 wkts",
+      "team1": {
+        "name": "26th Match • Guyana, Providence Stadium Jamaica Kingsmen JKM 159",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Guyana Amazon Warriors GAW 160",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "26th Match • Guyana, Providence Stadium Jamaica Kingsmen JKM 159-7 (20) Guyana Amazon Warriors GAW 160-2 (17.2) Guyana Amazon Warriors won by 8 wkts",
       "status": "Match Details"
     }
   ]
