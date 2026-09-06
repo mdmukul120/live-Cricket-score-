@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-06 09:34:56 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-09-06 13:06:39 UTC",
+  "total_matches": 48,
   "matches": [
     {
-      "title": "EZONE vs SZONE - EZONE opt to bat",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs SZONE - EZONE opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "RSA vs ZIM - Preview",
+      "title": "RSA vs ZIM - RSA opt to bat",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,11 +13,24 @@
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "RSA vs ZIM - Preview",
+      "score": "RSA vs ZIM - RSA opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "GGC vs ECR - ECR opt to bowl",
+      "title": "SLW vs BANW - Preview",
+      "team1": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "SLW vs BANW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "GGC vs ECR - ECR won",
       "team1": {
         "name": "GGC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,46 +39,46 @@
         "name": "ECR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs ECR - ECR opt to bowl",
+      "score": "GGC vs ECR - ECR won",
       "status": "Match Details"
     },
     {
-      "title": "BTR vs JLW - Need 222 to win",
+      "title": "GAW vs SNP - Preview",
       "team1": {
-        "name": "BTR",
+        "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "JLW",
+        "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BTR vs JLW - Need 222 to win",
+      "score": "GAW vs SNP - Preview",
       "status": "Match Details"
     },
     {
-      "title": "TKR vs BBT - TKR won",
+      "title": "EZONE vs SZONE - Stumps",
       "team1": {
-        "name": "TKR",
+        "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BBT",
+        "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TKR vs BBT - TKR won",
+      "score": "EZONE vs SZONE - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Zimbabwe Final",
+      "title": "South Africa vs Zimbabwe LIVE Final",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Zimbabwe Final",
+        "name": "Zimbabwe LIVE Final",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "South Africa vs Zimbabwe Final",
+      "score": "South Africa vs Zimbabwe LIVE Final",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Edinburgh Castle Rockers vs Rotterdam Dockers 14th Match",
-      "team1": {
-        "name": "Edinburgh Castle Rockers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Rotterdam Dockers 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Edinburgh Castle Rockers vs Rotterdam Dockers 14th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Amsterdam Flames vs Dublin Guardians 15th Match",
       "team1": {
         "name": "Amsterdam Flames",
@@ -147,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glasgow Cosmic vs Edinburgh Castle Rockers LIVE 16th Match",
+      "title": "Glasgow Cosmic vs Edinburgh Castle Rockers 16th Match",
       "team1": {
         "name": "Glasgow Cosmic",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Edinburgh Castle Rockers LIVE 16th Match",
+        "name": "Edinburgh Castle Rockers 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glasgow Cosmic vs Edinburgh Castle Rockers LIVE 16th Match",
+      "score": "Glasgow Cosmic vs Edinburgh Castle Rockers 16th Match",
       "status": "Match Details"
     },
     {
@@ -173,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Fazilka Falcons vs Bathinda Royals 12th Match",
-      "team1": {
-        "name": "Fazilka Falcons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bathinda Royals 12th Match",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Fazilka Falcons vs Bathinda Royals 12th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Jalandhar Warriors vs Mohali Kings 13th Match",
       "team1": {
         "name": "Jalandhar Warriors",
@@ -199,29 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bathinda Royals vs Jalandhar Warriors LIVE 14th Match",
+      "title": "Bathinda Royals vs Jalandhar Warriors 14th Match",
       "team1": {
         "name": "Bathinda Royals",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Jalandhar Warriors LIVE 14th Match",
+        "name": "Jalandhar Warriors 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bathinda Royals vs Jalandhar Warriors LIVE 14th Match",
+      "score": "Bathinda Royals vs Jalandhar Warriors 14th Match",
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Fazilka Falcons 15th Match",
+      "title": "Fazilka Falcons vs Ludhiana Lions 15th Match",
       "team1": {
-        "name": "Ludhiana Lions",
+        "name": "Fazilka Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Fazilka Falcons 15th Match",
+        "name": "Ludhiana Lions 15th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Ludhiana Lions vs Fazilka Falcons 15th Match",
+      "score": "Fazilka Falcons vs Ludhiana Lions 15th Match",
       "status": "Match Details"
     },
     {
@@ -303,55 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa A vs Bangladesh A 1st Unofficial ODI",
+      "title": "Bangladesh A vs South Africa A 1st Unofficial ODI",
       "team1": {
-        "name": "South Africa A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Bangladesh A 1st Unofficial ODI",
+        "name": "Bangladesh A",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "South Africa A vs Bangladesh A 1st Unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Essex 51st Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "Essex 51st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Africa A 1st Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Sussex vs Essex 51st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Leicestershire 53rd Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire 53rd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Leicestershire 53rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Somerset 54th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Somerset 54th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Somerset 54th Match",
+      "score": "Bangladesh A vs South Africa A 1st Unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -368,6 +303,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Nottinghamshire vs Leicestershire 53rd Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire 53rd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Leicestershire 53rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Essex 51st Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex 51st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sussex vs Essex 51st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Somerset 54th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Somerset 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Somerset 54th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Warwickshire vs Hampshire 55th Match",
       "team1": {
         "name": "Warwickshire",
@@ -378,19 +352,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Hampshire 55th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Lancashire 44th Match",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lancashire 44th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Lancashire 44th Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kent vs Worcestershire 42nd Match",
+      "title": "Middlesex vs Lancashire 44th Match",
       "team1": {
-        "name": "Kent",
+        "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire 42nd Match",
+        "name": "Lancashire 44th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Kent vs Worcestershire 42nd Match",
+      "score": "Middlesex vs Lancashire 44th Match",
       "status": "Match Details"
     },
     {
@@ -430,6 +391,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Durham vs Northamptonshire 43rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Worcestershire 42nd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire 42nd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Worcestershire 42nd Match",
       "status": "Match Details"
     },
     {
@@ -498,19 +472,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Portugal Women 4th Match",
-      "team1": {
-        "name": "Belgium Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Portugal Women 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Belgium Women vs Portugal Women 4th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Belgium Women vs Czech Republic Women 5th Match",
       "team1": {
         "name": "Belgium Women",
@@ -537,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Portugal Women 3rd place play-off",
+      "title": "Belgium Women vs Portugal Women LIVE 3rd place play-off",
       "team1": {
         "name": "Belgium Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Portugal Women 3rd place play",
+        "name": "Portugal Women LIVE 3rd place play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belgium Women vs Portugal Women 3rd place play-off",
+      "score": "Belgium Women vs Portugal Women LIVE 3rd place play-off",
       "status": "Match Details"
     },
     {
@@ -560,19 +521,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Czech Republic Women vs TBC Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Croatia Women vs Bulgaria Women 3rd Match",
-      "team1": {
-        "name": "Croatia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bulgaria Women 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Croatia Women vs Bulgaria Women 3rd Match",
       "status": "Match Details"
     },
     {
@@ -612,6 +560,71 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Serbia Women vs Bulgaria Women 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "16th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 159-6 (20) Edinburgh Castle Rockers ECR 163-3 (19) Edinburgh Castle Rockers won by 7 wkts",
+      "team1": {
+        "name": "16th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 159",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Edinburgh Castle Rockers ECR 163",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "16th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 159-6 (20) Edinburgh Castle Rockers ECR 163-3 (19) Edinburgh Castle Rockers won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "14th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 228-6 (20) Jalandhar Warriors JLW 219-9 (20) Bathinda Royals won by 9 runs",
+      "team1": {
+        "name": "14th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 228",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "6 (20) Jalandhar Warriors JLW 219",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "14th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 228-6 (20) Jalandhar Warriors JLW 219-9 (20) Bathinda Royals won by 9 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "15th Match, Group A • Kuala Lumpur, Bayuemas Oval Saudi Arabia SAU 190 (49.2) Nepal NEP 193-5 (41) Nepal won by 5 wkts",
+      "team1": {
+        "name": "15th Match, Group A • Kuala Lumpur, Bayuemas Oval Saudi Arabia SAU 190 (49.2) Nepal NEP 193",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "5 (41) Nepal won by 5 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "15th Match, Group A • Kuala Lumpur, Bayuemas Oval Saudi Arabia SAU 190 (49.2) Nepal NEP 193-5 (41) Nepal won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "16th Match, Group B • Bangi, YSD-UKM Cricket Oval Singapore SIN 172 (47.4) United Arab Emirates UAE 174-3 (24.3) United Arab Emirates won by 7 wkts",
+      "team1": {
+        "name": "16th Match, Group B • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "UKM Cricket Oval Singapore SIN 172 (47.4) United Arab Emirates UAE 174",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "16th Match, Group B • Bangi, YSD-UKM Cricket Oval Singapore SIN 172 (47.4) United Arab Emirates UAE 174-3 (24.3) United Arab Emirates won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Belgrade, Lisicji Jarak Cricket Ground Serbia Women SRBW 85 (19.3) Croatia Women CRTW 86-3 (14.5) Croatia Women won by 7 wkts",
+      "team1": {
+        "name": "5th Match • Belgrade, Lisicji Jarak Cricket Ground Serbia Women SRBW 85 (19.3) Croatia Women CRTW 86",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (14.5) Croatia Women won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Belgrade, Lisicji Jarak Cricket Ground Serbia Women SRBW 85 (19.3) Croatia Women CRTW 86-3 (14.5) Croatia Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
