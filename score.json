@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-05 23:00:39 UTC",
+  "last_updated": "2026-09-06 00:50:54 UTC",
   "total_matches": 48,
   "matches": [
+    {
+      "title": "TKR vs BBT - BBT opt to bowl",
+      "team1": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKR vs BBT - BBT opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "PAKW vs INDW - INDW won",
       "team1": {
@@ -27,19 +40,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "ADF vs DBG - ADF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BBT vs TKR - Preview",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BBT vs TKR - Preview",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Trinbago Knight Riders 27th Match",
+      "title": "Trinbago Knight Riders vs Barbados Tridents LIVE 27th Match",
       "team1": {
-        "name": "Barbados Tridents",
+        "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trinbago Knight Riders 27th Match",
+        "name": "Barbados Tridents LIVE 27th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs Trinbago Knight Riders 27th Match",
+      "score": "Trinbago Knight Riders vs Barbados Tridents LIVE 27th Match",
       "status": "Match Details"
     },
     {
@@ -316,19 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Essex 51st Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex 51st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sussex vs Essex 51st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Warwickshire vs Hampshire 55th Match",
       "team1": {
         "name": "Warwickshire",
@@ -339,19 +326,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Warwickshire vs Hampshire 55th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Somerset 54th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Somerset 54th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Somerset 54th Match",
       "status": "Match Details"
     },
     {
@@ -378,6 +352,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Yorkshire vs Surrey 52nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Somerset 54th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Somerset 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Somerset 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Essex 51st Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex 51st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sussex vs Essex 51st Match",
       "status": "Match Details"
     },
     {
@@ -472,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents Women vs Trinbago Knight Riders Women 1st Match",
+      "title": "Trinbago Knight Riders Women vs Barbados Tridents Women 1st Match",
       "team1": {
-        "name": "Barbados Tridents Women",
+        "name": "Trinbago Knight Riders Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trinbago Knight Riders Women 1st Match",
+        "name": "Barbados Tridents Women 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents Women vs Trinbago Knight Riders Women 1st Match",
+      "score": "Trinbago Knight Riders Women vs Barbados Tridents Women 1st Match",
       "status": "Match Details"
     },
     {
@@ -615,16 +615,16 @@
       "status": "Match Details"
     },
     {
-      "title": "13th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Jalandhar Warriors JLW 177-7 (14) Mohali Kings MHK 179-2 (13) Mohali Kings won by 8 wkts (14 Overs game due to wet outfield)",
+      "title": "1st Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 155 (20) Barbados Tridents Women BTW 134 (18.4) Trinbago Knight Riders Women won by 21 runs",
       "team1": {
-        "name": "13th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Jalandhar Warriors JLW 177",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (14) Mohali Kings MHK 179",
+        "name": "1st Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 155 (20) Barbados Tridents Women BTW 134 (18.4) Trinbago Knight Riders Women won by 21 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "13th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Jalandhar Warriors JLW 177-7 (14) Mohali Kings MHK 179-2 (13) Mohali Kings won by 8 wkts (14 Overs game due to wet outfield)",
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 155 (20) Barbados Tridents Women BTW 134 (18.4) Trinbago Knight Riders Women won by 21 runs",
       "status": "Match Details"
     }
   ]
