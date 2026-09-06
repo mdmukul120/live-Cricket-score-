@@ -1,8 +1,47 @@
 {
   "status": "success",
-  "last_updated": "2026-09-06 18:24:08 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-09-06 20:40:24 UTC",
+  "total_matches": 37,
   "matches": [
+    {
+      "title": "SNP vs GAW - SNP opt to bat",
+      "team1": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SNP vs GAW - SNP opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "BBT vs SLK - Preview",
+      "team1": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "BBT vs SLK - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "EZONE vs SZONE - Stumps",
+      "team1": {
+        "name": "EZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "EZONE vs SZONE - Stumps",
+      "status": "Match Details"
+    },
     {
       "title": "RSA vs ZIM - RSA won",
       "team1": {
@@ -27,45 +66,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "BANW vs SLW - SLW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "RDD vs ADF - ADF won",
-      "team1": {
-        "name": "RDD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ADF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "RDD vs ADF - ADF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "GAWW vs JEW - JEW won",
-      "team1": {
-        "name": "GAWW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JEW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAWW vs JEW - JEW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "GAW vs SNP - Preview",
-      "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs SNP - Preview",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots 28th Match",
+      "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors LIVE 28th Match",
       "team1": {
-        "name": "Guyana Amazon Warriors",
+        "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "St Kitts and Nevis Patriots 28th Match",
+        "name": "Guyana Amazon Warriors LIVE 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots 28th Match",
+      "score": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors LIVE 28th Match",
       "status": "Match Details"
     },
     {
@@ -212,19 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Saudi Arabia vs Nepal 15th Match, Group A",
-      "team1": {
-        "name": "Saudi Arabia",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Nepal 15th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Saudi Arabia vs Nepal 15th Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Singapore vs United Arab Emirates 16th Match, Group B",
       "team1": {
         "name": "Singapore",
@@ -238,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs Bahrain 17th Match, Group A",
+      "title": "Saudi Arabia vs Nepal 15th Match, Group A",
       "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Saudi Arabia",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Bahrain 17th Match, Group A",
+        "name": "Nepal 15th Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malaysia vs Bahrain 17th Match, Group A",
+      "score": "Saudi Arabia vs Nepal 15th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -261,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kuwait vs Qatar 18th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Bahrain 17th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bahrain 17th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malaysia vs Bahrain 17th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -300,19 +300,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Pakistan Women vs Hong Kong, China Women Match 11, Group  A",
-      "status": "Match Details"
-    },
-    {
-      "title": "England Women vs Ireland Women 3rd ODI",
-      "team1": {
-        "name": "England Women",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Ireland Women 3rd ODI",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "England Women vs Ireland Women 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -381,16 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Serbia Women vs Bulgaria Women 6th Match",
+      "title": "Bulgaria Women vs Serbia Women 6th Match",
       "team1": {
-        "name": "Serbia Women",
+        "name": "Bulgaria Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bulgaria Women 6th Match",
+        "name": "Serbia Women 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Serbia Women vs Bulgaria Women 6th Match",
+      "score": "Bulgaria Women vs Serbia Women 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "England Women vs Ireland Women 3rd ODI",
+      "team1": {
+        "name": "England Women",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Ireland Women 3rd ODI",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "England Women vs Ireland Women 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -420,19 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "16th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 159-6 (20) Edinburgh Castle Rockers ECR 163-3 (19) Edinburgh Castle Rockers won by 7 wkts",
-      "team1": {
-        "name": "16th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 159",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Edinburgh Castle Rockers ECR 163",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "16th Match • Voorburg, Sportpark Duivesteijn Glasgow Cosmic GGC 159-6 (20) Edinburgh Castle Rockers ECR 163-3 (19) Edinburgh Castle Rockers won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "15th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 170-9 (20) Ludhiana Lions LDL 169-7 (20) Fazilka Falcons won by 1 run",
       "team1": {
         "name": "15th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 170",
@@ -459,19 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
-      "team1": {
-        "name": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "2nd Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 138-7 (20) Jamaica Empress Women JEW 136-9 (19) JEW won by 1 wkt  -  2nd innings reduced to 19 overs - DLS Target 132",
       "team1": {
         "name": "2nd Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 138",
@@ -485,29 +459,29 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd place play-off • Prague, Scott Page Field, Vinor Belgium Women BELW 106 (19.5) Portugal Women PORTW 108-2 (10.2) Portugal Women won by 8 wkts",
+      "title": "6th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 154-5 (20) Serbia Women SRBW 155-5 (20) Serbia Women won by 5 wkts",
       "team1": {
-        "name": "3rd place play",
+        "name": "6th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 154",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "off • Prague, Scott Page Field, Vinor Belgium Women BELW 106 (19.5) Portugal Women PORTW 108",
+        "name": "5 (20) Serbia Women SRBW 155",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd place play-off • Prague, Scott Page Field, Vinor Belgium Women BELW 106 (19.5) Portugal Women PORTW 108-2 (10.2) Portugal Women won by 8 wkts",
+      "score": "6th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 154-5 (20) Serbia Women SRBW 155-5 (20) Serbia Women won by 5 wkts",
       "status": "Match Details"
     },
     {
-      "title": "Final • Prague, Scott Page Field, Vinor Czech Republic Women CZEW 70 (15) Portugal Women PORTW 71-6 (12.5) Portugal Women won by 4 wkts",
+      "title": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
       "team1": {
-        "name": "Final • Prague, Scott Page Field, Vinor Czech Republic Women CZEW 70 (15) Portugal Women PORTW 71",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "6 (12.5) Portugal Women won by 4 wkts",
+        "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Final • Prague, Scott Page Field, Vinor Czech Republic Women CZEW 70 (15) Portugal Women PORTW 71-6 (12.5) Portugal Women won by 4 wkts",
+      "score": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
       "status": "Match Details"
     }
   ]
