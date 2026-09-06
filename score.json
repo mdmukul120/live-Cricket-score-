@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-06 05:22:34 UTC",
-  "total_matches": 50,
+  "last_updated": "2026-09-06 09:34:56 UTC",
+  "total_matches": 47,
   "matches": [
     {
       "title": "EZONE vs SZONE - EZONE opt to bat",
@@ -14,32 +14,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "EZONE vs SZONE - EZONE opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "TKR vs BBT - TKR won",
-      "team1": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TKR vs BBT - TKR won",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAKW vs INDW - INDW won",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "PAKW vs INDW - INDW won",
       "status": "Match Details"
     },
     {
@@ -56,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "GGC vs ECR - Preview",
+      "title": "GGC vs ECR - ECR opt to bowl",
       "team1": {
         "name": "GGC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +39,33 @@
         "name": "ECR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs ECR - Preview",
+      "score": "GGC vs ECR - ECR opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "BTR vs JLW - Need 222 to win",
+      "team1": {
+        "name": "BTR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JLW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BTR vs JLW - Need 222 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "TKR vs BBT - TKR won",
+      "team1": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKR vs BBT - TKR won",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glasgow Cosmic vs Edinburgh Castle Rockers 16th Match",
+      "title": "Glasgow Cosmic vs Edinburgh Castle Rockers LIVE 16th Match",
       "team1": {
         "name": "Glasgow Cosmic",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Edinburgh Castle Rockers 16th Match",
+        "name": "Edinburgh Castle Rockers LIVE 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glasgow Cosmic vs Edinburgh Castle Rockers 16th Match",
+      "score": "Glasgow Cosmic vs Edinburgh Castle Rockers LIVE 16th Match",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bathinda Royals vs Jalandhar Warriors 14th Match",
+      "title": "Bathinda Royals vs Jalandhar Warriors LIVE 14th Match",
       "team1": {
         "name": "Bathinda Royals",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Jalandhar Warriors 14th Match",
+        "name": "Jalandhar Warriors LIVE 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bathinda Royals vs Jalandhar Warriors 14th Match",
+      "score": "Bathinda Royals vs Jalandhar Warriors LIVE 14th Match",
       "status": "Match Details"
     },
     {
@@ -225,68 +225,55 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone LIVE Final",
+      "title": "Mohali Kings vs Ludhiana Lions 16th Match",
+      "team1": {
+        "name": "Mohali Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Ludhiana Lions 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mohali Kings vs Ludhiana Lions 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Zone vs South Zone Final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone LIVE Final",
+        "name": "South Zone Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone LIVE Final",
+      "score": "East Zone vs South Zone Final",
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Kuwait 13th Match, Group B",
-      "team1": {
-        "name": "Oman",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kuwait 13th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman vs Kuwait 13th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs Malaysia 14th Match, Group A",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Malaysia 14th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Malaysia 14th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Saudi Arabia vs Nepal LIVE 15th Match, Group A",
+      "title": "Saudi Arabia vs Nepal 15th Match, Group A",
       "team1": {
         "name": "Saudi Arabia",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Nepal LIVE 15th Match, Group A",
+        "name": "Nepal 15th Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Saudi Arabia vs Nepal LIVE 15th Match, Group A",
+      "score": "Saudi Arabia vs Nepal 15th Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs United Arab Emirates LIVE 16th Match, Group B",
+      "title": "Singapore vs United Arab Emirates 16th Match, Group B",
       "team1": {
         "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates LIVE 16th Match, Group B",
+        "name": "United Arab Emirates 16th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Singapore vs United Arab Emirates LIVE 16th Match, Group B",
+      "score": "Singapore vs United Arab Emirates 16th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -342,6 +329,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nottinghamshire vs Leicestershire 53rd Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire 53rd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Leicestershire 53rd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Glamorgan vs Somerset 54th Match",
       "team1": {
         "name": "Glamorgan",
@@ -381,32 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Leicestershire 53rd Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire 53rd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Leicestershire 53rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kent vs Worcestershire 42nd Match",
-      "team1": {
-        "name": "Kent",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire 42nd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Kent vs Worcestershire 42nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Middlesex vs Lancashire 44th Match",
       "team1": {
         "name": "Middlesex",
@@ -430,6 +404,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Derbyshire 41st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Worcestershire 42nd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire 42nd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Worcestershire 42nd Match",
       "status": "Match Details"
     },
     {
@@ -625,32 +612,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Serbia Women vs Bulgaria Women 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "27th Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders TKR 147-6 (20) Barbados Tridents BBT 112 (18.3) Trinbago Knight Riders won by 35 runs",
-      "team1": {
-        "name": "27th Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders TKR 147",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Barbados Tridents BBT 112 (18.3) Trinbago Knight Riders won by 35 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "27th Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders TKR 147-6 (20) Barbados Tridents BBT 112 (18.3) Trinbago Knight Riders won by 35 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 155 (20) Barbados Tridents Women BTW 134 (18.4) Trinbago Knight Riders Women won by 21 runs",
-      "team1": {
-        "name": "1st Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 155 (20) Barbados Tridents Women BTW 134 (18.4) Trinbago Knight Riders Women won by 21 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 155 (20) Barbados Tridents Women BTW 134 (18.4) Trinbago Knight Riders Women won by 21 runs",
       "status": "Match Details"
     }
   ]
