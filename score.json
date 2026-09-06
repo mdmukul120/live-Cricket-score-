@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-06 20:40:24 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-09-06 22:22:58 UTC",
+  "total_matches": 34,
   "matches": [
     {
-      "title": "SNP vs GAW - SNP opt to bat",
+      "title": "SNP vs GAW - Need 5 off 19b",
       "team1": {
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs GAW - SNP opt to bat",
+      "score": "SNP vs GAW - Need 5 off 19b",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs Qatar 18th Match, Group B",
-      "team1": {
-        "name": "Kuwait",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 18th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kuwait vs Qatar 18th Match, Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Malaysia vs Bahrain 17th Match, Group A",
       "team1": {
         "name": "Malaysia",
@@ -261,6 +248,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Malaysia vs Bahrain 17th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kuwait vs Qatar 18th Match, Group B",
+      "team1": {
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Qatar 18th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kuwait vs Qatar 18th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -394,32 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Final •  Windhoek, Namibia Cricket Ground South Africa RSA 205-5 (20) Zimbabwe ZIM 157 (18) South Africa won by 48 runs",
-      "team1": {
-        "name": "Final •  Windhoek, Namibia Cricket Ground South Africa RSA 205",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "5 (20) Zimbabwe ZIM 157 (18) South Africa won by 48 runs",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Final •  Windhoek, Namibia Cricket Ground South Africa RSA 205-5 (20) Zimbabwe ZIM 157 (18) South Africa won by 48 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "17th Match • Voorburg, Sportpark Duivesteijn Rotterdam Dockers RDD 176-6 (20) Amsterdam Flames ADF 178-2 (17.4) Amsterdam Flames won by 8 wkts",
-      "team1": {
-        "name": "17th Match • Voorburg, Sportpark Duivesteijn Rotterdam Dockers RDD 176",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Amsterdam Flames ADF 178",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "17th Match • Voorburg, Sportpark Duivesteijn Rotterdam Dockers RDD 176-6 (20) Amsterdam Flames ADF 178-2 (17.4) Amsterdam Flames won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "15th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 170-9 (20) Ludhiana Lions LDL 169-7 (20) Fazilka Falcons won by 1 run",
       "team1": {
         "name": "15th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 170",
@@ -469,19 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "6th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 154-5 (20) Serbia Women SRBW 155-5 (20) Serbia Women won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
-      "team1": {
-        "name": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
       "status": "Match Details"
     }
   ]
