@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-09-06 00:50:54 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-09-06 05:22:34 UTC",
+  "total_matches": 50,
   "matches": [
     {
-      "title": "TKR vs BBT - BBT opt to bowl",
+      "title": "EZONE vs SZONE - EZONE opt to bat",
+      "team1": {
+        "name": "EZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SZONE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "EZONE vs SZONE - EZONE opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "TKR vs BBT - TKR won",
       "team1": {
         "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +26,7 @@
         "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TKR vs BBT - BBT opt to bowl",
+      "score": "TKR vs BBT - TKR won",
       "status": "Match Details"
     },
     {
@@ -30,32 +43,6 @@
       "status": "Match Details"
     },
     {
-      "title": "ADF vs DBG - ADF won",
-      "team1": {
-        "name": "ADF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DBG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ADF vs DBG - ADF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "EZONE vs SZONE - Preview",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs SZONE - Preview",
-      "status": "Match Details"
-    },
-    {
       "title": "RSA vs ZIM - Preview",
       "team1": {
         "name": "RSA",
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "RSA vs ZIM - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "GGC vs ECR - Preview",
+      "team1": {
+        "name": "GGC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ECR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GGC vs ECR - Preview",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors 26th Match",
-      "team1": {
-        "name": "Jamaica Kingsmen",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Guyana Amazon Warriors 26th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors 26th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Trinbago Knight Riders vs Barbados Tridents LIVE 27th Match",
+      "title": "Trinbago Knight Riders vs Barbados Tridents 27th Match",
       "team1": {
         "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Barbados Tridents LIVE 27th Match",
+        "name": "Barbados Tridents 27th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Barbados Tridents LIVE 27th Match",
+      "score": "Trinbago Knight Riders vs Barbados Tridents 27th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone Final",
+      "title": "East Zone vs South Zone LIVE Final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone Final",
+        "name": "South Zone LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone Final",
+      "score": "East Zone vs South Zone LIVE Final",
       "status": "Match Details"
     },
     {
@@ -277,29 +264,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Nepal vs Saudi Arabia 15th Match, Group A",
+      "title": "Saudi Arabia vs Nepal LIVE 15th Match, Group A",
       "team1": {
-        "name": "Nepal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia 15th Match, Group A",
+        "name": "Saudi Arabia",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Nepal vs Saudi Arabia 15th Match, Group A",
+      "team2": {
+        "name": "Nepal LIVE 15th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saudi Arabia vs Nepal LIVE 15th Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs United Arab Emirates 16th Match, Group B",
+      "title": "Singapore vs United Arab Emirates LIVE 16th Match, Group B",
       "team1": {
         "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 16th Match, Group B",
+        "name": "United Arab Emirates LIVE 16th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Singapore vs United Arab Emirates 16th Match, Group B",
+      "score": "Singapore vs United Arab Emirates LIVE 16th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Bahrain 17th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bahrain 17th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malaysia vs Bahrain 17th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kuwait vs Qatar 18th Match, Group B",
+      "team1": {
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Qatar 18th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kuwait vs Qatar 18th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -313,6 +326,45 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "South Africa A vs Bangladesh A 1st Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Essex 51st Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex 51st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sussex vs Essex 51st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Somerset 54th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Somerset 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Somerset 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Surrey 52nd Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Surrey 52nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Surrey 52nd Match",
       "status": "Match Details"
     },
     {
@@ -342,58 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Surrey 52nd Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Surrey 52nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Surrey 52nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Somerset 54th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Somerset 54th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Somerset 54th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Essex 51st Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex 51st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sussex vs Essex 51st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Derbyshire 41st Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Derbyshire 41st Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Derbyshire 41st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Kent vs Worcestershire 42nd Match",
       "team1": {
         "name": "Kent",
@@ -417,6 +417,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Middlesex vs Lancashire 44th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gloucestershire vs Derbyshire 41st Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire 41st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Derbyshire 41st Match",
       "status": "Match Details"
     },
     {
@@ -612,6 +625,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Serbia Women vs Bulgaria Women 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "27th Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders TKR 147-6 (20) Barbados Tridents BBT 112 (18.3) Trinbago Knight Riders won by 35 runs",
+      "team1": {
+        "name": "27th Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders TKR 147",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Barbados Tridents BBT 112 (18.3) Trinbago Knight Riders won by 35 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "27th Match • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders TKR 147-6 (20) Barbados Tridents BBT 112 (18.3) Trinbago Knight Riders won by 35 runs",
       "status": "Match Details"
     },
     {
