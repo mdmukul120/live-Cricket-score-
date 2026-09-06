@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-06 13:06:39 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-09-06 16:14:59 UTC",
+  "total_matches": 52,
   "matches": [
     {
-      "title": "RSA vs ZIM - RSA opt to bat",
+      "title": "RSA vs ZIM - RSA won",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -13,33 +13,46 @@
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "RSA vs ZIM - RSA opt to bat",
+      "score": "RSA vs ZIM - RSA won",
       "status": "Match Details"
     },
     {
-      "title": "SLW vs BANW - Preview",
+      "title": "BANW vs SLW - Need 108 to win",
       "team1": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
         "name": "BANW",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "SLW vs BANW - Preview",
+      "team2": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "BANW vs SLW - Need 108 to win",
       "status": "Match Details"
     },
     {
-      "title": "GGC vs ECR - ECR won",
+      "title": "RDD vs ADF - Need 46 off 30b",
       "team1": {
-        "name": "GGC",
+        "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ECR",
+        "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs ECR - ECR won",
+      "score": "RDD vs ADF - Need 46 off 30b",
+      "status": "Match Details"
+    },
+    {
+      "title": "GAWW vs JEW - Need 85 off 82b",
+      "team1": {
+        "name": "GAWW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JEW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAWW vs JEW - Need 85 off 82b",
       "status": "Match Details"
     },
     {
@@ -56,29 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs SZONE - Stumps",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs SZONE - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa vs Zimbabwe LIVE Final",
+      "title": "South Africa vs Zimbabwe Final",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Zimbabwe LIVE Final",
+        "name": "Zimbabwe Final",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "South Africa vs Zimbabwe LIVE Final",
+      "score": "South Africa vs Zimbabwe Final",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amsterdam Flames vs Rotterdam Dockers 17th Match",
+      "title": "Rotterdam Dockers vs Amsterdam Flames LIVE 17th Match",
       "team1": {
-        "name": "Amsterdam Flames",
+        "name": "Rotterdam Dockers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rotterdam Dockers 17th Match",
+        "name": "Amsterdam Flames LIVE 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amsterdam Flames vs Rotterdam Dockers 17th Match",
+      "score": "Rotterdam Dockers vs Amsterdam Flames LIVE 17th Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Fazilka Falcons vs Ludhiana Lions 15th Match",
+      "title": "Fazilka Falcons vs Ludhiana Lions LIVE 15th Match",
       "team1": {
         "name": "Fazilka Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ludhiana Lions 15th Match",
+        "name": "Ludhiana Lions LIVE 15th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Fazilka Falcons vs Ludhiana Lions 15th Match",
+      "score": "Fazilka Falcons vs Ludhiana Lions LIVE 15th Match",
       "status": "Match Details"
     },
     {
@@ -209,6 +209,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mohali Kings vs Ludhiana Lions 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jalandhar Warriors vs Amritsar Soormas 17th Match",
+      "team1": {
+        "name": "Jalandhar Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Amritsar Soormas 17th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Jalandhar Warriors vs Amritsar Soormas 17th Match",
       "status": "Match Details"
     },
     {
@@ -303,32 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Leicestershire 53rd Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire 53rd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Leicestershire 53rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Essex 51st Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex 51st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sussex vs Essex 51st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Glamorgan vs Somerset 54th Match",
       "team1": {
         "name": "Glamorgan",
@@ -355,29 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Derbyshire 41st Match",
+      "title": "Sussex vs Essex 51st Match",
       "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Derbyshire 41st Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Derbyshire 41st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Lancashire 44th Match",
-      "team1": {
-        "name": "Middlesex",
+        "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lancashire 44th Match",
+        "name": "Essex 51st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sussex vs Essex 51st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Leicestershire 53rd Match",
+      "team1": {
+        "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Middlesex vs Lancashire 44th Match",
+      "team2": {
+        "name": "Leicestershire 53rd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Leicestershire 53rd Match",
       "status": "Match Details"
     },
     {
@@ -394,6 +381,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Gloucestershire vs Derbyshire 41st Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire 41st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Gloucestershire vs Derbyshire 41st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Kent vs Worcestershire 42nd Match",
       "team1": {
         "name": "Kent",
@@ -404,6 +404,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Kent vs Worcestershire 42nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Lancashire 44th Match",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lancashire 44th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Lancashire 44th Match",
       "status": "Match Details"
     },
     {
@@ -420,16 +433,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs Bangladesh Women Match 10, Group B",
+      "title": "Bangladesh Women vs Sri Lanka Women LIVE Match 10, Group B",
       "team1": {
-        "name": "Sri Lanka Women",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Bangladesh Women Match 10, Group B",
+        "name": "Bangladesh Women",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Sri Lanka Women vs Bangladesh Women Match 10, Group B",
+      "team2": {
+        "name": "Sri Lanka Women LIVE Match 10, Group B",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Bangladesh Women vs Sri Lanka Women LIVE Match 10, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan Women vs Hong Kong, China Women Match 11, Group  A",
+      "team1": {
+        "name": "Pakistan Women",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Hong Kong, China Women Match 11, Group  A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pakistan Women vs Hong Kong, China Women Match 11, Group  A",
       "status": "Match Details"
     },
     {
@@ -459,29 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Empress Women vs Guyana Amazon Warriors Women 2nd Match",
+      "title": "Guyana Amazon Warriors Women vs Jamaica Empress Women LIVE 2nd Match",
       "team1": {
-        "name": "Jamaica Empress Women",
+        "name": "Guyana Amazon Warriors Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors Women 2nd Match",
+        "name": "Jamaica Empress Women LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Empress Women vs Guyana Amazon Warriors Women 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Belgium Women vs Czech Republic Women 5th Match",
-      "team1": {
-        "name": "Belgium Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Czech Republic Women 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Belgium Women vs Czech Republic Women 5th Match",
+      "score": "Guyana Amazon Warriors Women vs Jamaica Empress Women LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -498,42 +511,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Belgium Women vs Portugal Women LIVE 3rd place play-off",
+      "title": "Belgium Women vs Portugal Women 3rd place play-off",
       "team1": {
         "name": "Belgium Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Portugal Women LIVE 3rd place play",
+        "name": "Portugal Women 3rd place play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belgium Women vs Portugal Women LIVE 3rd place play-off",
+      "score": "Belgium Women vs Portugal Women 3rd place play-off",
       "status": "Match Details"
     },
     {
-      "title": "Czech Republic Women vs TBC Final",
+      "title": "Czech Republic Women vs Portugal Women Final",
       "team1": {
         "name": "Czech Republic Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Final",
+        "name": "Portugal Women Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Czech Republic Women vs TBC Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bulgaria Women vs Serbia Women 4th Match",
-      "team1": {
-        "name": "Bulgaria Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Serbia Women 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria Women vs Serbia Women 4th Match",
+      "score": "Czech Republic Women vs Portugal Women Final",
       "status": "Match Details"
     },
     {
@@ -560,6 +560,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Serbia Women vs Bulgaria Women 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final •  Windhoek, Namibia Cricket Ground South Africa RSA 205-5 (20) Zimbabwe ZIM 157 (18) South Africa won by 48 runs",
+      "team1": {
+        "name": "Final •  Windhoek, Namibia Cricket Ground South Africa RSA 205",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "5 (20) Zimbabwe ZIM 157 (18) South Africa won by 48 runs",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Final •  Windhoek, Namibia Cricket Ground South Africa RSA 205-5 (20) Zimbabwe ZIM 157 (18) South Africa won by 48 runs",
       "status": "Match Details"
     },
     {
@@ -612,6 +625,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "16th Match, Group B • Bangi, YSD-UKM Cricket Oval Singapore SIN 172 (47.4) United Arab Emirates UAE 174-3 (24.3) United Arab Emirates won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
+      "team1": {
+        "name": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd ODI • Worcester, New Road England Women ENGW 291 (48.5) Ireland Women IREW 177 (44.2) England Women won by 114 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Prague, Scott Page Field, Vinor Czech Republic Women CZEW 70 (15) Portugal Women PORTW 71-6 (12.5) Portugal Women won by 4 wkts",
+      "team1": {
+        "name": "Final • Prague, Scott Page Field, Vinor Czech Republic Women CZEW 70 (15) Portugal Women PORTW 71",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (12.5) Portugal Women won by 4 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Prague, Scott Page Field, Vinor Czech Republic Women CZEW 70 (15) Portugal Women PORTW 71-6 (12.5) Portugal Women won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd place play-off • Prague, Scott Page Field, Vinor Belgium Women BELW 106 (19.5) Portugal Women PORTW 108-2 (10.2) Portugal Women won by 8 wkts",
+      "team1": {
+        "name": "3rd place play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "off • Prague, Scott Page Field, Vinor Belgium Women BELW 106 (19.5) Portugal Women PORTW 108",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd place play-off • Prague, Scott Page Field, Vinor Belgium Women BELW 106 (19.5) Portugal Women PORTW 108-2 (10.2) Portugal Women won by 8 wkts",
       "status": "Match Details"
     },
     {
