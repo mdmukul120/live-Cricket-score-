@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-07 04:46:40 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-09-07 09:46:36 UTC",
+  "total_matches": 32,
   "matches": [
     {
       "title": "EZONE vs SZONE - EZONE opt to bat",
@@ -43,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "MHK vs LDL - Preview",
+      "title": "LDL vs MHK - Need 203 to win",
       "team1": {
-        "name": "MHK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "LDL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MHK vs LDL - Preview",
+      "team2": {
+        "name": "MHK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDL vs MHK - Need 203 to win",
       "status": "Match Details"
     },
     {
@@ -66,6 +66,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "PAKW vs HKC W - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kenya vs Sierra Leone 1st Match",
+      "team1": {
+        "name": "Kenya",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sierra Leone 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kenya vs Sierra Leone 1st Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mohali Kings vs Ludhiana Lions 16th Match",
+      "title": "Ludhiana Lions vs Mohali Kings LIVE 16th Match",
       "team1": {
-        "name": "Mohali Kings",
+        "name": "Ludhiana Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ludhiana Lions 16th Match",
+        "name": "Mohali Kings LIVE 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mohali Kings vs Ludhiana Lions 16th Match",
+      "score": "Ludhiana Lions vs Mohali Kings LIVE 16th Match",
       "status": "Match Details"
     },
     {
@@ -186,6 +199,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Amritsar Soormas vs Mohali Kings 18th Match",
+      "team1": {
+        "name": "Amritsar Soormas",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Mohali Kings 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Amritsar Soormas vs Mohali Kings 18th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "East Zone vs South Zone LIVE Final",
       "team1": {
         "name": "East Zone",
@@ -199,29 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Singapore vs United Arab Emirates 16th Match, Group B",
+      "title": "Kuwait vs Qatar 18th Match, Group B",
       "team1": {
-        "name": "Singapore",
+        "name": "Kuwait",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 16th Match, Group B",
+        "name": "Qatar 18th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Singapore vs United Arab Emirates 16th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Saudi Arabia vs Nepal 15th Match, Group A",
-      "team1": {
-        "name": "Saudi Arabia",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Nepal 15th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Saudi Arabia vs Nepal 15th Match, Group A",
+      "score": "Kuwait vs Qatar 18th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -235,19 +248,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Malaysia vs Bahrain 17th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kuwait vs Qatar 18th Match, Group B",
-      "team1": {
-        "name": "Kuwait",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 18th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kuwait vs Qatar 18th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -394,16 +394,29 @@
       "status": "Match Details"
     },
     {
-      "title": "29th Match • Bridgetown, Barbados, Kensington Oval Saint Lucia Kings SLK 138-6 (20) Barbados Tridents BBT 139-2 (17.5) Barbados Tridents won by 8 wkts",
+      "title": "18th Match, Group B • Bangi, YSD-UKM Cricket Oval Kuwait KUW 233 (49.5) Qatar QAT 235-6 (35.5) Qatar won by 4 wkts",
       "team1": {
-        "name": "29th Match • Bridgetown, Barbados, Kensington Oval Saint Lucia Kings SLK 138",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "18th Match, Group B • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "6 (20) Barbados Tridents BBT 139",
+        "name": "UKM Cricket Oval Kuwait KUW 233 (49.5) Qatar QAT 235",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "29th Match • Bridgetown, Barbados, Kensington Oval Saint Lucia Kings SLK 138-6 (20) Barbados Tridents BBT 139-2 (17.5) Barbados Tridents won by 8 wkts",
+      "score": "18th Match, Group B • Bangi, YSD-UKM Cricket Oval Kuwait KUW 233 (49.5) Qatar QAT 235-6 (35.5) Qatar won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "17th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 254-8 (50) Bahrain BHR 128 (37.5) Malaysia won by 126 runs",
+      "team1": {
+        "name": "17th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 254",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (50) Bahrain BHR 128 (37.5) Malaysia won by 126 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "17th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 254-8 (50) Bahrain BHR 128 (37.5) Malaysia won by 126 runs",
       "status": "Match Details"
     }
   ]
