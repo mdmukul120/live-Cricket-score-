@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-09-07 09:46:36 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-09-07 15:19:40 UTC",
+  "total_matches": 38,
   "matches": [
     {
-      "title": "EZONE vs SZONE - EZONE opt to bat",
+      "title": "PAKW vs HKC W - PAKW opt to bat",
+      "team1": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "HKC W",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PAKW vs HKC W - PAKW opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "EZONE vs SZONE - Stumps",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +26,20 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs SZONE - EZONE opt to bat",
+      "score": "EZONE vs SZONE - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "FZF vs AMS - Innings Break",
+      "team1": {
+        "name": "FZF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "AMS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "FZF vs AMS - Innings Break",
       "status": "Match Details"
     },
     {
@@ -43,32 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "LDL vs MHK - Need 203 to win",
-      "team1": {
-        "name": "LDL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MHK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDL vs MHK - Need 203 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAKW vs HKC W - Preview",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "HKC W",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PAKW vs HKC W - Preview",
-      "status": "Match Details"
-    },
-    {
       "title": "Kenya vs Sierra Leone 1st Match",
       "team1": {
         "name": "Kenya",
@@ -79,6 +79,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kenya vs Sierra Leone 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rwanda vs Botswana 2nd Match",
+      "team1": {
+        "name": "Rwanda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Botswana 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rwanda vs Botswana 2nd Match",
       "status": "Match Details"
     },
     {
@@ -121,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Glasgow Cosmic vs Edinburgh Castle Rockers 16th Match",
-      "team1": {
-        "name": "Glasgow Cosmic",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Edinburgh Castle Rockers 16th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glasgow Cosmic vs Edinburgh Castle Rockers 16th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Rotterdam Dockers vs Amsterdam Flames 17th Match",
       "team1": {
         "name": "Rotterdam Dockers",
@@ -144,19 +144,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Rotterdam Dockers vs Amsterdam Flames 17th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bathinda Royals vs Jalandhar Warriors 14th Match",
-      "team1": {
-        "name": "Bathinda Royals",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Jalandhar Warriors 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bathinda Royals vs Jalandhar Warriors 14th Match",
       "status": "Match Details"
     },
     {
@@ -173,29 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Mohali Kings LIVE 16th Match",
+      "title": "Ludhiana Lions vs Mohali Kings 16th Match",
       "team1": {
         "name": "Ludhiana Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mohali Kings LIVE 16th Match",
+        "name": "Mohali Kings 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Ludhiana Lions vs Mohali Kings LIVE 16th Match",
+      "score": "Ludhiana Lions vs Mohali Kings 16th Match",
       "status": "Match Details"
     },
     {
-      "title": "Jalandhar Warriors vs Amritsar Soormas 17th Match",
+      "title": "Fazilka Falcons vs Amritsar Soormas 17th Match",
       "team1": {
-        "name": "Jalandhar Warriors",
+        "name": "Fazilka Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "Amritsar Soormas 17th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Jalandhar Warriors vs Amritsar Soormas 17th Match",
+      "score": "Fazilka Falcons vs Amritsar Soormas 17th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone LIVE Final",
+      "title": "Ludhiana Lions vs Jalandhar Warriors 19th Match",
+      "team1": {
+        "name": "Ludhiana Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jalandhar Warriors 19th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Ludhiana Lions vs Jalandhar Warriors 19th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Zone vs South Zone Final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone LIVE Final",
+        "name": "South Zone Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone LIVE Final",
+      "score": "East Zone vs South Zone Final",
       "status": "Match Details"
     },
     {
@@ -290,6 +290,123 @@
       "status": "Match Details"
     },
     {
+      "title": "Nottinghamshire vs Hampshire 56th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Hampshire 56th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Hampshire 56th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Essex 57th Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Essex 57th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Essex 57th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Warwickshire 58th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire 58th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Glamorgan vs Warwickshire 58th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sussex vs Surrey 59th Match",
+      "team1": {
+        "name": "Sussex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Surrey 59th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sussex vs Surrey 59th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Somerset 60th Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Somerset 60th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Leicestershire vs Somerset 60th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Gloucestershire 48th Match",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Gloucestershire 48th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Lancashire vs Gloucestershire 48th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Kent 45th Match",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent 45th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Kent 45th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Northamptonshire 46th Match",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Northamptonshire 46th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Northamptonshire 46th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Middlesex 47th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Middlesex 47th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Durham vs Middlesex 47th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Bangladesh Women vs Sri Lanka Women Match 10, Group B",
       "team1": {
         "name": "Bangladesh Women",
@@ -303,16 +420,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Hong Kong, China Women Match 11, Group  A",
+      "title": "Pakistan Women vs Hong Kong, China Women LIVE Match 11, Group  A",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Hong Kong, China Women Match 11, Group  A",
+        "name": "Hong Kong, China Women LIVE Match 11, Group  A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pakistan Women vs Hong Kong, China Women Match 11, Group  A",
+      "score": "Pakistan Women vs Hong Kong, China Women LIVE Match 11, Group  A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
+      "team1": {
+        "name": "Bangladesh Women",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "United Arab Emirates Women Match 12, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
       "status": "Match Details"
     },
     {
@@ -326,45 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Guyana Amazon Warriors Women vs Jamaica Empress Women 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Belgium Women vs Portugal Women 3rd place play-off",
-      "team1": {
-        "name": "Belgium Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Portugal Women 3rd place play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Belgium Women vs Portugal Women 3rd place play-off",
-      "status": "Match Details"
-    },
-    {
-      "title": "Czech Republic Women vs Portugal Women Final",
-      "team1": {
-        "name": "Czech Republic Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Portugal Women Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Czech Republic Women vs Portugal Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Serbia Women vs Croatia Women 5th Match",
-      "team1": {
-        "name": "Serbia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Croatia Women 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Serbia Women vs Croatia Women 5th Match",
       "status": "Match Details"
     },
     {
@@ -394,29 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "18th Match, Group B • Bangi, YSD-UKM Cricket Oval Kuwait KUW 233 (49.5) Qatar QAT 235-6 (35.5) Qatar won by 4 wkts",
+      "title": "16th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 213-6 (20) Mohali Kings MHK 214-6 (20) Mohali Kings won by 4 wkts",
       "team1": {
-        "name": "18th Match, Group B • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "16th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 213",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "UKM Cricket Oval Kuwait KUW 233 (49.5) Qatar QAT 235",
+        "name": "6 (20) Mohali Kings MHK 214",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "18th Match, Group B • Bangi, YSD-UKM Cricket Oval Kuwait KUW 233 (49.5) Qatar QAT 235-6 (35.5) Qatar won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "17th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 254-8 (50) Bahrain BHR 128 (37.5) Malaysia won by 126 runs",
-      "team1": {
-        "name": "17th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 254",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (50) Bahrain BHR 128 (37.5) Malaysia won by 126 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "17th Match, Group A • Kuala Lumpur, Bayuemas Oval Malaysia MLY 254-8 (50) Bahrain BHR 128 (37.5) Malaysia won by 126 runs",
+      "score": "16th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 213-6 (20) Mohali Kings MHK 214-6 (20) Mohali Kings won by 4 wkts",
       "status": "Match Details"
     }
   ]
