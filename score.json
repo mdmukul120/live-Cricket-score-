@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-09-06 22:22:58 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-09-07 00:10:57 UTC",
+  "total_matches": 31,
   "matches": [
     {
-      "title": "SNP vs GAW - Need 5 off 19b",
+      "title": "SLK vs BBT - BBT opt to bowl",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs BBT - BBT opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SNP vs GAW - GAW won",
       "team1": {
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,20 +26,7 @@
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs GAW - Need 5 off 19b",
-      "status": "Match Details"
-    },
-    {
-      "title": "BBT vs SLK - Preview",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "BBT vs SLK - Preview",
+      "score": "SNP vs GAW - GAW won",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors LIVE 28th Match",
+      "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors 28th Match",
       "team1": {
         "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors LIVE 28th Match",
+        "name": "Guyana Amazon Warriors 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors LIVE 28th Match",
+      "score": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors 28th Match",
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Saint Lucia Kings 29th Match",
+      "title": "Saint Lucia Kings vs Barbados Tridents LIVE 29th Match",
       "team1": {
-        "name": "Barbados Tridents",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saint Lucia Kings 29th Match",
+        "name": "Saint Lucia Kings",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Barbados Tridents vs Saint Lucia Kings 29th Match",
+      "team2": {
+        "name": "Barbados Tridents LIVE 29th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saint Lucia Kings vs Barbados Tridents LIVE 29th Match",
       "status": "Match Details"
     },
     {
@@ -303,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders Women vs Barbados Tridents Women 1st Match",
-      "team1": {
-        "name": "Trinbago Knight Riders Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Barbados Tridents Women 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Trinbago Knight Riders Women vs Barbados Tridents Women 1st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Guyana Amazon Warriors Women vs Jamaica Empress Women 2nd Match",
       "team1": {
         "name": "Guyana Amazon Warriors Women",
@@ -394,42 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "15th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 170-9 (20) Ludhiana Lions LDL 169-7 (20) Fazilka Falcons won by 1 run",
+      "title": "28th Match • Guyana, Providence Stadium St Kitts and Nevis Patriots SNP 128 (19.2) Guyana Amazon Warriors GAW 132-3 (18.3) Guyana Amazon Warriors won by 7 wkts",
       "team1": {
-        "name": "15th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 170",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "9 (20) Ludhiana Lions LDL 169",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "15th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 170-9 (20) Ludhiana Lions LDL 169-7 (20) Fazilka Falcons won by 1 run",
-      "status": "Match Details"
-    },
-    {
-      "title": "Match 10, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 114-8 (20) Sri Lanka Women SLW 115-6 (19.2) Sri Lanka Women won by 4 wkts",
-      "team1": {
-        "name": "Match 10, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 114",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "8 (20) Sri Lanka Women SLW 115",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Match 10, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 114-8 (20) Sri Lanka Women SLW 115-6 (19.2) Sri Lanka Women won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 138-7 (20) Jamaica Empress Women JEW 136-9 (19) JEW won by 1 wkt  -  2nd innings reduced to 19 overs - DLS Target 132",
-      "team1": {
-        "name": "2nd Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 138",
+        "name": "28th Match • Guyana, Providence Stadium St Kitts and Nevis Patriots SNP 128 (19.2) Guyana Amazon Warriors GAW 132",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) Jamaica Empress Women JEW 136",
+        "name": "3 (18.3) Guyana Amazon Warriors won by 7 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 138-7 (20) Jamaica Empress Women JEW 136-9 (19) JEW won by 1 wkt  -  2nd innings reduced to 19 overs - DLS Target 132",
+      "score": "28th Match • Guyana, Providence Stadium St Kitts and Nevis Patriots SNP 128 (19.2) Guyana Amazon Warriors GAW 132-3 (18.3) Guyana Amazon Warriors won by 7 wkts",
       "status": "Match Details"
     },
     {
