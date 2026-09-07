@@ -1,36 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-07 00:10:57 UTC",
+  "last_updated": "2026-09-07 04:46:40 UTC",
   "total_matches": 31,
   "matches": [
     {
-      "title": "SLK vs BBT - BBT opt to bowl",
-      "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLK vs BBT - BBT opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "SNP vs GAW - GAW won",
-      "team1": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SNP vs GAW - GAW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "EZONE vs SZONE - Stumps",
+      "title": "EZONE vs SZONE - EZONE opt to bat",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +13,20 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs SZONE - Stumps",
+      "score": "EZONE vs SZONE - EZONE opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLK vs BBT - BBT won",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs BBT - BBT won",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "BANW vs SLW - SLW won",
+      "title": "MHK vs LDL - Preview",
       "team1": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "MHK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "LDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BANW vs SLW - SLW won",
+      "score": "MHK vs LDL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAKW vs HKC W - Preview",
+      "team1": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "HKC W",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PAKW vs HKC W - Preview",
       "status": "Match Details"
     },
     {
@@ -82,19 +82,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Barbados Tridents 27th Match",
-      "team1": {
-        "name": "Trinbago Knight Riders",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Barbados Tridents 27th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Trinbago Knight Riders vs Barbados Tridents 27th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors 28th Match",
       "team1": {
         "name": "St Kitts and Nevis Patriots",
@@ -108,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Saint Lucia Kings vs Barbados Tridents LIVE 29th Match",
+      "title": "Saint Lucia Kings vs Barbados Tridents 29th Match",
       "team1": {
         "name": "Saint Lucia Kings",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Barbados Tridents LIVE 29th Match",
+        "name": "Barbados Tridents 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Saint Lucia Kings vs Barbados Tridents LIVE 29th Match",
+      "score": "Saint Lucia Kings vs Barbados Tridents 29th Match",
       "status": "Match Details"
     },
     {
@@ -199,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone Final",
+      "title": "East Zone vs South Zone LIVE Final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone Final",
+        "name": "South Zone LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone Final",
+      "score": "East Zone vs South Zone LIVE Final",
       "status": "Match Details"
     },
     {
@@ -261,6 +248,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kuwait vs Qatar 18th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Nepal 19th Match, Group A",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal 19th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Nepal 19th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Oman vs United Arab Emirates 20th Match, Group B",
+      "team1": {
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 20th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Oman vs United Arab Emirates 20th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -381,29 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "28th Match • Guyana, Providence Stadium St Kitts and Nevis Patriots SNP 128 (19.2) Guyana Amazon Warriors GAW 132-3 (18.3) Guyana Amazon Warriors won by 7 wkts",
+      "title": "29th Match • Bridgetown, Barbados, Kensington Oval Saint Lucia Kings SLK 138-6 (20) Barbados Tridents BBT 139-2 (17.5) Barbados Tridents won by 8 wkts",
       "team1": {
-        "name": "28th Match • Guyana, Providence Stadium St Kitts and Nevis Patriots SNP 128 (19.2) Guyana Amazon Warriors GAW 132",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "29th Match • Bridgetown, Barbados, Kensington Oval Saint Lucia Kings SLK 138",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "3 (18.3) Guyana Amazon Warriors won by 7 wkts",
+        "name": "6 (20) Barbados Tridents BBT 139",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "28th Match • Guyana, Providence Stadium St Kitts and Nevis Patriots SNP 128 (19.2) Guyana Amazon Warriors GAW 132-3 (18.3) Guyana Amazon Warriors won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 154-5 (20) Serbia Women SRBW 155-5 (20) Serbia Women won by 5 wkts",
-      "team1": {
-        "name": "6th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 154",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Serbia Women SRBW 155",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Belgrade, Lisicji Jarak Cricket Ground Bulgaria Women BGRW 154-5 (20) Serbia Women SRBW 155-5 (20) Serbia Women won by 5 wkts",
+      "score": "29th Match • Bridgetown, Barbados, Kensington Oval Saint Lucia Kings SLK 138-6 (20) Barbados Tridents BBT 139-2 (17.5) Barbados Tridents won by 8 wkts",
       "status": "Match Details"
     }
   ]
