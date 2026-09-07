@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-07 15:19:40 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-09-07 19:17:21 UTC",
+  "total_matches": 31,
   "matches": [
-    {
-      "title": "PAKW vs HKC W - PAKW opt to bat",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "HKC W",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PAKW vs HKC W - PAKW opt to bat",
-      "status": "Match Details"
-    },
     {
       "title": "EZONE vs SZONE - Stumps",
       "team1": {
@@ -30,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "FZF vs AMS - Innings Break",
+      "title": "PAKW vs HKC W - PAKW won",
       "team1": {
-        "name": "FZF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "AMS",
+        "name": "HKC W",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "FZF vs AMS - Innings Break",
+      "score": "PAKW vs HKC W - PAKW won",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "RSA vs ZIM - RSA won",
+      "title": "BANW vs UAEW - Preview",
       "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "UAEW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RSA vs ZIM - RSA won",
+      "score": "BANW vs UAEW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AMS vs MHK - Preview",
+      "team1": {
+        "name": "AMS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MHK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "AMS vs MHK - Preview",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Zimbabwe Final",
-      "team1": {
-        "name": "South Africa",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Final",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "South Africa vs Zimbabwe Final",
-      "status": "Match Details"
-    },
-    {
       "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors 28th Match",
       "team1": {
         "name": "St Kitts and Nevis Patriots",
@@ -131,32 +118,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Saint Lucia Kings vs Barbados Tridents 29th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rotterdam Dockers vs Amsterdam Flames 17th Match",
-      "team1": {
-        "name": "Rotterdam Dockers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Amsterdam Flames 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rotterdam Dockers vs Amsterdam Flames 17th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Fazilka Falcons vs Ludhiana Lions 15th Match",
-      "team1": {
-        "name": "Fazilka Falcons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Ludhiana Lions 15th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Fazilka Falcons vs Ludhiana Lions 15th Match",
       "status": "Match Details"
     },
     {
@@ -225,71 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs Qatar 18th Match, Group B",
-      "team1": {
-        "name": "Kuwait",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 18th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kuwait vs Qatar 18th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Malaysia vs Bahrain 17th Match, Group A",
-      "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bahrain 17th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Malaysia vs Bahrain 17th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs Nepal 19th Match, Group A",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 19th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Nepal 19th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Oman vs United Arab Emirates 20th Match, Group B",
-      "team1": {
-        "name": "Oman",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates 20th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman vs United Arab Emirates 20th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bangladesh A vs South Africa A 1st Unofficial ODI",
-      "team1": {
-        "name": "Bangladesh A",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "South Africa A 1st Unofficial ODI",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Bangladesh A vs South Africa A 1st Unofficial ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Nottinghamshire vs Hampshire 56th Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -355,16 +251,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Gloucestershire 48th Match",
+      "title": "Kuwait vs Qatar 18th Match, Group B",
       "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Gloucestershire 48th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Qatar 18th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lancashire vs Gloucestershire 48th Match",
+      "score": "Kuwait vs Qatar 18th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Bahrain 17th Match, Group A",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bahrain 17th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malaysia vs Bahrain 17th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Nepal 19th Match, Group A",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal 19th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Nepal 19th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Oman vs United Arab Emirates 20th Match, Group B",
+      "team1": {
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 20th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Oman vs United Arab Emirates 20th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -407,29 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh Women vs Sri Lanka Women Match 10, Group B",
+      "title": "Lancashire vs Gloucestershire 48th Match",
       "team1": {
-        "name": "Bangladesh Women",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Sri Lanka Women Match 10, Group B",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "Gloucestershire 48th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Bangladesh Women vs Sri Lanka Women Match 10, Group B",
+      "score": "Lancashire vs Gloucestershire 48th Match",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Hong Kong, China Women LIVE Match 11, Group  A",
+      "title": "Pakistan Women vs Hong Kong, China Women Match 11, Group A",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Hong Kong, China Women LIVE Match 11, Group  A",
+        "name": "Hong Kong, China Women Match 11, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pakistan Women vs Hong Kong, China Women LIVE Match 11, Group  A",
+      "score": "Pakistan Women vs Hong Kong, China Women Match 11, Group A",
       "status": "Match Details"
     },
     {
@@ -446,55 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors Women vs Jamaica Empress Women 2nd Match",
+      "title": "17th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 191-6 (20) Amritsar Soormas AMS 195-6 (19.3) Amritsar Soormas won by 4 wkts",
       "team1": {
-        "name": "Guyana Amazon Warriors Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jamaica Empress Women 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Guyana Amazon Warriors Women vs Jamaica Empress Women 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bulgaria Women vs Serbia Women 6th Match",
-      "team1": {
-        "name": "Bulgaria Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Serbia Women 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria Women vs Serbia Women 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "England Women vs Ireland Women 3rd ODI",
-      "team1": {
-        "name": "England Women",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Ireland Women 3rd ODI",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "England Women vs Ireland Women 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "16th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 213-6 (20) Mohali Kings MHK 214-6 (20) Mohali Kings won by 4 wkts",
-      "team1": {
-        "name": "16th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 213",
+        "name": "17th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 191",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "6 (20) Mohali Kings MHK 214",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "6 (20) Amritsar Soormas AMS 195",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "16th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 213-6 (20) Mohali Kings MHK 214-6 (20) Mohali Kings won by 4 wkts",
+      "score": "17th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 191-6 (20) Amritsar Soormas AMS 195-6 (19.3) Amritsar Soormas won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Match 11, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 143-8 (20) Hong Kong, China Women HKC W 71 (19) Pakistan Women won by 72 runs",
+      "team1": {
+        "name": "Match 11, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 143",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "8 (20) Hong Kong, China Women HKC W 71 (19) Pakistan Women won by 72 runs",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Match 11, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 143-8 (20) Hong Kong, China Women HKC W 71 (19) Pakistan Women won by 72 runs",
       "status": "Match Details"
     }
   ]
