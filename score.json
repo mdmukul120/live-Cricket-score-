@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-08 09:34:34 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-09-08 13:51:23 UTC",
+  "total_matches": 37,
   "matches": [
-    {
-      "title": "EZONE vs SZONE - Tea",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs SZONE - Tea",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAKW vs HKC W - PAKW won",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "HKC W",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PAKW vs HKC W - PAKW won",
-      "status": "Match Details"
-    },
     {
       "title": "BANW vs UAEW - Preview",
       "team1": {
@@ -43,16 +17,29 @@
       "status": "Match Details"
     },
     {
-      "title": "AMS vs MHK - MHK opt to bowl",
+      "title": "EZONE vs SZONE - Stumps",
       "team1": {
-        "name": "AMS",
+        "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MHK",
+        "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "AMS vs MHK - MHK opt to bowl",
+      "score": "EZONE vs SZONE - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "JLW vs LDL - LDL opt to bowl",
+      "team1": {
+        "name": "JLW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "LDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JLW vs LDL - LDL opt to bowl",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "GAW vs ABF - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs PAK - Preview",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "ENG vs PAK - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "England vs Pakistan 3rd Test",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Pakistan 3rd Test",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "England vs Pakistan 3rd Test",
       "status": "Match Details"
     },
     {
@@ -95,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kenya vs Sierra Leone 2nd Match",
+      "title": "Kenya vs Sierra Leone LIVE 2nd Match",
       "team1": {
         "name": "Kenya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sierra Leone 2nd Match",
+        "name": "Sierra Leone LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kenya vs Sierra Leone 2nd Match",
+      "score": "Kenya vs Sierra Leone LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -121,6 +134,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Rwanda vs Kenya 4th Match",
+      "team1": {
+        "name": "Rwanda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kenya 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rwanda vs Kenya 4th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons 30th Match",
       "team1": {
         "name": "Guyana Amazon Warriors",
@@ -134,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Mohali Kings 16th Match",
+      "title": "Dublin Guardians vs Belfast Wolves 18th Match",
       "team1": {
-        "name": "Ludhiana Lions",
+        "name": "Dublin Guardians",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mohali Kings 16th Match",
+        "name": "Belfast Wolves 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Ludhiana Lions vs Mohali Kings 16th Match",
+      "score": "Dublin Guardians vs Belfast Wolves 18th Match",
       "status": "Match Details"
     },
     {
@@ -160,29 +186,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Mohali Kings LIVE 18th Match",
+      "title": "Amritsar Soormas vs Mohali Kings 18th Match",
       "team1": {
         "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Mohali Kings LIVE 18th Match",
+        "name": "Mohali Kings 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Mohali Kings LIVE 18th Match",
+      "score": "Amritsar Soormas vs Mohali Kings 18th Match",
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Jalandhar Warriors 19th Match",
+      "title": "Jalandhar Warriors vs Ludhiana Lions LIVE 19th Match",
       "team1": {
-        "name": "Ludhiana Lions",
+        "name": "Jalandhar Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jalandhar Warriors 19th Match",
+        "name": "Ludhiana Lions LIVE 19th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Ludhiana Lions vs Jalandhar Warriors 19th Match",
+      "score": "Jalandhar Warriors vs Ludhiana Lions LIVE 19th Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Mohali Kings vs Bathinda Royals 21st Match",
+      "team1": {
+        "name": "Mohali Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bathinda Royals 21st Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Mohali Kings vs Bathinda Royals 21st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "East Zone vs South Zone Final",
       "team1": {
         "name": "East Zone",
@@ -212,42 +251,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Hampshire 56th Match",
+      "title": "Nottinghamshire vs Hampshire LIVE 56th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire 56th Match",
+        "name": "Hampshire LIVE 56th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Hampshire 56th Match",
+      "score": "Nottinghamshire vs Hampshire LIVE 56th Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Essex 57th Match",
+      "title": "Yorkshire vs Essex LIVE 57th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Essex 57th Match",
+        "name": "Essex LIVE 57th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Yorkshire vs Essex 57th Match",
+      "score": "Yorkshire vs Essex LIVE 57th Match",
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Warwickshire 58th Match",
+      "title": "Glamorgan vs Warwickshire LIVE 58th Match",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire 58th Match",
+        "name": "Warwickshire LIVE 58th Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Glamorgan vs Warwickshire 58th Match",
+      "score": "Glamorgan vs Warwickshire LIVE 58th Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Somerset 60th Match",
+      "title": "Somerset vs Leicestershire LIVE 60th Match",
       "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Somerset 60th Match",
+        "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Somerset 60th Match",
+      "team2": {
+        "name": "Leicestershire LIVE 60th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Somerset vs Leicestershire LIVE 60th Match",
       "status": "Match Details"
     },
     {
@@ -316,29 +355,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Northamptonshire 46th Match",
+      "title": "Worcestershire vs Northamptonshire LIVE 46th Match",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Northamptonshire 46th Match",
+        "name": "Northamptonshire LIVE 46th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Northamptonshire 46th Match",
+      "score": "Worcestershire vs Northamptonshire LIVE 46th Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex 47th Match",
+      "title": "Durham vs Middlesex LIVE 47th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex 47th Match",
+        "name": "Middlesex LIVE 47th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex 47th Match",
+      "score": "Durham vs Middlesex LIVE 47th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +433,29 @@
       "status": "Match Details"
     },
     {
-      "title": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261-7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
+      "title": "1st Match • Kigali City, Gahanga B Ground Rwanda RWA 192-2 (20) Botswana BW 137-7 (20) Rwanda won by 55 runs",
       "team1": {
-        "name": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261",
+        "name": "1st Match • Kigali City, Gahanga B Ground Rwanda RWA 192",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
+        "name": "2 (20) Botswana BW 137",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261-7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
+      "score": "1st Match • Kigali City, Gahanga B Ground Rwanda RWA 192-2 (20) Botswana BW 137-7 (20) Rwanda won by 55 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "18th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 279-7 (20) Mohali Kings MHK 212-9 (20) Amritsar Soormas won by 67 runs",
+      "team1": {
+        "name": "18th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 279",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (20) Mohali Kings MHK 212",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "18th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 279-7 (20) Mohali Kings MHK 212-9 (20) Amritsar Soormas won by 67 runs",
       "status": "Match Details"
     },
     {
@@ -417,6 +469,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "20th Match, Group B • Bangi, YSD-UKM Cricket Oval United Arab Emirates UAE 192 (48.1) Oman OMAN 143 (34.5) United Arab Emirates won by 49 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261-7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
+      "team1": {
+        "name": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261-7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
       "status": "Match Details"
     }
   ]
