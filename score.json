@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-07 22:06:34 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-09-08 00:23:58 UTC",
+  "total_matches": 29,
   "matches": [
     {
       "title": "EZONE vs SZONE - Stumps",
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors 28th Match",
-      "team1": {
-        "name": "St Kitts and Nevis Patriots",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Guyana Amazon Warriors 28th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "St Kitts and Nevis Patriots vs Guyana Amazon Warriors 28th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Saint Lucia Kings vs Barbados Tridents 29th Match",
       "team1": {
         "name": "Saint Lucia Kings",
@@ -118,6 +105,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Saint Lucia Kings vs Barbados Tridents 29th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons 30th Match",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Antigua and Barbuda Falcons 30th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons 30th Match",
       "status": "Match Details"
     },
     {
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs Qatar 18th Match, Group B",
-      "team1": {
-        "name": "Kuwait",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 18th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kuwait vs Qatar 18th Match, Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Malaysia vs Bahrain 17th Match, Group A",
       "team1": {
         "name": "Malaysia",
@@ -274,6 +261,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Malaysia vs Bahrain 17th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kuwait vs Qatar 18th Match, Group B",
+      "team1": {
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Qatar 18th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kuwait vs Qatar 18th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -378,32 +378,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "17th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 191-6 (20) Amritsar Soormas AMS 195-6 (19.3) Amritsar Soormas won by 4 wkts",
-      "team1": {
-        "name": "17th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 191",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (20) Amritsar Soormas AMS 195",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "17th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 191-6 (20) Amritsar Soormas AMS 195-6 (19.3) Amritsar Soormas won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Match 11, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 143-8 (20) Hong Kong, China Women HKC W 71 (19) Pakistan Women won by 72 runs",
-      "team1": {
-        "name": "Match 11, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 143",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "8 (20) Hong Kong, China Women HKC W 71 (19) Pakistan Women won by 72 runs",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Match 11, Group A • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 143-8 (20) Hong Kong, China Women HKC W 71 (19) Pakistan Women won by 72 runs",
       "status": "Match Details"
     }
   ]
