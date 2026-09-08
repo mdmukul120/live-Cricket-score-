@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-08 17:42:00 UTC",
+  "last_updated": "2026-09-08 20:19:12 UTC",
   "total_matches": 34,
   "matches": [
     {
-      "title": "BANW vs UAEW - Need 36 off 3b",
+      "title": "BANW vs UAEW - BANW won",
       "team1": {
         "name": "BANW",
         "flag": "https://flagcdn.com/w80/bd.png"
@@ -13,7 +13,7 @@
         "name": "UAEW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BANW vs UAEW - Need 36 off 3b",
+      "score": "BANW vs UAEW - BANW won",
       "status": "Match Details"
     },
     {
@@ -264,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Warwickshire LIVE 58th Match",
+      "title": "Glamorgan vs Warwickshire 58th Match",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire LIVE 58th Match",
+        "name": "Warwickshire 58th Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Glamorgan vs Warwickshire LIVE 58th Match",
+      "score": "Glamorgan vs Warwickshire 58th Match",
       "status": "Match Details"
     },
     {
@@ -303,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Nepal 19th Match, Group A",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 19th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Nepal 19th Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "United Arab Emirates vs Oman 20th Match, Group B",
       "team1": {
         "name": "United Arab Emirates",
@@ -326,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United Arab Emirates vs Oman 20th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Nepal 19th Match, Group A",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal 19th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Nepal 19th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -342,29 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Northamptonshire LIVE 46th Match",
+      "title": "Worcestershire vs Northamptonshire 46th Match",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Northamptonshire LIVE 46th Match",
+        "name": "Northamptonshire 46th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Northamptonshire LIVE 46th Match",
+      "score": "Worcestershire vs Northamptonshire 46th Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex LIVE 47th Match",
+      "title": "Durham vs Middlesex 47th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex LIVE 47th Match",
+        "name": "Middlesex 47th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex LIVE 47th Match",
+      "score": "Durham vs Middlesex 47th Match",
       "status": "Match Details"
     },
     {
@@ -394,29 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Hong Kong, China Women Match 11, Group A",
-      "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Hong Kong, China Women Match 11, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pakistan Women vs Hong Kong, China Women Match 11, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bangladesh Women vs United Arab Emirates Women LIVE Match 12, Group B",
+      "title": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
       "team1": {
         "name": "Bangladesh Women",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "United Arab Emirates Women LIVE Match 12, Group B",
+        "name": "United Arab Emirates Women Match 12, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bangladesh Women vs United Arab Emirates Women LIVE Match 12, Group B",
+      "score": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
       "status": "Match Details"
     },
     {
@@ -443,6 +430,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "19th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Jalandhar Warriors JLW 169-8 (20) Ludhiana Lions LDL 162-8 (20) Jalandhar Warriors won by 7 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Match 12, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 103-7 (20) United Arab Emirates Women UAEW 69-9 (20) Bangladesh Women won by 34 runs",
+      "team1": {
+        "name": "Match 12, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 103",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "7 (20) United Arab Emirates Women UAEW 69",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Match 12, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 103-7 (20) United Arab Emirates Women UAEW 69-9 (20) Bangladesh Women won by 34 runs",
       "status": "Match Details"
     }
   ]
