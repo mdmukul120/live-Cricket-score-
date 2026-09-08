@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-08 05:01:00 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-09-08 09:34:34 UTC",
+  "total_matches": 32,
   "matches": [
     {
-      "title": "EZONE vs SZONE - Trail by 676",
+      "title": "EZONE vs SZONE - Tea",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs SZONE - Trail by 676",
+      "score": "EZONE vs SZONE - Tea",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AMS vs MHK - Preview",
+      "title": "AMS vs MHK - MHK opt to bowl",
       "team1": {
         "name": "AMS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "MHK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "AMS vs MHK - Preview",
+      "score": "AMS vs MHK - MHK opt to bowl",
       "status": "Match Details"
     },
     {
@@ -69,29 +69,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Kenya vs Sierra Leone 1st Match",
+      "title": "Namibia vs South Africa 1st ODI",
       "team1": {
-        "name": "Kenya",
+        "name": "Namibia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sierra Leone 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Africa 1st ODI",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Kenya vs Sierra Leone 1st Match",
+      "score": "Namibia vs South Africa 1st ODI",
       "status": "Match Details"
     },
     {
-      "title": "Rwanda vs Botswana 2nd Match",
+      "title": "Rwanda vs Botswana 1st Match",
       "team1": {
         "name": "Rwanda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Botswana 2nd Match",
+        "name": "Botswana 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rwanda vs Botswana 2nd Match",
+      "score": "Rwanda vs Botswana 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kenya vs Sierra Leone 2nd Match",
+      "team1": {
+        "name": "Kenya",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sierra Leone 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kenya vs Sierra Leone 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sierra Leone vs Uganda 3rd Match",
+      "team1": {
+        "name": "Sierra Leone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sierra Leone vs Uganda 3rd Match",
       "status": "Match Details"
     },
     {
@@ -134,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Mohali Kings 18th Match",
+      "title": "Amritsar Soormas vs Mohali Kings LIVE 18th Match",
       "team1": {
         "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Mohali Kings 18th Match",
+        "name": "Mohali Kings LIVE 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Mohali Kings 18th Match",
+      "score": "Amritsar Soormas vs Mohali Kings LIVE 18th Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +186,29 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone LIVE Final",
+      "title": "Ludhiana Lions vs Fazilka Falcons 20th Match",
+      "team1": {
+        "name": "Ludhiana Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Fazilka Falcons 20th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Ludhiana Lions vs Fazilka Falcons 20th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Zone vs South Zone Final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone LIVE Final",
+        "name": "South Zone Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone LIVE Final",
+      "score": "East Zone vs South Zone Final",
       "status": "Match Details"
     },
     {
@@ -238,29 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs Qatar 18th Match, Group B",
+      "title": "United Arab Emirates vs Oman 20th Match, Group B",
       "team1": {
-        "name": "Kuwait",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Qatar 18th Match, Group B",
+        "name": "Oman 20th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kuwait vs Qatar 18th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Malaysia vs Bahrain 17th Match, Group A",
-      "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bahrain 17th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Malaysia vs Bahrain 17th Match, Group A",
+      "score": "United Arab Emirates vs Oman 20th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -277,29 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Oman 20th Match, Group B",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Oman 20th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Oman 20th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Kent 45th Match",
+      "title": "Derbyshire vs Kent LIVE 45th Match",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent 45th Match",
+        "name": "Kent LIVE 45th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Kent 45th Match",
+      "score": "Derbyshire vs Kent LIVE 45th Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Gloucestershire 48th Match",
+      "title": "Gloucestershire vs Lancashire 48th Match",
       "team1": {
-        "name": "Lancashire",
+        "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Gloucestershire 48th Match",
+        "name": "Lancashire 48th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Lancashire vs Gloucestershire 48th Match",
+      "score": "Gloucestershire vs Lancashire 48th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa A vs Bangladesh A 2nd Unofficial ODI",
+      "team1": {
+        "name": "South Africa A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Bangladesh A 2nd Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "South Africa A vs Bangladesh A 2nd Unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -365,6 +391,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261-7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
+      "team1": {
+        "name": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "19th Match, Group A • Kuala Lumpur, Bayuemas Oval Hong Kong, China HKC 261-7 (50) Nepal NEP 246 (49.1) Hong Kong, China won by 15 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "20th Match, Group B • Bangi, YSD-UKM Cricket Oval United Arab Emirates UAE 192 (48.1) Oman OMAN 143 (34.5) United Arab Emirates won by 49 runs",
+      "team1": {
+        "name": "20th Match, Group B • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "UKM Cricket Oval United Arab Emirates UAE 192 (48.1) Oman OMAN 143 (34.5) United Arab Emirates won by 49 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "20th Match, Group B • Bangi, YSD-UKM Cricket Oval United Arab Emirates UAE 192 (48.1) Oman OMAN 143 (34.5) United Arab Emirates won by 49 runs",
       "status": "Match Details"
     }
   ]
