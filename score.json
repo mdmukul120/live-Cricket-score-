@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-09-08 20:19:12 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-09-08 22:47:36 UTC",
+  "total_matches": 32,
   "matches": [
     {
-      "title": "BANW vs UAEW - BANW won",
+      "title": "ABF vs GAW - GAW opt to bowl",
       "team1": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "UAEW",
+        "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BANW vs UAEW - BANW won",
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ABF vs GAW - GAW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -30,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "BANW vs UAEW - BANW won",
+      "team1": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "UAEW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BANW vs UAEW - BANW won",
+      "status": "Match Details"
+    },
+    {
       "title": "JLW vs LDL - JLW won",
       "team1": {
         "name": "JLW",
@@ -40,19 +53,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "JLW vs LDL - JLW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "GAW vs ABF - Preview",
-      "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs ABF - Preview",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons 30th Match",
+      "title": "Antigua and Barbuda Falcons vs Guyana Amazon Warriors 30th Match",
       "team1": {
-        "name": "Guyana Amazon Warriors",
+        "name": "Antigua and Barbuda Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Antigua and Barbuda Falcons 30th Match",
+        "name": "Guyana Amazon Warriors 30th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons 30th Match",
+      "score": "Antigua and Barbuda Falcons vs Guyana Amazon Warriors 30th Match",
       "status": "Match Details"
     },
     {
@@ -404,32 +404,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Kigali City, Gahanga B Ground Kenya KEN 204-7 (20) Sierra Leone SLE 111-7 (20) Kenya won by 93 runs",
-      "team1": {
-        "name": "2nd Match • Kigali City, Gahanga B Ground Kenya KEN 204",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Sierra Leone SLE 111",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "2nd Match • Kigali City, Gahanga B Ground Kenya KEN 204-7 (20) Sierra Leone SLE 111-7 (20) Kenya won by 93 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "19th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Jalandhar Warriors JLW 169-8 (20) Ludhiana Lions LDL 162-8 (20) Jalandhar Warriors won by 7 runs",
-      "team1": {
-        "name": "19th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Jalandhar Warriors JLW 169",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (20) Ludhiana Lions LDL 162",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "19th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Jalandhar Warriors JLW 169-8 (20) Ludhiana Lions LDL 162-8 (20) Jalandhar Warriors won by 7 runs",
       "status": "Match Details"
     },
     {
