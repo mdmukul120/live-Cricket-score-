@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-08 22:47:36 UTC",
+  "last_updated": "2026-09-09 00:44:09 UTC",
   "total_matches": 32,
   "matches": [
     {
-      "title": "ABF vs GAW - GAW opt to bowl",
+      "title": "ABF vs GAW - Innings Break",
       "team1": {
         "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ABF vs GAW - GAW opt to bowl",
+      "score": "ABF vs GAW - Innings Break",
       "status": "Match Details"
     },
     {
@@ -157,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Antigua and Barbuda Falcons vs Guyana Amazon Warriors 30th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Saint Lucia Kings 31st Match",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saint Lucia Kings 31st Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Guyana Amazon Warriors vs Saint Lucia Kings 31st Match",
       "status": "Match Details"
     },
     {
@@ -404,19 +417,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Match 12, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 103-7 (20) United Arab Emirates Women UAEW 69-9 (20) Bangladesh Women won by 34 runs",
-      "team1": {
-        "name": "Match 12, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 103",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "7 (20) United Arab Emirates Women UAEW 69",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Match 12, Group B • Dubai, Dubai International Cricket Stadium Bangladesh Women BANW 103-7 (20) United Arab Emirates Women UAEW 69-9 (20) Bangladesh Women won by 34 runs",
       "status": "Match Details"
     }
   ]
