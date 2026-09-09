@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-09 14:26:26 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-09-09 17:56:10 UTC",
+  "total_matches": 49,
   "matches": [
     {
-      "title": "PAK vs ENG - Trail by 109",
+      "title": "PAK vs ENG - Stumps",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,11 +13,11 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Trail by 109",
+      "score": "PAK vs ENG - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs NAM - Rain",
+      "title": "RSA vs NAM - RSA won",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,11 +26,11 @@
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RSA vs NAM - Rain",
+      "score": "RSA vs NAM - RSA won",
       "status": "Match Details"
     },
     {
-      "title": "BFW vs DBG - DBG opt to bowl",
+      "title": "BFW vs DBG - DBG won",
       "team1": {
         "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,20 @@
         "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BFW vs DBG - DBG opt to bowl",
+      "score": "BFW vs DBG - DBG won",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDW vs BANW - Preview",
+      "team1": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "INDW vs BANW - Preview",
       "status": "Match Details"
     },
     {
@@ -56,29 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "BTR vs MHK - MHK opt to bowl",
-      "team1": {
-        "name": "BTR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "MHK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BTR vs MHK - MHK opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan vs England LIVE 3rd Test",
+      "title": "Pakistan vs England 3rd Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "England LIVE 3rd Test",
+        "name": "England 3rd Test",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Pakistan vs England LIVE 3rd Test",
+      "score": "Pakistan vs England 3rd Test",
       "status": "Match Details"
     },
     {
@@ -92,19 +92,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "South Africa vs Namibia 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kenya vs Sierra Leone 2nd Match",
-      "team1": {
-        "name": "Kenya",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sierra Leone 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kenya vs Sierra Leone 2nd Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Belfast Wolves vs Dublin Guardians LIVE 18th Match",
+      "title": "Belfast Wolves vs Dublin Guardians 18th Match",
       "team1": {
         "name": "Belfast Wolves",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dublin Guardians LIVE 18th Match",
+        "name": "Dublin Guardians 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belfast Wolves vs Dublin Guardians LIVE 18th Match",
+      "score": "Belfast Wolves vs Dublin Guardians 18th Match",
       "status": "Match Details"
     },
     {
@@ -225,19 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Jalandhar Warriors vs Ludhiana Lions 19th Match",
-      "team1": {
-        "name": "Jalandhar Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Ludhiana Lions 19th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jalandhar Warriors vs Ludhiana Lions 19th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Fazilka Falcons vs Ludhiana Lions 20th Match",
       "team1": {
         "name": "Fazilka Falcons",
@@ -251,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bathinda Royals vs Mohali Kings LIVE 21st Match",
+      "title": "Bathinda Royals vs Mohali Kings 21st Match",
       "team1": {
         "name": "Bathinda Royals",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Mohali Kings LIVE 21st Match",
+        "name": "Mohali Kings 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bathinda Royals vs Mohali Kings LIVE 21st Match",
+      "score": "Bathinda Royals vs Mohali Kings 21st Match",
       "status": "Match Details"
     },
     {
@@ -342,55 +316,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Hampshire LIVE 56th Match",
+      "title": "Nottinghamshire vs Hampshire 56th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE 56th Match",
+        "name": "Hampshire 56th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Hampshire LIVE 56th Match",
+      "score": "Nottinghamshire vs Hampshire 56th Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Essex LIVE 57th Match",
+      "title": "Yorkshire vs Essex 57th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Essex LIVE 57th Match",
+        "name": "Essex 57th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Yorkshire vs Essex LIVE 57th Match",
+      "score": "Yorkshire vs Essex 57th Match",
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Warwickshire 58th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire 58th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Glamorgan vs Warwickshire 58th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Surrey LIVE 59th Match",
+      "title": "Sussex vs Surrey 59th Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Surrey LIVE 59th Match",
+        "name": "Surrey 59th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sussex vs Surrey LIVE 59th Match",
+      "score": "Sussex vs Surrey 59th Match",
       "status": "Match Details"
     },
     {
@@ -404,6 +365,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Somerset vs Leicestershire 60th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Warwickshire 58th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire 58th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Glamorgan vs Warwickshire 58th Match",
       "status": "Match Details"
     },
     {
@@ -459,42 +433,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Kent LIVE 45th Match",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent LIVE 45th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Kent LIVE 45th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Northamptonshire LIVE 46th Match",
+      "title": "Worcestershire vs Northamptonshire 46th Match",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Northamptonshire LIVE 46th Match",
+        "name": "Northamptonshire 46th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Northamptonshire LIVE 46th Match",
+      "score": "Worcestershire vs Northamptonshire 46th Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex LIVE 47th Match",
+      "title": "Durham vs Middlesex 47th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex LIVE 47th Match",
+        "name": "Middlesex 47th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex LIVE 47th Match",
+      "score": "Durham vs Middlesex 47th Match",
       "status": "Match Details"
     },
     {
@@ -508,6 +469,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Lancashire LIVE 48th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Kent 45th Match",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent 45th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Derbyshire vs Kent 45th Match",
       "status": "Match Details"
     },
     {
@@ -563,6 +537,19 @@
       "status": "Match Details"
     },
     {
+      "title": "India Women vs Bangladesh Women Semi Final 1 (A1 v B2)",
+      "team1": {
+        "name": "India Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Bangladesh Women Semi Final 1 (A1 v B2)",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "India Women vs Bangladesh Women Semi Final 1 (A1 v B2)",
+      "status": "Match Details"
+    },
+    {
       "title": "Trinbago Knight Riders Women vs Jamaica Empress Women 3rd Match",
       "team1": {
         "name": "Trinbago Knight Riders Women",
@@ -576,16 +563,81 @@
       "status": "Match Details"
     },
     {
-      "title": "20th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 200-3 (20) Ludhiana Lions LDL 203-4 (18.4) Ludhiana Lions won by 6 wkts",
+      "title": "1st ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 348-6 (50) Namibia NAM 162-8 (31) South Africa won by 99 runs (DLS Method)",
       "team1": {
-        "name": "20th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 200",
+        "name": "1st ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 348",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "3 (20) Ludhiana Lions LDL 203",
+        "name": "6 (50) Namibia NAM 162",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "20th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 200-3 (20) Ludhiana Lions LDL 203-4 (18.4) Ludhiana Lions won by 6 wkts",
+      "score": "1st ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 348-6 (50) Namibia NAM 162-8 (31) South Africa won by 99 runs (DLS Method)",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match • Kigali City, Gahanga B Ground Uganda UGA 250-3 (20) Sierra Leone SLE 136-4 (20) Uganda won by 114 runs",
+      "team1": {
+        "name": "3rd Match • Kigali City, Gahanga B Ground Uganda UGA 250",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (20) Sierra Leone SLE 136",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "3rd Match • Kigali City, Gahanga B Ground Uganda UGA 250-3 (20) Sierra Leone SLE 136-4 (20) Uganda won by 114 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Kigali City, Gahanga B Ground Rwanda RWA 139-8 (20) Kenya KEN 144-8 (20) Kenya won by 2 wkts",
+      "team1": {
+        "name": "4th Match • Kigali City, Gahanga B Ground Rwanda RWA 139",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Kenya KEN 144",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Kigali City, Gahanga B Ground Rwanda RWA 139-8 (20) Kenya KEN 144-8 (20) Kenya won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "18th Match • Dublin, The Village Belfast Wolves BFW 107 (19.4) Dublin Guardians DBG 111-2 (14.3) Dublin Guardians won by 8 wkts",
+      "team1": {
+        "name": "18th Match • Dublin, The Village Belfast Wolves BFW 107 (19.4) Dublin Guardians DBG 111",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (14.3) Dublin Guardians won by 8 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "18th Match • Dublin, The Village Belfast Wolves BFW 107 (19.4) Dublin Guardians DBG 111-2 (14.3) Dublin Guardians won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "21st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 184-6 (20) Mohali Kings MHK 188-5 (18.4) Mohali Kings won by 5 wkts",
+      "team1": {
+        "name": "21st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 184",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "6 (20) Mohali Kings MHK 188",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "21st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 184-6 (20) Mohali Kings MHK 188-5 (18.4) Mohali Kings won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "58th Match • Cardiff, Sophia Gardens Glamorgan GLAM 69 & 65 Warwickshire WARKS 391 Warwickshire won by an innings and 257 runs",
+      "team1": {
+        "name": "58th Match • Cardiff, Sophia Gardens Glamorgan GLAM 69 & 65 Warwickshire WARKS 391 Warwickshire won by an innings and 257 runs",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "58th Match • Cardiff, Sophia Gardens Glamorgan GLAM 69 & 65 Warwickshire WARKS 391 Warwickshire won by an innings and 257 runs",
       "status": "Match Details"
     }
   ]
