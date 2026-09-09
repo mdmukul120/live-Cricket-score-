@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-09 00:44:09 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-09-09 05:22:54 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "ABF vs GAW - Innings Break",
-      "team1": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ABF vs GAW - Innings Break",
-      "status": "Match Details"
-    },
-    {
-      "title": "EZONE vs SZONE - Stumps",
+      "title": "EZONE vs SZONE - Trail by 404",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,33 +13,20 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs SZONE - Stumps",
+      "score": "EZONE vs SZONE - Trail by 404",
       "status": "Match Details"
     },
     {
-      "title": "BANW vs UAEW - BANW won",
+      "title": "ABF vs GAW - ABF won",
       "team1": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "UAEW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BANW vs UAEW - BANW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "JLW vs LDL - JLW won",
-      "team1": {
-        "name": "JLW",
+        "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "LDL",
+        "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JLW vs LDL - JLW won",
+      "score": "ABF vs GAW - ABF won",
       "status": "Match Details"
     },
     {
@@ -66,6 +40,32 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "ENG vs PAK - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "NAM vs RSA - Preview",
+      "team1": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "NAM vs RSA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "BANW vs UAEW - BANW won",
+      "team1": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "UAEW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BANW vs UAEW - BANW won",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,81 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone Final",
+      "title": "East Zone vs South Zone LIVE Final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone Final",
+        "name": "South Zone LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone Final",
+      "score": "East Zone vs South Zone LIVE Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "United Arab Emirates vs Oman 20th Match, Group B",
+      "team1": {
+        "name": "United Arab Emirates",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Oman 20th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United Arab Emirates vs Oman 20th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Nepal 19th Match, Group A",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal 19th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Nepal 19th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nepal vs Oman 1st Semi-Final",
+      "team1": {
+        "name": "Nepal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Oman 1st Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nepal vs Oman 1st Semi-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 2nd Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa A vs Bangladesh A 2nd Unofficial ODI",
+      "team1": {
+        "name": "South Africa A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Bangladesh A 2nd Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "South Africa A vs Bangladesh A 2nd Unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -316,32 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Oman 20th Match, Group B",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Oman 20th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Oman 20th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs Nepal 19th Match, Group A",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 19th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Nepal 19th Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Derbyshire vs Kent 45th Match",
       "team1": {
         "name": "Derbyshire",
@@ -394,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa A vs Bangladesh A 2nd Unofficial ODI",
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
       "team1": {
-        "name": "South Africa A",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Mpumalanga Rhinos",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bangladesh A 2nd Unofficial ODI",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa A vs Bangladesh A 2nd Unofficial ODI",
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
       "status": "Match Details"
     },
     {
@@ -417,6 +456,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "30th Match • Guyana, Providence Stadium Antigua and Barbuda Falcons ABF 182-5 (20) Guyana Amazon Warriors GAW 117 (14.2) Antigua and Barbuda Falcons won by 65 runs",
+      "team1": {
+        "name": "30th Match • Guyana, Providence Stadium Antigua and Barbuda Falcons ABF 182",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Guyana Amazon Warriors GAW 117 (14.2) Antigua and Barbuda Falcons won by 65 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "30th Match • Guyana, Providence Stadium Antigua and Barbuda Falcons ABF 182-5 (20) Guyana Amazon Warriors GAW 117 (14.2) Antigua and Barbuda Falcons won by 65 runs",
       "status": "Match Details"
     }
   ]
