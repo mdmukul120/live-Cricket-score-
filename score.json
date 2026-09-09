@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-09 20:49:43 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-09-09 22:49:44 UTC",
+  "total_matches": 43,
   "matches": [
+    {
+      "title": "SLK vs GAW - SLK opt to bat",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs GAW - SLK opt to bat",
+      "status": "Match Details"
+    },
     {
       "title": "PAK vs ENG - Stumps",
       "team1": {
@@ -14,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "PAK vs ENG - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDW vs BANW - Preview",
+      "team1": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "INDW vs BANW - Preview",
       "status": "Match Details"
     },
     {
@@ -40,32 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "BFW vs DBG - DBG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs BANW - Preview",
-      "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "INDW vs BANW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "EZONE vs SZONE - Stumps",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs SZONE - Stumps",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs Saint Lucia Kings 31st Match",
+      "title": "Saint Lucia Kings vs Guyana Amazon Warriors 31st Match",
       "team1": {
-        "name": "Guyana Amazon Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saint Lucia Kings 31st Match",
+        "name": "Saint Lucia Kings",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Guyana Amazon Warriors vs Saint Lucia Kings 31st Match",
+      "team2": {
+        "name": "Guyana Amazon Warriors 31st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saint Lucia Kings vs Guyana Amazon Warriors 31st Match",
       "status": "Match Details"
     },
     {
@@ -550,19 +550,6 @@
       "status": "Match Details"
     },
     {
-      "title": "1st ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 348-6 (50) Namibia NAM 162-8 (31) South Africa won by 99 runs (DLS Method)",
-      "team1": {
-        "name": "1st ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 348",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (50) Namibia NAM 162",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 348-6 (50) Namibia NAM 162-8 (31) South Africa won by 99 runs (DLS Method)",
-      "status": "Match Details"
-    },
-    {
       "title": "4th Match • Kigali City, Gahanga B Ground Rwanda RWA 139-8 (20) Kenya KEN 144-8 (20) Kenya won by 2 wkts",
       "team1": {
         "name": "4th Match • Kigali City, Gahanga B Ground Rwanda RWA 139",
@@ -573,58 +560,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th Match • Kigali City, Gahanga B Ground Rwanda RWA 139-8 (20) Kenya KEN 144-8 (20) Kenya won by 2 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Kigali City, Gahanga B Ground Uganda UGA 250-3 (20) Sierra Leone SLE 136-4 (20) Uganda won by 114 runs",
-      "team1": {
-        "name": "3rd Match • Kigali City, Gahanga B Ground Uganda UGA 250",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (20) Sierra Leone SLE 136",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "3rd Match • Kigali City, Gahanga B Ground Uganda UGA 250-3 (20) Sierra Leone SLE 136-4 (20) Uganda won by 114 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "18th Match • Dublin, The Village Belfast Wolves BFW 107 (19.4) Dublin Guardians DBG 111-2 (14.3) Dublin Guardians won by 8 wkts",
-      "team1": {
-        "name": "18th Match • Dublin, The Village Belfast Wolves BFW 107 (19.4) Dublin Guardians DBG 111",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (14.3) Dublin Guardians won by 8 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "18th Match • Dublin, The Village Belfast Wolves BFW 107 (19.4) Dublin Guardians DBG 111-2 (14.3) Dublin Guardians won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "21st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 184-6 (20) Mohali Kings MHK 188-5 (18.4) Mohali Kings won by 5 wkts",
-      "team1": {
-        "name": "21st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 184",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (20) Mohali Kings MHK 188",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "21st Match • Mohali, Punjab Cricket Association IS Bindra Stadium Bathinda Royals BTR 184-6 (20) Mohali Kings MHK 188-5 (18.4) Mohali Kings won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "58th Match • Cardiff, Sophia Gardens Glamorgan GLAM 69 & 65 Warwickshire WARKS 391 Warwickshire won by an innings and 257 runs",
-      "team1": {
-        "name": "58th Match • Cardiff, Sophia Gardens Glamorgan GLAM 69 & 65 Warwickshire WARKS 391 Warwickshire won by an innings and 257 runs",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "58th Match • Cardiff, Sophia Gardens Glamorgan GLAM 69 & 65 Warwickshire WARKS 391 Warwickshire won by an innings and 257 runs",
       "status": "Match Details"
     }
   ]
