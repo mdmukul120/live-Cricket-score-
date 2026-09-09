@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-09 09:58:43 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-09-09 14:26:26 UTC",
+  "total_matches": 45,
   "matches": [
     {
-      "title": "RSA vs NAM - NAM opt to bowl",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "RSA vs NAM - NAM opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs ENG - ENG opt to bowl",
+      "title": "PAK vs ENG - Trail by 109",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -26,11 +13,37 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - ENG opt to bowl",
+      "score": "PAK vs ENG - Trail by 109",
       "status": "Match Details"
     },
     {
-      "title": "EZONE vs SZONE - Lead by 499",
+      "title": "RSA vs NAM - Rain",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "RSA vs NAM - Rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "BFW vs DBG - DBG opt to bowl",
+      "team1": {
+        "name": "BFW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "DBG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BFW vs DBG - DBG opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "EZONE vs SZONE - Stumps",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,72 +52,46 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs SZONE - Lead by 499",
+      "score": "EZONE vs SZONE - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "FZF vs LDL - Need 124 off 75b",
+      "title": "BTR vs MHK - MHK opt to bowl",
       "team1": {
-        "name": "FZF",
+        "name": "BTR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "LDL",
+        "name": "MHK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "FZF vs LDL - Need 124 off 75b",
+      "score": "BTR vs MHK - MHK opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "ABF vs GAW - ABF won",
-      "team1": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ABF vs GAW - ABF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan vs England 3rd Test",
+      "title": "Pakistan vs England LIVE 3rd Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "England 3rd Test",
+        "name": "England LIVE 3rd Test",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Pakistan vs England 3rd Test",
+      "score": "Pakistan vs England LIVE 3rd Test",
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Namibia LIVE 1st ODI",
+      "title": "South Africa vs Namibia 1st ODI",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Namibia LIVE 1st ODI",
+        "name": "Namibia 1st ODI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa vs Namibia LIVE 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rwanda vs Botswana 1st Match",
-      "team1": {
-        "name": "Rwanda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Botswana 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rwanda vs Botswana 1st Match",
+      "score": "South Africa vs Namibia 1st ODI",
       "status": "Match Details"
     },
     {
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sierra Leone vs Uganda 3rd Match",
+      "title": "Uganda vs Sierra Leone 3rd Match",
       "team1": {
-        "name": "Sierra Leone",
+        "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Uganda 3rd Match",
+        "name": "Sierra Leone 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sierra Leone vs Uganda 3rd Match",
+      "score": "Uganda vs Sierra Leone 3rd Match",
       "status": "Match Details"
     },
     {
@@ -160,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Rwanda vs Sierra Leone 6th Match",
+      "team1": {
+        "name": "Rwanda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sierra Leone 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rwanda vs Sierra Leone 6th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Antigua and Barbuda Falcons vs Guyana Amazon Warriors 30th Match",
       "team1": {
         "name": "Antigua and Barbuda Falcons",
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dublin Guardians vs Belfast Wolves 18th Match",
+      "title": "Belfast Wolves vs Dublin Guardians LIVE 18th Match",
       "team1": {
-        "name": "Dublin Guardians",
+        "name": "Belfast Wolves",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Belfast Wolves 18th Match",
+        "name": "Dublin Guardians LIVE 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dublin Guardians vs Belfast Wolves 18th Match",
+      "score": "Belfast Wolves vs Dublin Guardians LIVE 18th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Mohali Kings 18th Match",
+      "title": "Belfast Wolves vs Amsterdam Flames 20th Match",
       "team1": {
-        "name": "Amritsar Soormas",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Mohali Kings 18th Match",
+        "name": "Belfast Wolves",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Mohali Kings 18th Match",
+      "team2": {
+        "name": "Amsterdam Flames 20th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Belfast Wolves vs Amsterdam Flames 20th Match",
       "status": "Match Details"
     },
     {
@@ -238,29 +238,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Fazilka Falcons vs Ludhiana Lions LIVE 20th Match",
+      "title": "Fazilka Falcons vs Ludhiana Lions 20th Match",
       "team1": {
         "name": "Fazilka Falcons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ludhiana Lions LIVE 20th Match",
+        "name": "Ludhiana Lions 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Fazilka Falcons vs Ludhiana Lions LIVE 20th Match",
+      "score": "Fazilka Falcons vs Ludhiana Lions 20th Match",
       "status": "Match Details"
     },
     {
-      "title": "Mohali Kings vs Bathinda Royals 21st Match",
+      "title": "Bathinda Royals vs Mohali Kings LIVE 21st Match",
       "team1": {
-        "name": "Mohali Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bathinda Royals 21st Match",
+        "name": "Bathinda Royals",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Mohali Kings vs Bathinda Royals 21st Match",
+      "team2": {
+        "name": "Mohali Kings LIVE 21st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bathinda Royals vs Mohali Kings LIVE 21st Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,29 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone LIVE Final",
+      "title": "Fazilka Falcons vs Bathinda Royals 23rd Match",
+      "team1": {
+        "name": "Fazilka Falcons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bathinda Royals 23rd Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Fazilka Falcons vs Bathinda Royals 23rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "East Zone vs South Zone Final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone LIVE Final",
+        "name": "South Zone Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone LIVE Final",
+      "score": "East Zone vs South Zone Final",
       "status": "Match Details"
     },
     {
@@ -355,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Warwickshire LIVE 58th Match",
+      "title": "Glamorgan vs Warwickshire 58th Match",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire LIVE 58th Match",
+        "name": "Warwickshire 58th Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Glamorgan vs Warwickshire LIVE 58th Match",
+      "score": "Glamorgan vs Warwickshire 58th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Leicestershire LIVE 60th Match",
+      "title": "Somerset vs Leicestershire 60th Match",
       "team1": {
         "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Leicestershire LIVE 60th Match",
+        "name": "Leicestershire 60th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Somerset vs Leicestershire LIVE 60th Match",
+      "score": "Somerset vs Leicestershire 60th Match",
       "status": "Match Details"
     },
     {
@@ -498,19 +511,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
-      "team1": {
-        "name": "Mpumalanga Rhinos",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Eastern Storm vs South Western Districts 1st Match",
       "team1": {
         "name": "Eastern Storm",
@@ -537,6 +537,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "team1": {
+        "name": "Mpumalanga Rhinos",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
       "team1": {
         "name": "Bangladesh Women",
@@ -547,6 +560,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh Women vs United Arab Emirates Women Match 12, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trinbago Knight Riders Women vs Jamaica Empress Women 3rd Match",
+      "team1": {
+        "name": "Trinbago Knight Riders Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jamaica Empress Women 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trinbago Knight Riders Women vs Jamaica Empress Women 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "20th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 200-3 (20) Ludhiana Lions LDL 203-4 (18.4) Ludhiana Lions won by 6 wkts",
+      "team1": {
+        "name": "20th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 200",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "3 (20) Ludhiana Lions LDL 203",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "20th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 200-3 (20) Ludhiana Lions LDL 203-4 (18.4) Ludhiana Lions won by 6 wkts",
       "status": "Match Details"
     }
   ]
