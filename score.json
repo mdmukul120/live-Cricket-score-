@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-10 20:05:04 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-09-10 22:32:55 UTC",
+  "total_matches": 47,
   "matches": [
+    {
+      "title": "BBT vs SNP - Preview",
+      "team1": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BBT vs SNP - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "INDW vs BANW - INDW won",
       "team1": {
@@ -30,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "SLW vs PAKW - Preview",
+      "team1": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "SLW vs PAKW - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "ADF vs BFW - BFW won",
       "team1": {
         "name": "ADF",
@@ -40,32 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "ADF vs BFW - BFW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "EZONE vs SZONE - Draw",
-      "team1": {
-        "name": "EZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SZONE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EZONE vs SZONE - Draw",
-      "status": "Match Details"
-    },
-    {
-      "title": "BBT vs SNP - Preview",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BBT vs SNP - Preview",
       "status": "Match Details"
     },
     {
@@ -264,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates 2nd Semi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Nepal vs Oman 1st Semi-Final",
       "team1": {
         "name": "Nepal",
@@ -287,6 +274,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nepal vs Oman 1st Semi-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 2nd Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -368,19 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Dolphins vs Titans 4th Match",
-      "team1": {
-        "name": "Dolphins",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Dolphins vs Titans 4th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Warriors vs Western Province 1st Match",
       "team1": {
         "name": "Warriors",
@@ -417,6 +404,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Lions vs Boland 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Dolphins vs Titans 4th Match",
+      "team1": {
+        "name": "Dolphins",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Titans 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Dolphins vs Titans 4th Match",
       "status": "Match Details"
     },
     {
@@ -576,19 +576,6 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Kigali City, Gahanga B Ground Rwanda RWA 191-4 (20) Sierra Leone SLE 46-9 (20) Rwanda won by 145 runs",
-      "team1": {
-        "name": "6th Match • Kigali City, Gahanga B Ground Rwanda RWA 191",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (20) Sierra Leone SLE 46",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "6th Match • Kigali City, Gahanga B Ground Rwanda RWA 191-4 (20) Sierra Leone SLE 46-9 (20) Rwanda won by 145 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "20th Match • Dublin, The Village Amsterdam Flames ADF 141 (20) Belfast Wolves BFW 144-5 (19) Belfast Wolves won by 5 wkts",
       "team1": {
         "name": "20th Match • Dublin, The Village Amsterdam Flames ADF 141 (20) Belfast Wolves BFW 144",
@@ -615,32 +602,6 @@
       "status": "Match Details"
     },
     {
-      "title": "60th Match • Leicester, Grace Road Somerset SOM 363 & 316-5 d Leicestershire LEIC 157 & 145 Somerset won by 377 runs",
-      "team1": {
-        "name": "60th Match • Leicester, Grace Road Somerset SOM 363 & 316",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 d Leicestershire LEIC 157 & 145 Somerset won by 377 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "60th Match • Leicester, Grace Road Somerset SOM 363 & 316-5 d Leicestershire LEIC 157 & 145 Somerset won by 377 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "46th Match • Worcester, New Road Worcestershire WORCS 200 & 182 Northamptonshire NHNTS 289 & 96-4 Northamptonshire won by 6 wkts",
-      "team1": {
-        "name": "46th Match • Worcester, New Road Worcestershire WORCS 200 & 182 Northamptonshire NHNTS 289 & 96",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "4 Northamptonshire won by 6 wkts",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "46th Match • Worcester, New Road Worcestershire WORCS 200 & 182 Northamptonshire NHNTS 289 & 96-4 Northamptonshire won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "Semi Final 1 (A1 v B2) • Dubai, Dubai International Cricket Stadium India Women INDW 149-6 (20) Bangladesh Women BANW 109-7 (20) India Women won by 40 runs",
       "team1": {
         "name": "Semi Final 1 (A1 v B2) • Dubai, Dubai International Cricket Stadium India Women INDW 149",
@@ -651,19 +612,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "Semi Final 1 (A1 v B2) • Dubai, Dubai International Cricket Stadium India Women INDW 149-6 (20) Bangladesh Women BANW 109-7 (20) India Women won by 40 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Bridgetown, Barbados, Kensington Oval Jamaica Empress Women JEW 100-8 (20) Trinbago Knight Riders Women TKRW 104-1 (11.1) Trinbago Knight Riders Women won by 9 wkts",
-      "team1": {
-        "name": "3rd Match • Bridgetown, Barbados, Kensington Oval Jamaica Empress Women JEW 100",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Trinbago Knight Riders Women TKRW 104",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • Bridgetown, Barbados, Kensington Oval Jamaica Empress Women JEW 100-8 (20) Trinbago Knight Riders Women TKRW 104-1 (11.1) Trinbago Knight Riders Women won by 9 wkts",
       "status": "Match Details"
     }
   ]
