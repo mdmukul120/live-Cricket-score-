@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-10 05:21:33 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-09-10 09:55:44 UTC",
+  "total_matches": 48,
   "matches": [
     {
-      "title": "EZONE vs SZONE - Lead by 630",
+      "title": "EZONE vs SZONE - Draw",
       "team1": {
         "name": "EZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,20 +13,7 @@
         "name": "SZONE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EZONE vs SZONE - Lead by 630",
-      "status": "Match Details"
-    },
-    {
-      "title": "SLK vs GAW - GAW won",
-      "team1": {
-        "name": "SLK",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SLK vs GAW - GAW won",
+      "score": "EZONE vs SZONE - Draw",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "RSA vs NAM - RSA won",
+      "title": "RDD vs GGC - Delay",
       "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "NAM",
+        "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RSA vs NAM - RSA won",
+      "team2": {
+        "name": "GGC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "RDD vs GGC - Delay",
+      "status": "Match Details"
+    },
+    {
+      "title": "SLK vs GAW - GAW won",
+      "team1": {
+        "name": "SLK",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SLK vs GAW - GAW won",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Namibia vs South Africa 2nd ODI",
+      "team1": {
+        "name": "Namibia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Africa 2nd ODI",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Namibia vs South Africa 2nd ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Uganda vs Sierra Leone 3rd Match",
       "team1": {
         "name": "Uganda",
@@ -121,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Botswana 5th Match",
+      "title": "Botswana vs Uganda LIVE 5th Match",
       "team1": {
-        "name": "Uganda",
+        "name": "Botswana",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Botswana 5th Match",
+        "name": "Uganda LIVE 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda vs Botswana 5th Match",
+      "score": "Botswana vs Uganda LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Rwanda vs Sierra Leone 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda vs Rwanda 7th Match",
+      "team1": {
+        "name": "Uganda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rwanda 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda vs Rwanda 7th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Jalandhar Warriors 22nd Match",
+      "title": "Amritsar Soormas vs Jalandhar Warriors LIVE 22nd Match",
       "team1": {
         "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Jalandhar Warriors 22nd Match",
+        "name": "Jalandhar Warriors LIVE 22nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Jalandhar Warriors 22nd Match",
+      "score": "Amritsar Soormas vs Jalandhar Warriors LIVE 22nd Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone LIVE Final",
+      "title": "East Zone vs South Zone Final",
       "team1": {
         "name": "East Zone",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone LIVE Final",
+        "name": "South Zone Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone LIVE Final",
+      "score": "East Zone vs South Zone Final",
       "status": "Match Details"
     },
     {
@@ -290,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs United Arab Emirates LIVE 2nd Semi-Final",
+      "title": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates LIVE 2nd Semi",
+        "name": "United Arab Emirates 2nd Semi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs United Arab Emirates LIVE 2nd Semi-Final",
+      "score": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -316,55 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Surrey 59th Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Surrey 59th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sussex vs Surrey 59th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Leicestershire 60th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire 60th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Somerset vs Leicestershire 60th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Hampshire 56th Match",
+      "title": "Nottinghamshire vs Hampshire LIVE 56th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire 56th Match",
+        "name": "Hampshire LIVE 56th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Hampshire 56th Match",
+      "score": "Nottinghamshire vs Hampshire LIVE 56th Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Essex 57th Match",
+      "title": "Yorkshire vs Essex LIVE 57th Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Essex 57th Match",
+        "name": "Essex LIVE 57th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Yorkshire vs Essex 57th Match",
+      "score": "Yorkshire vs Essex LIVE 57th Match",
       "status": "Match Details"
     },
     {
@@ -381,29 +381,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs Warriors 1st Match",
+      "title": "Sussex vs Surrey LIVE 59th Match",
       "team1": {
-        "name": "Western Province",
+        "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warriors 1st Match",
+        "name": "Surrey LIVE 59th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Province vs Warriors 1st Match",
+      "score": "Sussex vs Surrey LIVE 59th Match",
       "status": "Match Details"
     },
     {
-      "title": "Knights vs North West - Eastvaal Renault Dragons 2nd Match",
+      "title": "Somerset vs Leicestershire LIVE 60th Match",
       "team1": {
-        "name": "Knights",
+        "name": "Somerset",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
+        "name": "Leicestershire LIVE 60th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Somerset vs Leicestershire LIVE 60th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
+      "team1": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Knights vs North West - Eastvaal Renault Dragons 2nd Match",
+      "team2": {
+        "name": "Eastvaal Renault Dragons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
       "status": "Match Details"
     },
     {
@@ -420,68 +433,81 @@
       "status": "Match Details"
     },
     {
-      "title": "Titans vs Dolphins 4th Match",
+      "title": "Dolphins vs Titans 4th Match",
       "team1": {
-        "name": "Titans",
+        "name": "Dolphins",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dolphins 4th Match",
+        "name": "Titans 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Titans vs Dolphins 4th Match",
+      "score": "Dolphins vs Titans 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Kent 45th Match",
+      "title": "Western Province vs Warriors 1st Match",
+      "team1": {
+        "name": "Western Province",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warriors 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Province vs Warriors 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Kent LIVE 45th Match",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent 45th Match",
+        "name": "Kent LIVE 45th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Kent 45th Match",
+      "score": "Derbyshire vs Kent LIVE 45th Match",
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Northamptonshire 46th Match",
+      "title": "Worcestershire vs Northamptonshire LIVE 46th Match",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Northamptonshire 46th Match",
+        "name": "Northamptonshire LIVE 46th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Northamptonshire 46th Match",
+      "score": "Worcestershire vs Northamptonshire LIVE 46th Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex 47th Match",
+      "title": "Durham vs Middlesex LIVE 47th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex 47th Match",
+        "name": "Middlesex LIVE 47th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex 47th Match",
+      "score": "Durham vs Middlesex LIVE 47th Match",
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Lancashire 48th Match",
+      "title": "Gloucestershire vs Lancashire LIVE 48th Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Lancashire 48th Match",
+        "name": "Lancashire LIVE 48th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Gloucestershire vs Lancashire 48th Match",
+      "score": "Gloucestershire vs Lancashire LIVE 48th Match",
       "status": "Match Details"
     },
     {
@@ -498,16 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Limpopo vs Border 2nd Match",
+      "title": "Border vs Limpopo 2nd Match",
       "team1": {
-        "name": "Limpopo",
+        "name": "Border",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Border 2nd Match",
+        "name": "Limpopo 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Limpopo vs Border 2nd Match",
+      "score": "Border vs Limpopo 2nd Match",
       "status": "Match Details"
     },
     {
@@ -563,16 +589,42 @@
       "status": "Match Details"
     },
     {
-      "title": "31st Match • Guyana, Providence Stadium Saint Lucia Kings SLK 119 (18.5) Guyana Amazon Warriors GAW 122-6 (18.3) Guyana Amazon Warriors won by 4 wkts",
+      "title": "Final • Chennai, MA Chidambaram Stadium East Zone EZONE 708 & 388-7 South Zone SZONE 336 East Zone won on 1st innings lead - Match drawn",
       "team1": {
-        "name": "31st Match • Guyana, Providence Stadium Saint Lucia Kings SLK 119 (18.5) Guyana Amazon Warriors GAW 122",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "6 (18.3) Guyana Amazon Warriors won by 4 wkts",
+        "name": "Final • Chennai, MA Chidambaram Stadium East Zone EZONE 708 & 388",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "31st Match • Guyana, Providence Stadium Saint Lucia Kings SLK 119 (18.5) Guyana Amazon Warriors GAW 122-6 (18.3) Guyana Amazon Warriors won by 4 wkts",
+      "team2": {
+        "name": "7 South Zone SZONE 336 East Zone won on 1st innings lead",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Chennai, MA Chidambaram Stadium East Zone EZONE 708 & 388-7 South Zone SZONE 336 East Zone won on 1st innings lead - Match drawn",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Semi-Final • Bangi, YSD-UKM Cricket Oval Hong Kong, China HKC 70 (30.1) United Arab Emirates UAE 71-3 (11.1) United Arab Emirates won by 7 wkts",
+      "team1": {
+        "name": "2nd Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Final • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "2nd Semi-Final • Bangi, YSD-UKM Cricket Oval Hong Kong, China HKC 70 (30.1) United Arab Emirates UAE 71-3 (11.1) United Arab Emirates won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Semi-Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 147 (45.4) Oman OMAN 60 (28.1) Nepal won by 87 runs",
+      "team1": {
+        "name": "1st Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 147 (45.4) Oman OMAN 60 (28.1) Nepal won by 87 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Semi-Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 147 (45.4) Oman OMAN 60 (28.1) Nepal won by 87 runs",
       "status": "Match Details"
     }
   ]
