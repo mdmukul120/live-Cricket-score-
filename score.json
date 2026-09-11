@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-11 09:43:18 UTC",
-  "total_matches": 49,
+  "last_updated": "2026-09-11 13:51:38 UTC",
+  "total_matches": 51,
   "matches": [
     {
-      "title": "RSA vs NAM - NAM opt to bowl",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "RSA vs NAM - NAM opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs ENG - Stumps",
+      "title": "PAK vs ENG - Trail by 99",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -26,33 +13,20 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Stumps",
+      "score": "PAK vs ENG - Trail by 99",
       "status": "Match Details"
     },
     {
-      "title": "SNP vs BBT - BBT won",
+      "title": "RSA vs NAM - Need 219 to win",
       "team1": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "BBT",
+        "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs BBT - BBT won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs BANW - INDW won",
-      "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "INDW vs BANW - INDW won",
+      "score": "RSA vs NAM - Need 219 to win",
       "status": "Match Details"
     },
     {
@@ -69,16 +43,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs England 3rd Test",
+      "title": "ECR vs DBG - DBG opt to bowl",
+      "team1": {
+        "name": "ECR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "DBG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ECR vs DBG - DBG opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "SNP vs BBT - BBT won",
+      "team1": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SNP vs BBT - BBT won",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan vs England LIVE 3rd Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "England 3rd Test",
+        "name": "England LIVE 3rd Test",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Pakistan vs England 3rd Test",
+      "score": "Pakistan vs England LIVE 3rd Test",
       "status": "Match Details"
     },
     {
@@ -92,19 +92,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "South Africa vs Namibia LIVE 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Botswana vs Uganda 5th Match",
-      "team1": {
-        "name": "Botswana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Botswana vs Uganda 5th Match",
       "status": "Match Details"
     },
     {
@@ -160,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Botswana vs Sierra Leone 10th Match",
+      "team1": {
+        "name": "Botswana",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sierra Leone 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Botswana vs Sierra Leone 10th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "St Kitts and Nevis Patriots vs Barbados Tridents 32nd Match",
       "team1": {
         "name": "St Kitts and Nevis Patriots",
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Rotterdam Dockers vs Glasgow Cosmic 19th Match",
-      "team1": {
-        "name": "Rotterdam Dockers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Glasgow Cosmic 19th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rotterdam Dockers vs Glasgow Cosmic 19th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Amsterdam Flames vs Belfast Wolves 20th Match",
       "team1": {
         "name": "Amsterdam Flames",
@@ -212,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dublin Guardians vs Edinburgh Castle Rockers 21st Match",
+      "title": "Edinburgh Castle Rockers vs Dublin Guardians LIVE 21st Match",
       "team1": {
-        "name": "Dublin Guardians",
+        "name": "Edinburgh Castle Rockers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Edinburgh Castle Rockers 21st Match",
+        "name": "Dublin Guardians LIVE 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dublin Guardians vs Edinburgh Castle Rockers 21st Match",
+      "score": "Edinburgh Castle Rockers vs Dublin Guardians LIVE 21st Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Jalandhar Warriors 22nd Match",
+      "title": "Dublin Guardians vs Glasgow Cosmic 23rd Match",
       "team1": {
-        "name": "Amritsar Soormas",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Jalandhar Warriors 22nd Match",
+        "name": "Dublin Guardians",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Jalandhar Warriors 22nd Match",
+      "team2": {
+        "name": "Glasgow Cosmic 23rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Dublin Guardians vs Glasgow Cosmic 23rd Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Ludhiana Lions 24th Match",
+      "title": "Amritsar Soormas vs Ludhiana Lions LIVE 24th Match",
       "team1": {
         "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Ludhiana Lions 24th Match",
+        "name": "Ludhiana Lions LIVE 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Ludhiana Lions 24th Match",
+      "score": "Amritsar Soormas vs Ludhiana Lions LIVE 24th Match",
       "status": "Match Details"
     },
     {
@@ -290,29 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "East Zone vs South Zone Final",
+      "title": "TBC vs TBC Semi Final 2",
       "team1": {
-        "name": "East Zone",
+        "name": "TBC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Zone Final",
+        "name": "TBC Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "East Zone vs South Zone Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nepal vs United Arab Emirates Final",
-      "team1": {
-        "name": "Nepal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nepal vs United Arab Emirates Final",
+      "score": "TBC vs TBC Semi Final 2",
       "status": "Match Details"
     },
     {
@@ -329,6 +303,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nepal vs United Arab Emirates Final",
+      "team1": {
+        "name": "Nepal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nepal vs United Arab Emirates Final",
+      "status": "Match Details"
+    },
+    {
       "title": "South Africa A vs Bangladesh A 3rd Unofficial ODI",
       "team1": {
         "name": "South Africa A",
@@ -342,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Hampshire LIVE 56th Match",
+      "title": "Nottinghamshire vs Hampshire 56th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire LIVE 56th Match",
+        "name": "Hampshire 56th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Hampshire LIVE 56th Match",
+      "score": "Nottinghamshire vs Hampshire 56th Match",
       "status": "Match Details"
     },
     {
@@ -459,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dolphins vs Titans LIVE 4th Match",
+      "title": "Dolphins vs Titans 4th Match",
       "team1": {
         "name": "Dolphins",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Titans LIVE 4th Match",
+        "name": "Titans 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dolphins vs Titans LIVE 4th Match",
+      "score": "Dolphins vs Titans 4th Match",
       "status": "Match Details"
     },
     {
@@ -498,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex 47th Match",
+      "title": "Durham vs Middlesex LIVE 47th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex 47th Match",
+        "name": "Middlesex LIVE 47th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex 47th Match",
+      "score": "Durham vs Middlesex LIVE 47th Match",
       "status": "Match Details"
     },
     {
@@ -521,19 +508,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Gloucestershire vs Lancashire 48th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers LIVE 3rd Match",
-      "team1": {
-        "name": "Mpumalanga Rhinos",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -563,6 +537,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "team1": {
+        "name": "Mpumalanga Rhinos",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "India Women vs Bangladesh Women Semi Final 1 (A1 v B2)",
       "team1": {
         "name": "India Women",
@@ -586,6 +573,19 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "Sri Lanka Women vs Pakistan Women Semi Final 2 (B1 v A2)",
+      "status": "Match Details"
+    },
+    {
+      "title": "India A Women vs Australia A Women 1st unofficial T20",
+      "team1": {
+        "name": "India A Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia A Women 1st unofficial T20",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India A Women vs Australia A Women 1st unofficial T20",
       "status": "Match Details"
     },
     {
@@ -628,16 +628,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs South Africa Women 1st T20I",
+      "title": "Zimbabwe Women vs South Africa Women LIVE 1st T20I",
       "team1": {
         "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "South Africa Women 1st T20I",
+        "name": "South Africa Women LIVE 1st T20I",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Zimbabwe Women vs South Africa Women 1st T20I",
+      "score": "Zimbabwe Women vs South Africa Women LIVE 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "56th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 377 & 104 Hampshire HAM 304 & 123 Nottinghamshire won by 54 runs",
+      "team1": {
+        "name": "56th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 377 & 104 Hampshire HAM 304 & 123 Nottinghamshire won by 54 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "56th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 377 & 104 Hampshire HAM 304 & 123 Nottinghamshire won by 54 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "48th Match • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 212 & 169 Lancashire LANCS 134 & 142 Gloucestershire won by 105 runs",
+      "team1": {
+        "name": "48th Match • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 212 & 169 Lancashire LANCS 134 & 142 Gloucestershire won by 105 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "48th Match • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 212 & 169 Lancashire LANCS 134 & 142 Gloucestershire won by 105 runs",
       "status": "Match Details"
     }
   ]
