@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-09-11 05:10:00 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-09-11 09:43:18 UTC",
+  "total_matches": 49,
   "matches": [
     {
-      "title": "SNP vs BBT - BBT won",
+      "title": "RSA vs NAM - NAM opt to bowl",
       "team1": {
-        "name": "SNP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "BBT",
+        "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs BBT - BBT won",
+      "score": "RSA vs NAM - NAM opt to bowl",
       "status": "Match Details"
     },
     {
@@ -27,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "PAK vs ENG - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "SNP vs BBT - BBT won",
+      "team1": {
+        "name": "SNP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SNP vs BBT - BBT won",
       "status": "Match Details"
     },
     {
@@ -56,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "DBG vs ECR - Preview",
-      "team1": {
-        "name": "DBG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ECR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "DBG vs ECR - Preview",
-      "status": "Match Details"
-    },
-    {
       "title": "Pakistan vs England 3rd Test",
       "team1": {
         "name": "Pakistan",
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs South Africa 2nd ODI",
+      "title": "South Africa vs Namibia LIVE 2nd ODI",
       "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Africa 2nd ODI",
+        "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Namibia vs South Africa 2nd ODI",
+      "team2": {
+        "name": "Namibia LIVE 2nd ODI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Africa vs Namibia LIVE 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -144,6 +144,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kenya vs Botswana 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda vs Kenya 9th Match",
+      "team1": {
+        "name": "Uganda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kenya 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda vs Kenya 9th Match",
       "status": "Match Details"
     },
     {
@@ -212,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Belfast Wolves vs Rotterdam Dockers 22nd Match",
+      "team1": {
+        "name": "Belfast Wolves",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rotterdam Dockers 22nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Belfast Wolves vs Rotterdam Dockers 22nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Amritsar Soormas vs Jalandhar Warriors 22nd Match",
       "team1": {
         "name": "Amritsar Soormas",
@@ -251,6 +277,19 @@
       "status": "Match Details"
     },
     {
+      "title": "TBC vs TBC Semi Final 1",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Semi Final 1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Semi Final 1",
+      "status": "Match Details"
+    },
+    {
       "title": "East Zone vs South Zone Final",
       "team1": {
         "name": "East Zone",
@@ -261,45 +300,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "East Zone vs South Zone Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nepal vs Oman 1st Semi-Final",
-      "team1": {
-        "name": "Nepal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Oman 1st Semi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nepal vs Oman 1st Semi-Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates 2nd Semi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs United Arab Emirates 2nd Semi-Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs Oman 3rd Place Play-off",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Oman 3rd Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Oman 3rd Place Play-off",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Hampshire 56th Match",
+      "title": "Hong Kong, China vs Oman 3rd Place Play-off",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Oman 3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Oman 3rd Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa A vs Bangladesh A 3rd Unofficial ODI",
+      "team1": {
+        "name": "South Africa A",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Bangladesh A 3rd Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "South Africa A vs Bangladesh A 3rd Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Hampshire LIVE 56th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Hampshire 56th Match",
+        "name": "Hampshire LIVE 56th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Hampshire 56th Match",
+      "score": "Nottinghamshire vs Hampshire LIVE 56th Match",
       "status": "Match Details"
     },
     {
@@ -355,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Surrey 59th Match",
+      "title": "Sussex vs Surrey LIVE 59th Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Surrey 59th Match",
+        "name": "Surrey LIVE 59th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sussex vs Surrey 59th Match",
+      "score": "Sussex vs Surrey LIVE 59th Match",
       "status": "Match Details"
     },
     {
@@ -394,20 +420,20 @@
       "status": "Match Details"
     },
     {
-      "title": "Warriors vs Western Province 1st Match",
+      "title": "Warriors vs Western Province LIVE 1st Match",
       "team1": {
         "name": "Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Province 1st Match",
+        "name": "Western Province LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Warriors vs Western Province 1st Match",
+      "score": "Warriors vs Western Province LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
+      "title": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
       "team1": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -416,7 +442,7 @@
         "name": "Eastvaal Renault Dragons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
+      "score": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -433,29 +459,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Dolphins vs Titans 4th Match",
+      "title": "Dolphins vs Titans LIVE 4th Match",
       "team1": {
         "name": "Dolphins",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Titans 4th Match",
+        "name": "Titans LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dolphins vs Titans 4th Match",
+      "score": "Dolphins vs Titans LIVE 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Kent 45th Match",
+      "title": "Derbyshire vs Kent LIVE 45th Match",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent 45th Match",
+        "name": "Kent LIVE 45th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Kent 45th Match",
+      "score": "Derbyshire vs Kent LIVE 45th Match",
       "status": "Match Details"
     },
     {
@@ -498,33 +524,7 @@
       "status": "Match Details"
     },
     {
-      "title": "Eastern Storm vs South Western Districts 1st Match",
-      "team1": {
-        "name": "Eastern Storm",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Western Districts 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Eastern Storm vs South Western Districts 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Border vs Limpopo 2nd Match",
-      "team1": {
-        "name": "Border",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Limpopo 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Border vs Limpopo 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers LIVE 3rd Match",
       "team1": {
         "name": "Mpumalanga Rhinos",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -533,7 +533,33 @@
         "name": "KwaZulu",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers LIVE 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Western Districts vs Eastern Storm 1st Match",
+      "team1": {
+        "name": "South Western Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastern Storm 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Western Districts vs Eastern Storm 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Border vs Limpopo LIVE 2nd Match",
+      "team1": {
+        "name": "Border",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Limpopo LIVE 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Border vs Limpopo LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -612,19 +638,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Zimbabwe Women vs South Africa Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "32nd Match • Bridgetown, Barbados, Kensington Oval St Kitts and Nevis Patriots SNP 118 (20) Barbados Tridents BBT 120-6 (18) Barbados Tridents won by 4 wkts",
-      "team1": {
-        "name": "32nd Match • Bridgetown, Barbados, Kensington Oval St Kitts and Nevis Patriots SNP 118 (20) Barbados Tridents BBT 120",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (18) Barbados Tridents won by 4 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "32nd Match • Bridgetown, Barbados, Kensington Oval St Kitts and Nevis Patriots SNP 118 (20) Barbados Tridents BBT 120-6 (18) Barbados Tridents won by 4 wkts",
       "status": "Match Details"
     }
   ]
