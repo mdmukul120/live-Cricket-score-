@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-11 00:30:42 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-09-11 05:10:00 UTC",
+  "total_matches": 48,
   "matches": [
     {
-      "title": "SNP vs BBT - BBT opt to bowl",
+      "title": "SNP vs BBT - BBT won",
       "team1": {
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,20 +13,7 @@
         "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs BBT - BBT opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs BANW - INDW won",
-      "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "INDW vs BANW - INDW won",
+      "score": "SNP vs BBT - BBT won",
       "status": "Match Details"
     },
     {
@@ -43,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "INDW vs BANW - INDW won",
+      "team1": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "INDW vs BANW - INDW won",
+      "status": "Match Details"
+    },
+    {
       "title": "SLW vs PAKW - Preview",
       "team1": {
         "name": "SLW",
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "ADF vs BFW - BFW won",
+      "title": "DBG vs ECR - Preview",
       "team1": {
-        "name": "ADF",
+        "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BFW",
+        "name": "ECR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ADF vs BFW - BFW won",
+      "score": "DBG vs ECR - Preview",
       "status": "Match Details"
     },
     {
@@ -147,29 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Saint Lucia Kings vs Guyana Amazon Warriors 31st Match",
-      "team1": {
-        "name": "Saint Lucia Kings",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Guyana Amazon Warriors 31st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Saint Lucia Kings vs Guyana Amazon Warriors 31st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "St Kitts and Nevis Patriots vs Barbados Tridents LIVE 32nd Match",
+      "title": "St Kitts and Nevis Patriots vs Barbados Tridents 32nd Match",
       "team1": {
         "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Barbados Tridents LIVE 32nd Match",
+        "name": "Barbados Tridents 32nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "St Kitts and Nevis Patriots vs Barbados Tridents LIVE 32nd Match",
+      "score": "St Kitts and Nevis Patriots vs Barbados Tridents 32nd Match",
       "status": "Match Details"
     },
     {
@@ -303,16 +290,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Somerset vs Leicestershire 60th Match",
+      "title": "Hong Kong, China vs Oman 3rd Place Play-off",
       "team1": {
-        "name": "Somerset",
+        "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Leicestershire 60th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Oman 3rd Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Somerset vs Leicestershire 60th Match",
+      "score": "Hong Kong, China vs Oman 3rd Place Play-off",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nepal vs United Arab Emirates Final",
+      "team1": {
+        "name": "Nepal",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nepal vs United Arab Emirates Final",
       "status": "Match Details"
     },
     {
@@ -365,6 +365,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Sussex vs Surrey 59th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Leicestershire 60th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire 60th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Somerset vs Leicestershire 60th Match",
       "status": "Match Details"
     },
     {
@@ -576,6 +589,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Japan Women vs Malaysia Women 2nd T20I",
+      "team1": {
+        "name": "Japan Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Malaysia Women 2nd T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Japan Women vs Malaysia Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Zimbabwe Women vs South Africa Women 1st T20I",
       "team1": {
         "name": "Zimbabwe Women",
@@ -586,6 +612,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Zimbabwe Women vs South Africa Women 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "32nd Match • Bridgetown, Barbados, Kensington Oval St Kitts and Nevis Patriots SNP 118 (20) Barbados Tridents BBT 120-6 (18) Barbados Tridents won by 4 wkts",
+      "team1": {
+        "name": "32nd Match • Bridgetown, Barbados, Kensington Oval St Kitts and Nevis Patriots SNP 118 (20) Barbados Tridents BBT 120",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (18) Barbados Tridents won by 4 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "32nd Match • Bridgetown, Barbados, Kensington Oval St Kitts and Nevis Patriots SNP 118 (20) Barbados Tridents BBT 120-6 (18) Barbados Tridents won by 4 wkts",
       "status": "Match Details"
     }
   ]
