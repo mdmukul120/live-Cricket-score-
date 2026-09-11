@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-09-10 22:32:55 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-09-11 00:30:42 UTC",
+  "total_matches": 45,
   "matches": [
     {
-      "title": "BBT vs SNP - Preview",
+      "title": "SNP vs BBT - BBT opt to bowl",
       "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SNP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BBT vs SNP - Preview",
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SNP vs BBT - BBT opt to bowl",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs St Kitts and Nevis Patriots 32nd Match",
+      "title": "St Kitts and Nevis Patriots vs Barbados Tridents LIVE 32nd Match",
       "team1": {
-        "name": "Barbados Tridents",
+        "name": "St Kitts and Nevis Patriots",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "St Kitts and Nevis Patriots 32nd Match",
+        "name": "Barbados Tridents LIVE 32nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs St Kitts and Nevis Patriots 32nd Match",
+      "score": "St Kitts and Nevis Patriots vs Barbados Tridents LIVE 32nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Trinbago Knight Riders 33rd Match",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Trinbago Knight Riders 33rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Guyana Amazon Warriors vs Trinbago Knight Riders 33rd Match",
       "status": "Match Details"
     },
     {
@@ -290,6 +303,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Somerset vs Leicestershire 60th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Leicestershire 60th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Somerset vs Leicestershire 60th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Nottinghamshire vs Hampshire 56th Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -339,19 +365,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Sussex vs Surrey 59th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Leicestershire 60th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire 60th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Somerset vs Leicestershire 60th Match",
       "status": "Match Details"
     },
     {
@@ -573,45 +586,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Zimbabwe Women vs South Africa Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "20th Match • Dublin, The Village Amsterdam Flames ADF 141 (20) Belfast Wolves BFW 144-5 (19) Belfast Wolves won by 5 wkts",
-      "team1": {
-        "name": "20th Match • Dublin, The Village Amsterdam Flames ADF 141 (20) Belfast Wolves BFW 144",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (19) Belfast Wolves won by 5 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "20th Match • Dublin, The Village Amsterdam Flames ADF 141 (20) Belfast Wolves BFW 144-5 (19) Belfast Wolves won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "23rd Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 244-6 (20) Bathinda Royals BTR 195-8 (20) Fazilka Falcons won by 49 runs",
-      "team1": {
-        "name": "23rd Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 244",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (20) Bathinda Royals BTR 195",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "23rd Match • Mohali, Punjab Cricket Association IS Bindra Stadium Fazilka Falcons FZF 244-6 (20) Bathinda Royals BTR 195-8 (20) Fazilka Falcons won by 49 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Semi Final 1 (A1 v B2) • Dubai, Dubai International Cricket Stadium India Women INDW 149-6 (20) Bangladesh Women BANW 109-7 (20) India Women won by 40 runs",
-      "team1": {
-        "name": "Semi Final 1 (A1 v B2) • Dubai, Dubai International Cricket Stadium India Women INDW 149",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (20) Bangladesh Women BANW 109",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "Semi Final 1 (A1 v B2) • Dubai, Dubai International Cricket Stadium India Women INDW 149-6 (20) Bangladesh Women BANW 109-7 (20) India Women won by 40 runs",
       "status": "Match Details"
     }
   ]
