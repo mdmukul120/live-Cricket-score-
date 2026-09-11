@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-11 13:51:38 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-09-11 17:28:20 UTC",
+  "total_matches": 53,
   "matches": [
     {
-      "title": "PAK vs ENG - Trail by 99",
+      "title": "PAK vs ENG - Lead by 96",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,11 +13,24 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Trail by 99",
+      "score": "PAK vs ENG - Lead by 96",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs NAM - Need 219 to win",
+      "title": "PAKW vs SLW - Need 44 off 37b",
+      "team1": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAKW vs SLW - Need 44 off 37b",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs NAM - RSA won",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,24 +39,11 @@
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RSA vs NAM - Need 219 to win",
+      "score": "RSA vs NAM - RSA won",
       "status": "Match Details"
     },
     {
-      "title": "SLW vs PAKW - Preview",
-      "team1": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "SLW vs PAKW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "ECR vs DBG - DBG opt to bowl",
+      "title": "ECR vs DBG - ECR won",
       "team1": {
         "name": "ECR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +52,20 @@
         "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ECR vs DBG - DBG opt to bowl",
+      "score": "ECR vs DBG - ECR won",
       "status": "Match Details"
     },
     {
-      "title": "SNP vs BBT - BBT won",
+      "title": "GAW vs TKR - Preview",
       "team1": {
-        "name": "SNP",
+        "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BBT",
+        "name": "TKR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "SNP vs BBT - BBT won",
+      "score": "GAW vs TKR - Preview",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Namibia LIVE 2nd ODI",
+      "title": "South Africa vs Namibia 2nd ODI",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Namibia LIVE 2nd ODI",
+        "name": "Namibia 2nd ODI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa vs Namibia LIVE 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rwanda vs Sierra Leone 6th Match",
-      "team1": {
-        "name": "Rwanda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sierra Leone 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rwanda vs Sierra Leone 6th Match",
+      "score": "South Africa vs Namibia 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kenya vs Botswana 8th Match",
+      "title": "Botswana vs Kenya 8th Match",
       "team1": {
-        "name": "Kenya",
+        "name": "Botswana",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Botswana 8th Match",
+        "name": "Kenya 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kenya vs Botswana 8th Match",
+      "score": "Botswana vs Kenya 8th Match",
       "status": "Match Details"
     },
     {
@@ -186,29 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Amsterdam Flames vs Belfast Wolves 20th Match",
-      "team1": {
-        "name": "Amsterdam Flames",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Belfast Wolves 20th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Amsterdam Flames vs Belfast Wolves 20th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Edinburgh Castle Rockers vs Dublin Guardians LIVE 21st Match",
+      "title": "Edinburgh Castle Rockers vs Dublin Guardians 21st Match",
       "team1": {
         "name": "Edinburgh Castle Rockers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dublin Guardians LIVE 21st Match",
+        "name": "Dublin Guardians 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Edinburgh Castle Rockers vs Dublin Guardians LIVE 21st Match",
+      "score": "Edinburgh Castle Rockers vs Dublin Guardians 21st Match",
       "status": "Match Details"
     },
     {
@@ -238,29 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Fazilka Falcons vs Bathinda Royals 23rd Match",
-      "team1": {
-        "name": "Fazilka Falcons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bathinda Royals 23rd Match",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Fazilka Falcons vs Bathinda Royals 23rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Amritsar Soormas vs Ludhiana Lions LIVE 24th Match",
+      "title": "Amritsar Soormas vs Ludhiana Lions 24th Match",
       "team1": {
         "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Ludhiana Lions LIVE 24th Match",
+        "name": "Ludhiana Lions 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs Ludhiana Lions LIVE 24th Match",
+      "score": "Amritsar Soormas vs Ludhiana Lions 24th Match",
       "status": "Match Details"
     },
     {
@@ -368,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Surrey LIVE 59th Match",
+      "title": "Sussex vs Surrey 59th Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Surrey LIVE 59th Match",
+        "name": "Surrey 59th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sussex vs Surrey LIVE 59th Match",
+      "score": "Sussex vs Surrey 59th Match",
       "status": "Match Details"
     },
     {
@@ -407,20 +368,20 @@
       "status": "Match Details"
     },
     {
-      "title": "Warriors vs Western Province LIVE 1st Match",
+      "title": "Warriors vs Western Province 1st Match",
       "team1": {
         "name": "Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Province LIVE 1st Match",
+        "name": "Western Province 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Warriors vs Western Province LIVE 1st Match",
+      "score": "Warriors vs Western Province 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
+      "title": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
       "team1": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -429,7 +390,7 @@
         "name": "Eastvaal Renault Dragons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
+      "score": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
       "status": "Match Details"
     },
     {
@@ -459,16 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Kent LIVE 45th Match",
+      "title": "Derbyshire vs Kent 45th Match",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent LIVE 45th Match",
+        "name": "Kent 45th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Derbyshire vs Kent LIVE 45th Match",
+      "score": "Derbyshire vs Kent 45th Match",
       "status": "Match Details"
     },
     {
@@ -485,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Middlesex LIVE 47th Match",
+      "title": "Durham vs Middlesex 47th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Middlesex LIVE 47th Match",
+        "name": "Middlesex 47th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Durham vs Middlesex LIVE 47th Match",
+      "score": "Durham vs Middlesex 47th Match",
       "status": "Match Details"
     },
     {
@@ -511,29 +472,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Eastern Storm 1st Match",
+      "title": "South Western Districts vs Eastern Storm LIVE 1st Match",
       "team1": {
         "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Eastern Storm 1st Match",
+        "name": "Eastern Storm LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Western Districts vs Eastern Storm 1st Match",
+      "score": "South Western Districts vs Eastern Storm LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Border vs Limpopo LIVE 2nd Match",
+      "title": "Border vs Limpopo 2nd Match",
       "team1": {
         "name": "Border",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Limpopo LIVE 2nd Match",
+        "name": "Limpopo 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Border vs Limpopo LIVE 2nd Match",
+      "score": "Border vs Limpopo 2nd Match",
       "status": "Match Details"
     },
     {
@@ -563,16 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs Pakistan Women Semi Final 2 (B1 v A2)",
+      "title": "Pakistan Women vs Sri Lanka Women LIVE Semi Final 2 (B1 v A2)",
       "team1": {
-        "name": "Sri Lanka Women",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Pakistan Women Semi Final 2 (B1 v A2)",
+        "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Sri Lanka Women vs Pakistan Women Semi Final 2 (B1 v A2)",
+      "team2": {
+        "name": "Sri Lanka Women LIVE Semi Final 2 (B1 v A2)",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan Women vs Sri Lanka Women LIVE Semi Final 2 (B1 v A2)",
       "status": "Match Details"
     },
     {
@@ -602,6 +563,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women 4th Match",
+      "team1": {
+        "name": "Trinbago Knight Riders Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors Women 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women 4th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Japan Women vs Malaysia Women 1st T20I",
       "team1": {
         "name": "Japan Women",
@@ -628,42 +602,94 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs South Africa Women LIVE 1st T20I",
+      "title": "Zimbabwe Women vs South Africa Women 1st T20I",
       "team1": {
         "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "South Africa Women LIVE 1st T20I",
+        "name": "South Africa Women 1st T20I",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Zimbabwe Women vs South Africa Women LIVE 1st T20I",
+      "score": "Zimbabwe Women vs South Africa Women 1st T20I",
       "status": "Match Details"
     },
     {
-      "title": "56th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 377 & 104 Hampshire HAM 304 & 123 Nottinghamshire won by 54 runs",
+      "title": "2nd ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 335-9 (50) Namibia NAM 178 (41.5) South Africa won by 157 runs",
       "team1": {
-        "name": "56th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 377 & 104 Hampshire HAM 304 & 123 Nottinghamshire won by 54 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "2nd ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 335",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "9 (50) Namibia NAM 178 (41.5) South Africa won by 157 runs",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "56th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 377 & 104 Hampshire HAM 304 & 123 Nottinghamshire won by 54 runs",
+      "score": "2nd ODI •  Windhoek, Namibia Cricket Ground South Africa RSA 335-9 (50) Namibia NAM 178 (41.5) South Africa won by 157 runs",
       "status": "Match Details"
     },
     {
-      "title": "48th Match • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 212 & 169 Lancashire LANCS 134 & 142 Gloucestershire won by 105 runs",
+      "title": "21st Match • Dublin, The Village Edinburgh Castle Rockers ECR 174-4 (20) Dublin Guardians DBG 162-8 (20) Edinburgh Castle Rockers won by 12 runs",
       "team1": {
-        "name": "48th Match • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 212 & 169 Lancashire LANCS 134 & 142 Gloucestershire won by 105 runs",
+        "name": "21st Match • Dublin, The Village Edinburgh Castle Rockers ECR 174",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Dublin Guardians DBG 162",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "21st Match • Dublin, The Village Edinburgh Castle Rockers ECR 174-4 (20) Dublin Guardians DBG 162-8 (20) Edinburgh Castle Rockers won by 12 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "24th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 177-9 (20) Ludhiana Lions LDL 178-5 (18.3) Ludhiana Lions won by 5 wkts",
+      "team1": {
+        "name": "24th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 177",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "9 (20) Ludhiana Lions LDL 178",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "24th Match • Mohali, Punjab Cricket Association IS Bindra Stadium Amritsar Soormas AMS 177-9 (20) Ludhiana Lions LDL 178-5 (18.3) Ludhiana Lions won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "47th Match • Chester-le-Street, Riverside Ground Durham DUR 252 & 374 Middlesex MDX 203 & 330 Durham won by 93 runs",
+      "team1": {
+        "name": "47th Match • Chester",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "le",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "47th Match • Chester-le-Street, Riverside Ground Durham DUR 252 & 374 Middlesex MDX 203 & 330 Durham won by 93 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "45th Match • Derby, County Ground Derbyshire DERBY 300 & 352-8 d Kent KENT 219 & 252 Derbyshire won by 181 runs",
+      "team1": {
+        "name": "45th Match • Derby, County Ground Derbyshire DERBY 300 & 352",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "8 d Kent KENT 219 & 252 Derbyshire won by 181 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "48th Match • Manchester, Emirates Old Trafford Gloucestershire GLOUCS 212 & 169 Lancashire LANCS 134 & 142 Gloucestershire won by 105 runs",
+      "score": "45th Match • Derby, County Ground Derbyshire DERBY 300 & 352-8 d Kent KENT 219 & 252 Derbyshire won by 181 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st T20I • Bulawayo, Queens Sports Club Zimbabwe Women ZIMW 116 (19.3) South Africa Women RSAW 117-4 (13.1) South Africa Women won by 6 wkts",
+      "team1": {
+        "name": "1st T20I • Bulawayo, Queens Sports Club Zimbabwe Women ZIMW 116 (19.3) South Africa Women RSAW 117",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "4 (13.1) South Africa Women won by 6 wkts",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "1st T20I • Bulawayo, Queens Sports Club Zimbabwe Women ZIMW 116 (19.3) South Africa Women RSAW 117-4 (13.1) South Africa Women won by 6 wkts",
       "status": "Match Details"
     }
   ]
