@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-11 17:28:20 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-09-11 19:59:00 UTC",
+  "total_matches": 55,
   "matches": [
     {
-      "title": "PAK vs ENG - Lead by 96",
+      "title": "PAK vs ENG - Stumps",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,11 +13,11 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Lead by 96",
+      "score": "PAK vs ENG - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - Need 44 off 37b",
+      "title": "PAKW vs SLW - SLW won",
       "team1": {
         "name": "PAKW",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -26,7 +26,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - Need 44 off 37b",
+      "score": "PAKW vs SLW - SLW won",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs England LIVE 3rd Test",
+      "title": "Pakistan vs England 3rd Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "England LIVE 3rd Test",
+        "name": "England 3rd Test",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Pakistan vs England LIVE 3rd Test",
+      "score": "Pakistan vs England 3rd Test",
       "status": "Match Details"
     },
     {
@@ -225,29 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Semi Final 1",
+      "title": "Mohali Kings vs Amritsar Soormas Semi Final 1",
       "team1": {
-        "name": "TBC",
+        "name": "Mohali Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Semi Final 1",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Amritsar Soormas Semi Final 1",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "TBC vs TBC Semi Final 1",
+      "score": "Mohali Kings vs Amritsar Soormas Semi Final 1",
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Semi Final 2",
+      "title": "Ludhiana Lions vs Jalandhar Warriors Semi Final 2",
       "team1": {
-        "name": "TBC",
+        "name": "Ludhiana Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Semi Final 2",
+        "name": "Jalandhar Warriors Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC Semi Final 2",
+      "score": "Ludhiana Lions vs Jalandhar Warriors Semi Final 2",
       "status": "Match Details"
     },
     {
@@ -472,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Eastern Storm LIVE 1st Match",
+      "title": "South Western Districts vs Eastern Storm 1st Match",
       "team1": {
         "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Eastern Storm LIVE 1st Match",
+        "name": "Eastern Storm 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Western Districts vs Eastern Storm LIVE 1st Match",
+      "score": "South Western Districts vs Eastern Storm 1st Match",
       "status": "Match Details"
     },
     {
@@ -511,29 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Bangladesh Women Semi Final 1 (A1 v B2)",
-      "team1": {
-        "name": "India Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Bangladesh Women Semi Final 1 (A1 v B2)",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "India Women vs Bangladesh Women Semi Final 1 (A1 v B2)",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan Women vs Sri Lanka Women LIVE Semi Final 2 (B1 v A2)",
+      "title": "Pakistan Women vs Sri Lanka Women Semi Final 2 (B1 v A2)",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka Women LIVE Semi Final 2 (B1 v A2)",
+        "name": "Sri Lanka Women Semi Final 2 (B1 v A2)",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women LIVE Semi Final 2 (B1 v A2)",
+      "score": "Pakistan Women vs Sri Lanka Women Semi Final 2 (B1 v A2)",
       "status": "Match Details"
     },
     {
@@ -550,19 +537,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Empress Women vs Trinbago Knight Riders Women 3rd Match",
-      "team1": {
-        "name": "Jamaica Empress Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trinbago Knight Riders Women 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jamaica Empress Women vs Trinbago Knight Riders Women 3rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women 4th Match",
       "team1": {
         "name": "Trinbago Knight Riders Women",
@@ -573,6 +547,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Barbados Tridents Women vs Jamaica Empress Women 5th Match",
+      "team1": {
+        "name": "Barbados Tridents Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jamaica Empress Women 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Barbados Tridents Women vs Jamaica Empress Women 5th Match",
       "status": "Match Details"
     },
     {
@@ -628,6 +615,32 @@
       "status": "Match Details"
     },
     {
+      "title": "8th Match • Kigali City, Gahanga B Ground Botswana BW 108-8 (20) Kenya KEN 109-0 (8.1) Kenya won by 10 wkts",
+      "team1": {
+        "name": "8th Match • Kigali City, Gahanga B Ground Botswana BW 108",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Kenya KEN 109",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "8th Match • Kigali City, Gahanga B Ground Botswana BW 108-8 (20) Kenya KEN 109-0 (8.1) Kenya won by 10 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "7th Match • Kigali City, Gahanga B Ground Uganda UGA 198-9 (20) Rwanda RWA 134 (18.5) Uganda won by 64 runs",
+      "team1": {
+        "name": "7th Match • Kigali City, Gahanga B Ground Uganda UGA 198",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Rwanda RWA 134 (18.5) Uganda won by 64 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "7th Match • Kigali City, Gahanga B Ground Uganda UGA 198-9 (20) Rwanda RWA 134 (18.5) Uganda won by 64 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "21st Match • Dublin, The Village Edinburgh Castle Rockers ECR 174-4 (20) Dublin Guardians DBG 162-8 (20) Edinburgh Castle Rockers won by 12 runs",
       "team1": {
         "name": "21st Match • Dublin, The Village Edinburgh Castle Rockers ECR 174",
@@ -677,6 +690,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "45th Match • Derby, County Ground Derbyshire DERBY 300 & 352-8 d Kent KENT 219 & 252 Derbyshire won by 181 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Semi Final 2 (B1 v A2) • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 130-5 (20) Sri Lanka Women SLW 134-6 (18.4) Sri Lanka Women won by 4 wkts",
+      "team1": {
+        "name": "Semi Final 2 (B1 v A2) • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 130",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "5 (20) Sri Lanka Women SLW 134",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Semi Final 2 (B1 v A2) • Dubai, Dubai International Cricket Stadium Pakistan Women PAKW 130-5 (20) Sri Lanka Women SLW 134-6 (18.4) Sri Lanka Women won by 4 wkts",
       "status": "Match Details"
     },
     {
