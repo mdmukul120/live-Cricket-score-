@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-12 16:02:10 UTC",
-  "total_matches": 62,
+  "last_updated": "2026-09-12 18:19:05 UTC",
+  "total_matches": 52,
   "matches": [
     {
       "title": "PAK vs ENG - ENG won",
@@ -43,7 +43,20 @@
       "status": "Match Details"
     },
     {
-      "title": "DBG vs GGC - Need 119 off 78b",
+      "title": "NAM vs RSA - Preview",
+      "team1": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "NAM vs RSA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "DBG vs GGC - GGC won",
       "team1": {
         "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +65,7 @@
         "name": "GGC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DBG vs GGC - Need 119 off 78b",
-      "status": "Match Details"
-    },
-    {
-      "title": "BBT vs JKM - Preview",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BBT vs JKM - Preview",
+      "score": "DBG vs GGC - GGC won",
       "status": "Match Details"
     },
     {
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Edinburgh Castle Rockers vs Dublin Guardians 21st Match",
-      "team1": {
-        "name": "Edinburgh Castle Rockers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dublin Guardians 21st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Edinburgh Castle Rockers vs Dublin Guardians 21st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Belfast Wolves vs Rotterdam Dockers 22nd Match",
       "team1": {
         "name": "Belfast Wolves",
@@ -212,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dublin Guardians vs Glasgow Cosmic LIVE 23rd Match",
+      "title": "Dublin Guardians vs Glasgow Cosmic 23rd Match",
       "team1": {
         "name": "Dublin Guardians",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Glasgow Cosmic LIVE 23rd Match",
+        "name": "Glasgow Cosmic 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dublin Guardians vs Glasgow Cosmic LIVE 23rd Match",
+      "score": "Dublin Guardians vs Glasgow Cosmic 23rd Match",
       "status": "Match Details"
     },
     {
@@ -251,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs Ludhiana Lions 24th Match",
-      "team1": {
-        "name": "Amritsar Soormas",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Ludhiana Lions 24th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Amritsar Soormas vs Ludhiana Lions 24th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Mohali Kings vs Amritsar Soormas Semi Final 1",
       "team1": {
         "name": "Mohali Kings",
@@ -277,29 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Jalandhar Warriors LIVE Semi Final 2",
+      "title": "Ludhiana Lions vs Jalandhar Warriors Semi Final 2",
       "team1": {
         "name": "Ludhiana Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jalandhar Warriors LIVE Semi Final 2",
+        "name": "Jalandhar Warriors Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Ludhiana Lions vs Jalandhar Warriors LIVE Semi Final 2",
+      "score": "Ludhiana Lions vs Jalandhar Warriors Semi Final 2",
       "status": "Match Details"
     },
     {
-      "title": "Amritsar Soormas vs TBC Final",
+      "title": "Amritsar Soormas vs Ludhiana Lions Final",
       "team1": {
         "name": "Amritsar Soormas",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "TBC Final",
+        "name": "Ludhiana Lions Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amritsar Soormas vs TBC Final",
+      "score": "Amritsar Soormas vs Ludhiana Lions Final",
       "status": "Match Details"
     },
     {
@@ -381,71 +355,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Hampshire 56th Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Hampshire 56th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Hampshire 56th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Essex 57th Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Essex 57th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Essex 57th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Warwickshire 58th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire 58th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Glamorgan vs Warwickshire 58th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Surrey 59th Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Surrey 59th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sussex vs Surrey 59th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Somerset vs Leicestershire 60th Match",
-      "team1": {
-        "name": "Somerset",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire 60th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Somerset vs Leicestershire 60th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Sri Lanka vs England Lions 1st T20",
       "team1": {
         "name": "Sri Lanka",
@@ -485,7 +394,7 @@
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
+      "title": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
       "team1": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -494,20 +403,20 @@
         "name": "Eastvaal Renault Dragons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
+      "score": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Lions vs Boland LIVE 3rd Match",
+      "title": "Lions vs Boland 3rd Match",
       "team1": {
         "name": "Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Boland LIVE 3rd Match",
+        "name": "Boland 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lions vs Boland LIVE 3rd Match",
+      "score": "Lions vs Boland 3rd Match",
       "status": "Match Details"
     },
     {
@@ -524,85 +433,33 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Kent 45th Match",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent 45th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Derbyshire vs Kent 45th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Worcestershire vs Northamptonshire 46th Match",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Northamptonshire 46th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Northamptonshire 46th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Middlesex 47th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Middlesex 47th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Durham vs Middlesex 47th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Lancashire 48th Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Lancashire 48th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Gloucestershire vs Lancashire 48th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Western Districts vs Eastern Storm LIVE 1st Match",
+      "title": "South Western Districts vs Eastern Storm 1st Match",
       "team1": {
         "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Eastern Storm LIVE 1st Match",
+        "name": "Eastern Storm 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Western Districts vs Eastern Storm LIVE 1st Match",
+      "score": "South Western Districts vs Eastern Storm 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Border vs Limpopo LIVE 2nd Match",
+      "title": "Border vs Limpopo 2nd Match",
       "team1": {
         "name": "Border",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Limpopo LIVE 2nd Match",
+        "name": "Limpopo 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Border vs Limpopo LIVE 2nd Match",
+      "score": "Border vs Limpopo 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers LIVE 3rd Match",
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers 3rd Match",
       "team1": {
         "name": "Mpumalanga Rhinos",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -611,20 +468,7 @@
         "name": "KwaZulu",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers LIVE 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan Women vs Sri Lanka Women Semi Final 2 (B1 v A2)",
-      "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Sri Lanka Women Semi Final 2 (B1 v A2)",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Pakistan Women vs Sri Lanka Women Semi Final 2 (B1 v A2)",
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers 3rd Match",
       "status": "Match Details"
     },
     {
@@ -654,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women LIVE 4th Match",
+      "title": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women 4th Match",
       "team1": {
         "name": "Guyana Amazon Warriors Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Trinbago Knight Riders Women LIVE 4th Match",
+        "name": "Trinbago Knight Riders Women 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women LIVE 4th Match",
+      "score": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women 4th Match",
       "status": "Match Details"
     },
     {
@@ -677,6 +521,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Barbados Tridents Women vs Jamaica Empress Women 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women 6th Match",
+      "team1": {
+        "name": "Guyana Amazon Warriors Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Barbados Tridents Women 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Guyana Amazon Warriors Women vs Barbados Tridents Women 6th Match",
       "status": "Match Details"
     },
     {
@@ -732,29 +589,29 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd Test • Birmingham, Edgbaston Pakistan PAK 133 & 449 England ENG 453 & 130-2 England won by 8 wkts",
+      "title": "10th Match • Kigali City, Gahanga B Ground Botswana BW 165-4 (20) Sierra Leone SLE 142-9 (20) Botswana won by 23 runs",
       "team1": {
-        "name": "3rd Test • Birmingham, Edgbaston Pakistan PAK 133 & 449 England ENG 453 & 130",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "10th Match • Kigali City, Gahanga B Ground Botswana BW 165",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "2 England won by 8 wkts",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "4 (20) Sierra Leone SLE 142",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "3rd Test • Birmingham, Edgbaston Pakistan PAK 133 & 449 England ENG 453 & 130-2 England won by 8 wkts",
+      "score": "10th Match • Kigali City, Gahanga B Ground Botswana BW 165-4 (20) Sierra Leone SLE 142-9 (20) Botswana won by 23 runs",
       "status": "Match Details"
     },
     {
-      "title": "9th Match • Kigali City, Gahanga B Ground Uganda UGA 189-6 (20) Kenya KEN 193-2 (16.4) Kenya won by 8 wkts",
+      "title": "23rd Match • Dublin, The Village Dublin Guardians DBG 159 (19.3) Glasgow Cosmic GGC 162-4 (18.5) Glasgow Cosmic won by 6 wkts",
       "team1": {
-        "name": "9th Match • Kigali City, Gahanga B Ground Uganda UGA 189",
+        "name": "23rd Match • Dublin, The Village Dublin Guardians DBG 159 (19.3) Glasgow Cosmic GGC 162",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) Kenya KEN 193",
+        "name": "4 (18.5) Glasgow Cosmic won by 6 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "9th Match • Kigali City, Gahanga B Ground Uganda UGA 189-6 (20) Kenya KEN 193-2 (16.4) Kenya won by 8 wkts",
+      "score": "23rd Match • Dublin, The Village Dublin Guardians DBG 159 (19.3) Glasgow Cosmic GGC 162-4 (18.5) Glasgow Cosmic won by 6 wkts",
       "status": "Match Details"
     },
     {
@@ -771,29 +628,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Semi Final 1 • Mohali, Punjab Cricket Association IS Bindra Stadium Mohali Kings MHK 169-7 (20) Amritsar Soormas AMS 172-3 (16.3) Amritsar Soormas won by 7 wkts",
+      "title": "Semi Final 2 • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 220-5 (20) Jalandhar Warriors JLW 203-8 (20) Ludhiana Lions won by 17 runs",
       "team1": {
-        "name": "Semi Final 1 • Mohali, Punjab Cricket Association IS Bindra Stadium Mohali Kings MHK 169",
+        "name": "Semi Final 2 • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 220",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "7 (20) Amritsar Soormas AMS 172",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "5 (20) Jalandhar Warriors JLW 203",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Semi Final 1 • Mohali, Punjab Cricket Association IS Bindra Stadium Mohali Kings MHK 169-7 (20) Amritsar Soormas AMS 172-3 (16.3) Amritsar Soormas won by 7 wkts",
+      "score": "Semi Final 2 • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 220-5 (20) Jalandhar Warriors JLW 203-8 (20) Ludhiana Lions won by 17 runs",
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
+      "title": "3rd Unofficial ODI • Potchefstroom, Senwes Park South Africa A RSAA 182 (40) Bangladesh A BANA 185-5 (33) Bangladesh A won by 5 wkts",
       "team1": {
-        "name": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "3rd Unofficial ODI • Potchefstroom, Senwes Park South Africa A RSAA 182 (40) Bangladesh A BANA 185",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "5 (33) Bangladesh A won by 5 wkts",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
+      "score": "3rd Unofficial ODI • Potchefstroom, Senwes Park South Africa A RSAA 182 (40) Bangladesh A BANA 185-5 (33) Bangladesh A won by 5 wkts",
       "status": "Match Details"
     },
     {
@@ -807,6 +664,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "1st unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur India A Women INDWA 117 (19) Australia A Women AUSWA 121-4 (14) Australia A Women won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 119-8 (20) Trinbago Knight Riders Women TKRW 94-9 (20) Guyana Amazon Warriors Women won by 25 runs",
+      "team1": {
+        "name": "4th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 119",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Trinbago Knight Riders Women TKRW 94",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 119-8 (20) Trinbago Knight Riders Women TKRW 94-9 (20) Guyana Amazon Warriors Women won by 25 runs",
       "status": "Match Details"
     }
   ]
