@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-12 09:12:33 UTC",
-  "total_matches": 52,
+  "last_updated": "2026-09-12 12:53:47 UTC",
+  "total_matches": 59,
   "matches": [
     {
-      "title": "PAK vs ENG - Stumps",
+      "title": "PAK vs ENG - ENG won",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,20 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "TKR vs GAW - GAW won",
-      "team1": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TKR vs GAW - GAW won",
+      "score": "PAK vs ENG - ENG won",
       "status": "Match Details"
     },
     {
@@ -43,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "BFW vs RDD - RDD opt to bowl",
+      "title": "BFW vs RDD - RDD won",
       "team1": {
         "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +39,33 @@
         "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BFW vs RDD - RDD opt to bowl",
+      "score": "BFW vs RDD - RDD won",
       "status": "Match Details"
     },
     {
-      "title": "NEP vs UAE - Need 57 off 30b",
+      "title": "BBT vs JKM - Preview",
       "team1": {
-        "name": "NEP",
+        "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "UAE",
+        "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NEP vs UAE - Need 57 off 30b",
+      "score": "BBT vs JKM - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "TKRW vs GAWW - Preview",
+      "team1": {
+        "name": "TKRW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAWW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKRW vs GAWW - Preview",
       "status": "Match Details"
     },
     {
@@ -108,19 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Rwanda 7th Match",
-      "team1": {
-        "name": "Uganda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Rwanda 7th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uganda vs Rwanda 7th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Botswana vs Kenya 8th Match",
       "team1": {
         "name": "Botswana",
@@ -134,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Kenya LIVE 9th Match",
+      "title": "Uganda vs Kenya 9th Match",
       "team1": {
         "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kenya LIVE 9th Match",
+        "name": "Kenya 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda vs Kenya LIVE 9th Match",
+      "score": "Uganda vs Kenya 9th Match",
       "status": "Match Details"
     },
     {
@@ -170,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Sierra Leone vs Kenya 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Botswana vs Rwanda 12th Match",
+      "team1": {
+        "name": "Botswana",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rwanda 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Botswana vs Rwanda 12th Match",
       "status": "Match Details"
     },
     {
@@ -238,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Edinburgh Castle Rockers vs Amsterdam Flames 24th Match",
+      "team1": {
+        "name": "Edinburgh Castle Rockers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Amsterdam Flames 24th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Edinburgh Castle Rockers vs Amsterdam Flames 24th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Amritsar Soormas vs Ludhiana Lions 24th Match",
       "team1": {
         "name": "Amritsar Soormas",
@@ -251,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mohali Kings vs Amritsar Soormas LIVE Semi Final 1",
+      "title": "Mohali Kings vs Amritsar Soormas Semi Final 1",
       "team1": {
         "name": "Mohali Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Amritsar Soormas LIVE Semi Final 1",
+        "name": "Amritsar Soormas Semi Final 1",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Mohali Kings vs Amritsar Soormas LIVE Semi Final 1",
+      "score": "Mohali Kings vs Amritsar Soormas Semi Final 1",
       "status": "Match Details"
     },
     {
@@ -290,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nepal vs United Arab Emirates LIVE Final",
+      "title": "Nepal vs United Arab Emirates Final",
       "team1": {
         "name": "Nepal",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates LIVE Final",
+        "name": "United Arab Emirates Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nepal vs United Arab Emirates LIVE Final",
+      "score": "Nepal vs United Arab Emirates Final",
       "status": "Match Details"
     },
     {
@@ -329,7 +342,7 @@
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers 3rd Match",
       "team1": {
         "name": "Mpumalanga Rhinos",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -338,7 +351,7 @@
         "name": "KwaZulu",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers 3rd Match",
       "status": "Match Details"
     },
     {
@@ -472,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dolphins vs Titans LIVE 4th Match",
+      "title": "Dolphins vs Titans 4th Match",
       "team1": {
         "name": "Dolphins",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Titans LIVE 4th Match",
+        "name": "Titans 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dolphins vs Titans LIVE 4th Match",
+      "score": "Dolphins vs Titans 4th Match",
       "status": "Match Details"
     },
     {
@@ -563,7 +576,7 @@
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers LIVE 3rd Match",
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers LIVE 3rd Match",
       "team1": {
         "name": "Mpumalanga Rhinos",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -572,7 +585,7 @@
         "name": "KwaZulu",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers LIVE 3rd Match",
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -589,16 +602,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women 1st unofficial T20",
+      "title": "India A Women vs Australia A Women LIVE 1st unofficial T20",
       "team1": {
         "name": "India A Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A Women 1st unofficial T20",
+        "name": "Australia A Women LIVE 1st unofficial T20",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women 1st unofficial T20",
+      "score": "India A Women vs Australia A Women LIVE 1st unofficial T20",
       "status": "Match Details"
     },
     {
@@ -667,16 +680,94 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd Place Play-off • Bangi, YSD-UKM Cricket Oval Oman OMAN 144 (40.1) Hong Kong, China HKC 146-1 (19.5) Hong Kong, China won by 9 wkts",
+      "title": "Zimbabwe Women vs South Africa Women 2nd T20I",
       "team1": {
-        "name": "3rd Place Play",
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "South Africa Women 2nd T20I",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Zimbabwe Women vs South Africa Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Test • Birmingham, Edgbaston Pakistan PAK 133 & 449 England ENG 453 & 130-2 England won by 8 wkts",
+      "team1": {
+        "name": "3rd Test • Birmingham, Edgbaston Pakistan PAK 133 & 449 England ENG 453 & 130",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "2 England won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "3rd Test • Birmingham, Edgbaston Pakistan PAK 133 & 449 England ENG 453 & 130-2 England won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "9th Match • Kigali City, Gahanga B Ground Uganda UGA 189-6 (20) Kenya KEN 193-2 (16.4) Kenya won by 8 wkts",
+      "team1": {
+        "name": "9th Match • Kigali City, Gahanga B Ground Uganda UGA 189",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "off • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "6 (20) Kenya KEN 193",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd Place Play-off • Bangi, YSD-UKM Cricket Oval Oman OMAN 144 (40.1) Hong Kong, China HKC 146-1 (19.5) Hong Kong, China won by 9 wkts",
+      "score": "9th Match • Kigali City, Gahanga B Ground Uganda UGA 189-6 (20) Kenya KEN 193-2 (16.4) Kenya won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "22nd Match • Dublin, The Village Belfast Wolves BFW 161-6 (20) Rotterdam Dockers RDD 162-3 (18) Rotterdam Dockers won by 7 wkts",
+      "team1": {
+        "name": "22nd Match • Dublin, The Village Belfast Wolves BFW 161",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Rotterdam Dockers RDD 162",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "22nd Match • Dublin, The Village Belfast Wolves BFW 161-6 (20) Rotterdam Dockers RDD 162-3 (18) Rotterdam Dockers won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Semi Final 1 • Mohali, Punjab Cricket Association IS Bindra Stadium Mohali Kings MHK 169-7 (20) Amritsar Soormas AMS 172-3 (16.3) Amritsar Soormas won by 7 wkts",
+      "team1": {
+        "name": "Semi Final 1 • Mohali, Punjab Cricket Association IS Bindra Stadium Mohali Kings MHK 169",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (20) Amritsar Soormas AMS 172",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Semi Final 1 • Mohali, Punjab Cricket Association IS Bindra Stadium Mohali Kings MHK 169-7 (20) Amritsar Soormas AMS 172-3 (16.3) Amritsar Soormas won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 313-9 (50) United Arab Emirates UAE 269 (49.1) Nepal won by 44 runs",
+      "team1": {
+        "name": "Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 313",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (50) United Arab Emirates UAE 269 (49.1) Nepal won by 44 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 313-9 (50) United Arab Emirates UAE 269 (49.1) Nepal won by 44 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
+      "team1": {
+        "name": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
       "status": "Match Details"
     }
   ]
