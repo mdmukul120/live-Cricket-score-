@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-12 12:53:47 UTC",
-  "total_matches": 59,
+  "last_updated": "2026-09-12 16:02:10 UTC",
+  "total_matches": 62,
   "matches": [
     {
       "title": "PAK vs ENG - ENG won",
@@ -17,29 +17,42 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs SLW - SLW won",
+      "title": "AFG vs IND - Preview",
       "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AFG vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDW vs SLW - Preview",
+      "team1": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAKW vs SLW - SLW won",
+      "score": "INDW vs SLW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "BFW vs RDD - RDD won",
+      "title": "DBG vs GGC - Need 119 off 78b",
       "team1": {
-        "name": "BFW",
+        "name": "DBG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "RDD",
+        "name": "GGC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BFW vs RDD - RDD won",
+      "score": "DBG vs GGC - Need 119 off 78b",
       "status": "Match Details"
     },
     {
@@ -56,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "TKRW vs GAWW - Preview",
+      "title": "Afghanistan vs India 1st T20I",
       "team1": {
-        "name": "TKRW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "GAWW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India 1st T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "TKRW vs GAWW - Preview",
+      "score": "Afghanistan vs India 1st T20I",
       "status": "Match Details"
     },
     {
@@ -82,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Namibia 2nd ODI",
-      "team1": {
-        "name": "South Africa",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Namibia 2nd ODI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Africa vs Namibia 2nd ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Namibia vs South Africa 3rd ODI",
       "team1": {
         "name": "Namibia",
@@ -105,19 +105,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Namibia vs South Africa 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Botswana vs Kenya 8th Match",
-      "team1": {
-        "name": "Botswana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kenya 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Botswana vs Kenya 8th Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dublin Guardians vs Glasgow Cosmic 23rd Match",
+      "title": "Dublin Guardians vs Glasgow Cosmic LIVE 23rd Match",
       "team1": {
         "name": "Dublin Guardians",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Glasgow Cosmic 23rd Match",
+        "name": "Glasgow Cosmic LIVE 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dublin Guardians vs Glasgow Cosmic 23rd Match",
+      "score": "Dublin Guardians vs Glasgow Cosmic LIVE 23rd Match",
       "status": "Match Details"
     },
     {
@@ -248,6 +235,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Edinburgh Castle Rockers vs Amsterdam Flames 24th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Belfast Wolves vs Glasgow Cosmic 25th Match",
+      "team1": {
+        "name": "Belfast Wolves",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Glasgow Cosmic 25th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Belfast Wolves vs Glasgow Cosmic 25th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Jalandhar Warriors Semi Final 2",
+      "title": "Ludhiana Lions vs Jalandhar Warriors LIVE Semi Final 2",
       "team1": {
         "name": "Ludhiana Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jalandhar Warriors Semi Final 2",
+        "name": "Jalandhar Warriors LIVE Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Ludhiana Lions vs Jalandhar Warriors Semi Final 2",
+      "score": "Ludhiana Lions vs Jalandhar Warriors LIVE Semi Final 2",
+      "status": "Match Details"
+    },
+    {
+      "title": "Amritsar Soormas vs TBC Final",
+      "team1": {
+        "name": "Amritsar Soormas",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "TBC Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Amritsar Soormas vs TBC Final",
       "status": "Match Details"
     },
     {
@@ -446,6 +459,19 @@
       "status": "Match Details"
     },
     {
+      "title": "England Lions vs Sri Lanka 2nd T20",
+      "team1": {
+        "name": "England Lions",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 2nd T20",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "England Lions vs Sri Lanka 2nd T20",
+      "status": "Match Details"
+    },
+    {
       "title": "Warriors vs Western Province 1st Match",
       "team1": {
         "name": "Warriors",
@@ -602,29 +628,42 @@
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women LIVE 1st unofficial T20",
+      "title": "India Women vs Sri Lanka Women Final",
+      "team1": {
+        "name": "India Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Sri Lanka Women Final",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "India Women vs Sri Lanka Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "India A Women vs Australia A Women 1st unofficial T20",
       "team1": {
         "name": "India A Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A Women LIVE 1st unofficial T20",
+        "name": "Australia A Women 1st unofficial T20",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women LIVE 1st unofficial T20",
+      "score": "India A Women vs Australia A Women 1st unofficial T20",
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women 4th Match",
+      "title": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women LIVE 4th Match",
       "team1": {
-        "name": "Trinbago Knight Riders Women",
+        "name": "Guyana Amazon Warriors Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors Women 4th Match",
+        "name": "Trinbago Knight Riders Women LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women 4th Match",
+      "score": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -654,6 +693,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Japan Women vs Malaysia Women 2nd T20I (Rescheduled match)",
+      "team1": {
+        "name": "Japan Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Malaysia Women 2nd T20I (Rescheduled match)",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Japan Women vs Malaysia Women 2nd T20I (Rescheduled match)",
+      "status": "Match Details"
+    },
+    {
       "title": "Japan Women vs Malaysia Women 3rd T20I",
       "team1": {
         "name": "Japan Women",
@@ -664,19 +716,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Japan Women vs Malaysia Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zimbabwe Women vs South Africa Women 1st T20I",
-      "team1": {
-        "name": "Zimbabwe Women",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "South Africa Women 1st T20I",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Zimbabwe Women vs South Africa Women 1st T20I",
       "status": "Match Details"
     },
     {
@@ -745,19 +784,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 313-9 (50) United Arab Emirates UAE 269 (49.1) Nepal won by 44 runs",
-      "team1": {
-        "name": "Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 313",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (50) United Arab Emirates UAE 269 (49.1) Nepal won by 44 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Final • Kuala Lumpur, Bayuemas Oval Nepal NEP 313-9 (50) United Arab Emirates UAE 269 (49.1) Nepal won by 44 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
       "team1": {
         "name": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
@@ -768,6 +794,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th Match • Centurion, SuperSport Park Dolphins DOL 157 & 204 Titans TIT 421 Titans won by an innings and 60 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur India A Women INDWA 117 (19) Australia A Women AUSWA 121-4 (14) Australia A Women won by 6 wkts",
+      "team1": {
+        "name": "1st unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur India A Women INDWA 117 (19) Australia A Women AUSWA 121",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "4 (14) Australia A Women won by 6 wkts",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "1st unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur India A Women INDWA 117 (19) Australia A Women AUSWA 121-4 (14) Australia A Women won by 6 wkts",
       "status": "Match Details"
     }
   ]
