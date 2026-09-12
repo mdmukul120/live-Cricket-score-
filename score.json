@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-12 04:59:25 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-09-12 09:12:33 UTC",
+  "total_matches": 52,
   "matches": [
     {
       "title": "PAK vs ENG - Stumps",
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "BFW vs RDD - Preview",
+      "title": "BFW vs RDD - RDD opt to bowl",
       "team1": {
         "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +52,20 @@
         "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BFW vs RDD - Preview",
+      "score": "BFW vs RDD - RDD opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "MHK vs AMS - Preview",
+      "title": "NEP vs UAE - Need 57 off 30b",
       "team1": {
-        "name": "MHK",
+        "name": "NEP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "AMS",
+        "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MHK vs AMS - Preview",
+      "score": "NEP vs UAE - Need 57 off 30b",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Namibia vs South Africa 3rd ODI",
+      "team1": {
+        "name": "Namibia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Africa 3rd ODI",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Namibia vs South Africa 3rd ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Uganda vs Rwanda 7th Match",
       "team1": {
         "name": "Uganda",
@@ -121,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Kenya 9th Match",
+      "title": "Uganda vs Kenya LIVE 9th Match",
       "team1": {
         "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kenya 9th Match",
+        "name": "Kenya LIVE 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda vs Kenya 9th Match",
+      "score": "Uganda vs Kenya LIVE 9th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Botswana vs Sierra Leone 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sierra Leone vs Kenya 11th Match",
+      "team1": {
+        "name": "Sierra Leone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kenya 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sierra Leone vs Kenya 11th Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mohali Kings vs Amritsar Soormas Semi Final 1",
+      "title": "Mohali Kings vs Amritsar Soormas LIVE Semi Final 1",
       "team1": {
         "name": "Mohali Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Amritsar Soormas Semi Final 1",
+        "name": "Amritsar Soormas LIVE Semi Final 1",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Mohali Kings vs Amritsar Soormas Semi Final 1",
+      "score": "Mohali Kings vs Amritsar Soormas LIVE Semi Final 1",
       "status": "Match Details"
     },
     {
@@ -274,6 +300,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nepal vs United Arab Emirates LIVE Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Eastern Storm vs South Western Districts 1st Match",
+      "team1": {
+        "name": "Eastern Storm",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Western Districts 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Eastern Storm vs South Western Districts 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Limpopo vs Border 2nd Match",
+      "team1": {
+        "name": "Limpopo",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Border 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Limpopo vs Border 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "team1": {
+        "name": "Mpumalanga Rhinos",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
       "status": "Match Details"
     },
     {
@@ -381,7 +446,7 @@
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
+      "title": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
       "team1": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -390,33 +455,33 @@
         "name": "Eastvaal Renault Dragons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
+      "score": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Lions vs Boland 3rd Match",
+      "title": "Lions vs Boland LIVE 3rd Match",
       "team1": {
         "name": "Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Boland 3rd Match",
+        "name": "Boland LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lions vs Boland 3rd Match",
+      "score": "Lions vs Boland LIVE 3rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Dolphins vs Titans 4th Match",
+      "title": "Dolphins vs Titans LIVE 4th Match",
       "team1": {
         "name": "Dolphins",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Titans 4th Match",
+        "name": "Titans LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dolphins vs Titans 4th Match",
+      "score": "Dolphins vs Titans LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -472,33 +537,33 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Eastern Storm 1st Match",
+      "title": "South Western Districts vs Eastern Storm LIVE 1st Match",
       "team1": {
         "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Eastern Storm 1st Match",
+        "name": "Eastern Storm LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Western Districts vs Eastern Storm 1st Match",
+      "score": "South Western Districts vs Eastern Storm LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Border vs Limpopo 2nd Match",
+      "title": "Border vs Limpopo LIVE 2nd Match",
       "team1": {
         "name": "Border",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Limpopo 2nd Match",
+        "name": "Limpopo LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Border vs Limpopo 2nd Match",
+      "score": "Border vs Limpopo LIVE 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers LIVE 3rd Match",
       "team1": {
         "name": "Mpumalanga Rhinos",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -507,7 +572,7 @@
         "name": "KwaZulu",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
+      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -602,16 +667,16 @@
       "status": "Match Details"
     },
     {
-      "title": "33rd Match • Guyana, Providence Stadium Trinbago Knight Riders TKR 126-8 (20) Guyana Amazon Warriors GAW 127-4 (18.4) Guyana Amazon Warriors won by 6 wkts",
+      "title": "3rd Place Play-off • Bangi, YSD-UKM Cricket Oval Oman OMAN 144 (40.1) Hong Kong, China HKC 146-1 (19.5) Hong Kong, China won by 9 wkts",
       "team1": {
-        "name": "33rd Match • Guyana, Providence Stadium Trinbago Knight Riders TKR 126",
+        "name": "3rd Place Play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) Guyana Amazon Warriors GAW 127",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "off • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "33rd Match • Guyana, Providence Stadium Trinbago Knight Riders TKR 126-8 (20) Guyana Amazon Warriors GAW 127-4 (18.4) Guyana Amazon Warriors won by 6 wkts",
+      "score": "3rd Place Play-off • Bangi, YSD-UKM Cricket Oval Oman OMAN 144 (40.1) Hong Kong, China HKC 146-1 (19.5) Hong Kong, China won by 9 wkts",
       "status": "Match Details"
     }
   ]
