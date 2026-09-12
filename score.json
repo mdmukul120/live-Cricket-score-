@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-12 00:33:53 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-09-12 04:59:25 UTC",
+  "total_matches": 47,
   "matches": [
-    {
-      "title": "TKR vs GAW - GAW opt to bowl",
-      "team1": {
-        "name": "TKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "TKR vs GAW - GAW opt to bowl",
-      "status": "Match Details"
-    },
     {
       "title": "PAK vs ENG - Stumps",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "PAK vs ENG - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "TKR vs GAW - GAW won",
+      "team1": {
+        "name": "TKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TKR vs GAW - GAW won",
       "status": "Match Details"
     },
     {
@@ -43,29 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "RSA vs NAM - RSA won",
+      "title": "BFW vs RDD - Preview",
       "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "NAM",
+        "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RSA vs NAM - RSA won",
+      "team2": {
+        "name": "RDD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BFW vs RDD - Preview",
       "status": "Match Details"
     },
     {
-      "title": "ECR vs DBG - ECR won",
+      "title": "MHK vs AMS - Preview",
       "team1": {
-        "name": "ECR",
+        "name": "MHK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "DBG",
+        "name": "AMS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ECR vs DBG - ECR won",
+      "score": "MHK vs AMS - Preview",
       "status": "Match Details"
     },
     {
@@ -147,29 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "St Kitts and Nevis Patriots vs Barbados Tridents 32nd Match",
-      "team1": {
-        "name": "St Kitts and Nevis Patriots",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Barbados Tridents 32nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "St Kitts and Nevis Patriots vs Barbados Tridents 32nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Trinbago Knight Riders vs Guyana Amazon Warriors LIVE 33rd Match",
+      "title": "Trinbago Knight Riders vs Guyana Amazon Warriors 33rd Match",
       "team1": {
         "name": "Trinbago Knight Riders",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors LIVE 33rd Match",
+        "name": "Guyana Amazon Warriors 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Guyana Amazon Warriors LIVE 33rd Match",
+      "score": "Trinbago Knight Riders vs Guyana Amazon Warriors 33rd Match",
       "status": "Match Details"
     },
     {
@@ -264,29 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Oman 3rd Place Play-off",
+      "title": "Oman vs Hong Kong, China 3rd Place Play-off",
       "team1": {
-        "name": "Hong Kong, China",
+        "name": "Oman",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Oman 3rd Place Play",
+        "name": "Hong Kong, China 3rd Place Play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Oman 3rd Place Play-off",
+      "score": "Oman vs Hong Kong, China 3rd Place Play-off",
       "status": "Match Details"
     },
     {
-      "title": "Nepal vs United Arab Emirates Final",
+      "title": "Nepal vs United Arab Emirates LIVE Final",
       "team1": {
         "name": "Nepal",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates Final",
+        "name": "United Arab Emirates LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nepal vs United Arab Emirates Final",
+      "score": "Nepal vs United Arab Emirates LIVE Final",
       "status": "Match Details"
     },
     {
@@ -485,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "South Western Districts vs Eastern Storm 1st Match",
+      "team1": {
+        "name": "South Western Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastern Storm 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Western Districts vs Eastern Storm 1st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Border vs Limpopo 2nd Match",
       "team1": {
         "name": "Border",
@@ -508,19 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland - Tuskers 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Western Districts vs Eastern Storm 1st Match",
-      "team1": {
-        "name": "South Western Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastern Storm 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Western Districts vs Eastern Storm 1st Match",
       "status": "Match Details"
     },
     {
@@ -576,19 +563,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Japan Women vs Malaysia Women 1st T20I",
-      "team1": {
-        "name": "Japan Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Malaysia Women 1st T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Japan Women vs Malaysia Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Japan Women vs Malaysia Women 2nd T20I",
       "team1": {
         "name": "Japan Women",
@@ -599,6 +573,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Japan Women vs Malaysia Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Japan Women vs Malaysia Women 3rd T20I",
+      "team1": {
+        "name": "Japan Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Malaysia Women 3rd T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Japan Women vs Malaysia Women 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -615,16 +602,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st T20 • Chelmsford, The Ambassador Cruise Line Ground Sri Lanka SL 117 (16.4) England Lions ENGA 118-1 (7.2) England Lions won by 9 wkts",
+      "title": "33rd Match • Guyana, Providence Stadium Trinbago Knight Riders TKR 126-8 (20) Guyana Amazon Warriors GAW 127-4 (18.4) Guyana Amazon Warriors won by 6 wkts",
       "team1": {
-        "name": "1st T20 • Chelmsford, The Ambassador Cruise Line Ground Sri Lanka SL 117 (16.4) England Lions ENGA 118",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "33rd Match • Guyana, Providence Stadium Trinbago Knight Riders TKR 126",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "1 (7.2) England Lions won by 9 wkts",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "8 (20) Guyana Amazon Warriors GAW 127",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st T20 • Chelmsford, The Ambassador Cruise Line Ground Sri Lanka SL 117 (16.4) England Lions ENGA 118-1 (7.2) England Lions won by 9 wkts",
+      "score": "33rd Match • Guyana, Providence Stadium Trinbago Knight Riders TKR 126-8 (20) Guyana Amazon Warriors GAW 127-4 (18.4) Guyana Amazon Warriors won by 6 wkts",
       "status": "Match Details"
     }
   ]
