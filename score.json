@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-09-12 22:37:06 UTC",
-  "total_matches": 49,
+  "last_updated": "2026-09-13 00:22:11 UTC",
+  "total_matches": 46,
   "matches": [
     {
-      "title": "PAK vs ENG - ENG won",
+      "title": "JKM vs BBT - BBT opt to bowl",
       "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PAK vs ENG - ENG won",
+      "score": "JKM vs BBT - BBT opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "DBG vs GGC - GGC won",
+      "title": "PAK vs ENG - ENG won",
       "team1": {
-        "name": "DBG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "GGC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "DBG vs GGC - GGC won",
+      "score": "PAK vs ENG - ENG won",
       "status": "Match Details"
     },
     {
@@ -173,16 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Jamaica Kingsmen 34th Match",
+      "title": "Jamaica Kingsmen vs Barbados Tridents LIVE 34th Match",
+      "team1": {
+        "name": "Jamaica Kingsmen",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Barbados Tridents LIVE 34th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jamaica Kingsmen vs Barbados Tridents LIVE 34th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Barbados Tridents vs Guyana Amazon Warriors 35th Match",
       "team1": {
         "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen 34th Match",
+        "name": "Guyana Amazon Warriors 35th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs Jamaica Kingsmen 34th Match",
+      "score": "Barbados Tridents vs Guyana Amazon Warriors 35th Match",
       "status": "Match Details"
     },
     {
@@ -576,68 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "10th Match • Kigali City, Gahanga B Ground Botswana BW 165-4 (20) Sierra Leone SLE 142-9 (20) Botswana won by 23 runs",
+      "title": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140-7 (20) Jamaica Empress Women JEW 137-4 (20) Barbados Tridents Women won by 3 runs",
       "team1": {
-        "name": "10th Match • Kigali City, Gahanga B Ground Botswana BW 165",
+        "name": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "4 (20) Sierra Leone SLE 142",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "10th Match • Kigali City, Gahanga B Ground Botswana BW 165-4 (20) Sierra Leone SLE 142-9 (20) Botswana won by 23 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "23rd Match • Dublin, The Village Dublin Guardians DBG 159 (19.3) Glasgow Cosmic GGC 162-4 (18.5) Glasgow Cosmic won by 6 wkts",
-      "team1": {
-        "name": "23rd Match • Dublin, The Village Dublin Guardians DBG 159 (19.3) Glasgow Cosmic GGC 162",
+        "name": "7 (20) Jamaica Empress Women JEW 137",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "4 (18.5) Glasgow Cosmic won by 6 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "23rd Match • Dublin, The Village Dublin Guardians DBG 159 (19.3) Glasgow Cosmic GGC 162-4 (18.5) Glasgow Cosmic won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Semi Final 2 • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 220-5 (20) Jalandhar Warriors JLW 203-8 (20) Ludhiana Lions won by 17 runs",
-      "team1": {
-        "name": "Semi Final 2 • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 220",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "5 (20) Jalandhar Warriors JLW 203",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Semi Final 2 • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 220-5 (20) Jalandhar Warriors JLW 203-8 (20) Ludhiana Lions won by 17 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Unofficial ODI • Potchefstroom, Senwes Park South Africa A RSAA 182 (40) Bangladesh A BANA 185-5 (33) Bangladesh A won by 5 wkts",
-      "team1": {
-        "name": "3rd Unofficial ODI • Potchefstroom, Senwes Park South Africa A RSAA 182 (40) Bangladesh A BANA 185",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "5 (33) Bangladesh A won by 5 wkts",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "3rd Unofficial ODI • Potchefstroom, Senwes Park South Africa A RSAA 182 (40) Bangladesh A BANA 185-5 (33) Bangladesh A won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 119-8 (20) Trinbago Knight Riders Women TKRW 94-9 (20) Guyana Amazon Warriors Women won by 25 runs",
-      "team1": {
-        "name": "4th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 119",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Trinbago Knight Riders Women TKRW 94",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors Women GAWW 119-8 (20) Trinbago Knight Riders Women TKRW 94-9 (20) Guyana Amazon Warriors Women won by 25 runs",
+      "score": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140-7 (20) Jamaica Empress Women JEW 137-4 (20) Barbados Tridents Women won by 3 runs",
       "status": "Match Details"
     }
   ]
