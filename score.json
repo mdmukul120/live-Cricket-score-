@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-13 14:29:03 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-09-13 17:36:20 UTC",
+  "total_matches": 42,
   "matches": [
     {
-      "title": "AFG vs IND - IND opt to bowl",
+      "title": "AFG vs IND - IND won",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -13,11 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AFG vs IND - IND opt to bowl",
+      "score": "AFG vs IND - IND won",
       "status": "Match Details"
     },
     {
-      "title": "INDW vs SLW - INDW opt to bat",
+      "title": "INDW vs SLW - Need 83 off 27b",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -26,7 +26,33 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "INDW vs SLW - INDW opt to bat",
+      "score": "INDW vs SLW - Need 83 off 27b",
+      "status": "Match Details"
+    },
+    {
+      "title": "BFW vs GGC - BFW won",
+      "team1": {
+        "name": "BFW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GGC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BFW vs GGC - BFW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "LDL vs AMS -",
+      "team1": {
+        "name": "LDL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "AMS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "LDL vs AMS -",
       "status": "Match Details"
     },
     {
@@ -43,42 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "BFW vs GGC - GGC opt to bowl",
-      "team1": {
-        "name": "BFW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GGC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BFW vs GGC - GGC opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "JKM vs BBT - BBT won",
-      "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKM vs BBT - BBT won",
-      "status": "Match Details"
-    },
-    {
-      "title": "Afghanistan vs India LIVE 1st T20I",
+      "title": "Afghanistan vs India 1st T20I",
       "team1": {
         "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "India LIVE 1st T20I",
+        "name": "India 1st T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Afghanistan vs India LIVE 1st T20I",
+      "score": "Afghanistan vs India 1st T20I",
       "status": "Match Details"
     },
     {
@@ -105,19 +105,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Namibia vs South Africa 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Botswana vs Sierra Leone 10th Match",
-      "team1": {
-        "name": "Botswana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sierra Leone 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Botswana vs Sierra Leone 10th Match",
       "status": "Match Details"
     },
     {
@@ -186,19 +173,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Dublin Guardians vs Glasgow Cosmic 23rd Match",
-      "team1": {
-        "name": "Dublin Guardians",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Glasgow Cosmic 23rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Dublin Guardians vs Glasgow Cosmic 23rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Edinburgh Castle Rockers vs Amsterdam Flames 24th Match",
       "team1": {
         "name": "Edinburgh Castle Rockers",
@@ -212,29 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Belfast Wolves vs Glasgow Cosmic LIVE 25th Match",
+      "title": "Belfast Wolves vs Glasgow Cosmic 25th Match",
       "team1": {
         "name": "Belfast Wolves",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Glasgow Cosmic LIVE 25th Match",
+        "name": "Glasgow Cosmic 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Belfast Wolves vs Glasgow Cosmic LIVE 25th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Ludhiana Lions vs Jalandhar Warriors Semi Final 2",
-      "team1": {
-        "name": "Ludhiana Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jalandhar Warriors Semi Final 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Ludhiana Lions vs Jalandhar Warriors Semi Final 2",
+      "score": "Belfast Wolves vs Glasgow Cosmic 25th Match",
       "status": "Match Details"
     },
     {
@@ -290,46 +251,33 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa A vs Bangladesh A 3rd Unofficial ODI",
-      "team1": {
-        "name": "South Africa A",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Bangladesh A 3rd Unofficial ODI",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "South Africa A vs Bangladesh A 3rd Unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sri Lanka vs England Lions LIVE 2nd T20",
+      "title": "Sri Lanka vs England Lions 2nd T20",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "England Lions LIVE 2nd T20",
+        "name": "England Lions 2nd T20",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Sri Lanka vs England Lions LIVE 2nd T20",
+      "score": "Sri Lanka vs England Lions 2nd T20",
       "status": "Match Details"
     },
     {
-      "title": "Warriors vs Western Province LIVE 1st Match",
+      "title": "Warriors vs Western Province 1st Match",
       "team1": {
         "name": "Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Province LIVE 1st Match",
+        "name": "Western Province 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Warriors vs Western Province LIVE 1st Match",
+      "score": "Warriors vs Western Province 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
+      "title": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
       "team1": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -338,7 +286,7 @@
         "name": "Eastvaal Renault Dragons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Knights LIVE 2nd Match",
+      "score": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
       "status": "Match Details"
     },
     {
@@ -368,81 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Eastern Storm 1st Match",
-      "team1": {
-        "name": "South Western Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastern Storm 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Western Districts vs Eastern Storm 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Border vs Limpopo 2nd Match",
-      "team1": {
-        "name": "Border",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Limpopo 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Border vs Limpopo 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers 3rd Match",
-      "team1": {
-        "name": "Mpumalanga Rhinos",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "India Women vs Sri Lanka Women Final",
+      "title": "India Women vs Sri Lanka Women LIVE Final",
       "team1": {
         "name": "India Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka Women Final",
+        "name": "Sri Lanka Women LIVE Final",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India Women vs Sri Lanka Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "India A Women vs Australia A Women 1st unofficial T20",
-      "team1": {
-        "name": "India A Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia A Women 1st unofficial T20",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "India A Women vs Australia A Women 1st unofficial T20",
-      "status": "Match Details"
-    },
-    {
-      "title": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women 4th Match",
-      "team1": {
-        "name": "Guyana Amazon Warriors Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Trinbago Knight Riders Women 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Guyana Amazon Warriors Women vs Trinbago Knight Riders Women 4th Match",
+      "score": "India Women vs Sri Lanka Women LIVE Final",
       "status": "Match Details"
     },
     {
@@ -498,16 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Women vs Zimbabwe Women LIVE 2nd T20I",
+      "title": "South Africa Women vs Zimbabwe Women 2nd T20I",
       "team1": {
         "name": "South Africa Women",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Zimbabwe Women LIVE 2nd T20I",
+        "name": "Zimbabwe Women 2nd T20I",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "South Africa Women vs Zimbabwe Women LIVE 2nd T20I",
+      "score": "South Africa Women vs Zimbabwe Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st T20I • Delhi, Arun Jaitley Stadium Afghanistan AFG 156-8 (20) India IND 157-3 (13.4) India won by 7 wkts",
+      "team1": {
+        "name": "1st T20I • Delhi, Arun Jaitley Stadium Afghanistan AFG 156",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "8 (20) India IND 157",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "1st T20I • Delhi, Arun Jaitley Stadium Afghanistan AFG 156-8 (20) India IND 157-3 (13.4) India won by 7 wkts",
       "status": "Match Details"
     },
     {
@@ -524,6 +420,45 @@
       "status": "Match Details"
     },
     {
+      "title": "12th Match • Kigali City, Gahanga B Ground Rwanda RWA 183-9 (20) Botswana BW 146-6 (16) Rwanda won by 6 runs (DLS Method) - Revised due to rain",
+      "team1": {
+        "name": "12th Match • Kigali City, Gahanga B Ground Rwanda RWA 183",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Botswana BW 146",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "12th Match • Kigali City, Gahanga B Ground Rwanda RWA 183-9 (20) Botswana BW 146-6 (16) Rwanda won by 6 runs (DLS Method) - Revised due to rain",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Kigali City, Gahanga B Ground Sierra Leone SLE 112-9 (20) Kenya KEN 116-1 (8.1) Kenya won by 9 wkts",
+      "team1": {
+        "name": "11th Match • Kigali City, Gahanga B Ground Sierra Leone SLE 112",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "9 (20) Kenya KEN 116",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Kigali City, Gahanga B Ground Sierra Leone SLE 112-9 (20) Kenya KEN 116-1 (8.1) Kenya won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "25th Match • Dublin, The Village Belfast Wolves BFW 187-8 (20) Glasgow Cosmic GGC 84 (14.5) Belfast Wolves won by 103 runs",
+      "team1": {
+        "name": "25th Match • Dublin, The Village Belfast Wolves BFW 187",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Glasgow Cosmic GGC 84 (14.5) Belfast Wolves won by 103 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "25th Match • Dublin, The Village Belfast Wolves BFW 187-8 (20) Glasgow Cosmic GGC 84 (14.5) Belfast Wolves won by 103 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "24th Match • Dublin, The Village Edinburgh Castle Rockers ECR 118 (18.3) Amsterdam Flames ADF 120-2 (14.5) Amsterdam Flames won by 8 wkts",
       "team1": {
         "name": "24th Match • Dublin, The Village Edinburgh Castle Rockers ECR 118 (18.3) Amsterdam Flames ADF 120",
@@ -534,6 +469,84 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "24th Match • Dublin, The Village Edinburgh Castle Rockers ECR 118 (18.3) Amsterdam Flames ADF 120-2 (14.5) Amsterdam Flames won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 142 (20) Amritsar Soormas AMS 144-2 (16.4) Amritsar Soormas won by 8 wkts",
+      "team1": {
+        "name": "Final • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 142 (20) Amritsar Soormas AMS 144",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "2 (16.4) Amritsar Soormas won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Final • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 142 (20) Amritsar Soormas AMS 144-2 (16.4) Amritsar Soormas won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Bloemfontein, Grey College Bloemfontein North West - Eastvaal Renault Dragons NWEST 251 & 344 Knights KNG 228 & 232 North West  -  Eastvaal Renault Dragons won by 135 runs",
+      "team1": {
+        "name": "2nd Match • Bloemfontein, Grey College Bloemfontein North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastvaal Renault Dragons NWEST 251 & 344 Knights KNG 228 & 232 North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Bloemfontein, Grey College Bloemfontein North West - Eastvaal Renault Dragons NWEST 251 & 344 Knights KNG 228 & 232 North West  -  Eastvaal Renault Dragons won by 135 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Polokwane, Polokwane Cricket Club Limpopo LIMPO 218-8 (50) Border BOR 192 (44.3) Limpopo won by 26 runs",
+      "team1": {
+        "name": "2nd Match • Polokwane, Polokwane Cricket Club Limpopo LIMPO 218",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (50) Border BOR 192 (44.3) Limpopo won by 26 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Polokwane, Polokwane Cricket Club Limpopo LIMPO 218-8 (50) Border BOR 192 (44.3) Limpopo won by 26 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match • Mpumalanga, Uplands College, White River KwaZulu-Natal Inland Tuskers KZNIN 276-8 (50) Mpumalanga Rhinos MPR 280-5 (47.3) Mpumalanga Rhinos won by 5 wkts",
+      "team1": {
+        "name": "3rd Match • Mpumalanga, Uplands College, White River KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Natal Inland Tuskers KZNIN 276",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Match • Mpumalanga, Uplands College, White River KwaZulu-Natal Inland Tuskers KZNIN 276-8 (50) Mpumalanga Rhinos MPR 280-5 (47.3) Mpumalanga Rhinos won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285-8 (50) Eastern Storm ESTORM 286-5 (46.3) Eastern Storm won by 5 wkts",
+      "team1": {
+        "name": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "8 (50) Eastern Storm ESTORM 286",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285-8 (50) Eastern Storm ESTORM 286-5 (46.3) Eastern Storm won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 193-3 (20) Zimbabwe Women ZIMW 129-7 (20) South Africa Women won by 64 runs",
+      "team1": {
+        "name": "2nd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 193",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "3 (20) Zimbabwe Women ZIMW 129",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "2nd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 193-3 (20) Zimbabwe Women ZIMW 129-7 (20) South Africa Women won by 64 runs",
       "status": "Match Details"
     }
   ]
