@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-09-13 05:08:44 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-09-13 10:17:44 UTC",
+  "total_matches": 44,
   "matches": [
     {
-      "title": "JKM vs BBT - BBT won",
+      "title": "NAM vs RSA - NAM opt to bat",
       "team1": {
-        "name": "JKM",
+        "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "JKM vs BBT - BBT won",
+      "score": "NAM vs RSA - NAM opt to bat",
       "status": "Match Details"
     },
     {
@@ -43,20 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NAM vs RSA - Preview",
-      "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "NAM vs RSA - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "ECR vs ADF - Preview",
+      "title": "ECR vs ADF - ADF opt to bowl",
       "team1": {
         "name": "ECR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +52,20 @@
         "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ECR vs ADF - Preview",
+      "score": "ECR vs ADF - ADF opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKM vs BBT - BBT won",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs BBT - BBT won",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs South Africa 3rd ODI",
+      "title": "Namibia vs South Africa LIVE 3rd ODI",
       "team1": {
         "name": "Namibia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Africa 3rd ODI",
+        "name": "South Africa LIVE 3rd ODI",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Namibia vs South Africa 3rd ODI",
+      "score": "Namibia vs South Africa LIVE 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Edinburgh Castle Rockers vs Amsterdam Flames 24th Match",
+      "title": "Edinburgh Castle Rockers vs Amsterdam Flames LIVE 24th Match",
       "team1": {
         "name": "Edinburgh Castle Rockers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Amsterdam Flames 24th Match",
+        "name": "Amsterdam Flames LIVE 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Edinburgh Castle Rockers vs Amsterdam Flames 24th Match",
+      "score": "Edinburgh Castle Rockers vs Amsterdam Flames LIVE 24th Match",
       "status": "Match Details"
     },
     {
@@ -290,32 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Hong Kong, China 3rd Place Play-off",
-      "team1": {
-        "name": "Oman",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hong Kong, China 3rd Place Play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman vs Hong Kong, China 3rd Place Play-off",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nepal vs United Arab Emirates Final",
-      "team1": {
-        "name": "Nepal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nepal vs United Arab Emirates Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Eastern Storm vs South Western Districts 1st Match",
       "team1": {
         "name": "Eastern Storm",
@@ -342,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers 3rd Match",
+      "title": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
       "team1": {
-        "name": "Mpumalanga Rhinos",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "KwaZulu",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs KwaZulu-Natal Inland Tuskers 3rd Match",
+      "team2": {
+        "name": "Natal Inland Tuskers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
       "status": "Match Details"
     },
     {
@@ -589,29 +563,16 @@
       "status": "Match Details"
     },
     {
-      "title": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140-7 (20) Jamaica Empress Women JEW 137-4 (20) Barbados Tridents Women won by 3 runs",
+      "title": "3rd T20I • Sano, Kanto, Sano International Cricket Ground Japan Women JPNW 105-6 (20) Malaysia Women MLYW 94 (17.5) Japan Women won by 11 runs",
       "team1": {
-        "name": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Jamaica Empress Women JEW 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140-7 (20) Jamaica Empress Women JEW 137-4 (20) Barbados Tridents Women won by 3 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd T20I (Rescheduled match) • Sano, Kanto, Sano International Cricket Ground Malaysia Women MLYW 100-4 (20) Japan Women JPNW 82-6 (20) Malaysia Women won by 18 runs",
-      "team1": {
-        "name": "2nd T20I (Rescheduled match) • Sano, Kanto, Sano International Cricket Ground Malaysia Women MLYW 100",
+        "name": "3rd T20I • Sano, Kanto, Sano International Cricket Ground Japan Women JPNW 105",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "4 (20) Japan Women JPNW 82",
+        "name": "6 (20) Malaysia Women MLYW 94 (17.5) Japan Women won by 11 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd T20I (Rescheduled match) • Sano, Kanto, Sano International Cricket Ground Malaysia Women MLYW 100-4 (20) Japan Women JPNW 82-6 (20) Malaysia Women won by 18 runs",
+      "score": "3rd T20I • Sano, Kanto, Sano International Cricket Ground Japan Women JPNW 105-6 (20) Malaysia Women MLYW 94 (17.5) Japan Women won by 11 runs",
       "status": "Match Details"
     }
   ]
