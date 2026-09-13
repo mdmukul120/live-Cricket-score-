@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-13 00:22:11 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-09-13 05:08:44 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "JKM vs BBT - BBT opt to bowl",
+      "title": "JKM vs BBT - BBT won",
       "team1": {
         "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKM vs BBT - BBT opt to bowl",
+      "score": "JKM vs BBT - BBT won",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "PAK vs ENG - ENG won",
+      "title": "ECR vs ADF - Preview",
       "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "ECR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "ADF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PAK vs ENG - ENG won",
+      "score": "ECR vs ADF - Preview",
       "status": "Match Details"
     },
     {
@@ -160,29 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Trinbago Knight Riders vs Guyana Amazon Warriors 33rd Match",
+      "title": "Malaysia vs United Arab Emirates 1st T20I",
       "team1": {
-        "name": "Trinbago Knight Riders",
+        "name": "Malaysia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors 33rd Match",
+        "name": "United Arab Emirates 1st T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Trinbago Knight Riders vs Guyana Amazon Warriors 33rd Match",
+      "score": "Malaysia vs United Arab Emirates 1st T20I",
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Barbados Tridents LIVE 34th Match",
+      "title": "Jamaica Kingsmen vs Barbados Tridents 34th Match",
       "team1": {
         "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Barbados Tridents LIVE 34th Match",
+        "name": "Barbados Tridents 34th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Kingsmen vs Barbados Tridents LIVE 34th Match",
+      "score": "Jamaica Kingsmen vs Barbados Tridents 34th Match",
       "status": "Match Details"
     },
     {
@@ -537,29 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Japan Women vs Malaysia Women 2nd T20I",
+      "title": "Malaysia Women vs Japan Women 2nd T20I (Rescheduled match)",
       "team1": {
-        "name": "Japan Women",
+        "name": "Malaysia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Malaysia Women 2nd T20I",
+        "name": "Japan Women 2nd T20I (Rescheduled match)",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Japan Women vs Malaysia Women 2nd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Japan Women vs Malaysia Women 2nd T20I (Rescheduled match)",
-      "team1": {
-        "name": "Japan Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Malaysia Women 2nd T20I (Rescheduled match)",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Japan Women vs Malaysia Women 2nd T20I (Rescheduled match)",
+      "score": "Malaysia Women vs Japan Women 2nd T20I (Rescheduled match)",
       "status": "Match Details"
     },
     {
@@ -589,6 +576,19 @@
       "status": "Match Details"
     },
     {
+      "title": "34th Match • Bridgetown, Barbados, Kensington Oval Jamaica Kingsmen JKM 150-9 (20) Barbados Tridents BBT 151-8 (20) Barbados Tridents won by 2 wkts",
+      "team1": {
+        "name": "34th Match • Bridgetown, Barbados, Kensington Oval Jamaica Kingsmen JKM 150",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Barbados Tridents BBT 151",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "34th Match • Bridgetown, Barbados, Kensington Oval Jamaica Kingsmen JKM 150-9 (20) Barbados Tridents BBT 151-8 (20) Barbados Tridents won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140-7 (20) Jamaica Empress Women JEW 137-4 (20) Barbados Tridents Women won by 3 runs",
       "team1": {
         "name": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140",
@@ -599,6 +599,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "5th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 140-7 (20) Jamaica Empress Women JEW 137-4 (20) Barbados Tridents Women won by 3 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I (Rescheduled match) • Sano, Kanto, Sano International Cricket Ground Malaysia Women MLYW 100-4 (20) Japan Women JPNW 82-6 (20) Malaysia Women won by 18 runs",
+      "team1": {
+        "name": "2nd T20I (Rescheduled match) • Sano, Kanto, Sano International Cricket Ground Malaysia Women MLYW 100",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "4 (20) Japan Women JPNW 82",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd T20I (Rescheduled match) • Sano, Kanto, Sano International Cricket Ground Malaysia Women MLYW 100-4 (20) Japan Women JPNW 82-6 (20) Malaysia Women won by 18 runs",
       "status": "Match Details"
     }
   ]
