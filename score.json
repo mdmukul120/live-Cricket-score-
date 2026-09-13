@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-09-13 17:36:20 UTC",
+  "last_updated": "2026-09-13 19:47:32 UTC",
   "total_matches": 42,
   "matches": [
     {
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "INDW vs SLW - Need 83 off 27b",
+      "title": "INDW vs SLW - INDW won",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -26,7 +26,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "INDW vs SLW - Need 83 off 27b",
+      "score": "INDW vs SLW - INDW won",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "LDL vs AMS -",
+      "title": "LDL vs AMS - AMS won",
       "team1": {
         "name": "LDL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "AMS",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "LDL vs AMS -",
+      "score": "LDL vs AMS - AMS won",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Ludhiana Lions vs Amritsar Soormas LIVE Final",
+      "title": "Ludhiana Lions vs Amritsar Soormas Final",
       "team1": {
         "name": "Ludhiana Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Amritsar Soormas LIVE Final",
+        "name": "Amritsar Soormas Final",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Ludhiana Lions vs Amritsar Soormas LIVE Final",
+      "score": "Ludhiana Lions vs Amritsar Soormas Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
+      "team1": {
+        "name": "KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Natal Inland Tuskers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
       "status": "Match Details"
     },
     {
@@ -235,19 +248,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Limpopo vs Border 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
-      "team1": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Natal Inland Tuskers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Sri Lanka Women LIVE Final",
+      "title": "India Women vs Sri Lanka Women Final",
       "team1": {
         "name": "India Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka Women LIVE Final",
+        "name": "Sri Lanka Women Final",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India Women vs Sri Lanka Women LIVE Final",
+      "score": "India Women vs Sri Lanka Women Final",
       "status": "Match Details"
     },
     {
@@ -342,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors Women vs Barbados Tridents Women 6th Match",
+      "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women 6th Match",
       "team1": {
-        "name": "Guyana Amazon Warriors Women",
+        "name": "Barbados Tridents Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Barbados Tridents Women 6th Match",
+        "name": "Guyana Amazon Warriors Women 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Guyana Amazon Warriors Women vs Barbados Tridents Women 6th Match",
+      "score": "Barbados Tridents Women vs Guyana Amazon Warriors Women 6th Match",
       "status": "Match Details"
     },
     {
@@ -407,20 +407,7 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd ODI •  Windhoek, Namibia Cricket Ground Namibia NAM 156 (36.2) South Africa RSA 157-1 (21.3) South Africa won by 9 wkts",
-      "team1": {
-        "name": "3rd ODI •  Windhoek, Namibia Cricket Ground Namibia NAM 156 (36.2) South Africa RSA 157",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "1 (21.3) South Africa won by 9 wkts",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "3rd ODI •  Windhoek, Namibia Cricket Ground Namibia NAM 156 (36.2) South Africa RSA 157-1 (21.3) South Africa won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "12th Match • Kigali City, Gahanga B Ground Rwanda RWA 183-9 (20) Botswana BW 146-6 (16) Rwanda won by 6 runs (DLS Method) - Revised due to rain",
+      "title": "12th Match • Kigali City, Gahanga B Ground Rwanda RWA 183-9 (20) Botswana BW 146-6 (16) Rwanda won by 6 runs (DLS Method)",
       "team1": {
         "name": "12th Match • Kigali City, Gahanga B Ground Rwanda RWA 183",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -429,7 +416,7 @@
         "name": "9 (20) Botswana BW 146",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "12th Match • Kigali City, Gahanga B Ground Rwanda RWA 183-9 (20) Botswana BW 146-6 (16) Rwanda won by 6 runs (DLS Method) - Revised due to rain",
+      "score": "12th Match • Kigali City, Gahanga B Ground Rwanda RWA 183-9 (20) Botswana BW 146-6 (16) Rwanda won by 6 runs (DLS Method)",
       "status": "Match Details"
     },
     {
@@ -459,19 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "24th Match • Dublin, The Village Edinburgh Castle Rockers ECR 118 (18.3) Amsterdam Flames ADF 120-2 (14.5) Amsterdam Flames won by 8 wkts",
-      "team1": {
-        "name": "24th Match • Dublin, The Village Edinburgh Castle Rockers ECR 118 (18.3) Amsterdam Flames ADF 120",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (14.5) Amsterdam Flames won by 8 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "24th Match • Dublin, The Village Edinburgh Castle Rockers ECR 118 (18.3) Amsterdam Flames ADF 120-2 (14.5) Amsterdam Flames won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "Final • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 142 (20) Amritsar Soormas AMS 144-2 (16.4) Amritsar Soormas won by 8 wkts",
       "team1": {
         "name": "Final • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 142 (20) Amritsar Soormas AMS 144",
@@ -485,6 +459,19 @@
       "status": "Match Details"
     },
     {
+      "title": "2nd T20 • Beckenham, Kent County Cricket Ground Sri Lanka SL 156-9 (20) England Lions ENGA 76-1 (6.2) England Lions won by 9 wkts  -  DLS Method",
+      "team1": {
+        "name": "2nd T20 • Beckenham, Kent County Cricket Ground Sri Lanka SL 156",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "9 (20) England Lions ENGA 76",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "2nd T20 • Beckenham, Kent County Cricket Ground Sri Lanka SL 156-9 (20) England Lions ENGA 76-1 (6.2) England Lions won by 9 wkts  -  DLS Method",
+      "status": "Match Details"
+    },
+    {
       "title": "2nd Match • Bloemfontein, Grey College Bloemfontein North West - Eastvaal Renault Dragons NWEST 251 & 344 Knights KNG 228 & 232 North West  -  Eastvaal Renault Dragons won by 135 runs",
       "team1": {
         "name": "2nd Match • Bloemfontein, Grey College Bloemfontein North West",
@@ -495,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "2nd Match • Bloemfontein, Grey College Bloemfontein North West - Eastvaal Renault Dragons NWEST 251 & 344 Knights KNG 228 & 232 North West  -  Eastvaal Renault Dragons won by 135 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285-8 (50) Eastern Storm ESTORM 286-5 (46.3) Eastern Storm won by 5 wkts",
+      "team1": {
+        "name": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "8 (50) Eastern Storm ESTORM 286",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285-8 (50) Eastern Storm ESTORM 286-5 (46.3) Eastern Storm won by 5 wkts",
       "status": "Match Details"
     },
     {
@@ -524,16 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285-8 (50) Eastern Storm ESTORM 286-5 (46.3) Eastern Storm won by 5 wkts",
+      "title": "Final • Dubai, Dubai International Cricket Stadium India Women INDW 183-5 (20) Sri Lanka Women SLW 111 (20) India Women won by 72 runs",
       "team1": {
-        "name": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "Final • Dubai, Dubai International Cricket Stadium India Women INDW 183",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "8 (50) Eastern Storm ESTORM 286",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "5 (20) Sri Lanka Women SLW 111 (20) India Women won by 72 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285-8 (50) Eastern Storm ESTORM 286-5 (46.3) Eastern Storm won by 5 wkts",
+      "score": "Final • Dubai, Dubai International Cricket Stadium India Women INDW 183-5 (20) Sri Lanka Women SLW 111 (20) India Women won by 72 runs",
       "status": "Match Details"
     },
     {
