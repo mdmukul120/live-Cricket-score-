@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-13 21:49:11 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-09-13 23:43:50 UTC",
+  "total_matches": 31,
   "matches": [
+    {
+      "title": "GAW vs BBT - BBT opt to bowl",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs BBT - BBT opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "AFG vs IND - IND won",
       "team1": {
@@ -27,19 +40,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "INDW vs SLW - INDW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BFW vs GGC - BFW won",
-      "team1": {
-        "name": "BFW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GGC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BFW vs GGC - BFW won",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Guyana Amazon Warriors 35th Match",
+      "title": "Guyana Amazon Warriors vs Barbados Tridents LIVE 35th Match",
       "team1": {
-        "name": "Barbados Tridents",
+        "name": "Guyana Amazon Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors 35th Match",
+        "name": "Barbados Tridents LIVE 35th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs Guyana Amazon Warriors 35th Match",
+      "score": "Guyana Amazon Warriors vs Barbados Tridents LIVE 35th Match",
       "status": "Match Details"
     },
     {
@@ -329,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents Women vs Jamaica Empress Women 5th Match",
-      "team1": {
-        "name": "Barbados Tridents Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jamaica Empress Women 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Barbados Tridents Women vs Jamaica Empress Women 5th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women 6th Match",
       "team1": {
         "name": "Barbados Tridents Women",
@@ -394,45 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "1st T20I • Delhi, Arun Jaitley Stadium Afghanistan AFG 156-8 (20) India IND 157-3 (13.4) India won by 7 wkts",
-      "team1": {
-        "name": "1st T20I • Delhi, Arun Jaitley Stadium Afghanistan AFG 156",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "8 (20) India IND 157",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "1st T20I • Delhi, Arun Jaitley Stadium Afghanistan AFG 156-8 (20) India IND 157-3 (13.4) India won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "25th Match • Dublin, The Village Belfast Wolves BFW 187-8 (20) Glasgow Cosmic GGC 84 (14.5) Belfast Wolves won by 103 runs",
-      "team1": {
-        "name": "25th Match • Dublin, The Village Belfast Wolves BFW 187",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Glasgow Cosmic GGC 84 (14.5) Belfast Wolves won by 103 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "25th Match • Dublin, The Village Belfast Wolves BFW 187-8 (20) Glasgow Cosmic GGC 84 (14.5) Belfast Wolves won by 103 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 142 (20) Amritsar Soormas AMS 144-2 (16.4) Amritsar Soormas won by 8 wkts",
-      "team1": {
-        "name": "Final • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 142 (20) Amritsar Soormas AMS 144",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "2 (16.4) Amritsar Soormas won by 8 wkts",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Final • Mohali, Punjab Cricket Association IS Bindra Stadium Ludhiana Lions LDL 142 (20) Amritsar Soormas AMS 144-2 (16.4) Amritsar Soormas won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "2nd T20 • Beckenham, Kent County Cricket Ground Sri Lanka SL 156-9 (20) England Lions ENGA 76-1 (6.2) England Lions won by 9 wkts  -  DLS Method",
       "team1": {
         "name": "2nd T20 • Beckenham, Kent County Cricket Ground Sri Lanka SL 156",
@@ -446,55 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd Match • Mpumalanga, Uplands College, White River KwaZulu-Natal Inland Tuskers KZNIN 276-8 (50) Mpumalanga Rhinos MPR 280-5 (47.3) Mpumalanga Rhinos won by 5 wkts",
+      "title": "6th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 158-7 (20) Guyana Amazon Warriors Women GAWW 159-5 (19) Guyana Amazon Warriors Women won by 5 wkts",
       "team1": {
-        "name": "3rd Match • Mpumalanga, Uplands College, White River KwaZulu",
+        "name": "6th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 158",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Natal Inland Tuskers KZNIN 276",
+        "name": "7 (20) Guyana Amazon Warriors Women GAWW 159",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd Match • Mpumalanga, Uplands College, White River KwaZulu-Natal Inland Tuskers KZNIN 276-8 (50) Mpumalanga Rhinos MPR 280-5 (47.3) Mpumalanga Rhinos won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285-8 (50) Eastern Storm ESTORM 286-5 (46.3) Eastern Storm won by 5 wkts",
-      "team1": {
-        "name": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "8 (50) Eastern Storm ESTORM 286",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Benoni, Willowmoore Park South Western Districts SWD 285-8 (50) Eastern Storm ESTORM 286-5 (46.3) Eastern Storm won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Polokwane, Polokwane Cricket Club Limpopo LIMPO 218-8 (50) Border BOR 192 (44.3) Limpopo won by 26 runs",
-      "team1": {
-        "name": "2nd Match • Polokwane, Polokwane Cricket Club Limpopo LIMPO 218",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (50) Border BOR 192 (44.3) Limpopo won by 26 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Polokwane, Polokwane Cricket Club Limpopo LIMPO 218-8 (50) Border BOR 192 (44.3) Limpopo won by 26 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Dubai, Dubai International Cricket Stadium India Women INDW 183-5 (20) Sri Lanka Women SLW 111 (20) India Women won by 72 runs",
-      "team1": {
-        "name": "Final • Dubai, Dubai International Cricket Stadium India Women INDW 183",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "5 (20) Sri Lanka Women SLW 111 (20) India Women won by 72 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Final • Dubai, Dubai International Cricket Stadium India Women INDW 183-5 (20) Sri Lanka Women SLW 111 (20) India Women won by 72 runs",
+      "score": "6th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 158-7 (20) Guyana Amazon Warriors Women GAWW 159-5 (19) Guyana Amazon Warriors Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
