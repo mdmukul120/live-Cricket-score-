@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-14 14:09:15 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-09-14 19:22:25 UTC",
+  "total_matches": 26,
   "matches": [
     {
-      "title": "AFG vs IND - IND won",
+      "title": "AFG vs IND - Preview",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -13,72 +13,59 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AFG vs IND - IND won",
+      "score": "AFG vs IND - Preview",
       "status": "Match Details"
     },
     {
-      "title": "INDW vs SLW - INDW won",
+      "title": "ZIM vs AUS - Preview",
       "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "SLW",
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "ZIM vs AUS - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ADF vs DBG - Preview",
+      "team1": {
+        "name": "ADF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "DBG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ADF vs DBG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs SL - Preview",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "INDW vs SLW - INDW won",
+      "score": "ENG vs SL - Preview",
       "status": "Match Details"
     },
     {
-      "title": "GAW vs BBT - BBT won",
+      "title": "ECR vs RDD - Preview",
       "team1": {
-        "name": "GAW",
+        "name": "ECR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BBT",
+        "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs BBT - BBT won",
-      "status": "Match Details"
-    },
-    {
-      "title": "LDL vs AMS - AMS won",
-      "team1": {
-        "name": "LDL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "AMS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "LDL vs AMS - AMS won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NAM vs RSA - RSA won",
-      "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "NAM vs RSA - RSA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "Afghanistan vs India 1st T20I",
-      "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "India 1st T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Afghanistan vs India 1st T20I",
+      "score": "ECR vs RDD - Preview",
       "status": "Match Details"
     },
     {
@@ -95,42 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs England 3rd Test",
+      "title": "England vs Sri Lanka 1st T20I",
       "team1": {
-        "name": "Pakistan",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "England 3rd Test",
+        "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Pakistan vs England 3rd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Namibia vs South Africa 3rd ODI",
-      "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "South Africa 3rd ODI",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Sri Lanka 1st T20I",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Namibia vs South Africa 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rwanda vs Botswana 12th Match",
-      "team1": {
-        "name": "Rwanda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Botswana 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rwanda vs Botswana 12th Match",
+      "score": "England vs Sri Lanka 1st T20I",
       "status": "Match Details"
     },
     {
@@ -199,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Belfast Wolves vs Glasgow Cosmic 25th Match",
-      "team1": {
-        "name": "Belfast Wolves",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Glasgow Cosmic 25th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Belfast Wolves vs Glasgow Cosmic 25th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Amsterdam Flames vs Dublin Guardians 26th Match",
       "team1": {
         "name": "Amsterdam Flames",
@@ -235,58 +183,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Edinburgh Castle Rockers vs Rotterdam Dockers 27th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Ludhiana Lions vs Amritsar Soormas Final",
-      "team1": {
-        "name": "Ludhiana Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Amritsar Soormas Final",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Ludhiana Lions vs Amritsar Soormas Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Western Districts vs Eastern Storm 1st Match",
-      "team1": {
-        "name": "South Western Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastern Storm 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Western Districts vs Eastern Storm 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Limpopo vs Border 2nd Match",
-      "team1": {
-        "name": "Limpopo",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Border 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Limpopo vs Border 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
-      "team1": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Natal Inland Tuskers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
       "status": "Match Details"
     },
     {
@@ -355,71 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs England Lions 2nd T20",
-      "team1": {
-        "name": "Sri Lanka",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "England Lions 2nd T20",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Sri Lanka vs England Lions 2nd T20",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warriors vs Western Province 1st Match",
-      "team1": {
-        "name": "Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Western Province 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warriors vs Western Province 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
-      "team1": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastvaal Renault Dragons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North West - Eastvaal Renault Dragons vs Knights 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lions vs Boland 3rd Match",
-      "team1": {
-        "name": "Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Boland 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lions vs Boland 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Dolphins vs Titans 4th Match",
-      "team1": {
-        "name": "Dolphins",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Dolphins vs Titans 4th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Durham vs Worcestershire 49th Match",
       "team1": {
         "name": "Durham",
@@ -472,19 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Sri Lanka Women Final",
-      "team1": {
-        "name": "India Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Sri Lanka Women Final",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "India Women vs Sri Lanka Women Final",
-      "status": "Match Details"
-    },
-    {
       "title": "India A Women vs Australia A Women 2nd unofficial T20",
       "team1": {
         "name": "India A Women",
@@ -508,19 +326,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Barbados Tridents Women vs Guyana Amazon Warriors Women 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa Women vs Zimbabwe Women 2nd T20I",
-      "team1": {
-        "name": "South Africa Women",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Women 2nd T20I",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "South Africa Women vs Zimbabwe Women 2nd T20I",
       "status": "Match Details"
     },
     {
