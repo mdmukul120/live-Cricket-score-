@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-14 01:44:44 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-09-14 07:11:51 UTC",
+  "total_matches": 29,
   "matches": [
-    {
-      "title": "GAW vs BBT - Rain",
-      "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs BBT - Rain",
-      "status": "Match Details"
-    },
     {
       "title": "AFG vs IND - IND won",
       "team1": {
@@ -40,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "INDW vs SLW - INDW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "GAW vs BBT - BBT won",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs BBT - BBT won",
       "status": "Match Details"
     },
     {
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Barbados Tridents 34th Match",
-      "team1": {
-        "name": "Jamaica Kingsmen",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Barbados Tridents 34th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jamaica Kingsmen vs Barbados Tridents 34th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Guyana Amazon Warriors vs Barbados Tridents 35th Match",
       "team1": {
         "name": "Guyana Amazon Warriors",
@@ -212,6 +199,19 @@
       "status": "Match Details"
     },
     {
+      "title": "South Western Districts vs Eastern Storm 1st Match",
+      "team1": {
+        "name": "South Western Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastern Storm 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Western Districts vs Eastern Storm 1st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Limpopo vs Border 2nd Match",
       "team1": {
         "name": "Limpopo",
@@ -235,19 +235,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "KwaZulu-Natal Inland Tuskers vs Mpumalanga Rhinos 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Western Districts vs Eastern Storm 1st Match",
-      "team1": {
-        "name": "South Western Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastern Storm 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Western Districts vs Eastern Storm 1st Match",
       "status": "Match Details"
     },
     {
@@ -342,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia Women vs Japan Women 2nd T20I (Rescheduled match)",
-      "team1": {
-        "name": "Malaysia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Japan Women 2nd T20I (Rescheduled match)",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Malaysia Women vs Japan Women 2nd T20I (Rescheduled match)",
-      "status": "Match Details"
-    },
-    {
       "title": "Japan Women vs Malaysia Women 3rd T20I",
       "team1": {
         "name": "Japan Women",
@@ -381,16 +355,29 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 158-7 (20) Guyana Amazon Warriors Women GAWW 159-5 (19) Guyana Amazon Warriors Women won by 5 wkts",
+      "title": "1st T20I • Kuala Lumpur, Bayuemas Oval Malaysia MLY 144-6 (20) United Arab Emirates UAE 150-4 (16.5) United Arab Emirates won by 6 wkts",
       "team1": {
-        "name": "6th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 158",
+        "name": "1st T20I • Kuala Lumpur, Bayuemas Oval Malaysia MLY 144",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) Guyana Amazon Warriors Women GAWW 159",
+        "name": "6 (20) United Arab Emirates UAE 150",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "6th Match • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 158-7 (20) Guyana Amazon Warriors Women GAWW 159-5 (19) Guyana Amazon Warriors Women won by 5 wkts",
+      "score": "1st T20I • Kuala Lumpur, Bayuemas Oval Malaysia MLY 144-6 (20) United Arab Emirates UAE 150-4 (16.5) United Arab Emirates won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "35th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 99 (18.1) Barbados Tridents BBT 100-4 (14.5) Barbados Tridents won by 6 wkts",
+      "team1": {
+        "name": "35th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 99 (18.1) Barbados Tridents BBT 100",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (14.5) Barbados Tridents won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "35th Match • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 99 (18.1) Barbados Tridents BBT 100-4 (14.5) Barbados Tridents won by 6 wkts",
       "status": "Match Details"
     }
   ]
