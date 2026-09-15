@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-15 11:35:19 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-09-15 15:40:34 UTC",
+  "total_matches": 31,
   "matches": [
     {
-      "title": "AUS vs ZIM - Innings Break",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "AUS vs ZIM - Innings Break",
-      "status": "Match Details"
-    },
-    {
-      "title": "AFG vs IND - Preview",
+      "title": "AFG vs IND - Innings Break",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -26,20 +13,20 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AFG vs IND - Preview",
+      "score": "AFG vs IND - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "ADF vs DBG - Need 182 to win",
+      "title": "AUS vs ZIM - AUS won",
       "team1": {
-        "name": "ADF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "DBG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "ADF vs DBG - Need 182 to win",
+      "score": "AUS vs ZIM - AUS won",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "ECR vs RDD - Preview",
+      "title": "RDD vs ECR - Need 149 off 94b",
       "team1": {
-        "name": "ECR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "RDD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ECR vs RDD - Preview",
+      "team2": {
+        "name": "ECR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "RDD vs ECR - Need 149 off 94b",
+      "status": "Match Details"
+    },
+    {
+      "title": "BTW vs GAWW - Preview",
+      "team1": {
+        "name": "BTW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAWW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BTW vs GAWW - Preview",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Rwanda vs Kenya 14th Match",
+      "title": "Kenya vs Rwanda 14th Match",
       "team1": {
-        "name": "Rwanda",
+        "name": "Kenya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kenya 14th Match",
+        "name": "Rwanda 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rwanda vs Kenya 14th Match",
+      "score": "Kenya vs Rwanda 14th Match",
       "status": "Match Details"
     },
     {
@@ -131,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Botswana vs Uganda 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sierra Leone vs Rwanda 16th Match",
+      "team1": {
+        "name": "Sierra Leone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rwanda 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sierra Leone vs Rwanda 16th Match",
       "status": "Match Details"
     },
     {
@@ -160,55 +173,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Amsterdam Flames vs Dublin Guardians LIVE 26th Match",
+      "title": "Amsterdam Flames vs Dublin Guardians 26th Match",
       "team1": {
         "name": "Amsterdam Flames",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dublin Guardians LIVE 26th Match",
+        "name": "Dublin Guardians 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Amsterdam Flames vs Dublin Guardians LIVE 26th Match",
+      "score": "Amsterdam Flames vs Dublin Guardians 26th Match",
       "status": "Match Details"
     },
     {
-      "title": "Edinburgh Castle Rockers vs Rotterdam Dockers 27th Match",
+      "title": "Rotterdam Dockers vs Edinburgh Castle Rockers LIVE 27th Match",
       "team1": {
-        "name": "Edinburgh Castle Rockers",
+        "name": "Rotterdam Dockers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rotterdam Dockers 27th Match",
+        "name": "Edinburgh Castle Rockers LIVE 27th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Edinburgh Castle Rockers vs Rotterdam Dockers 27th Match",
+      "score": "Rotterdam Dockers vs Edinburgh Castle Rockers LIVE 27th Match",
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Surrey 64th Match",
+      "title": "Glasgow Cosmic vs Amsterdam Flames 28th Match",
       "team1": {
-        "name": "Glamorgan",
+        "name": "Glasgow Cosmic",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Surrey 64th Match",
+        "name": "Amsterdam Flames 28th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Surrey 64th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Sussex 65th Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex 65th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Sussex 65th Match",
+      "score": "Glasgow Cosmic vs Amsterdam Flames 28th Match",
       "status": "Match Details"
     },
     {
@@ -225,29 +225,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Leicestershire 62nd Match",
+      "title": "Hampshire vs Leicestershire LIVE 62nd Match",
       "team1": {
         "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire 62nd Match",
+        "name": "Leicestershire LIVE 62nd Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Hampshire vs Leicestershire 62nd Match",
+      "score": "Hampshire vs Leicestershire LIVE 62nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Somerset 63rd Match",
+      "title": "Yorkshire vs Somerset LIVE 63rd Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset 63rd Match",
+        "name": "Somerset LIVE 63rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Yorkshire vs Somerset 63rd Match",
+      "score": "Yorkshire vs Somerset LIVE 63rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Surrey LIVE 64th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Surrey LIVE 64th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Surrey LIVE 64th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Sussex LIVE 65th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex LIVE 65th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Sussex LIVE 65th Match",
       "status": "Match Details"
     },
     {
@@ -303,29 +329,81 @@
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women 2nd unofficial T20",
+      "title": "Australia A Women vs India A Women LIVE 2nd unofficial T20",
       "team1": {
-        "name": "India A Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia A Women 2nd unofficial T20",
+        "name": "Australia A Women",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women 2nd unofficial T20",
+      "team2": {
+        "name": "India A Women LIVE 2nd unofficial T20",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Australia A Women vs India A Women LIVE 2nd unofficial T20",
       "status": "Match Details"
     },
     {
-      "title": "South Africa Women vs Zimbabwe Women LIVE 3rd T20I",
+      "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women Playoff 2nd v 3rd",
+      "team1": {
+        "name": "Barbados Tridents Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors Women Playoff 2nd v 3rd",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Barbados Tridents Women vs Guyana Amazon Warriors Women Playoff 2nd v 3rd",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa Women vs Zimbabwe Women 3rd T20I",
       "team1": {
         "name": "South Africa Women",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Zimbabwe Women LIVE 3rd T20I",
+        "name": "Zimbabwe Women 3rd T20I",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "South Africa Women vs Zimbabwe Women LIVE 3rd T20I",
+      "score": "South Africa Women vs Zimbabwe Women 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st ODI • Harare, Harare Sports Club Australia AUS 294-8 (50) Zimbabwe ZIM 235 (45.1) Australia won by 59 runs",
+      "team1": {
+        "name": "1st ODI • Harare, Harare Sports Club Australia AUS 294",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "8 (50) Zimbabwe ZIM 235 (45.1) Australia won by 59 runs",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "1st ODI • Harare, Harare Sports Club Australia AUS 294-8 (50) Zimbabwe ZIM 235 (45.1) Australia won by 59 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "26th Match • Dublin, The Village Amsterdam Flames ADF 214-5 (20) Dublin Guardians DBG 155-9 (20) Amsterdam Flames won by 59 runs",
+      "team1": {
+        "name": "26th Match • Dublin, The Village Amsterdam Flames ADF 214",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Dublin Guardians DBG 155",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "26th Match • Dublin, The Village Amsterdam Flames ADF 214-5 (20) Dublin Guardians DBG 155-9 (20) Amsterdam Flames won by 59 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 200-1 (20) Zimbabwe Women ZIMW 120 (19.3) South Africa Women won by 80 runs",
+      "team1": {
+        "name": "3rd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 200",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "1 (20) Zimbabwe Women ZIMW 120 (19.3) South Africa Women won by 80 runs",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "3rd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 200-1 (20) Zimbabwe Women ZIMW 120 (19.3) South Africa Women won by 80 runs",
       "status": "Match Details"
     }
   ]
