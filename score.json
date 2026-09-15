@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-15 19:14:40 UTC",
+  "last_updated": "2026-09-15 22:19:00 UTC",
   "total_matches": 33,
   "matches": [
     {
-      "title": "ENG vs SL - Innings Break",
+      "title": "ENG vs SL - ENG won",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ENG vs SL - Innings Break",
+      "score": "ENG vs SL - ENG won",
       "status": "Match Details"
     },
     {
@@ -381,16 +381,42 @@
       "status": "Match Details"
     },
     {
-      "title": "1st ODI • Harare, Harare Sports Club Australia AUS 294-8 (50) Zimbabwe ZIM 235 (45.1) Australia won by 59 runs",
+      "title": "1st T20I • Southampton, The Rose Bowl England ENG 254-4 (20) Sri Lanka SL 135 (19) England won by 119 runs",
       "team1": {
-        "name": "1st ODI • Harare, Harare Sports Club Australia AUS 294",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "1st T20I • Southampton, The Rose Bowl England ENG 254",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "8 (50) Zimbabwe ZIM 235 (45.1) Australia won by 59 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "4 (20) Sri Lanka SL 135 (19) England won by 119 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "1st ODI • Harare, Harare Sports Club Australia AUS 294-8 (50) Zimbabwe ZIM 235 (45.1) Australia won by 59 runs",
+      "score": "1st T20I • Southampton, The Rose Bowl England ENG 254-4 (20) Sri Lanka SL 135 (19) England won by 119 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "14th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 189-4 (20) Rwanda RWA 157-6 (20) Kenya won by 32 runs",
+      "team1": {
+        "name": "14th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 189",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Rwanda RWA 157",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "14th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 189-4 (20) Rwanda RWA 157-6 (20) Kenya won by 32 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "13th Match • Kigali City, Gahanga International Cricket Stadium Sierra Leone SLE 55 (17.4) Uganda UGA 56-2 (7) Uganda won by 8 wkts",
+      "team1": {
+        "name": "13th Match • Kigali City, Gahanga International Cricket Stadium Sierra Leone SLE 55 (17.4) Uganda UGA 56",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "2 (7) Uganda won by 8 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "13th Match • Kigali City, Gahanga International Cricket Stadium Sierra Leone SLE 55 (17.4) Uganda UGA 56-2 (7) Uganda won by 8 wkts",
       "status": "Match Details"
     },
     {
@@ -404,32 +430,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "27th Match • Dublin, The Village Rotterdam Dockers RDD 181-6 (20) Edinburgh Castle Rockers ECR 176-5 (20) Rotterdam Dockers won by 5 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 178-2 (20) India A Women INDWA 148-7 (20) Australia A Women won by 30 runs",
-      "team1": {
-        "name": "2nd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 178",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "2 (20) India A Women INDWA 148",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "2nd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 178-2 (20) India A Women INDWA 148-7 (20) Australia A Women won by 30 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 200-1 (20) Zimbabwe Women ZIMW 120 (19.3) South Africa Women won by 80 runs",
-      "team1": {
-        "name": "3rd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 200",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "1 (20) Zimbabwe Women ZIMW 120 (19.3) South Africa Women won by 80 runs",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "3rd T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 200-1 (20) Zimbabwe Women ZIMW 120 (19.3) South Africa Women won by 80 runs",
       "status": "Match Details"
     }
   ]
