@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-16 10:01:02 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-09-16 14:52:49 UTC",
+  "total_matches": 46,
   "matches": [
     {
-      "title": "AFG vs IND - IND won",
+      "title": "AFG vs IND - Preview",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -13,7 +13,7 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AFG vs IND - IND won",
+      "score": "AFG vs IND - Preview",
       "status": "Match Details"
     },
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "GGC vs ADF - Preview",
+      "title": "GGC vs ADF - Innings Break",
       "team1": {
         "name": "GGC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,11 +39,11 @@
         "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs ADF - Preview",
+      "score": "GGC vs ADF - Innings Break",
       "status": "Match Details"
     },
     {
-      "title": "BTW vs GAWW - Preview",
+      "title": "BTW vs GAWW - Delay",
       "team1": {
         "name": "BTW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "GAWW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BTW vs GAWW - Preview",
+      "score": "BTW vs GAWW - Delay",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sierra Leone vs Uganda 13th Match",
+      "title": "Afghanistan vs India 3rd T20I",
       "team1": {
-        "name": "Sierra Leone",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Uganda 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India 3rd T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Sierra Leone vs Uganda 13th Match",
+      "score": "Afghanistan vs India 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -144,6 +144,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Rwanda vs Uganda 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Botswana vs Kenya 18th Match",
+      "team1": {
+        "name": "Botswana",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kenya 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Botswana vs Kenya 18th Match",
       "status": "Match Details"
     },
     {
@@ -212,19 +225,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Amsterdam Flames vs Dublin Guardians 26th Match",
-      "team1": {
-        "name": "Amsterdam Flames",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dublin Guardians 26th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Amsterdam Flames vs Dublin Guardians 26th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Rotterdam Dockers vs Edinburgh Castle Rockers 27th Match",
       "team1": {
         "name": "Rotterdam Dockers",
@@ -261,6 +261,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Edinburgh Castle Rockers vs Belfast Wolves 29th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rotterdam Dockers vs Dublin Guardians 30th Match",
+      "team1": {
+        "name": "Rotterdam Dockers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dublin Guardians 30th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rotterdam Dockers vs Dublin Guardians 30th Match",
       "status": "Match Details"
     },
     {
@@ -303,29 +316,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Surrey LIVE 64th Match",
+      "title": "Glamorgan vs Surrey 64th Match",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Surrey LIVE 64th Match",
+        "name": "Surrey 64th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Surrey LIVE 64th Match",
+      "score": "Glamorgan vs Surrey 64th Match",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Sussex LIVE 65th Match",
+      "title": "Nottinghamshire vs Sussex 65th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Sussex LIVE 65th Match",
+        "name": "Sussex 65th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nottinghamshire vs Sussex LIVE 65th Match",
+      "score": "Nottinghamshire vs Sussex 65th Match",
       "status": "Match Details"
     },
     {
@@ -381,55 +394,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Worcestershire LIVE 49th Match",
+      "title": "Durham vs Worcestershire 49th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire LIVE 49th Match",
+        "name": "Worcestershire 49th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Worcestershire LIVE 49th Match",
+      "score": "Durham vs Worcestershire 49th Match",
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Northamptonshire LIVE 50th Match",
+      "title": "Derbyshire vs Northamptonshire 50th Match",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Northamptonshire LIVE 50th Match",
+        "name": "Northamptonshire 50th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Derbyshire vs Northamptonshire LIVE 50th Match",
+      "score": "Derbyshire vs Northamptonshire 50th Match",
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Gloucestershire LIVE 51st Match",
+      "title": "Middlesex vs Gloucestershire 51st Match",
       "team1": {
         "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Gloucestershire LIVE 51st Match",
+        "name": "Gloucestershire 51st Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Middlesex vs Gloucestershire LIVE 51st Match",
+      "score": "Middlesex vs Gloucestershire 51st Match",
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Kent LIVE 52nd Match",
+      "title": "Lancashire vs Kent 52nd Match",
       "team1": {
         "name": "Lancashire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent LIVE 52nd Match",
+        "name": "Kent 52nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lancashire vs Kent LIVE 52nd Match",
+      "score": "Lancashire vs Kent 52nd Match",
       "status": "Match Details"
     },
     {
@@ -485,6 +498,19 @@
       "status": "Match Details"
     },
     {
+      "title": "India A Women vs Australia A Women 3rd unofficial T20",
+      "team1": {
+        "name": "India A Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia A Women 3rd unofficial T20",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India A Women vs Australia A Women 3rd unofficial T20",
+      "status": "Match Details"
+    },
+    {
       "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women Playoff 2nd v 3rd",
       "team1": {
         "name": "Barbados Tridents Women",
@@ -537,16 +563,42 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd T20I • Kuala Lumpur, Bayuemas Oval Malaysia MLY 156-9 (20) United Arab Emirates UAE 157-3 (17.4) United Arab Emirates won by 7 wkts",
+      "title": "Zimbabwe Women vs South Africa Women 4th T20I",
       "team1": {
-        "name": "2nd T20I • Kuala Lumpur, Bayuemas Oval Malaysia MLY 156",
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "South Africa Women 4th T20I",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Zimbabwe Women vs South Africa Women 4th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "16th Match • Kigali City, Gahanga International Cricket Stadium Sierra Leone SLE 87-9 (20) Rwanda RWA 91-4 (12.5) Rwanda won by 6 wkts",
+      "team1": {
+        "name": "16th Match • Kigali City, Gahanga International Cricket Stadium Sierra Leone SLE 87",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "9 (20) Rwanda RWA 91",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "16th Match • Kigali City, Gahanga International Cricket Stadium Sierra Leone SLE 87-9 (20) Rwanda RWA 91-4 (12.5) Rwanda won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "15th Match • Kigali City, Gahanga International Cricket Stadium Botswana BW 119-8 (20) Uganda UGA 125-5 (15) Uganda won by 5 wkts",
+      "team1": {
+        "name": "15th Match • Kigali City, Gahanga International Cricket Stadium Botswana BW 119",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) United Arab Emirates UAE 157",
+        "name": "8 (20) Uganda UGA 125",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd T20I • Kuala Lumpur, Bayuemas Oval Malaysia MLY 156-9 (20) United Arab Emirates UAE 157-3 (17.4) United Arab Emirates won by 7 wkts",
+      "score": "15th Match • Kigali City, Gahanga International Cricket Stadium Botswana BW 119-8 (20) Uganda UGA 125-5 (15) Uganda won by 5 wkts",
       "status": "Match Details"
     }
   ]
