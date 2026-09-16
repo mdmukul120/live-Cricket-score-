@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-16 21:43:39 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-09-16 23:53:37 UTC",
+  "total_matches": 39,
   "matches": [
+    {
+      "title": "BBT vs JKM - JKM opt to bowl",
+      "team1": {
+        "name": "BBT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BBT vs JKM - JKM opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "AFG vs IND - Preview",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "AFG vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "BBT vs JKM - Preview",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BBT vs JKM - Preview",
       "status": "Match Details"
     },
     {
@@ -173,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
+      "title": "Barbados Tridents vs Jamaica Kingsmen LIVE Eliminator",
       "team1": {
         "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen Eliminator",
+        "name": "Jamaica Kingsmen LIVE Eliminator",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
+      "score": "Barbados Tridents vs Jamaica Kingsmen LIVE Eliminator",
       "status": "Match Details"
     },
     {
@@ -508,45 +508,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Zimbabwe Women vs South Africa Women 4th T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "28th Match • Dublin, The Village Glasgow Cosmic GGC 126 (19.5) Amsterdam Flames ADF 127-5 (16) Amsterdam Flames won by 5 wkts",
-      "team1": {
-        "name": "28th Match • Dublin, The Village Glasgow Cosmic GGC 126 (19.5) Amsterdam Flames ADF 127",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (16) Amsterdam Flames won by 5 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "28th Match • Dublin, The Village Glasgow Cosmic GGC 126 (19.5) Amsterdam Flames ADF 127-5 (16) Amsterdam Flames won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "61st Match • Chelmsford, The Ambassador Cruise Line Ground Essex ESS 134 & 189 Warwickshire WARKS 191 & 138-2 Warwickshire won by 8 wkts",
-      "team1": {
-        "name": "61st Match • Chelmsford, The Ambassador Cruise Line Ground Essex ESS 134 & 189 Warwickshire WARKS 191 & 138",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "2 Warwickshire won by 8 wkts",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "61st Match • Chelmsford, The Ambassador Cruise Line Ground Essex ESS 134 & 189 Warwickshire WARKS 191 & 138-2 Warwickshire won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Playoff 2nd v 3rd • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 69-4 (8) Guyana Amazon Warriors Women GAWW 75-3 (7.2) Guyana Amazon Warriors Women won by 7 wkts (8 overs game due to rain)",
-      "team1": {
-        "name": "Playoff 2nd v 3rd • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 69",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (8) Guyana Amazon Warriors Women GAWW 75",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Playoff 2nd v 3rd • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 69-4 (8) Guyana Amazon Warriors Women GAWW 75-3 (7.2) Guyana Amazon Warriors Women won by 7 wkts (8 overs game due to rain)",
       "status": "Match Details"
     }
   ]
