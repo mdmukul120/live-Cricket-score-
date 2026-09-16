@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-16 14:52:49 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-09-16 18:38:32 UTC",
+  "total_matches": 44,
   "matches": [
     {
       "title": "AFG vs IND - Preview",
@@ -14,45 +14,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "AFG vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENG vs SL - ENG won",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "ENG vs SL - ENG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "GGC vs ADF - Innings Break",
-      "team1": {
-        "name": "GGC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ADF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GGC vs ADF - Innings Break",
-      "status": "Match Details"
-    },
-    {
-      "title": "BTW vs GAWW - Delay",
-      "team1": {
-        "name": "BTW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAWW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BTW vs GAWW - Delay",
       "status": "Match Details"
     },
     {
@@ -69,16 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs India 2nd T20I",
+      "title": "BANW vs CHNW - Preview",
       "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "India 2nd T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "CHNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Afghanistan vs India 2nd T20I",
+      "score": "BANW vs CHNW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs SL - Preview",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "ENG vs SL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "GGC vs ADF - ADF won",
+      "team1": {
+        "name": "GGC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ADF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GGC vs ADF - ADF won",
       "status": "Match Details"
     },
     {
@@ -95,16 +82,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Kenya vs Rwanda 14th Match",
+      "title": "England vs Sri Lanka 1st T20I",
       "team1": {
-        "name": "Kenya",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Rwanda 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Sri Lanka 1st T20I",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Kenya vs Rwanda 14th Match",
+      "score": "England vs Sri Lanka 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "England vs Sri Lanka 2nd T20I",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 2nd T20I",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "England vs Sri Lanka 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -186,32 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "England vs Sri Lanka 1st T20I",
-      "team1": {
-        "name": "England",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Sri Lanka 1st T20I",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "England vs Sri Lanka 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Australia vs Zimbabwe 1st ODI",
-      "team1": {
-        "name": "Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Zimbabwe 1st ODI",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "Australia vs Zimbabwe 1st ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
       "team1": {
         "name": "Barbados Tridents",
@@ -222,19 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rotterdam Dockers vs Edinburgh Castle Rockers 27th Match",
-      "team1": {
-        "name": "Rotterdam Dockers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Edinburgh Castle Rockers 27th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rotterdam Dockers vs Edinburgh Castle Rockers 27th Match",
       "status": "Match Details"
     },
     {
@@ -277,42 +238,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Warwickshire LIVE 61st Match",
+      "title": "Essex vs Warwickshire 61st Match",
       "team1": {
         "name": "Essex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Warwickshire LIVE 61st Match",
+        "name": "Warwickshire 61st Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Essex vs Warwickshire LIVE 61st Match",
+      "score": "Essex vs Warwickshire 61st Match",
       "status": "Match Details"
     },
     {
-      "title": "Hampshire vs Leicestershire LIVE 62nd Match",
+      "title": "Hampshire vs Leicestershire 62nd Match",
       "team1": {
         "name": "Hampshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Leicestershire LIVE 62nd Match",
+        "name": "Leicestershire 62nd Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Hampshire vs Leicestershire LIVE 62nd Match",
+      "score": "Hampshire vs Leicestershire 62nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Yorkshire vs Somerset LIVE 63rd Match",
+      "title": "Yorkshire vs Somerset 63rd Match",
       "team1": {
         "name": "Yorkshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Somerset LIVE 63rd Match",
+        "name": "Somerset 63rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Yorkshire vs Somerset LIVE 63rd Match",
+      "score": "Yorkshire vs Somerset 63rd Match",
       "status": "Match Details"
     },
     {
@@ -394,6 +355,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Lancashire vs Kent 52nd Match",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent 52nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lancashire vs Kent 52nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Durham vs Worcestershire 49th Match",
       "team1": {
         "name": "Durham",
@@ -430,19 +404,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Middlesex vs Gloucestershire 51st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lancashire vs Kent 52nd Match",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent 52nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lancashire vs Kent 52nd Match",
       "status": "Match Details"
     },
     {
@@ -485,19 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia A Women vs India A Women 2nd unofficial T20",
-      "team1": {
-        "name": "Australia A Women",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "India A Women 2nd unofficial T20",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Australia A Women vs India A Women 2nd unofficial T20",
-      "status": "Match Details"
-    },
-    {
       "title": "India A Women vs Australia A Women 3rd unofficial T20",
       "team1": {
         "name": "India A Women",
@@ -508,19 +456,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "India A Women vs Australia A Women 3rd unofficial T20",
-      "status": "Match Details"
-    },
-    {
-      "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women Playoff 2nd v 3rd",
-      "team1": {
-        "name": "Barbados Tridents Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Guyana Amazon Warriors Women Playoff 2nd v 3rd",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Barbados Tridents Women vs Guyana Amazon Warriors Women Playoff 2nd v 3rd",
       "status": "Match Details"
     },
     {
@@ -550,16 +485,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Women vs Zimbabwe Women 3rd T20I",
+      "title": "Barbados Tridents Women vs Guyana Amazon Warriors Women Playoff 2nd v 3rd",
       "team1": {
-        "name": "South Africa Women",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Barbados Tridents Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Zimbabwe Women 3rd T20I",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "Guyana Amazon Warriors Women Playoff 2nd v 3rd",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa Women vs Zimbabwe Women 3rd T20I",
+      "score": "Barbados Tridents Women vs Guyana Amazon Warriors Women Playoff 2nd v 3rd",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women Final",
+      "team1": {
+        "name": "Trinbago Knight Riders Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors Women Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women Final",
       "status": "Match Details"
     },
     {
@@ -589,16 +537,42 @@
       "status": "Match Details"
     },
     {
-      "title": "15th Match • Kigali City, Gahanga International Cricket Stadium Botswana BW 119-8 (20) Uganda UGA 125-5 (15) Uganda won by 5 wkts",
+      "title": "28th Match • Dublin, The Village Glasgow Cosmic GGC 126 (19.5) Amsterdam Flames ADF 127-5 (16) Amsterdam Flames won by 5 wkts",
       "team1": {
-        "name": "15th Match • Kigali City, Gahanga International Cricket Stadium Botswana BW 119",
+        "name": "28th Match • Dublin, The Village Glasgow Cosmic GGC 126 (19.5) Amsterdam Flames ADF 127",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) Uganda UGA 125",
+        "name": "5 (16) Amsterdam Flames won by 5 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "15th Match • Kigali City, Gahanga International Cricket Stadium Botswana BW 119-8 (20) Uganda UGA 125-5 (15) Uganda won by 5 wkts",
+      "score": "28th Match • Dublin, The Village Glasgow Cosmic GGC 126 (19.5) Amsterdam Flames ADF 127-5 (16) Amsterdam Flames won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "61st Match • Chelmsford, The Ambassador Cruise Line Ground Essex ESS 134 & 189 Warwickshire WARKS 191 & 138-2 Warwickshire won by 8 wkts",
+      "team1": {
+        "name": "61st Match • Chelmsford, The Ambassador Cruise Line Ground Essex ESS 134 & 189 Warwickshire WARKS 191 & 138",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "2 Warwickshire won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "61st Match • Chelmsford, The Ambassador Cruise Line Ground Essex ESS 134 & 189 Warwickshire WARKS 191 & 138-2 Warwickshire won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Playoff 2nd v 3rd • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 69-4 (8) Guyana Amazon Warriors Women GAWW 75-3 (7.2) Guyana Amazon Warriors Women won by 7 wkts (8 overs game due to rain)",
+      "team1": {
+        "name": "Playoff 2nd v 3rd • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 69",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (8) Guyana Amazon Warriors Women GAWW 75",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Playoff 2nd v 3rd • Bridgetown, Barbados, Kensington Oval Barbados Tridents Women BTW 69-4 (8) Guyana Amazon Warriors Women GAWW 75-3 (7.2) Guyana Amazon Warriors Women won by 7 wkts (8 overs game due to rain)",
       "status": "Match Details"
     }
   ]
