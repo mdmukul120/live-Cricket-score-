@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-17 21:32:16 UTC",
+  "last_updated": "2026-09-17 23:39:01 UTC",
   "total_matches": 48,
   "matches": [
+    {
+      "title": "GAW vs ABF - ABF opt to bowl",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs ABF - ABF opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "IND vs AFG - IND won",
       "team1": {
@@ -30,32 +43,6 @@
       "status": "Match Details"
     },
     {
-      "title": "GAW vs ABF - Preview",
-      "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs ABF - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "RDD vs DBG - DBG won",
-      "team1": {
-        "name": "RDD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DBG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "RDD vs DBG - DBG won",
-      "status": "Match Details"
-    },
-    {
       "title": "JPNW vs INDW - Preview",
       "team1": {
         "name": "JPNW",
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "JPNW vs INDW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs AUS - Preview",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "ZIM vs AUS - Preview",
       "status": "Match Details"
     },
     {
@@ -196,6 +196,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons Qualifier 1",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jamaica Kingsmen vs TBC Qualifier 2",
+      "team1": {
+        "name": "Jamaica Kingsmen",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Qualifier 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jamaica Kingsmen vs TBC Qualifier 2",
       "status": "Match Details"
     },
     {
@@ -355,19 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Worcestershire 49th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire 49th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Worcestershire 49th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Derbyshire vs Northamptonshire 50th Match",
       "team1": {
         "name": "Derbyshire",
@@ -404,6 +404,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Lancashire vs Kent 52nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Worcestershire 49th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire 49th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Worcestershire 49th Match",
       "status": "Match Details"
     },
     {
@@ -550,19 +563,6 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd T20I • Delhi, Arun Jaitley Stadium India IND 221-7 (20) Afghanistan AFG 94 (14.1) India won by 127 runs",
-      "team1": {
-        "name": "3rd T20I • Delhi, Arun Jaitley Stadium India IND 221",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (20) Afghanistan AFG 94 (14.1) India won by 127 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "3rd T20I • Delhi, Arun Jaitley Stadium India IND 221-7 (20) Afghanistan AFG 94 (14.1) India won by 127 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145-9 (20) England ENG 146-4 (12.1) England won by 6 wkts",
       "team1": {
         "name": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145",
@@ -615,16 +615,16 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 168-5 (20) India A Women INDWA 161 (19.5) Australia A Women won by 7 runs",
+      "title": "Final • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 145-6 (20) Guyana Amazon Warriors Women GAWW 149-8 (19.3) Guyana Amazon Warriors Women won by 2 wkts",
       "team1": {
-        "name": "3rd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 168",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Final • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 145",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (20) India A Women INDWA 161 (19.5) Australia A Women won by 7 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "6 (20) Guyana Amazon Warriors Women GAWW 149",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 168-5 (20) India A Women INDWA 161 (19.5) Australia A Women won by 7 runs",
+      "score": "Final • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 145-6 (20) Guyana Amazon Warriors Women GAWW 149-8 (19.3) Guyana Amazon Warriors Women won by 2 wkts",
       "status": "Match Details"
     }
   ]
