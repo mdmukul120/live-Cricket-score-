@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-17 03:44:33 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-09-17 08:55:59 UTC",
+  "total_matches": 47,
   "matches": [
     {
       "title": "AFG vs IND - Preview",
@@ -43,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs THAIW - Preview",
+      "title": "THAIW vs PAKW - PAKW won",
       "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
         "name": "THAIW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PAKW vs THAIW - Preview",
+      "team2": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "THAIW vs PAKW - PAKW won",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs United Arab Emirates 2nd T20I",
+      "title": "Kenya vs Uganda 19th Match",
       "team1": {
-        "name": "Malaysia",
+        "name": "Kenya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 2nd T20I",
+        "name": "Uganda 19th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malaysia vs United Arab Emirates 2nd T20I",
+      "score": "Kenya vs Uganda 19th Match",
       "status": "Match Details"
     },
     {
@@ -170,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United Arab Emirates vs Malaysia 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe vs Australia 2nd ODI",
+      "team1": {
+        "name": "Zimbabwe",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "Australia 2nd ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Zimbabwe vs Australia 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -238,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nottinghamshire vs Sussex 65th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex 65th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Sussex 65th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Essex vs Warwickshire 61st Match",
       "team1": {
         "name": "Essex",
@@ -290,29 +316,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Sussex 65th Match",
+      "title": "Western Australia vs South Australia 1st Match",
       "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Western Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Sussex 65th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Australia 1st Match",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Nottinghamshire vs Sussex 65th Match",
+      "score": "Western Australia vs South Australia 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Boland vs North West - Eastvaal Renault Dragons 5th Match",
+      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
       "team1": {
-        "name": "Boland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Boland vs North West - Eastvaal Renault Dragons 5th Match",
+      "team2": {
+        "name": "Eastvaal Renault Dragons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
       "status": "Match Details"
     },
     {
@@ -485,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Thailand Women 2nd Quarter Final",
+      "title": "Thailand Women vs Pakistan Women 2nd Quarter Final",
       "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Thailand Women 2nd Quarter Final",
+        "name": "Thailand Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pakistan Women vs Thailand Women 2nd Quarter Final",
+      "team2": {
+        "name": "Pakistan Women 2nd Quarter Final",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Thailand Women vs Pakistan Women 2nd Quarter Final",
       "status": "Match Details"
     },
     {
@@ -508,6 +534,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Malaysia Women vs Sri Lanka Women 3rd Quarter Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Japan Women vs India Women 4th Quarter Final",
+      "team1": {
+        "name": "Japan Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "India Women 4th Quarter Final",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Japan Women vs India Women 4th Quarter Final",
       "status": "Match Details"
     },
     {
@@ -550,16 +589,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Eliminator • Bridgetown, Barbados, Kensington Oval Barbados Tridents BBT 144-6 (20) Jamaica Kingsmen JKM 145-1 (14.1) Jamaica Kingsmen won by 9 wkts",
+      "title": "3rd Match • Kuala Lumpur, Bayuemas Oval United Arab Emirates UAE 216-3 (20) Malaysia MLY 157-5 (20) United Arab Emirates won by 59 runs",
       "team1": {
-        "name": "Eliminator • Bridgetown, Barbados, Kensington Oval Barbados Tridents BBT 144",
+        "name": "3rd Match • Kuala Lumpur, Bayuemas Oval United Arab Emirates UAE 216",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) Jamaica Kingsmen JKM 145",
+        "name": "3 (20) Malaysia MLY 157",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Eliminator • Bridgetown, Barbados, Kensington Oval Barbados Tridents BBT 144-6 (20) Jamaica Kingsmen JKM 145-1 (14.1) Jamaica Kingsmen won by 9 wkts",
+      "score": "3rd Match • Kuala Lumpur, Bayuemas Oval United Arab Emirates UAE 216-3 (20) Malaysia MLY 157-5 (20) United Arab Emirates won by 59 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Quarter Final • Nisshin, Korogi Sports Park Thailand Women THAIW 91-4 (11) Pakistan Women PAKW 92-7 (10.4) Pakistan Women won by 3 wkts (11 Overs game due to wet outfield)",
+      "team1": {
+        "name": "2nd Quarter Final • Nisshin, Korogi Sports Park Thailand Women THAIW 91",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (11) Pakistan Women PAKW 92",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "2nd Quarter Final • Nisshin, Korogi Sports Park Thailand Women THAIW 91-4 (11) Pakistan Women PAKW 92-7 (10.4) Pakistan Women won by 3 wkts (11 Overs game due to wet outfield)",
       "status": "Match Details"
     }
   ]
