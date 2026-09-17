@@ -1,6 +1,605 @@
 {
   "status": "success",
-  "last_updated": "2026-09-17 14:13:52 UTC",
-  "total_matches": 0,
-  "matches": []
+  "last_updated": "2026-09-17 18:19:44 UTC",
+  "total_matches": 46,
+  "matches": [
+    {
+      "title": "IND vs AFG - IND won",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IND vs AFG - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "SL vs ENG - ENG opt to bowl",
+      "team1": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "SL vs ENG - ENG opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "RDD vs DBG - Need 29 off 27b",
+      "team1": {
+        "name": "RDD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "DBG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "RDD vs DBG - Need 29 off 27b",
+      "status": "Match Details"
+    },
+    {
+      "title": "JPNW vs INDW - Preview",
+      "team1": {
+        "name": "JPNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "JPNW vs INDW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "GAW vs ABF - Preview",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs ABF - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "India vs Afghanistan 3rd T20I",
+      "team1": {
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Afghanistan 3rd T20I",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "India vs Afghanistan 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lanka vs England LIVE 2nd T20I",
+      "team1": {
+        "name": "Sri Lanka",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "England LIVE 2nd T20I",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Sri Lanka vs England LIVE 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda vs Rwanda LIVE 17th Match",
+      "team1": {
+        "name": "Uganda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rwanda LIVE 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda vs Rwanda LIVE 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kenya vs Botswana LIVE 18th Match",
+      "team1": {
+        "name": "Kenya",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Botswana LIVE 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kenya vs Botswana LIVE 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kenya vs Uganda 19th Match",
+      "team1": {
+        "name": "Kenya",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uganda 19th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kenya vs Uganda 19th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sierra Leone vs Botswana 20th Match",
+      "team1": {
+        "name": "Sierra Leone",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Botswana 20th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sierra Leone vs Botswana 20th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "United Arab Emirates vs Malaysia 3rd Match",
+      "team1": {
+        "name": "United Arab Emirates",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Malaysia 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United Arab Emirates vs Malaysia 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe vs Australia 2nd ODI",
+      "team1": {
+        "name": "Zimbabwe",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "Australia 2nd ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Zimbabwe vs Australia 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
+      "team1": {
+        "name": "Barbados Tridents",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jamaica Kingsmen Eliminator",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons Qualifier 1",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Antigua and Barbuda Falcons Qualifier 1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons Qualifier 1",
+      "status": "Match Details"
+    },
+    {
+      "title": "Belfast Wolves vs Edinburgh Castle Rockers 29th Match",
+      "team1": {
+        "name": "Belfast Wolves",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Edinburgh Castle Rockers 29th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Belfast Wolves vs Edinburgh Castle Rockers 29th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rotterdam Dockers vs Dublin Guardians LIVE 30th Match",
+      "team1": {
+        "name": "Rotterdam Dockers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dublin Guardians LIVE 30th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rotterdam Dockers vs Dublin Guardians LIVE 30th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Essex vs Warwickshire 61st Match",
+      "team1": {
+        "name": "Essex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warwickshire 61st Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Essex vs Warwickshire 61st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Leicestershire 62nd Match",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Leicestershire 62nd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Hampshire vs Leicestershire 62nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yorkshire vs Somerset 63rd Match",
+      "team1": {
+        "name": "Yorkshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Somerset 63rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yorkshire vs Somerset 63rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Surrey 64th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Surrey 64th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Surrey 64th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Sussex 65th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex 65th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nottinghamshire vs Sussex 65th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Australia vs South Australia 1st Match",
+      "team1": {
+        "name": "Western Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "South Australia 1st Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Western Australia vs South Australia 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "team1": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastvaal Renault Dragons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Province vs Dolphins 6th Match",
+      "team1": {
+        "name": "Western Province",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dolphins 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Province vs Dolphins 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Knights vs Lions 7th Match",
+      "team1": {
+        "name": "Knights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lions 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Knights vs Lions 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warriors vs Titans 8th Match",
+      "team1": {
+        "name": "Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Titans 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warriors vs Titans 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Worcestershire 49th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire 49th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Worcestershire 49th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Derbyshire vs Northamptonshire 50th Match",
+      "team1": {
+        "name": "Derbyshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Northamptonshire 50th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Derbyshire vs Northamptonshire 50th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Gloucestershire 51st Match",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gloucestershire 51st Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Gloucestershire 51st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Kent 52nd Match",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent 52nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lancashire vs Kent 52nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northern Cape vs Limpopo 4th Match",
+      "team1": {
+        "name": "Northern Cape",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Limpopo 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Cape vs Limpopo 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Eastern Storm vs Border 5th Match",
+      "team1": {
+        "name": "Eastern Storm",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Border 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Eastern Storm vs Border 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mpumalanga Rhinos vs South Western Districts 6th Match",
+      "team1": {
+        "name": "Mpumalanga Rhinos",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Western Districts 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mpumalanga Rhinos vs South Western Districts 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "India U19 vs Australia U19 1st unofficial ODI",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia U19 1st unofficial ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India U19 vs Australia U19 1st unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia A Women vs India A Women 3rd unofficial T20",
+      "team1": {
+        "name": "Australia A Women",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "India A Women 3rd unofficial T20",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Australia A Women vs India A Women 3rd unofficial T20",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bangladesh Women vs China Women 1st Quarter Final",
+      "team1": {
+        "name": "Bangladesh Women",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "China Women 1st Quarter Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bangladesh Women vs China Women 1st Quarter Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Thailand Women vs Pakistan Women 2nd Quarter Final",
+      "team1": {
+        "name": "Thailand Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Pakistan Women 2nd Quarter Final",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Thailand Women vs Pakistan Women 2nd Quarter Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia Women vs Sri Lanka Women 3rd Quarter Final",
+      "team1": {
+        "name": "Malaysia Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sri Lanka Women 3rd Quarter Final",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Malaysia Women vs Sri Lanka Women 3rd Quarter Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Japan Women vs India Women 4th Quarter Final",
+      "team1": {
+        "name": "Japan Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "India Women 4th Quarter Final",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Japan Women vs India Women 4th Quarter Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women Final",
+      "team1": {
+        "name": "Trinbago Knight Riders Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Guyana Amazon Warriors Women Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa Women vs Zimbabwe Women 4th T20I",
+      "team1": {
+        "name": "South Africa Women",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Zimbabwe Women 4th T20I",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "South Africa Women vs Zimbabwe Women 4th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd T20I • Delhi, Arun Jaitley Stadium India IND 221-7 (20) Afghanistan AFG 94 (14.1) India won by 127 runs",
+      "team1": {
+        "name": "3rd T20I • Delhi, Arun Jaitley Stadium India IND 221",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (20) Afghanistan AFG 94 (14.1) India won by 127 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "3rd T20I • Delhi, Arun Jaitley Stadium India IND 221-7 (20) Afghanistan AFG 94 (14.1) India won by 127 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "29th Match • Dublin, The Village Belfast Wolves BFW 190-4 (20) Edinburgh Castle Rockers ECR 137-6 (15) Belfast Wolves won by 9 runs (DLS method)  -  2nd innings reduced to 15 overs, target 147 runs",
+      "team1": {
+        "name": "29th Match • Dublin, The Village Belfast Wolves BFW 190",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Edinburgh Castle Rockers ECR 137",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "29th Match • Dublin, The Village Belfast Wolves BFW 190-4 (20) Edinburgh Castle Rockers ECR 137-6 (15) Belfast Wolves won by 9 runs (DLS method)  -  2nd innings reduced to 15 overs, target 147 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 168-5 (20) India A Women INDWA 161 (19.5) Australia A Women won by 7 runs",
+      "team1": {
+        "name": "3rd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 168",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "5 (20) India A Women INDWA 161 (19.5) Australia A Women won by 7 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "3rd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 168-5 (20) India A Women INDWA 161 (19.5) Australia A Women won by 7 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 205-4 (20) Zimbabwe Women ZIMW 125-5 (20) South Africa Women won by 80 runs",
+      "team1": {
+        "name": "4th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 205",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "4 (20) Zimbabwe Women ZIMW 125",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "4th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 205-4 (20) Zimbabwe Women ZIMW 125-5 (20) South Africa Women won by 80 runs",
+      "status": "Match Details"
+    }
+  ]
 }
