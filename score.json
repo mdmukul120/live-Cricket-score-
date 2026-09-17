@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-17 18:19:44 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-09-17 21:32:16 UTC",
+  "total_matches": 48,
   "matches": [
     {
       "title": "IND vs AFG - IND won",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SL vs ENG - ENG opt to bowl",
+      "title": "SL vs ENG - ENG won",
       "team1": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -26,33 +26,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "SL vs ENG - ENG opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "RDD vs DBG - Need 29 off 27b",
-      "team1": {
-        "name": "RDD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DBG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "RDD vs DBG - Need 29 off 27b",
-      "status": "Match Details"
-    },
-    {
-      "title": "JPNW vs INDW - Preview",
-      "team1": {
-        "name": "JPNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "JPNW vs INDW - Preview",
+      "score": "SL vs ENG - ENG won",
       "status": "Match Details"
     },
     {
@@ -69,6 +43,32 @@
       "status": "Match Details"
     },
     {
+      "title": "RDD vs DBG - DBG won",
+      "team1": {
+        "name": "RDD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "DBG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "RDD vs DBG - DBG won",
+      "status": "Match Details"
+    },
+    {
+      "title": "JPNW vs INDW - Preview",
+      "team1": {
+        "name": "JPNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "JPNW vs INDW - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "India vs Afghanistan 3rd T20I",
       "team1": {
         "name": "India",
@@ -82,42 +82,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs England LIVE 2nd T20I",
+      "title": "Sri Lanka vs England 2nd T20I",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "England LIVE 2nd T20I",
+        "name": "England 2nd T20I",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Sri Lanka vs England LIVE 2nd T20I",
+      "score": "Sri Lanka vs England 2nd T20I",
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Rwanda LIVE 17th Match",
+      "title": "Uganda vs Rwanda 17th Match",
       "team1": {
         "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rwanda LIVE 17th Match",
+        "name": "Rwanda 17th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda vs Rwanda LIVE 17th Match",
+      "score": "Uganda vs Rwanda 17th Match",
       "status": "Match Details"
     },
     {
-      "title": "Kenya vs Botswana LIVE 18th Match",
+      "title": "Kenya vs Botswana 18th Match",
       "team1": {
         "name": "Kenya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Botswana LIVE 18th Match",
+        "name": "Botswana 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kenya vs Botswana LIVE 18th Match",
+      "score": "Kenya vs Botswana 18th Match",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Rotterdam Dockers vs Dublin Guardians LIVE 30th Match",
+      "title": "Rotterdam Dockers vs Dublin Guardians 30th Match",
       "team1": {
         "name": "Rotterdam Dockers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dublin Guardians LIVE 30th Match",
+        "name": "Dublin Guardians 30th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rotterdam Dockers vs Dublin Guardians LIVE 30th Match",
+      "score": "Rotterdam Dockers vs Dublin Guardians 30th Match",
       "status": "Match Details"
     },
     {
@@ -563,16 +563,55 @@
       "status": "Match Details"
     },
     {
-      "title": "29th Match • Dublin, The Village Belfast Wolves BFW 190-4 (20) Edinburgh Castle Rockers ECR 137-6 (15) Belfast Wolves won by 9 runs (DLS method)  -  2nd innings reduced to 15 overs, target 147 runs",
+      "title": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145-9 (20) England ENG 146-4 (12.1) England won by 6 wkts",
       "team1": {
-        "name": "29th Match • Dublin, The Village Belfast Wolves BFW 190",
+        "name": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "9 (20) England ENG 146",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145-9 (20) England ENG 146-4 (12.1) England won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "18th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 216-5 (20) Botswana BW 152-3 (20) Kenya won by 64 runs",
+      "team1": {
+        "name": "18th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 216",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "4 (20) Edinburgh Castle Rockers ECR 137",
+        "name": "5 (20) Botswana BW 152",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "29th Match • Dublin, The Village Belfast Wolves BFW 190-4 (20) Edinburgh Castle Rockers ECR 137-6 (15) Belfast Wolves won by 9 runs (DLS method)  -  2nd innings reduced to 15 overs, target 147 runs",
+      "score": "18th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 216-5 (20) Botswana BW 152-3 (20) Kenya won by 64 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "17th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 188-2 (20) Rwanda RWA 116-9 (20) Uganda won by 72 runs",
+      "team1": {
+        "name": "17th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 188",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (20) Rwanda RWA 116",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "17th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 188-2 (20) Rwanda RWA 116-9 (20) Uganda won by 72 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "30th Match • Dublin, The Village Rotterdam Dockers RDD 188-5 (20) Dublin Guardians DBG 192-5 (19) Dublin Guardians won by 5 wkts",
+      "team1": {
+        "name": "30th Match • Dublin, The Village Rotterdam Dockers RDD 188",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Dublin Guardians DBG 192",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "30th Match • Dublin, The Village Rotterdam Dockers RDD 188-5 (20) Dublin Guardians DBG 192-5 (19) Dublin Guardians won by 5 wkts",
       "status": "Match Details"
     },
     {
@@ -586,19 +625,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "3rd unofficial T20 • New Chandigarh, Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur Australia A Women AUSWA 168-5 (20) India A Women INDWA 161 (19.5) Australia A Women won by 7 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 205-4 (20) Zimbabwe Women ZIMW 125-5 (20) South Africa Women won by 80 runs",
-      "team1": {
-        "name": "4th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 205",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "4 (20) Zimbabwe Women ZIMW 125",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "4th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 205-4 (20) Zimbabwe Women ZIMW 125-5 (20) South Africa Women won by 80 runs",
       "status": "Match Details"
     }
   ]
