@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-16 23:53:37 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-09-17 03:44:33 UTC",
+  "total_matches": 43,
   "matches": [
-    {
-      "title": "BBT vs JKM - JKM opt to bowl",
-      "team1": {
-        "name": "BBT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BBT vs JKM - JKM opt to bowl",
-      "status": "Match Details"
-    },
     {
       "title": "AFG vs IND - Preview",
       "team1": {
@@ -30,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "BANW vs CHNW - Preview",
+      "title": "BBT vs JKM - JKM won",
       "team1": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "CHNW",
+        "name": "BBT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BANW vs CHNW - Preview",
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BBT vs JKM - JKM won",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "GGC vs ADF - ADF won",
+      "title": "PAKW vs THAIW - Preview",
       "team1": {
-        "name": "GGC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "ADF",
+        "name": "THAIW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GGC vs ADF - ADF won",
+      "score": "PAKW vs THAIW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "BANW vs CHNW - Abandon",
+      "team1": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "CHNW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BANW vs CHNW - Abandon",
       "status": "Match Details"
     },
     {
@@ -160,29 +160,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs United Arab Emirates 3rd Match",
+      "title": "United Arab Emirates vs Malaysia 3rd Match",
       "team1": {
-        "name": "Malaysia",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 3rd Match",
+        "name": "Malaysia 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malaysia vs United Arab Emirates 3rd Match",
+      "score": "United Arab Emirates vs Malaysia 3rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Jamaica Kingsmen LIVE Eliminator",
+      "title": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
       "team1": {
         "name": "Barbados Tridents",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen LIVE Eliminator",
+        "name": "Jamaica Kingsmen Eliminator",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Barbados Tridents vs Jamaica Kingsmen LIVE Eliminator",
+      "score": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
+      "status": "Match Details"
+    },
+    {
+      "title": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons Qualifier 1",
+      "team1": {
+        "name": "Guyana Amazon Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Antigua and Barbuda Falcons Qualifier 1",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons Qualifier 1",
       "status": "Match Details"
     },
     {
@@ -433,6 +446,19 @@
       "status": "Match Details"
     },
     {
+      "title": "India U19 vs Australia U19 1st unofficial ODI",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia U19 1st unofficial ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India U19 vs Australia U19 1st unofficial ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "India A Women vs Australia A Women 3rd unofficial T20",
       "team1": {
         "name": "India A Women",
@@ -446,29 +472,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh Women vs China Women 1st Quarter-Final",
+      "title": "Bangladesh Women vs China Women 1st Quarter Final",
       "team1": {
         "name": "Bangladesh Women",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "China Women 1st Quarter",
+        "name": "China Women 1st Quarter Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bangladesh Women vs China Women 1st Quarter-Final",
+      "score": "Bangladesh Women vs China Women 1st Quarter Final",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Thailand Women 2nd Quarter-Final",
+      "title": "Pakistan Women vs Thailand Women 2nd Quarter Final",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Thailand Women 2nd Quarter",
+        "name": "Thailand Women 2nd Quarter Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pakistan Women vs Thailand Women 2nd Quarter-Final",
+      "score": "Pakistan Women vs Thailand Women 2nd Quarter Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia Women vs Sri Lanka Women 3rd Quarter Final",
+      "team1": {
+        "name": "Malaysia Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sri Lanka Women 3rd Quarter Final",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Malaysia Women vs Sri Lanka Women 3rd Quarter Final",
       "status": "Match Details"
     },
     {
@@ -508,6 +547,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Zimbabwe Women vs South Africa Women 4th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Eliminator • Bridgetown, Barbados, Kensington Oval Barbados Tridents BBT 144-6 (20) Jamaica Kingsmen JKM 145-1 (14.1) Jamaica Kingsmen won by 9 wkts",
+      "team1": {
+        "name": "Eliminator • Bridgetown, Barbados, Kensington Oval Barbados Tridents BBT 144",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Jamaica Kingsmen JKM 145",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Eliminator • Bridgetown, Barbados, Kensington Oval Barbados Tridents BBT 144-6 (20) Jamaica Kingsmen JKM 145-1 (14.1) Jamaica Kingsmen won by 9 wkts",
       "status": "Match Details"
     }
   ]
