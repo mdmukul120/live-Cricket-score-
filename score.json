@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-17 23:39:01 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-09-18 01:32:26 UTC",
+  "total_matches": 46,
   "matches": [
     {
-      "title": "GAW vs ABF - ABF opt to bowl",
+      "title": "GAW vs ABF - Innings Break",
       "team1": {
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "ABF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs ABF - ABF opt to bowl",
+      "score": "GAW vs ABF - Innings Break",
       "status": "Match Details"
     },
     {
@@ -157,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United Arab Emirates vs Malaysia 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Japan vs Hong Kong, China 1st T20I",
+      "team1": {
+        "name": "Japan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hong Kong, China 1st T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Japan vs Hong Kong, China 1st T20I",
       "status": "Match Details"
     },
     {
@@ -368,6 +381,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Durham vs Worcestershire 49th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Worcestershire 49th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Worcestershire 49th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Derbyshire vs Northamptonshire 50th Match",
       "team1": {
         "name": "Derbyshire",
@@ -404,19 +430,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Lancashire vs Kent 52nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Worcestershire 49th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Worcestershire 49th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Worcestershire 49th Match",
       "status": "Match Details"
     },
     {
@@ -511,16 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia Women vs Sri Lanka Women 3rd Quarter Final",
+      "title": "Sri Lanka Women vs Malaysia Women 3rd Quarter Final",
       "team1": {
-        "name": "Malaysia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sri Lanka Women 3rd Quarter Final",
+        "name": "Sri Lanka Women",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Malaysia Women vs Sri Lanka Women 3rd Quarter Final",
+      "team2": {
+        "name": "Malaysia Women 3rd Quarter Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sri Lanka Women vs Malaysia Women 3rd Quarter Final",
       "status": "Match Details"
     },
     {
@@ -573,45 +586,6 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145-9 (20) England ENG 146-4 (12.1) England won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "18th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 216-5 (20) Botswana BW 152-3 (20) Kenya won by 64 runs",
-      "team1": {
-        "name": "18th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 216",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Botswana BW 152",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "18th Match • Kigali City, Gahanga International Cricket Stadium Kenya KEN 216-5 (20) Botswana BW 152-3 (20) Kenya won by 64 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "17th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 188-2 (20) Rwanda RWA 116-9 (20) Uganda won by 72 runs",
-      "team1": {
-        "name": "17th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 188",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (20) Rwanda RWA 116",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "17th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 188-2 (20) Rwanda RWA 116-9 (20) Uganda won by 72 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "30th Match • Dublin, The Village Rotterdam Dockers RDD 188-5 (20) Dublin Guardians DBG 192-5 (19) Dublin Guardians won by 5 wkts",
-      "team1": {
-        "name": "30th Match • Dublin, The Village Rotterdam Dockers RDD 188",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Dublin Guardians DBG 192",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "30th Match • Dublin, The Village Rotterdam Dockers RDD 188-5 (20) Dublin Guardians DBG 192-5 (19) Dublin Guardians won by 5 wkts",
       "status": "Match Details"
     },
     {
