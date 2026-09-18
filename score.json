@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-18 21:14:00 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-09-18 23:21:51 UTC",
+  "total_matches": 36,
   "matches": [
+    {
+      "title": "GAW vs JKM - JKM opt to bowl",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs JKM - JKM opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "AUS vs ZIM - AUS won",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "AUS vs ZIM - AUS won",
-      "status": "Match Details"
-    },
-    {
-      "title": "JKM vs GAW - Preview",
-      "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKM vs GAW - Preview",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors Qualifier 2",
+      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen LIVE Qualifier 2",
       "team1": {
-        "name": "Jamaica Kingsmen",
+        "name": "Guyana Amazon Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Guyana Amazon Warriors Qualifier 2",
+        "name": "Jamaica Kingsmen LIVE Qualifier 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors Qualifier 2",
+      "score": "Guyana Amazon Warriors vs Jamaica Kingsmen LIVE Qualifier 2",
       "status": "Match Details"
     },
     {
@@ -456,19 +456,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Japan Women vs India Women 4th Quarter Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women Final",
-      "team1": {
-        "name": "Trinbago Knight Riders Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Guyana Amazon Warriors Women Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Trinbago Knight Riders Women vs Guyana Amazon Warriors Women Final",
       "status": "Match Details"
     },
     {
