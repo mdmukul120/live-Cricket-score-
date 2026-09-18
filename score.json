@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-09-18 06:36:23 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-09-18 11:49:03 UTC",
+  "total_matches": 43,
   "matches": [
     {
-      "title": "JPNW vs INDW - Need 45 to win",
+      "title": "AUS vs ZIM - Need 342 to win",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "AUS vs ZIM - Need 342 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "JPNW vs INDW - INDW won",
       "team1": {
         "name": "JPNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,20 +26,7 @@
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "JPNW vs INDW - Need 45 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs AUS - Preview",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "ZIM vs AUS - Preview",
+      "score": "JPNW vs INDW - INDW won",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Rwanda 17th Match",
-      "team1": {
-        "name": "Uganda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Rwanda 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uganda vs Rwanda 17th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Kenya vs Botswana 18th Match",
       "team1": {
         "name": "Kenya",
@@ -121,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kenya vs Uganda 19th Match",
+      "title": "Uganda vs Kenya 19th Match",
       "team1": {
-        "name": "Kenya",
+        "name": "Uganda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Uganda 19th Match",
+        "name": "Kenya 19th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kenya vs Uganda 19th Match",
+      "score": "Uganda vs Kenya 19th Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Australia 2nd ODI",
+      "title": "Australia vs Zimbabwe LIVE 2nd ODI",
       "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "Australia 2nd ODI",
+        "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Zimbabwe vs Australia 2nd ODI",
+      "team2": {
+        "name": "Zimbabwe LIVE 2nd ODI",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Australia vs Zimbabwe LIVE 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -290,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs South Australia LIVE 1st Match",
+      "title": "Western Australia vs South Australia 1st Match",
       "team1": {
         "name": "Western Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "South Australia LIVE 1st Match",
+        "name": "South Australia 1st Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Western Australia vs South Australia LIVE 1st Match",
+      "score": "Western Australia vs South Australia 1st Match",
       "status": "Match Details"
     },
     {
@@ -485,19 +472,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Thailand Women vs Pakistan Women 2nd Quarter Final",
-      "team1": {
-        "name": "Thailand Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Pakistan Women 2nd Quarter Final",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Thailand Women vs Pakistan Women 2nd Quarter Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Sri Lanka Women vs Malaysia Women 3rd Quarter Final",
       "team1": {
         "name": "Sri Lanka Women",
@@ -511,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Japan Women vs India Women LIVE 4th Quarter Final",
+      "title": "Japan Women vs India Women 4th Quarter Final",
       "team1": {
         "name": "Japan Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "India Women LIVE 4th Quarter Final",
+        "name": "India Women 4th Quarter Final",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Japan Women vs India Women LIVE 4th Quarter Final",
+      "score": "Japan Women vs India Women 4th Quarter Final",
       "status": "Match Details"
     },
     {
@@ -550,29 +524,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Qualifier 1 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 76 (15) Antigua and Barbuda Falcons ABF 77-1 (5.2) Antigua and Barbuda Falcons won by 9 wkts",
+      "title": "Zimbabwe Women vs South Africa Women 5th T20I",
       "team1": {
-        "name": "Qualifier 1 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 76 (15) Antigua and Barbuda Falcons ABF 77",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "1 (5.2) Antigua and Barbuda Falcons won by 9 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Africa Women 5th T20I",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Qualifier 1 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 76 (15) Antigua and Barbuda Falcons ABF 77-1 (5.2) Antigua and Barbuda Falcons won by 9 wkts",
+      "score": "Zimbabwe Women vs South Africa Women 5th T20I",
       "status": "Match Details"
     },
     {
-      "title": "3rd Quarter Final • Nisshin, Korogi Sports Park Sri Lanka Women SLW 160-4 (20) Malaysia Women MLYW 74-7 (20) Sri Lanka Women won by 86 runs",
+      "title": "63rd Match • Leeds, Headingley Yorkshire YORKS 212 & 275 Somerset SOM 201 & 101 Yorkshire won by 185 runs",
       "team1": {
-        "name": "3rd Quarter Final • Nisshin, Korogi Sports Park Sri Lanka Women SLW 160",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "63rd Match • Leeds, Headingley Yorkshire YORKS 212 & 275 Somerset SOM 201 & 101 Yorkshire won by 185 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "4 (20) Malaysia Women MLYW 74",
+        "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd Quarter Final • Nisshin, Korogi Sports Park Sri Lanka Women SLW 160-4 (20) Malaysia Women MLYW 74-7 (20) Sri Lanka Women won by 86 runs",
+      "score": "63rd Match • Leeds, Headingley Yorkshire YORKS 212 & 275 Somerset SOM 201 & 101 Yorkshire won by 185 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Quarter Final • Nisshin, Korogi Sports Park Japan Women JPNW 57 (19.5) India Women INDW 59-2 (5) India Women won by 8 wkts",
+      "team1": {
+        "name": "4th Quarter Final • Nisshin, Korogi Sports Park Japan Women JPNW 57 (19.5) India Women INDW 59",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "2 (5) India Women won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "4th Quarter Final • Nisshin, Korogi Sports Park Japan Women JPNW 57 (19.5) India Women INDW 59-2 (5) India Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
