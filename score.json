@@ -1,19 +1,32 @@
 {
   "status": "success",
-  "last_updated": "2026-09-18 01:32:26 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-09-18 06:36:23 UTC",
+  "total_matches": 44,
   "matches": [
     {
-      "title": "GAW vs ABF - Innings Break",
+      "title": "JPNW vs INDW - Need 45 to win",
       "team1": {
-        "name": "GAW",
+        "name": "JPNW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "GAW vs ABF - Innings Break",
+      "score": "JPNW vs INDW - Need 45 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs AUS - Preview",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "ZIM vs AUS - Preview",
       "status": "Match Details"
     },
     {
@@ -30,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "GAW vs ABF - ABF won",
+      "team1": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "GAW vs ABF - ABF won",
+      "status": "Match Details"
+    },
+    {
       "title": "SL vs ENG - ENG won",
       "team1": {
         "name": "SL",
@@ -40,32 +66,6 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "SL vs ENG - ENG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "JPNW vs INDW - Preview",
-      "team1": {
-        "name": "JPNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "JPNW vs INDW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs AUS - Preview",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "ZIM vs AUS - Preview",
       "status": "Match Details"
     },
     {
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Malaysia 3rd Match",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Malaysia 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Malaysia 3rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Japan vs Hong Kong, China 1st T20I",
       "team1": {
         "name": "Japan",
@@ -186,19 +173,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
-      "team1": {
-        "name": "Barbados Tridents",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jamaica Kingsmen Eliminator",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Barbados Tridents vs Jamaica Kingsmen Eliminator",
-      "status": "Match Details"
-    },
-    {
       "title": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons Qualifier 1",
       "team1": {
         "name": "Guyana Amazon Warriors",
@@ -212,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs TBC Qualifier 2",
+      "title": "Jamaica Kingsmen vs Guyana Amazon Warriors Qualifier 2",
       "team1": {
         "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Qualifier 2",
+        "name": "Guyana Amazon Warriors Qualifier 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jamaica Kingsmen vs TBC Qualifier 2",
+      "score": "Jamaica Kingsmen vs Guyana Amazon Warriors Qualifier 2",
       "status": "Match Details"
     },
     {
@@ -316,16 +290,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs South Australia 1st Match",
+      "title": "Western Australia vs South Australia LIVE 1st Match",
       "team1": {
         "name": "Western Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "South Australia 1st Match",
+        "name": "South Australia LIVE 1st Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Western Australia vs South Australia 1st Match",
+      "score": "Western Australia vs South Australia LIVE 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Queensland vs Victoria 2nd Match",
+      "team1": {
+        "name": "Queensland",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Victoria 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Queensland vs Victoria 2nd Match",
       "status": "Match Details"
     },
     {
@@ -498,19 +485,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh Women vs China Women 1st Quarter Final",
-      "team1": {
-        "name": "Bangladesh Women",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "China Women 1st Quarter Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bangladesh Women vs China Women 1st Quarter Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Thailand Women vs Pakistan Women 2nd Quarter Final",
       "team1": {
         "name": "Thailand Women",
@@ -537,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Japan Women vs India Women 4th Quarter Final",
+      "title": "Japan Women vs India Women LIVE 4th Quarter Final",
       "team1": {
         "name": "Japan Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "India Women 4th Quarter Final",
+        "name": "India Women LIVE 4th Quarter Final",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Japan Women vs India Women 4th Quarter Final",
+      "score": "Japan Women vs India Women LIVE 4th Quarter Final",
       "status": "Match Details"
     },
     {
@@ -576,29 +550,29 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145-9 (20) England ENG 146-4 (12.1) England won by 6 wkts",
+      "title": "Qualifier 1 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 76 (15) Antigua and Barbuda Falcons ABF 77-1 (5.2) Antigua and Barbuda Falcons won by 9 wkts",
       "team1": {
-        "name": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "Qualifier 1 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 76 (15) Antigua and Barbuda Falcons ABF 77",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) England ENG 146",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "1 (5.2) Antigua and Barbuda Falcons won by 9 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd T20I • Cardiff, Sophia Gardens Sri Lanka SL 145-9 (20) England ENG 146-4 (12.1) England won by 6 wkts",
+      "score": "Qualifier 1 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 76 (15) Antigua and Barbuda Falcons ABF 77-1 (5.2) Antigua and Barbuda Falcons won by 9 wkts",
       "status": "Match Details"
     },
     {
-      "title": "Final • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 145-6 (20) Guyana Amazon Warriors Women GAWW 149-8 (19.3) Guyana Amazon Warriors Women won by 2 wkts",
+      "title": "3rd Quarter Final • Nisshin, Korogi Sports Park Sri Lanka Women SLW 160-4 (20) Malaysia Women MLYW 74-7 (20) Sri Lanka Women won by 86 runs",
       "team1": {
-        "name": "Final • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 145",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "3rd Quarter Final • Nisshin, Korogi Sports Park Sri Lanka Women SLW 160",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "6 (20) Guyana Amazon Warriors Women GAWW 149",
+        "name": "4 (20) Malaysia Women MLYW 74",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Final • Bridgetown, Barbados, Kensington Oval Trinbago Knight Riders Women TKRW 145-6 (20) Guyana Amazon Warriors Women GAWW 149-8 (19.3) Guyana Amazon Warriors Women won by 2 wkts",
+      "score": "3rd Quarter Final • Nisshin, Korogi Sports Park Sri Lanka Women SLW 160-4 (20) Malaysia Women MLYW 74-7 (20) Sri Lanka Women won by 86 runs",
       "status": "Match Details"
     }
   ]
