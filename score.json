@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-18 11:49:03 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-09-18 15:18:37 UTC",
+  "total_matches": 49,
   "matches": [
     {
-      "title": "AUS vs ZIM - Need 342 to win",
+      "title": "AUS vs ZIM - AUS won",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -13,7 +13,20 @@
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "AUS vs ZIM - Need 342 to win",
+      "score": "AUS vs ZIM - AUS won",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKM vs GAW - Preview",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GAW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs GAW - Preview",
       "status": "Match Details"
     },
     {
@@ -43,29 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "GAW vs ABF - ABF won",
+      "title": "ENG vs SL - Preview",
       "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs ABF - ABF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SL vs ENG - ENG won",
-      "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "SL vs ENG - ENG won",
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "ENG vs SL - Preview",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "England vs Sri Lanka 3rd T20I",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 3rd T20I",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "England vs Sri Lanka 3rd T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Kenya vs Botswana 18th Match",
       "team1": {
         "name": "Kenya",
@@ -121,16 +134,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sierra Leone vs Botswana 20th Match",
+      "title": "Botswana vs Sierra Leone LIVE 20th Match",
       "team1": {
-        "name": "Sierra Leone",
+        "name": "Botswana",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Botswana 20th Match",
+        "name": "Sierra Leone LIVE 20th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sierra Leone vs Botswana 20th Match",
+      "score": "Botswana vs Sierra Leone LIVE 20th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC Final",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Final",
       "status": "Match Details"
     },
     {
@@ -147,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Zimbabwe LIVE 2nd ODI",
+      "title": "Australia vs Zimbabwe 2nd ODI",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Zimbabwe LIVE 2nd ODI",
+        "name": "Zimbabwe 2nd ODI",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Australia vs Zimbabwe LIVE 2nd ODI",
+      "score": "Australia vs Zimbabwe 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -186,19 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Belfast Wolves vs Edinburgh Castle Rockers 29th Match",
-      "team1": {
-        "name": "Belfast Wolves",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Edinburgh Castle Rockers 29th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Belfast Wolves vs Edinburgh Castle Rockers 29th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Rotterdam Dockers vs Dublin Guardians 30th Match",
       "team1": {
         "name": "Rotterdam Dockers",
@@ -209,6 +222,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Rotterdam Dockers vs Dublin Guardians 30th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Amsterdam Flames vs Belfast Wolves Qualifier",
+      "team1": {
+        "name": "Amsterdam Flames",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Belfast Wolves Qualifier",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Amsterdam Flames vs Belfast Wolves Qualifier",
       "status": "Match Details"
     },
     {
@@ -368,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Derbyshire vs Northamptonshire 50th Match",
+      "title": "Derbyshire vs Northamptonshire LIVE 50th Match",
       "team1": {
         "name": "Derbyshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Northamptonshire 50th Match",
+        "name": "Northamptonshire LIVE 50th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Derbyshire vs Northamptonshire 50th Match",
+      "score": "Derbyshire vs Northamptonshire LIVE 50th Match",
       "status": "Match Details"
     },
     {
@@ -511,19 +537,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Women vs Zimbabwe Women 4th T20I",
-      "team1": {
-        "name": "South Africa Women",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Women 4th T20I",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "South Africa Women vs Zimbabwe Women 4th T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Zimbabwe Women vs South Africa Women 5th T20I",
       "team1": {
         "name": "Zimbabwe Women",
@@ -534,6 +547,58 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Zimbabwe Women vs South Africa Women 5th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "19th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 197-7 (20) Kenya KEN 150 (19) Uganda won by 47 runs",
+      "team1": {
+        "name": "19th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 197",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Kenya KEN 150 (19) Uganda won by 47 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "19th Match • Kigali City, Gahanga International Cricket Stadium Uganda UGA 197-7 (20) Kenya KEN 150 (19) Uganda won by 47 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd ODI • Harare, Harare Sports Club Australia AUS 356-6 (50) Zimbabwe ZIM 272 (48.3) Australia won by 84 runs",
+      "team1": {
+        "name": "2nd ODI • Harare, Harare Sports Club Australia AUS 356",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "6 (50) Zimbabwe ZIM 272 (48.3) Australia won by 84 runs",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "2nd ODI • Harare, Harare Sports Club Australia AUS 356-6 (50) Zimbabwe ZIM 272 (48.3) Australia won by 84 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "62nd Match • Leicester, Grace Road Hampshire HAM 214 & 363 Leicestershire LEIC 244 & 335-5 Leicestershire won by 5 wkts",
+      "team1": {
+        "name": "62nd Match • Leicester, Grace Road Hampshire HAM 214 & 363 Leicestershire LEIC 244 & 335",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "5 Leicestershire won by 5 wkts",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "62nd Match • Leicester, Grace Road Hampshire HAM 214 & 363 Leicestershire LEIC 244 & 335-5 Leicestershire won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "65th Match • Hove, County Ground Nottinghamshire NOTTS 240 & 193 Sussex SUS 358 & 76-3 Sussex won by 7 wkts",
+      "team1": {
+        "name": "65th Match • Hove, County Ground Nottinghamshire NOTTS 240 & 193 Sussex SUS 358 & 76",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "3 Sussex won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "65th Match • Hove, County Ground Nottinghamshire NOTTS 240 & 193 Sussex SUS 358 & 76-3 Sussex won by 7 wkts",
       "status": "Match Details"
     },
     {
@@ -550,16 +615,29 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Quarter Final • Nisshin, Korogi Sports Park Japan Women JPNW 57 (19.5) India Women INDW 59-2 (5) India Women won by 8 wkts",
+      "title": "64th Match • London, Kennington Oval Glamorgan GLAM 132 & 594 Surrey SUR 115 & 427 Glamorgan won by 184 runs",
       "team1": {
-        "name": "4th Quarter Final • Nisshin, Korogi Sports Park Japan Women JPNW 57 (19.5) India Women INDW 59",
+        "name": "64th Match • London, Kennington Oval Glamorgan GLAM 132 & 594 Surrey SUR 115 & 427 Glamorgan won by 184 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "64th Match • London, Kennington Oval Glamorgan GLAM 132 & 594 Surrey SUR 115 & 427 Glamorgan won by 184 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 182-6 (20) Australia U19 AUSU19 175-7 (20) India U19 won by 7 runs (Match reduced to 20 overs per side due to rain)",
+      "team1": {
+        "name": "1st unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 182",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "2 (5) India Women won by 8 wkts",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "6 (20) Australia U19 AUSU19 175",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "4th Quarter Final • Nisshin, Korogi Sports Park Japan Women JPNW 57 (19.5) India Women INDW 59-2 (5) India Women won by 8 wkts",
+      "score": "1st unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 182-6 (20) Australia U19 AUSU19 175-7 (20) India U19 won by 7 runs (Match reduced to 20 overs per side due to rain)",
       "status": "Match Details"
     }
   ]
