@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-19 14:27:28 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-09-19 17:23:25 UTC",
+  "total_matches": 34,
   "matches": [
     {
-      "title": "SL vs ENG - ENG opt to bowl",
+      "title": "SL vs ENG - ENG won",
       "team1": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,11 +13,11 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "SL vs ENG - ENG opt to bowl",
+      "score": "SL vs ENG - ENG won",
       "status": "Match Details"
     },
     {
-      "title": "ADF vs BFW - Rain",
+      "title": "ADF vs BFW - BFW won",
       "team1": {
         "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ADF vs BFW - Rain",
+      "score": "ADF vs BFW - BFW won",
       "status": "Match Details"
     },
     {
@@ -69,29 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs England LIVE 3rd T20I",
+      "title": "Sri Lanka vs England 3rd T20I",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "England LIVE 3rd T20I",
+        "name": "England 3rd T20I",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Sri Lanka vs England LIVE 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Botswana vs Sierra Leone 20th Match",
-      "team1": {
-        "name": "Botswana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sierra Leone 20th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Botswana vs Sierra Leone 20th Match",
+      "score": "Sri Lanka vs England 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -134,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Zimbabwe 2nd ODI",
-      "team1": {
-        "name": "Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Zimbabwe 2nd ODI",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "Australia vs Zimbabwe 2nd ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Zimbabwe vs Australia 3rd ODI",
       "team1": {
         "name": "Zimbabwe",
@@ -186,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Edinburgh Castle Rockers vs TBC Final",
+      "title": "Edinburgh Castle Rockers vs Belfast Wolves Final",
       "team1": {
         "name": "Edinburgh Castle Rockers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Final",
+        "name": "Belfast Wolves Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Edinburgh Castle Rockers vs TBC Final",
+      "score": "Edinburgh Castle Rockers vs Belfast Wolves Final",
       "status": "Match Details"
     },
     {
@@ -238,71 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Essex vs Warwickshire 61st Match",
-      "team1": {
-        "name": "Essex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warwickshire 61st Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Essex vs Warwickshire 61st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hampshire vs Leicestershire 62nd Match",
-      "team1": {
-        "name": "Hampshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Leicestershire 62nd Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Hampshire vs Leicestershire 62nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Yorkshire vs Somerset 63rd Match",
-      "team1": {
-        "name": "Yorkshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Somerset 63rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yorkshire vs Somerset 63rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Surrey 64th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Surrey 64th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Surrey 64th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Sussex 65th Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Sussex 65th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nottinghamshire vs Sussex 65th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Queensland vs Victoria 2nd Match",
       "team1": {
         "name": "Queensland",
@@ -326,19 +235,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Western Australia vs Tasmania 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
-      "team1": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastvaal Renault Dragons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -381,55 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Kent 52nd Match",
+      "title": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
       "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent 52nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lancashire vs Kent 52nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Worcestershire 49th Match",
-      "team1": {
-        "name": "Durham",
+        "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Worcestershire 49th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Worcestershire 49th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Derbyshire vs Northamptonshire 50th Match",
-      "team1": {
-        "name": "Derbyshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Northamptonshire 50th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Derbyshire vs Northamptonshire 50th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Middlesex vs Gloucestershire 51st Match",
-      "team1": {
-        "name": "Middlesex",
+        "name": "Eastvaal Renault Dragons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "Gloucestershire 51st Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Gloucestershire 51st Match",
+      "score": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -524,16 +381,42 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Women vs Zimbabwe Women LIVE 5th T20I",
+      "title": "South Africa Women vs Zimbabwe Women 5th T20I",
       "team1": {
         "name": "South Africa Women",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Zimbabwe Women LIVE 5th T20I",
+        "name": "Zimbabwe Women 5th T20I",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "South Africa Women vs Zimbabwe Women LIVE 5th T20I",
+      "score": "South Africa Women vs Zimbabwe Women 5th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd T20I • Manchester, Emirates Old Trafford Sri Lanka SL 124 (18.5) England ENG 126-2 (9.4) England won by 8 wkts",
+      "team1": {
+        "name": "3rd T20I • Manchester, Emirates Old Trafford Sri Lanka SL 124 (18.5) England ENG 126",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "2 (9.4) England won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "3rd T20I • Manchester, Emirates Old Trafford Sri Lanka SL 124 (18.5) England ENG 126-2 (9.4) England won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Qualifier • Dublin, The Village Amsterdam Flames ADF 133 (20) Belfast Wolves BFW 136-3 (18.3) Belfast Wolves won by 7 wkts",
+      "team1": {
+        "name": "Qualifier • Dublin, The Village Amsterdam Flames ADF 133 (20) Belfast Wolves BFW 136",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (18.3) Belfast Wolves won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qualifier • Dublin, The Village Amsterdam Flames ADF 133 (20) Belfast Wolves BFW 136-3 (18.3) Belfast Wolves won by 7 wkts",
       "status": "Match Details"
     },
     {
@@ -547,6 +430,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "2nd Match • Brisbane, Allan Border Field Queensland QL 335-7 (50) Victoria VIC 339-7 (49.5) Victoria won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 164-6 (20) Zimbabwe Women ZIMW 151-8 (20) South Africa Women won by 13 runs",
+      "team1": {
+        "name": "5th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 164",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "6 (20) Zimbabwe Women ZIMW 151",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "5th T20I • Bulawayo, Queens Sports Club South Africa Women RSAW 164-6 (20) Zimbabwe Women ZIMW 151-8 (20) South Africa Women won by 13 runs",
       "status": "Match Details"
     }
   ]
