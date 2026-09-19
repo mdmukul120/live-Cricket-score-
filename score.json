@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-18 23:21:51 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-09-19 01:22:25 UTC",
+  "total_matches": 38,
   "matches": [
     {
-      "title": "GAW vs JKM - JKM opt to bowl",
+      "title": "GAW vs JKM - Need 165 to win",
       "team1": {
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs JKM - JKM opt to bowl",
+      "score": "GAW vs JKM - Need 165 to win",
       "status": "Match Details"
     },
     {
@@ -131,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Japan vs Hong Kong, China 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Japan vs Hong Kong, China 2nd T20I",
+      "team1": {
+        "name": "Japan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hong Kong, China 2nd T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Japan vs Hong Kong, China 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -456,6 +469,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Japan Women vs India Women 4th Quarter Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan Women vs Sri Lanka Women 1st Semi Final",
+      "team1": {
+        "name": "Pakistan Women",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Sri Lanka Women 1st Semi Final",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan Women vs Sri Lanka Women 1st Semi Final",
       "status": "Match Details"
     },
     {
