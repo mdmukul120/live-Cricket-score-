@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-19 01:22:25 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-09-19 06:15:22 UTC",
+  "total_matches": 40,
   "matches": [
     {
-      "title": "GAW vs JKM - Need 165 to win",
+      "title": "GAW vs JKM - JKM won",
       "team1": {
         "name": "GAW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "JKM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GAW vs JKM - Need 165 to win",
+      "score": "GAW vs JKM - JKM won",
       "status": "Match Details"
     },
     {
@@ -30,32 +30,6 @@
       "status": "Match Details"
     },
     {
-      "title": "JPNW vs INDW - INDW won",
-      "team1": {
-        "name": "JPNW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "JPNW vs INDW - INDW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "IND vs AFG - IND won",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "IND vs AFG - IND won",
-      "status": "Match Details"
-    },
-    {
       "title": "ENG vs SL - Preview",
       "team1": {
         "name": "ENG",
@@ -66,6 +40,32 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "ENG vs SL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ADF vs BFW - Preview",
+      "team1": {
+        "name": "ADF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BFW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ADF vs BFW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAKW vs SLW - Preview",
+      "team1": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAKW vs SLW - Preview",
       "status": "Match Details"
     },
     {
@@ -160,29 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons Qualifier 1",
+      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen Qualifier 2",
       "team1": {
         "name": "Guyana Amazon Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Antigua and Barbuda Falcons Qualifier 1",
+        "name": "Jamaica Kingsmen Qualifier 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Guyana Amazon Warriors vs Antigua and Barbuda Falcons Qualifier 1",
-      "status": "Match Details"
-    },
-    {
-      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen LIVE Qualifier 2",
-      "team1": {
-        "name": "Guyana Amazon Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jamaica Kingsmen LIVE Qualifier 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Guyana Amazon Warriors vs Jamaica Kingsmen LIVE Qualifier 2",
+      "score": "Guyana Amazon Warriors vs Jamaica Kingsmen Qualifier 2",
       "status": "Match Details"
     },
     {
@@ -277,16 +264,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs Victoria 2nd Match",
+      "title": "Queensland vs Victoria LIVE 2nd Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Victoria 2nd Match",
+        "name": "Victoria LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Queensland vs Victoria 2nd Match",
+      "score": "Queensland vs Victoria LIVE 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Australia vs Tasmania 3rd Match",
+      "team1": {
+        "name": "Western Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Tasmania 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Australia vs Tasmania 3rd Match",
       "status": "Match Details"
     },
     {
@@ -446,19 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka Women vs Malaysia Women 3rd Quarter Final",
-      "team1": {
-        "name": "Sri Lanka Women",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Malaysia Women 3rd Quarter Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sri Lanka Women vs Malaysia Women 3rd Quarter Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Japan Women vs India Women 4th Quarter Final",
       "team1": {
         "name": "Japan Women",
@@ -485,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "India Women vs Bangladesh Women 2nd Semi Final",
+      "team1": {
+        "name": "India Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Bangladesh Women 2nd Semi Final",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "India Women vs Bangladesh Women 2nd Semi Final",
+      "status": "Match Details"
+    },
+    {
       "title": "Zimbabwe Women vs South Africa Women 5th T20I",
       "team1": {
         "name": "Zimbabwe Women",
@@ -495,6 +495,32 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Zimbabwe Women vs South Africa Women 5th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st T20I • Sano, Kanto, Sano International Cricket Ground Japan JPN 95-7 (20) Hong Kong, China HKC 99-6 (19.1) Hong Kong, China won by 4 wkts",
+      "team1": {
+        "name": "1st T20I • Sano, Kanto, Sano International Cricket Ground Japan JPN 95",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "7 (20) Hong Kong, China HKC 99",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st T20I • Sano, Kanto, Sano International Cricket Ground Japan JPN 95-7 (20) Hong Kong, China HKC 99-6 (19.1) Hong Kong, China won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Qualifier 2 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 206-4 (20) Jamaica Kingsmen JKM 207-5 (19.4) Jamaica Kingsmen won by 5 wkts",
+      "team1": {
+        "name": "Qualifier 2 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 206",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Jamaica Kingsmen JKM 207",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qualifier 2 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 206-4 (20) Jamaica Kingsmen JKM 207-5 (19.4) Jamaica Kingsmen won by 5 wkts",
       "status": "Match Details"
     }
   ]
