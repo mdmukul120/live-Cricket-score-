@@ -1,23 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-09-19 11:11:04 UTC",
+  "last_updated": "2026-09-19 14:27:28 UTC",
   "total_matches": 42,
   "matches": [
     {
-      "title": "ENG vs SL - Preview",
+      "title": "SL vs ENG - ENG opt to bowl",
       "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ENG vs SL - Preview",
+      "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "SL vs ENG - ENG opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "ADF vs BFW - Preview",
+      "title": "ADF vs BFW - Rain",
       "team1": {
         "name": "ADF",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "BFW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ADF vs BFW - Preview",
+      "score": "ADF vs BFW - Rain",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "England vs Sri Lanka 3rd T20I",
+      "title": "Sri Lanka vs England LIVE 3rd T20I",
       "team1": {
-        "name": "England",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Sri Lanka 3rd T20I",
+        "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "England vs Sri Lanka 3rd T20I",
+      "team2": {
+        "name": "England LIVE 3rd T20I",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Sri Lanka vs England LIVE 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Kenya Final",
+      "title": "Kenya vs Uganda Final",
       "team1": {
-        "name": "Uganda",
+        "name": "Kenya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kenya Final",
+        "name": "Uganda Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda vs Kenya Final",
+      "score": "Kenya vs Uganda Final",
       "status": "Match Details"
     },
     {
@@ -183,6 +183,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Amsterdam Flames vs Belfast Wolves Qualifier",
+      "status": "Match Details"
+    },
+    {
+      "title": "Edinburgh Castle Rockers vs TBC Final",
+      "team1": {
+        "name": "Edinburgh Castle Rockers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Edinburgh Castle Rockers vs TBC Final",
       "status": "Match Details"
     },
     {
@@ -290,29 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs South Australia 1st Match",
-      "team1": {
-        "name": "Western Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "South Australia 1st Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Western Australia vs South Australia 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Queensland vs Victoria LIVE 2nd Match",
+      "title": "Queensland vs Victoria 2nd Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Victoria LIVE 2nd Match",
+        "name": "Victoria 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Queensland vs Victoria LIVE 2nd Match",
+      "score": "Queensland vs Victoria 2nd Match",
       "status": "Match Details"
     },
     {
@@ -329,16 +329,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs Dolphins 6th Match",
+      "title": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
+      "team1": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastvaal Renault Dragons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Province vs Dolphins LIVE 6th Match",
       "team1": {
         "name": "Western Province",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dolphins 6th Match",
+        "name": "Dolphins LIVE 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Province vs Dolphins 6th Match",
+      "score": "Western Province vs Dolphins LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -368,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "title": "Lancashire vs Kent 52nd Match",
       "team1": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Eastvaal Renault Dragons",
+        "name": "Kent 52nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "score": "Lancashire vs Kent 52nd Match",
       "status": "Match Details"
     },
     {
@@ -420,19 +433,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Lancashire vs Kent 52nd Match",
-      "team1": {
-        "name": "Lancashire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent 52nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lancashire vs Kent 52nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Leicestershire vs Middlesex Final",
       "team1": {
         "name": "Leicestershire",
@@ -459,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Eastern Storm vs Border 5th Match",
+      "title": "Eastern Storm vs Border LIVE 5th Match",
       "team1": {
         "name": "Eastern Storm",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Border 5th Match",
+        "name": "Border LIVE 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Eastern Storm vs Border 5th Match",
+      "score": "Eastern Storm vs Border LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -482,19 +482,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mpumalanga Rhinos vs South Western Districts LIVE 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "India U19 vs Australia U19 1st unofficial ODI",
-      "team1": {
-        "name": "India U19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia U19 1st unofficial ODI",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "India U19 vs Australia U19 1st unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -537,16 +524,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs South Africa Women 5th T20I",
+      "title": "South Africa Women vs Zimbabwe Women LIVE 5th T20I",
       "team1": {
-        "name": "Zimbabwe Women",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "South Africa Women 5th T20I",
+        "name": "South Africa Women",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Zimbabwe Women vs South Africa Women 5th T20I",
+      "team2": {
+        "name": "Zimbabwe Women LIVE 5th T20I",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "South Africa Women vs Zimbabwe Women LIVE 5th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Brisbane, Allan Border Field Queensland QL 335-7 (50) Victoria VIC 339-7 (49.5) Victoria won by 3 wkts",
+      "team1": {
+        "name": "2nd Match • Brisbane, Allan Border Field Queensland QL 335",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "7 (50) Victoria VIC 339",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Brisbane, Allan Border Field Queensland QL 335-7 (50) Victoria VIC 339-7 (49.5) Victoria won by 3 wkts",
       "status": "Match Details"
     }
   ]
