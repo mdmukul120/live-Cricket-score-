@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-19 06:15:22 UTC",
-  "total_matches": 40,
+  "last_updated": "2026-09-19 11:11:04 UTC",
+  "total_matches": 42,
   "matches": [
-    {
-      "title": "GAW vs JKM - JKM won",
-      "team1": {
-        "name": "GAW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "GAW vs JKM - JKM won",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs ZIM - AUS won",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "AUS vs ZIM - AUS won",
-      "status": "Match Details"
-    },
     {
       "title": "ENG vs SL - Preview",
       "team1": {
@@ -56,6 +30,32 @@
       "status": "Match Details"
     },
     {
+      "title": "INDW vs BANW - Preview",
+      "team1": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "INDW vs BANW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs AUS - Preview",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "ZIM vs AUS - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "PAKW vs SLW - Preview",
       "team1": {
         "name": "PAKW",
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "England vs Sri Lanka 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uganda vs Kenya 19th Match",
-      "team1": {
-        "name": "Uganda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kenya 19th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uganda vs Kenya 19th Match",
       "status": "Match Details"
     },
     {
@@ -160,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Zimbabwe vs Australia 3rd ODI",
+      "team1": {
+        "name": "Zimbabwe",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "Australia 3rd ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Zimbabwe vs Australia 3rd ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Guyana Amazon Warriors vs Jamaica Kingsmen Qualifier 2",
       "team1": {
         "name": "Guyana Amazon Warriors",
@@ -183,6 +183,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Amsterdam Flames vs Belfast Wolves Qualifier",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mpumalanga Rhinos vs South Western Districts 4th Match",
+      "team1": {
+        "name": "Mpumalanga Rhinos",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Western Districts 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mpumalanga Rhinos vs South Western Districts 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northern Cape vs Limpopo 5th Match",
+      "team1": {
+        "name": "Northern Cape",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Limpopo 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Cape vs Limpopo 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Eastern Storm vs Border 6th Match",
+      "team1": {
+        "name": "Eastern Storm",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Border 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Eastern Storm vs Border 6th Match",
       "status": "Match Details"
     },
     {
@@ -290,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
-      "team1": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastvaal Renault Dragons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Western Province vs Dolphins 6th Match",
       "team1": {
         "name": "Western Province",
@@ -339,6 +365,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Warriors vs Titans 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "team1": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastvaal Renault Dragons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
       "status": "Match Details"
     },
     {
@@ -394,6 +433,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Leicestershire vs Middlesex Final",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Leicestershire vs Middlesex Final",
+      "status": "Match Details"
+    },
+    {
       "title": "Northern Cape vs Limpopo 4th Match",
       "team1": {
         "name": "Northern Cape",
@@ -420,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs South Western Districts 6th Match",
+      "title": "Mpumalanga Rhinos vs South Western Districts LIVE 6th Match",
       "team1": {
         "name": "Mpumalanga Rhinos",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Western Districts 6th Match",
+        "name": "South Western Districts LIVE 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs South Western Districts 6th Match",
+      "score": "Mpumalanga Rhinos vs South Western Districts LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -446,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Japan Women vs India Women 4th Quarter Final",
+      "title": "India A Women vs Australia A Women 1st unofficial ODI",
       "team1": {
-        "name": "Japan Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "India Women 4th Quarter Final",
+        "name": "India A Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Japan Women vs India Women 4th Quarter Final",
+      "team2": {
+        "name": "Australia A Women 1st unofficial ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India A Women vs Australia A Women 1st unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -495,32 +547,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Zimbabwe Women vs South Africa Women 5th T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st T20I • Sano, Kanto, Sano International Cricket Ground Japan JPN 95-7 (20) Hong Kong, China HKC 99-6 (19.1) Hong Kong, China won by 4 wkts",
-      "team1": {
-        "name": "1st T20I • Sano, Kanto, Sano International Cricket Ground Japan JPN 95",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "7 (20) Hong Kong, China HKC 99",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st T20I • Sano, Kanto, Sano International Cricket Ground Japan JPN 95-7 (20) Hong Kong, China HKC 99-6 (19.1) Hong Kong, China won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qualifier 2 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 206-4 (20) Jamaica Kingsmen JKM 207-5 (19.4) Jamaica Kingsmen won by 5 wkts",
-      "team1": {
-        "name": "Qualifier 2 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 206",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (20) Jamaica Kingsmen JKM 207",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qualifier 2 • Bridgetown, Barbados, Kensington Oval Guyana Amazon Warriors GAW 206-4 (20) Jamaica Kingsmen JKM 207-5 (19.4) Jamaica Kingsmen won by 5 wkts",
       "status": "Match Details"
     }
   ]
