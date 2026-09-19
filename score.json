@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-19 21:41:45 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-09-19 23:36:48 UTC",
+  "total_matches": 32,
   "matches": [
     {
       "title": "SL vs ENG - ENG won",
@@ -147,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Antigua and Barbuda Falcons vs Jamaica Kingsmen Final",
+      "team1": {
+        "name": "Antigua and Barbuda Falcons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jamaica Kingsmen Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Antigua and Barbuda Falcons vs Jamaica Kingsmen Final",
+      "status": "Match Details"
+    },
+    {
       "title": "Amsterdam Flames vs Belfast Wolves Qualifier",
       "team1": {
         "name": "Amsterdam Flames",
@@ -238,32 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Knights vs Lions 7th Match",
-      "team1": {
-        "name": "Knights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lions 7th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Knights vs Lions 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warriors vs Titans 8th Match",
-      "team1": {
-        "name": "Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warriors vs Titans 8th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
       "team1": {
         "name": "North West",
@@ -287,6 +274,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Western Province vs Dolphins 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Knights vs Lions 7th Match",
+      "team1": {
+        "name": "Knights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lions 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Knights vs Lions 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warriors vs Titans 8th Match",
+      "team1": {
+        "name": "Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Titans 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warriors vs Titans 8th Match",
       "status": "Match Details"
     },
     {
@@ -394,19 +407,6 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd T20I • Manchester, Emirates Old Trafford Sri Lanka SL 124 (18.5) England ENG 126-2 (9.4) England won by 8 wkts",
-      "team1": {
-        "name": "3rd T20I • Manchester, Emirates Old Trafford Sri Lanka SL 124 (18.5) England ENG 126",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "2 (9.4) England won by 8 wkts",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "3rd T20I • Manchester, Emirates Old Trafford Sri Lanka SL 124 (18.5) England ENG 126-2 (9.4) England won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "Final • Kigali City, Gahanga International Cricket Stadium Kenya KEN 170-7 (20) Uganda UGA 131 (17.5) Kenya won by 39 runs",
       "team1": {
         "name": "Final • Kigali City, Gahanga International Cricket Stadium Kenya KEN 170",
@@ -417,19 +417,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Final • Kigali City, Gahanga International Cricket Stadium Kenya KEN 170-7 (20) Uganda UGA 131 (17.5) Kenya won by 39 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qualifier • Dublin, The Village Amsterdam Flames ADF 133 (20) Belfast Wolves BFW 136-3 (18.3) Belfast Wolves won by 7 wkts",
-      "team1": {
-        "name": "Qualifier • Dublin, The Village Amsterdam Flames ADF 133 (20) Belfast Wolves BFW 136",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (18.3) Belfast Wolves won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qualifier • Dublin, The Village Amsterdam Flames ADF 133 (20) Belfast Wolves BFW 136-3 (18.3) Belfast Wolves won by 7 wkts",
       "status": "Match Details"
     }
   ]
