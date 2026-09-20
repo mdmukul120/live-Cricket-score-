@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-20 12:16:25 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-09-20 16:16:57 UTC",
+  "total_matches": 30,
   "matches": [
     {
-      "title": "ZIM vs AUS - Need 243 to win",
+      "title": "ZIM vs AUS - AUS won",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -13,7 +13,7 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "ZIM vs AUS - Need 243 to win",
+      "score": "ZIM vs AUS - AUS won",
       "status": "Match Details"
     },
     {
@@ -30,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "BFW vs ECR - ECR won",
+      "team1": {
+        "name": "BFW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ECR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BFW vs ECR - ECR won",
+      "status": "Match Details"
+    },
+    {
       "title": "PAKW vs SLW - SLW won",
       "team1": {
         "name": "PAKW",
@@ -40,19 +53,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "PAKW vs SLW - SLW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ECR vs BFW - Preview",
-      "team1": {
-        "name": "ECR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BFW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ECR vs BFW - Preview",
       "status": "Match Details"
     },
     {
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "Sri Lanka vs England 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kenya vs Uganda Final",
-      "team1": {
-        "name": "Kenya",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kenya vs Uganda Final",
       "status": "Match Details"
     },
     {
@@ -134,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Australia LIVE 3rd ODI",
+      "title": "Zimbabwe vs Australia 3rd ODI",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Australia LIVE 3rd ODI",
+        "name": "Australia 3rd ODI",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Zimbabwe vs Australia LIVE 3rd ODI",
+      "score": "Zimbabwe vs Australia 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -173,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Edinburgh Castle Rockers vs Belfast Wolves Final",
+      "title": "Belfast Wolves vs Edinburgh Castle Rockers Final",
       "team1": {
-        "name": "Edinburgh Castle Rockers",
+        "name": "Belfast Wolves",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Belfast Wolves Final",
+        "name": "Edinburgh Castle Rockers Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Edinburgh Castle Rockers vs Belfast Wolves Final",
+      "score": "Belfast Wolves vs Edinburgh Castle Rockers Final",
       "status": "Match Details"
     },
     {
@@ -238,7 +225,7 @@
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
+      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
       "team1": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -247,20 +234,20 @@
         "name": "Eastvaal Renault Dragons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
+      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs Dolphins 6th Match",
+      "title": "Western Province vs Dolphins LIVE 6th Match",
       "team1": {
         "name": "Western Province",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dolphins 6th Match",
+        "name": "Dolphins LIVE 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Province vs Dolphins 6th Match",
+      "score": "Western Province vs Dolphins LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -303,45 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Northern Cape vs Limpopo 4th Match",
-      "team1": {
-        "name": "Northern Cape",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Limpopo 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northern Cape vs Limpopo 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Eastern Storm vs Border 5th Match",
-      "team1": {
-        "name": "Eastern Storm",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Border 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Eastern Storm vs Border 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mpumalanga Rhinos vs South Western Districts 6th Match",
-      "team1": {
-        "name": "Mpumalanga Rhinos",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Western Districts 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mpumalanga Rhinos vs South Western Districts 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "India U19 vs Australia U19 2nd unofficial ODI",
       "team1": {
         "name": "India U19",
@@ -355,16 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia A Women vs India A Women LIVE 1st unofficial ODI",
+      "title": "Australia A Women vs India A Women 1st unofficial ODI",
       "team1": {
         "name": "Australia A Women",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India A Women LIVE 1st unofficial ODI",
+        "name": "India A Women 1st unofficial ODI",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia A Women vs India A Women LIVE 1st unofficial ODI",
+      "score": "Australia A Women vs India A Women 1st unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -394,42 +342,55 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Women vs Zimbabwe Women 5th T20I",
+      "title": "3rd ODI • Harare, Harare Sports Club Zimbabwe ZIM 271-8 (50) Australia AUS 272-9 (49.5) Australia won by 1 wkt",
       "team1": {
-        "name": "South Africa Women",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Women 5th T20I",
+        "name": "3rd ODI • Harare, Harare Sports Club Zimbabwe ZIM 271",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "South Africa Women vs Zimbabwe Women 5th T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Perth, W.A.C.A. Ground Western Australia WA 115 (30.2) Tasmania TAS 117-1 (16.2) Tasmania won by 9 wkts",
-      "team1": {
-        "name": "3rd Match • Perth, W.A.C.A. Ground Western Australia WA 115 (30.2) Tasmania TAS 117",
+      "team2": {
+        "name": "8 (50) Australia AUS 272",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "team2": {
-        "name": "1 (16.2) Tasmania won by 9 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • Perth, W.A.C.A. Ground Western Australia WA 115 (30.2) Tasmania TAS 117-1 (16.2) Tasmania won by 9 wkts",
+      "score": "3rd ODI • Harare, Harare Sports Club Zimbabwe ZIM 271-8 (50) Australia AUS 272-9 (49.5) Australia won by 1 wkt",
       "status": "Match Details"
     },
     {
-      "title": "2nd Semi Final • Nisshin, Korogi Sports Park India Women INDW 195-4 (20) Bangladesh Women BANW 81 (15.4) India Women won by 114 runs",
+      "title": "Final • Dublin, The Village Belfast Wolves BFW 150-5 (20) Edinburgh Castle Rockers ECR 151-3 (18.4) Edinburgh Castle Rockers won by 7 wkts",
       "team1": {
-        "name": "2nd Semi Final • Nisshin, Korogi Sports Park India Women INDW 195",
+        "name": "Final • Dublin, The Village Belfast Wolves BFW 150",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Edinburgh Castle Rockers ECR 151",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Dublin, The Village Belfast Wolves BFW 150-5 (20) Edinburgh Castle Rockers ECR 151-3 (18.4) Edinburgh Castle Rockers won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Mpumalanga, Uplands College, White River South Western Districts SWD 359-7 (50) Mpumalanga Rhinos MPR 202 (34.1) South Western Districts won by 157 runs",
+      "team1": {
+        "name": "4th Match • Mpumalanga, Uplands College, White River South Western Districts SWD 359",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (50) Mpumalanga Rhinos MPR 202 (34.1) South Western Districts won by 157 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Mpumalanga, Uplands College, White River South Western Districts SWD 359-7 (50) Mpumalanga Rhinos MPR 202 (34.1) South Western Districts won by 157 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 235 (46.3) India A Women INDWA 239-6 (41.1) India A Women won by 4 wkts",
+      "team1": {
+        "name": "1st unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 235 (46.3) India A Women INDWA 239",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "4 (20) Bangladesh Women BANW 81 (15.4) India Women won by 114 runs",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "6 (41.1) India A Women won by 4 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "2nd Semi Final • Nisshin, Korogi Sports Park India Women INDW 195-4 (20) Bangladesh Women BANW 81 (15.4) India Women won by 114 runs",
+      "score": "1st unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 235 (46.3) India A Women INDWA 239-6 (41.1) India A Women won by 4 wkts",
       "status": "Match Details"
     }
   ]
