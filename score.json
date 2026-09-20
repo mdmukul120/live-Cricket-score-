@@ -1,36 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-20 01:39:05 UTC",
+  "last_updated": "2026-09-20 07:02:56 UTC",
   "total_matches": 32,
   "matches": [
     {
-      "title": "PAKW vs SLW - SLW opt to bowl",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "PAKW vs SLW - SLW opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "SL vs ENG - ENG won",
-      "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "SL vs ENG - ENG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs BANW - Preview",
+      "title": "INDW vs BANW - Need 166 off 91b",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -39,20 +13,20 @@
         "name": "BANW",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "INDW vs BANW - Preview",
+      "score": "INDW vs BANW - Need 166 off 91b",
       "status": "Match Details"
     },
     {
-      "title": "ADF vs BFW - BFW won",
+      "title": "PAKW vs SLW - SLW won",
       "team1": {
-        "name": "ADF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "BFW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ADF vs BFW - BFW won",
+      "score": "PAKW vs SLW - SLW won",
       "status": "Match Details"
     },
     {
@@ -66,6 +40,32 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "ZIM vs AUS - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ECR vs BFW - Preview",
+      "team1": {
+        "name": "ECR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BFW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ECR vs BFW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ABF vs JKM - Preview",
+      "team1": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ABF vs JKM - Preview",
       "status": "Match Details"
     },
     {
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Japan vs Hong Kong, China 1st T20I",
-      "team1": {
-        "name": "Japan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hong Kong, China 1st T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Japan vs Hong Kong, China 1st T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Japan vs Hong Kong, China 2nd T20I",
       "team1": {
         "name": "Japan",
@@ -121,6 +108,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Cayman Islands vs Bermuda 1st Match",
+      "team1": {
+        "name": "Cayman Islands",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Bermuda 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Cayman Islands vs Bermuda 1st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Zimbabwe vs Australia 3rd ODI",
       "team1": {
         "name": "Zimbabwe",
@@ -131,19 +131,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "Zimbabwe vs Australia 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Guyana Amazon Warriors vs Jamaica Kingsmen Qualifier 2",
-      "team1": {
-        "name": "Guyana Amazon Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jamaica Kingsmen Qualifier 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Guyana Amazon Warriors vs Jamaica Kingsmen Qualifier 2",
       "status": "Match Details"
     },
     {
@@ -238,29 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs Tasmania 3rd Match",
+      "title": "Western Australia vs Tasmania LIVE 3rd Match",
       "team1": {
         "name": "Western Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Tasmania 3rd Match",
+        "name": "Tasmania LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Australia vs Tasmania 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warriors vs Titans 8th Match",
-      "team1": {
-        "name": "Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warriors vs Titans 8th Match",
+      "score": "Western Australia vs Tasmania LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -300,6 +274,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Knights vs Lions 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warriors vs Titans 8th Match",
+      "team1": {
+        "name": "Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Titans 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warriors vs Titans 8th Match",
       "status": "Match Details"
     },
     {
@@ -355,6 +342,19 @@
       "status": "Match Details"
     },
     {
+      "title": "India U19 vs Australia U19 2nd unofficial ODI",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia U19 2nd unofficial ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India U19 vs Australia U19 2nd unofficial ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "India A Women vs Australia A Women 1st unofficial ODI",
       "team1": {
         "name": "India A Women",
@@ -368,29 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women LIVE 1st Semi Final",
+      "title": "Pakistan Women vs Sri Lanka Women 1st Semi Final",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka Women LIVE 1st Semi Final",
+        "name": "Sri Lanka Women 1st Semi Final",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women LIVE 1st Semi Final",
+      "score": "Pakistan Women vs Sri Lanka Women 1st Semi Final",
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Bangladesh Women 2nd Semi Final",
+      "title": "India Women vs Bangladesh Women LIVE 2nd Semi Final",
       "team1": {
         "name": "India Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Bangladesh Women 2nd Semi Final",
+        "name": "Bangladesh Women LIVE 2nd Semi Final",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "India Women vs Bangladesh Women 2nd Semi Final",
+      "score": "India Women vs Bangladesh Women LIVE 2nd Semi Final",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Final • Kigali City, Gahanga International Cricket Stadium Kenya KEN 170-7 (20) Uganda UGA 131 (17.5) Kenya won by 39 runs",
+      "title": "1st Semi Final • Nisshin, Korogi Sports Park Pakistan Women PAKW 177-4 (20) Sri Lanka Women SLW 178-2 (17.5) Sri Lanka Women won by 8 wkts",
       "team1": {
-        "name": "Final • Kigali City, Gahanga International Cricket Stadium Kenya KEN 170",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "1st Semi Final • Nisshin, Korogi Sports Park Pakistan Women PAKW 177",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "7 (20) Uganda UGA 131 (17.5) Kenya won by 39 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "4 (20) Sri Lanka Women SLW 178",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Final • Kigali City, Gahanga International Cricket Stadium Kenya KEN 170-7 (20) Uganda UGA 131 (17.5) Kenya won by 39 runs",
+      "score": "1st Semi Final • Nisshin, Korogi Sports Park Pakistan Women PAKW 177-4 (20) Sri Lanka Women SLW 178-2 (17.5) Sri Lanka Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
