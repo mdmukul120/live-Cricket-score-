@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-19 23:36:48 UTC",
+  "last_updated": "2026-09-20 01:39:05 UTC",
   "total_matches": 32,
   "matches": [
+    {
+      "title": "PAKW vs SLW - SLW opt to bowl",
+      "team1": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SLW",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAKW vs SLW - SLW opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "SL vs ENG - ENG won",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "SL vs ENG - ENG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ADF vs BFW - BFW won",
-      "team1": {
-        "name": "ADF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "BFW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ADF vs BFW - BFW won",
       "status": "Match Details"
     },
     {
@@ -43,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "ADF vs BFW - BFW won",
+      "team1": {
+        "name": "ADF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BFW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ADF vs BFW - BFW won",
+      "status": "Match Details"
+    },
+    {
       "title": "ZIM vs AUS - Preview",
       "team1": {
         "name": "ZIM",
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "ZIM vs AUS - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAKW vs SLW - Preview",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "SLW",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "PAKW vs SLW - Preview",
       "status": "Match Details"
     },
     {
@@ -251,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Warriors vs Titans 8th Match",
+      "team1": {
+        "name": "Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Titans 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warriors vs Titans 8th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
       "team1": {
         "name": "North West",
@@ -287,19 +300,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Knights vs Lions 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warriors vs Titans 8th Match",
-      "team1": {
-        "name": "Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warriors vs Titans 8th Match",
       "status": "Match Details"
     },
     {
@@ -368,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Sri Lanka Women 1st Semi Final",
+      "title": "Pakistan Women vs Sri Lanka Women LIVE 1st Semi Final",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka Women 1st Semi Final",
+        "name": "Sri Lanka Women LIVE 1st Semi Final",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan Women vs Sri Lanka Women 1st Semi Final",
+      "score": "Pakistan Women vs Sri Lanka Women LIVE 1st Semi Final",
       "status": "Match Details"
     },
     {
