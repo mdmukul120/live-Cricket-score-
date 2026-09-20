@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-09-20 07:02:56 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-09-20 12:16:25 UTC",
+  "total_matches": 33,
   "matches": [
     {
-      "title": "INDW vs BANW - Need 166 off 91b",
+      "title": "ZIM vs AUS - Need 243 to win",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "ZIM vs AUS - Need 243 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDW vs BANW - INDW won",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +26,7 @@
         "name": "BANW",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "INDW vs BANW - Need 166 off 91b",
+      "score": "INDW vs BANW - INDW won",
       "status": "Match Details"
     },
     {
@@ -27,19 +40,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "PAKW vs SLW - SLW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs AUS - Preview",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "ZIM vs AUS - Preview",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nigeria vs Ghana 1st Match",
+      "team1": {
+        "name": "Nigeria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Ghana 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nigeria vs Ghana 1st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Japan vs Hong Kong, China 2nd T20I",
       "team1": {
         "name": "Japan",
@@ -121,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Australia 3rd ODI",
+      "title": "Zimbabwe vs Australia LIVE 3rd ODI",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Australia 3rd ODI",
+        "name": "Australia LIVE 3rd ODI",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Zimbabwe vs Australia 3rd ODI",
+      "score": "Zimbabwe vs Australia LIVE 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -173,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs South Western Districts 4th Match",
+      "title": "South Western Districts vs Mpumalanga Rhinos 4th Match",
       "team1": {
-        "name": "Mpumalanga Rhinos",
+        "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Western Districts 4th Match",
+        "name": "Mpumalanga Rhinos 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs South Western Districts 4th Match",
+      "score": "South Western Districts vs Mpumalanga Rhinos 4th Match",
       "status": "Match Details"
     },
     {
@@ -199,46 +212,33 @@
       "status": "Match Details"
     },
     {
-      "title": "Eastern Storm vs Border 6th Match",
+      "title": "Border vs Eastern Storm 6th Match",
       "team1": {
-        "name": "Eastern Storm",
+        "name": "Border",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Border 6th Match",
+        "name": "Eastern Storm 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Eastern Storm vs Border 6th Match",
+      "score": "Border vs Eastern Storm 6th Match",
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs Victoria 2nd Match",
-      "team1": {
-        "name": "Queensland",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Victoria 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Queensland vs Victoria 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Western Australia vs Tasmania LIVE 3rd Match",
+      "title": "Western Australia vs Tasmania 3rd Match",
       "team1": {
         "name": "Western Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Tasmania LIVE 3rd Match",
+        "name": "Tasmania 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Australia vs Tasmania LIVE 3rd Match",
+      "score": "Western Australia vs Tasmania 3rd Match",
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "title": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
       "team1": {
         "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -247,7 +247,7 @@
         "name": "Eastvaal Renault Dragons",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "score": "North West - Eastvaal Renault Dragons vs Boland LIVE 5th Match",
       "status": "Match Details"
     },
     {
@@ -290,16 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Middlesex Final",
+      "title": "Middlesex vs Leicestershire LIVE Final",
       "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex Final",
+        "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Leicestershire vs Middlesex Final",
+      "team2": {
+        "name": "Leicestershire LIVE Final",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Leicestershire LIVE Final",
       "status": "Match Details"
     },
     {
@@ -355,16 +355,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women 1st unofficial ODI",
+      "title": "Australia A Women vs India A Women LIVE 1st unofficial ODI",
       "team1": {
-        "name": "India A Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia A Women 1st unofficial ODI",
+        "name": "Australia A Women",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women 1st unofficial ODI",
+      "team2": {
+        "name": "India A Women LIVE 1st unofficial ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Australia A Women vs India A Women LIVE 1st unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -381,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Bangladesh Women LIVE 2nd Semi Final",
+      "title": "India Women vs Bangladesh Women 2nd Semi Final",
       "team1": {
         "name": "India Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Bangladesh Women LIVE 2nd Semi Final",
+        "name": "Bangladesh Women 2nd Semi Final",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "India Women vs Bangladesh Women LIVE 2nd Semi Final",
+      "score": "India Women vs Bangladesh Women 2nd Semi Final",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,29 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Semi Final • Nisshin, Korogi Sports Park Pakistan Women PAKW 177-4 (20) Sri Lanka Women SLW 178-2 (17.5) Sri Lanka Women won by 8 wkts",
+      "title": "3rd Match • Perth, W.A.C.A. Ground Western Australia WA 115 (30.2) Tasmania TAS 117-1 (16.2) Tasmania won by 9 wkts",
       "team1": {
-        "name": "1st Semi Final • Nisshin, Korogi Sports Park Pakistan Women PAKW 177",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "3rd Match • Perth, W.A.C.A. Ground Western Australia WA 115 (30.2) Tasmania TAS 117",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "4 (20) Sri Lanka Women SLW 178",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "1 (16.2) Tasmania won by 9 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st Semi Final • Nisshin, Korogi Sports Park Pakistan Women PAKW 177-4 (20) Sri Lanka Women SLW 178-2 (17.5) Sri Lanka Women won by 8 wkts",
+      "score": "3rd Match • Perth, W.A.C.A. Ground Western Australia WA 115 (30.2) Tasmania TAS 117-1 (16.2) Tasmania won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Semi Final • Nisshin, Korogi Sports Park India Women INDW 195-4 (20) Bangladesh Women BANW 81 (15.4) India Women won by 114 runs",
+      "team1": {
+        "name": "2nd Semi Final • Nisshin, Korogi Sports Park India Women INDW 195",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "4 (20) Bangladesh Women BANW 81 (15.4) India Women won by 114 runs",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "2nd Semi Final • Nisshin, Korogi Sports Park India Women INDW 195-4 (20) Bangladesh Women BANW 81 (15.4) India Women won by 114 runs",
       "status": "Match Details"
     }
   ]
