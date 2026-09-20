@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-20 21:13:23 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-09-20 23:17:06 UTC",
+  "total_matches": 27,
   "matches": [
+    {
+      "title": "JKM vs ABF - ABF opt to bowl",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs ABF - ABF opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "ZIM vs AUS - AUS won",
       "team1": {
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "PAKW vs SLW - SLW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ABF vs JKM - Preview",
-      "team1": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ABF vs JKM - Preview",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Antigua and Barbuda Falcons vs Jamaica Kingsmen Final",
+      "title": "Jamaica Kingsmen vs Antigua and Barbuda Falcons LIVE Final",
       "team1": {
-        "name": "Antigua and Barbuda Falcons",
+        "name": "Jamaica Kingsmen",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jamaica Kingsmen Final",
+        "name": "Antigua and Barbuda Falcons LIVE Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Antigua and Barbuda Falcons vs Jamaica Kingsmen Final",
+      "score": "Jamaica Kingsmen vs Antigua and Barbuda Falcons LIVE Final",
       "status": "Match Details"
     },
     {
@@ -212,32 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
-      "team1": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastvaal Renault Dragons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Western Province vs Dolphins 6th Match",
-      "team1": {
-        "name": "Western Province",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dolphins 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Western Province vs Dolphins 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Knights vs Lions 7th Match",
       "team1": {
         "name": "Knights",
@@ -261,6 +235,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Warriors vs Titans 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "team1": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastvaal Renault Dragons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Province vs Dolphins 6th Match",
+      "team1": {
+        "name": "Western Province",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dolphins 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Province vs Dolphins 6th Match",
       "status": "Match Details"
     },
     {
@@ -329,32 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd ODI • Harare, Harare Sports Club Zimbabwe ZIM 271-8 (50) Australia AUS 272-9 (49.5) Australia won by 1 wkt",
-      "team1": {
-        "name": "3rd ODI • Harare, Harare Sports Club Zimbabwe ZIM 271",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "8 (50) Australia AUS 272",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "3rd ODI • Harare, Harare Sports Club Zimbabwe ZIM 271-8 (50) Australia AUS 272-9 (49.5) Australia won by 1 wkt",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Dublin, The Village Belfast Wolves BFW 150-5 (20) Edinburgh Castle Rockers ECR 151-3 (18.4) Edinburgh Castle Rockers won by 7 wkts",
-      "team1": {
-        "name": "Final • Dublin, The Village Belfast Wolves BFW 150",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Edinburgh Castle Rockers ECR 151",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Final • Dublin, The Village Belfast Wolves BFW 150-5 (20) Edinburgh Castle Rockers ECR 151-3 (18.4) Edinburgh Castle Rockers won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "6th Match • Cape Town, Newlands Western Province WPR 376 & 281-7 d Dolphins DOL 401 & 212 Western Province won by 44 runs",
       "team1": {
         "name": "6th Match • Cape Town, Newlands Western Province WPR 376 & 281",
@@ -378,19 +352,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "6th Match • Benoni, Willowmoore Park Border BOR 277-9 (50) Eastern Storm ESTORM 280-3 (47.5) Eastern Storm won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Nottingham, Trent Bridge Middlesex MDX 231 (49.5) Leicestershire LEIC 200 (44.2) Middlesex won by 31 runs",
-      "team1": {
-        "name": "Final • Nottingham, Trent Bridge Middlesex MDX 231 (49.5) Leicestershire LEIC 200 (44.2) Middlesex won by 31 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Final • Nottingham, Trent Bridge Middlesex MDX 231 (49.5) Leicestershire LEIC 200 (44.2) Middlesex won by 31 runs",
       "status": "Match Details"
     }
   ]
