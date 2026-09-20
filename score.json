@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-20 16:16:57 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-09-20 18:54:05 UTC",
+  "total_matches": 32,
   "matches": [
     {
       "title": "ZIM vs AUS - AUS won",
@@ -69,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs England 3rd T20I",
-      "team1": {
-        "name": "Sri Lanka",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "England 3rd T20I",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Sri Lanka vs England 3rd T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Nigeria vs Ghana 1st Match",
       "team1": {
         "name": "Nigeria",
@@ -121,6 +108,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Bahamas vs Cayman Islands 2nd Match",
+      "team1": {
+        "name": "Bahamas",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Cayman Islands 2nd Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Bahamas vs Cayman Islands 2nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Zimbabwe vs Australia 3rd ODI",
       "team1": {
         "name": "Zimbabwe",
@@ -144,19 +144,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Antigua and Barbuda Falcons vs Jamaica Kingsmen Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Amsterdam Flames vs Belfast Wolves Qualifier",
-      "team1": {
-        "name": "Amsterdam Flames",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Belfast Wolves Qualifier",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Amsterdam Flames vs Belfast Wolves Qualifier",
       "status": "Match Details"
     },
     {
@@ -238,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs Dolphins LIVE 6th Match",
+      "title": "Western Province vs Dolphins 6th Match",
       "team1": {
         "name": "Western Province",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dolphins LIVE 6th Match",
+        "name": "Dolphins 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Province vs Dolphins LIVE 6th Match",
+      "score": "Western Province vs Dolphins 6th Match",
       "status": "Match Details"
     },
     {
@@ -277,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Leicestershire LIVE Final",
+      "title": "Middlesex vs Leicestershire Final",
       "team1": {
         "name": "Middlesex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Leicestershire LIVE Final",
+        "name": "Leicestershire Final",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Middlesex vs Leicestershire LIVE Final",
+      "score": "Middlesex vs Leicestershire Final",
       "status": "Match Details"
     },
     {
@@ -368,6 +355,32 @@
       "status": "Match Details"
     },
     {
+      "title": "6th Match • Cape Town, Newlands Western Province WPR 376 & 281-7 d Dolphins DOL 401 & 212 Western Province won by 44 runs",
+      "team1": {
+        "name": "6th Match • Cape Town, Newlands Western Province WPR 376 & 281",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 d Dolphins DOL 401 & 212 Western Province won by 44 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Cape Town, Newlands Western Province WPR 376 & 281-7 d Dolphins DOL 401 & 212 Western Province won by 44 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "6th Match • Benoni, Willowmoore Park Border BOR 277-9 (50) Eastern Storm ESTORM 280-3 (47.5) Eastern Storm won by 7 wkts",
+      "team1": {
+        "name": "6th Match • Benoni, Willowmoore Park Border BOR 277",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "9 (50) Eastern Storm ESTORM 280",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Benoni, Willowmoore Park Border BOR 277-9 (50) Eastern Storm ESTORM 280-3 (47.5) Eastern Storm won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "4th Match • Mpumalanga, Uplands College, White River South Western Districts SWD 359-7 (50) Mpumalanga Rhinos MPR 202 (34.1) South Western Districts won by 157 runs",
       "team1": {
         "name": "4th Match • Mpumalanga, Uplands College, White River South Western Districts SWD 359",
@@ -378,6 +391,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th Match • Mpumalanga, Uplands College, White River South Western Districts SWD 359-7 (50) Mpumalanga Rhinos MPR 202 (34.1) South Western Districts won by 157 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Nottingham, Trent Bridge Middlesex MDX 231 (49.5) Leicestershire LEIC 200 (44.2) Middlesex won by 31 runs",
+      "team1": {
+        "name": "Final • Nottingham, Trent Bridge Middlesex MDX 231 (49.5) Leicestershire LEIC 200 (44.2) Middlesex won by 31 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Nottingham, Trent Bridge Middlesex MDX 231 (49.5) Leicestershire LEIC 200 (44.2) Middlesex won by 31 runs",
       "status": "Match Details"
     },
     {
