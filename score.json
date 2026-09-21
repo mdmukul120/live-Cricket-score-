@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-21 06:30:40 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-09-21 13:16:56 UTC",
+  "total_matches": 31,
   "matches": [
-    {
-      "title": "JKM vs ABF - ABF won",
-      "team1": {
-        "name": "JKM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ABF",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JKM vs ABF - ABF won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDU19 vs AUSU19 - INDU19 opt to bat",
-      "team1": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSU19",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDU19 vs AUSU19 - INDU19 opt to bat",
-      "status": "Match Details"
-    },
     {
       "title": "JPN vs IND - Preview",
       "team1": {
@@ -56,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "ENG vs SL - Preview",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "ENG vs SL - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "PAKW vs BANW - Preview",
       "team1": {
         "name": "PAKW",
@@ -66,6 +53,32 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "PAKW vs BANW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "JKM vs ABF - ABF won",
+      "team1": {
+        "name": "JKM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ABF",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JKM vs ABF - ABF won",
+      "status": "Match Details"
+    },
+    {
+      "title": "England vs Sri Lanka 1st ODI",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 1st ODI",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "England vs Sri Lanka 1st ODI",
       "status": "Match Details"
     },
     {
@@ -82,16 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Nigeria vs Ghana 1st Match",
+      "title": "Ghana vs Nigeria 1st Match",
       "team1": {
-        "name": "Nigeria",
+        "name": "Ghana",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ghana 1st Match",
+        "name": "Nigeria 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nigeria vs Ghana 1st Match",
+      "score": "Ghana vs Nigeria 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Ghana vs Sierra Leone 2nd Match",
+      "team1": {
+        "name": "Ghana",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sierra Leone 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Ghana vs Sierra Leone 2nd Match",
       "status": "Match Details"
     },
     {
@@ -157,6 +183,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Belfast Wolves vs Edinburgh Castle Rockers Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northern Cape vs Limpopo 1st Match",
+      "team1": {
+        "name": "Northern Cape",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Limpopo 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Cape vs Limpopo 1st Match",
       "status": "Match Details"
     },
     {
@@ -303,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India U19 vs Australia U19 LIVE 2nd unofficial ODI",
+      "title": "India U19 vs Australia U19 2nd unofficial ODI",
       "team1": {
         "name": "India U19",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia U19 LIVE 2nd unofficial ODI",
+        "name": "Australia U19 2nd unofficial ODI",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India U19 vs Australia U19 LIVE 2nd unofficial ODI",
+      "score": "India U19 vs Australia U19 2nd unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -326,19 +365,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Australia A Women vs India A Women 1st unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "India Women vs Bangladesh Women 2nd Semi Final",
-      "team1": {
-        "name": "India Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Bangladesh Women 2nd Semi Final",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "India Women vs Bangladesh Women 2nd Semi Final",
       "status": "Match Details"
     },
     {
@@ -368,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Final • Bridgetown, Barbados, Kensington Oval Jamaica Kingsmen JKM 170-9 (20) Antigua and Barbuda Falcons ABF 173-2 (16.4) Antigua and Barbuda Falcons won by 8 wkts",
+      "title": "2nd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 341-7 (50) Australia U19 AUSU19 238 (41.1) India U19 won by 103 runs",
       "team1": {
-        "name": "Final • Bridgetown, Barbados, Kensington Oval Jamaica Kingsmen JKM 170",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "2nd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 341",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "9 (20) Antigua and Barbuda Falcons ABF 173",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7 (50) Australia U19 AUSU19 238 (41.1) India U19 won by 103 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Final • Bridgetown, Barbados, Kensington Oval Jamaica Kingsmen JKM 170-9 (20) Antigua and Barbuda Falcons ABF 173-2 (16.4) Antigua and Barbuda Falcons won by 8 wkts",
+      "score": "2nd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 341-7 (50) Australia U19 AUSU19 238 (41.1) India U19 won by 103 runs",
       "status": "Match Details"
     }
   ]
