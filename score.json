@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-21 13:16:56 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-09-21 18:47:28 UTC",
+  "total_matches": 19,
   "matches": [
     {
       "title": "JPN vs IND - Preview",
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Ghana vs Nigeria 1st Match",
+      "title": "Ghana vs Nigeria LIVE 1st Match",
       "team1": {
         "name": "Ghana",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nigeria 1st Match",
+        "name": "Nigeria LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Ghana vs Nigeria 1st Match",
+      "score": "Ghana vs Nigeria LIVE 1st Match",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Australia 3rd ODI",
+      "title": "Bermuda vs Bahamas 3rd Match",
       "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "Bermuda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Australia 3rd ODI",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Bahamas 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zimbabwe vs Australia 3rd ODI",
+      "score": "Bermuda vs Bahamas 3rd Match",
       "status": "Match Details"
     },
     {
@@ -173,19 +173,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Belfast Wolves vs Edinburgh Castle Rockers Final",
-      "team1": {
-        "name": "Belfast Wolves",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Edinburgh Castle Rockers Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Belfast Wolves vs Edinburgh Castle Rockers Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Northern Cape vs Limpopo 1st Match",
       "team1": {
         "name": "Northern Cape",
@@ -196,58 +183,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Northern Cape vs Limpopo 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Western Districts vs Mpumalanga Rhinos 4th Match",
-      "team1": {
-        "name": "South Western Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mpumalanga Rhinos 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Western Districts vs Mpumalanga Rhinos 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northern Cape vs Limpopo 5th Match",
-      "team1": {
-        "name": "Northern Cape",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Limpopo 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northern Cape vs Limpopo 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Border vs Eastern Storm 6th Match",
-      "team1": {
-        "name": "Border",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastern Storm 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Border vs Eastern Storm 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Western Australia vs Tasmania 3rd Match",
-      "team1": {
-        "name": "Western Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Tasmania 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Western Australia vs Tasmania 3rd Match",
       "status": "Match Details"
     },
     {
@@ -264,58 +199,6 @@
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
-      "team1": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastvaal Renault Dragons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North West - Eastvaal Renault Dragons vs Boland 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Western Province vs Dolphins 6th Match",
-      "team1": {
-        "name": "Western Province",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dolphins 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Western Province vs Dolphins 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Knights vs Lions 7th Match",
-      "team1": {
-        "name": "Knights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lions 7th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Knights vs Lions 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warriors vs Titans 8th Match",
-      "team1": {
-        "name": "Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warriors vs Titans 8th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "India A vs Australia A 1st unofficial Test",
       "team1": {
         "name": "India A",
@@ -329,19 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Middlesex vs Leicestershire Final",
-      "team1": {
-        "name": "Middlesex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Leicestershire Final",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Middlesex vs Leicestershire Final",
-      "status": "Match Details"
-    },
-    {
       "title": "India U19 vs Australia U19 2nd unofficial ODI",
       "team1": {
         "name": "India U19",
@@ -352,19 +222,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "India U19 vs Australia U19 2nd unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Australia A Women vs India A Women 1st unofficial ODI",
-      "team1": {
-        "name": "Australia A Women",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "India A Women 1st unofficial ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Australia A Women vs India A Women 1st unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -391,19 +248,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "India Women vs Sri Lanka Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 341-7 (50) Australia U19 AUSU19 238 (41.1) India U19 won by 103 runs",
-      "team1": {
-        "name": "2nd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 341",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (50) Australia U19 AUSU19 238 (41.1) India U19 won by 103 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "2nd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri India U19 INDU19 341-7 (50) Australia U19 AUSU19 238 (41.1) India U19 won by 103 runs",
       "status": "Match Details"
     }
   ]
