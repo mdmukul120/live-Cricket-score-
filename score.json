@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-21 22:19:55 UTC",
+  "last_updated": "2026-09-22 00:57:38 UTC",
   "total_matches": 19,
   "matches": [
+    {
+      "title": "PAKW vs BANW - PAKW opt to bat",
+      "team1": {
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "PAKW vs BANW - PAKW opt to bat",
+      "status": "Match Details"
+    },
     {
       "title": "JPN vs IND - Preview",
       "team1": {
@@ -40,19 +53,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "ENG vs SL - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAKW vs BANW - Preview",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "PAKW vs BANW - Preview",
       "status": "Match Details"
     },
     {
@@ -186,6 +186,19 @@
       "status": "Match Details"
     },
     {
+      "title": "South Australia vs Tasmania 5th Match",
+      "team1": {
+        "name": "South Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Tasmania 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Australia vs Tasmania 5th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "India A vs Australia A 1st unofficial Test",
       "team1": {
         "name": "India A",
@@ -212,16 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Bangladesh Women Bronze Medal Match",
+      "title": "Pakistan Women vs Bangladesh Women LIVE Bronze Medal Match",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Bangladesh Women Bronze Medal Match",
+        "name": "Bangladesh Women LIVE Bronze Medal Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Pakistan Women vs Bangladesh Women Bronze Medal Match",
+      "score": "Pakistan Women vs Bangladesh Women LIVE Bronze Medal Match",
       "status": "Match Details"
     },
     {
@@ -235,19 +248,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "India Women vs Sri Lanka Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 91-9 (20) Nigeria NGA 95-2 (13) Nigeria won by 8 wkts",
-      "team1": {
-        "name": "1st Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 91",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Nigeria NGA 95",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 91-9 (20) Nigeria NGA 95-2 (13) Nigeria won by 8 wkts",
       "status": "Match Details"
     }
   ]
