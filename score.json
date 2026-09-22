@@ -1,10 +1,36 @@
 {
   "status": "success",
-  "last_updated": "2026-09-22 06:01:52 UTC",
-  "total_matches": 21,
+  "last_updated": "2026-09-22 11:29:02 UTC",
+  "total_matches": 24,
   "matches": [
     {
-      "title": "INDW vs SLW - INDW opt to bat",
+      "title": "ENG vs SL - ENG opt to bat",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "ENG vs SL - ENG opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "IND vs JPN - IND won",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "IND vs JPN - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDW vs SLW - INDW won",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,20 +39,7 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "INDW vs SLW - INDW opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "JPN vs IND - Delay",
-      "team1": {
-        "name": "JPN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "JPN vs IND - Delay",
+      "score": "INDW vs SLW - INDW won",
       "status": "Match Details"
     },
     {
@@ -56,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "QL vs NSW - NSW opt to bowl",
-      "team1": {
-        "name": "QL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "QL vs NSW - NSW opt to bowl",
-      "status": "Match Details"
-    },
-    {
       "title": "England vs Sri Lanka 1st ODI",
       "team1": {
         "name": "England",
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Japan vs India One-off T20I",
+      "title": "India vs Japan One-off T20I",
       "team1": {
-        "name": "Japan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "India One",
+        "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Japan vs India One-off T20I",
+      "team2": {
+        "name": "Japan One",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "India vs Japan One-off T20I",
       "status": "Match Details"
     },
     {
@@ -118,6 +118,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Ghana vs Sierra Leone 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nigeria vs Sierra Leone 3rd Match",
+      "team1": {
+        "name": "Nigeria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sierra Leone 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nigeria vs Sierra Leone 3rd Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs New South Wales LIVE 4th Match",
+      "title": "Queensland vs New South Wales 4th Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "New South Wales LIVE 4th Match",
+        "name": "New South Wales 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Queensland vs New South Wales LIVE 4th Match",
+      "score": "Queensland vs New South Wales 4th Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A 1st unofficial Test",
+      "title": "India A vs Australia A LIVE 1st unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A 1st unofficial Test",
+        "name": "Australia A LIVE 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A vs Australia A 1st unofficial Test",
+      "score": "India A vs Australia A LIVE 1st unofficial Test",
       "status": "Match Details"
     },
     {
@@ -251,29 +264,55 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Sri Lanka Women LIVE Final",
+      "title": "India Women vs Sri Lanka Women Final",
       "team1": {
         "name": "India Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka Women LIVE Final",
+        "name": "Sri Lanka Women Final",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India Women vs Sri Lanka Women LIVE Final",
+      "score": "India Women vs Sri Lanka Women Final",
       "status": "Match Details"
     },
     {
-      "title": "Bronze Medal Match • Nisshin, Korogi Sports Park Pakistan Women PAKW 145-8 (20) Bangladesh Women BANW 114-7 (20) Pakistan Women won by 31 runs",
+      "title": "One-off T20I • Sano, Kanto, Sano International Cricket Ground India IND 32-4 (5) Japan JPN 30-3 (5) India won by 2 runs  -  5 over game due to wet outfield",
       "team1": {
-        "name": "Bronze Medal Match • Nisshin, Korogi Sports Park Pakistan Women PAKW 145",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "One",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) Bangladesh Women BANW 114",
+        "name": "off T20I • Sano, Kanto, Sano International Cricket Ground India IND 32",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "One-off T20I • Sano, Kanto, Sano International Cricket Ground India IND 32-4 (5) Japan JPN 30-3 (5) India won by 2 runs  -  5 over game due to wet outfield",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Brisbane, Allan Border Field Queensland QL 358 (49.5) New South Wales NSW 359-6 (49) New South Wales won by 4 wkts",
+      "team1": {
+        "name": "4th Match • Brisbane, Allan Border Field Queensland QL 358 (49.5) New South Wales NSW 359",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Bronze Medal Match • Nisshin, Korogi Sports Park Pakistan Women PAKW 145-8 (20) Bangladesh Women BANW 114-7 (20) Pakistan Women won by 31 runs",
+      "team2": {
+        "name": "6 (49) New South Wales won by 4 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Brisbane, Allan Border Field Queensland QL 358 (49.5) New South Wales NSW 359-6 (49) New South Wales won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Nisshin, Korogi Sports Park India Women INDW 216-3 (20) Sri Lanka Women SLW 69 (15.4) India Women won by 147 runs",
+      "team1": {
+        "name": "Final • Nisshin, Korogi Sports Park India Women INDW 216",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "3 (20) Sri Lanka Women SLW 69 (15.4) India Women won by 147 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Final • Nisshin, Korogi Sports Park India Women INDW 216-3 (20) Sri Lanka Women SLW 69 (15.4) India Women won by 147 runs",
       "status": "Match Details"
     }
   ]
