@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-22 15:38:36 UTC",
+  "last_updated": "2026-09-22 19:11:55 UTC",
   "total_matches": 22,
   "matches": [
     {
-      "title": "ENG vs SL - Innings Break",
+      "title": "ENG vs SL - ENG won",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ENG vs SL - Innings Break",
+      "score": "ENG vs SL - ENG won",
       "status": "Match Details"
     },
     {
@@ -92,19 +92,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "India vs Japan One-off T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Ghana vs Nigeria 1st Match",
-      "team1": {
-        "name": "Ghana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nigeria 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Ghana vs Nigeria 1st Match",
       "status": "Match Details"
     },
     {
@@ -264,6 +251,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Chile Women vs Costa Rica Women 1st Match",
+      "team1": {
+        "name": "Chile Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Costa Rica Women 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chile Women vs Costa Rica Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st ODI • Chester-le-Street, Riverside Ground England ENG 265 (48.1) Sri Lanka SL 176 (37) England won by 89 runs",
+      "team1": {
+        "name": "1st ODI • Chester",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "le",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st ODI • Chester-le-Street, Riverside Ground England ENG 265 (48.1) Sri Lanka SL 176 (37) England won by 89 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "2nd Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 85-8 (20) Sierra Leone SLE 86-4 (18.1) Sierra Leone won by 6 wkts",
       "team1": {
         "name": "2nd Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 85",
@@ -274,19 +287,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "2nd Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 85-8 (20) Sierra Leone SLE 86-4 (18.1) Sierra Leone won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Brisbane, Allan Border Field Queensland QL 358 (49.5) New South Wales NSW 359-6 (49) New South Wales won by 4 wkts",
-      "team1": {
-        "name": "4th Match • Brisbane, Allan Border Field Queensland QL 358 (49.5) New South Wales NSW 359",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "6 (49) New South Wales won by 4 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Brisbane, Allan Border Field Queensland QL 358 (49.5) New South Wales NSW 359-6 (49) New South Wales won by 4 wkts",
       "status": "Match Details"
     }
   ]
