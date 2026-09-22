@@ -1,36 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-22 00:57:38 UTC",
-  "total_matches": 19,
+  "last_updated": "2026-09-22 06:01:52 UTC",
+  "total_matches": 21,
   "matches": [
     {
-      "title": "PAKW vs BANW - PAKW opt to bat",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "PAKW vs BANW - PAKW opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "JPN vs IND - Preview",
-      "team1": {
-        "name": "JPN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "JPN vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs SLW - Preview",
+      "title": "INDW vs SLW - INDW opt to bat",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -39,33 +13,59 @@
         "name": "SLW",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "INDW vs SLW - Preview",
+      "score": "INDW vs SLW - INDW opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "ENG vs SL - Preview",
+      "title": "JPN vs IND - Delay",
       "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ENG vs SL - Preview",
+      "score": "JPN vs IND - Delay",
       "status": "Match Details"
     },
     {
-      "title": "JKM vs ABF - ABF won",
+      "title": "PAKW vs BANW - PAKW won",
       "team1": {
-        "name": "JKM",
+        "name": "PAKW",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "PAKW vs BANW - PAKW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs AUSA - INDA opt to bat",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDA vs AUSA - INDA opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "QL vs NSW - NSW opt to bowl",
+      "team1": {
+        "name": "QL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ABF",
+        "name": "NSW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JKM vs ABF - ABF won",
+      "score": "QL vs NSW - NSW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -147,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Jamaica Kingsmen vs Antigua and Barbuda Falcons Final",
-      "team1": {
-        "name": "Jamaica Kingsmen",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Antigua and Barbuda Falcons Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jamaica Kingsmen vs Antigua and Barbuda Falcons Final",
-      "status": "Match Details"
-    },
-    {
       "title": "Northern Cape vs Limpopo 1st Match",
       "team1": {
         "name": "Northern Cape",
@@ -173,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs New South Wales 4th Match",
+      "title": "Queensland vs New South Wales LIVE 4th Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "New South Wales 4th Match",
+        "name": "New South Wales LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Queensland vs New South Wales 4th Match",
+      "score": "Queensland vs New South Wales LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -225,29 +212,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan Women vs Bangladesh Women LIVE Bronze Medal Match",
+      "title": "India U19 vs Australia U19 3rd unofficial ODI",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia U19 3rd unofficial ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India U19 vs Australia U19 3rd unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "India A Women vs Australia A Women 2nd unofficial ODI",
+      "team1": {
+        "name": "India A Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia A Women 2nd unofficial ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India A Women vs Australia A Women 2nd unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan Women vs Bangladesh Women Bronze Medal Match",
       "team1": {
         "name": "Pakistan Women",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Bangladesh Women LIVE Bronze Medal Match",
+        "name": "Bangladesh Women Bronze Medal Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Pakistan Women vs Bangladesh Women LIVE Bronze Medal Match",
+      "score": "Pakistan Women vs Bangladesh Women Bronze Medal Match",
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Sri Lanka Women Final",
+      "title": "India Women vs Sri Lanka Women LIVE Final",
       "team1": {
         "name": "India Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka Women Final",
+        "name": "Sri Lanka Women LIVE Final",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India Women vs Sri Lanka Women Final",
+      "score": "India Women vs Sri Lanka Women LIVE Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bronze Medal Match • Nisshin, Korogi Sports Park Pakistan Women PAKW 145-8 (20) Bangladesh Women BANW 114-7 (20) Pakistan Women won by 31 runs",
+      "team1": {
+        "name": "Bronze Medal Match • Nisshin, Korogi Sports Park Pakistan Women PAKW 145",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "8 (20) Bangladesh Women BANW 114",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Bronze Medal Match • Nisshin, Korogi Sports Park Pakistan Women PAKW 145-8 (20) Bangladesh Women BANW 114-7 (20) Pakistan Women won by 31 runs",
       "status": "Match Details"
     }
   ]
