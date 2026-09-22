@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-22 19:11:55 UTC",
-  "total_matches": 22,
+  "last_updated": "2026-09-22 22:14:25 UTC",
+  "total_matches": 21,
   "matches": [
     {
       "title": "ENG vs SL - ENG won",
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahamas vs Cayman Islands 2nd Match",
-      "team1": {
-        "name": "Bahamas",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Cayman Islands 2nd Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Bahamas vs Cayman Islands 2nd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Cayman Islands vs Bermuda 1st Match (Rescheduled match)",
       "team1": {
         "name": "Cayman Islands",
@@ -144,6 +131,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Cayman Islands vs Bermuda 1st Match (Rescheduled match)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Cayman Islands vs Bermuda 2nd Match",
+      "team1": {
+        "name": "Cayman Islands",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Bermuda 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Cayman Islands vs Bermuda 2nd Match",
       "status": "Match Details"
     },
     {
@@ -274,19 +274,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "1st ODI • Chester-le-Street, Riverside Ground England ENG 265 (48.1) Sri Lanka SL 176 (37) England won by 89 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 85-8 (20) Sierra Leone SLE 86-4 (18.1) Sierra Leone won by 6 wkts",
-      "team1": {
-        "name": "2nd Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 85",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Sierra Leone SLE 86",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "2nd Match • Lagos, Tafawa Balewa Square Cricket Oval Ghana GH 85-8 (20) Sierra Leone SLE 86-4 (18.1) Sierra Leone won by 6 wkts",
       "status": "Match Details"
     }
   ]
