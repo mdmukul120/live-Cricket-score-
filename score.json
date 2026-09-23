@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-23 14:59:05 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-09-23 18:58:56 UTC",
+  "total_matches": 29,
   "matches": [
     {
       "title": "INDA vs AUSA - Stumps",
@@ -14,6 +14,32 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "INDA vs AUSA - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "JPN vs AFG - Preview",
+      "team1": {
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "JPN vs AFG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs AUS - Preview",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - Preview",
       "status": "Match Details"
     },
     {
@@ -40,32 +66,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "INDWA vs AUSWA - AUSWA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "RSA vs AUS - Preview",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "RSA vs AUS - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENG vs SL - Preview",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "ENG vs SL - Preview",
       "status": "Match Details"
     },
     {
@@ -173,6 +173,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Cayman Islands vs Bahamas 3rd Match(Rescheduled match)",
+      "team1": {
+        "name": "Cayman Islands",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Bahamas 3rd Match(Rescheduled match)",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Cayman Islands vs Bahamas 3rd Match(Rescheduled match)",
+      "status": "Match Details"
+    },
+    {
       "title": "India A vs Australia A 1st unofficial Test",
       "team1": {
         "name": "India A",
@@ -196,6 +209,32 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Australia U19 vs India U19 3rd unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Leicestershire 66th Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Leicestershire 66th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Leicestershire 66th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nottinghamshire vs Yorkshire 67th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire 67th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Yorkshire 67th Match",
       "status": "Match Details"
     },
     {
@@ -235,32 +274,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Somerset vs Surrey 70th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warwickshire vs Leicestershire 66th Match",
-      "team1": {
-        "name": "Warwickshire",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Leicestershire 66th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Warwickshire vs Leicestershire 66th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Yorkshire 67th Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire 67th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Yorkshire 67th Match",
       "status": "Match Details"
     },
     {
@@ -365,32 +378,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Chile Women vs Costa Rica Women 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri Australia U19 AUSU19 254 (49.3) India U19 INDU19 255-4 (41.2) India U19 won by 6 wkts",
-      "team1": {
-        "name": "3rd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri Australia U19 AUSU19 254 (49.3) India U19 INDU19 255",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "4 (41.2) India U19 won by 6 wkts",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "3rd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri Australia U19 AUSU19 254 (49.3) India U19 INDU19 255-4 (41.2) India U19 won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium India A Women INDWA 338-6 (50) Australia A Women AUSWA 341-8 (49.3) Australia A Women won by 2 wkts",
-      "team1": {
-        "name": "2nd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium India A Women INDWA 338",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (50) Australia A Women AUSWA 341",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "2nd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium India A Women INDWA 338-6 (50) Australia A Women AUSWA 341-8 (49.3) Australia A Women won by 2 wkts",
       "status": "Match Details"
     }
   ]
