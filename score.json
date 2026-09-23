@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-23 10:05:02 UTC",
+  "last_updated": "2026-09-23 14:59:05 UTC",
   "total_matches": 30,
   "matches": [
     {
-      "title": "INDA vs AUSA - Trail by 231",
+      "title": "INDA vs AUSA - Stumps",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,24 +13,11 @@
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDA vs AUSA - Trail by 231",
+      "score": "INDA vs AUSA - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "INDWA vs AUSWA - Need 69 off 64b",
-      "team1": {
-        "name": "INDWA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSWA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDWA vs AUSWA - Need 69 off 64b",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUSU19 vs INDU19 - Need 72 to win",
+      "title": "AUSU19 vs INDU19 - INDU19 won",
       "team1": {
         "name": "AUSU19",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -39,24 +26,37 @@
         "name": "INDU19",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUSU19 vs INDU19 - Need 72 to win",
+      "score": "AUSU19 vs INDU19 - INDU19 won",
       "status": "Match Details"
     },
     {
-      "title": "IND vs JPN - IND won",
+      "title": "INDWA vs AUSWA - AUSWA won",
       "team1": {
-        "name": "IND",
+        "name": "INDWA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "JPN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "AUSWA",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "IND vs JPN - IND won",
+      "score": "INDWA vs AUSWA - AUSWA won",
       "status": "Match Details"
     },
     {
-      "title": "ENG vs SL - ENG won",
+      "title": "RSA vs AUS - Preview",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs SL - Preview",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -65,7 +65,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ENG vs SL - ENG won",
+      "score": "ENG vs SL - Preview",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Ghana vs Sierra Leone 2nd Match",
+      "title": "England vs Sri Lanka 2nd ODI",
       "team1": {
-        "name": "Ghana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Sierra Leone 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Sri Lanka 2nd ODI",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Ghana vs Sierra Leone 2nd Match",
+      "score": "England vs Sri Lanka 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -173,42 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A LIVE 1st unofficial Test",
+      "title": "India A vs Australia A 1st unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A LIVE 1st unofficial Test",
+        "name": "Australia A 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A vs Australia A LIVE 1st unofficial Test",
+      "score": "India A vs Australia A 1st unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "Australia U19 vs India U19 LIVE 3rd unofficial ODI",
+      "title": "Australia U19 vs India U19 3rd unofficial ODI",
       "team1": {
         "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India U19 LIVE 3rd unofficial ODI",
+        "name": "India U19 3rd unofficial ODI",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia U19 vs India U19 LIVE 3rd unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nottinghamshire vs Yorkshire 67th Match",
-      "team1": {
-        "name": "Nottinghamshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Yorkshire 67th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Nottinghamshire vs Yorkshire 67th Match",
+      "score": "Australia U19 vs India U19 3rd unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -264,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs New South Wales 4th Match",
+      "title": "Nottinghamshire vs Yorkshire 67th Match",
       "team1": {
-        "name": "Queensland",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "New South Wales 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Yorkshire 67th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Queensland vs New South Wales 4th Match",
+      "score": "Nottinghamshire vs Yorkshire 67th Match",
       "status": "Match Details"
     },
     {
@@ -342,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women LIVE 2nd unofficial ODI",
+      "title": "India A Women vs Australia A Women 2nd unofficial ODI",
       "team1": {
         "name": "India A Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A Women LIVE 2nd unofficial ODI",
+        "name": "Australia A Women 2nd unofficial ODI",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women LIVE 2nd unofficial ODI",
+      "score": "India A Women vs Australia A Women 2nd unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -381,16 +368,29 @@
       "status": "Match Details"
     },
     {
-      "title": "5th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 383-7 (50) Tasmania TAS 376-8 (50) South Australia won by 7 runs",
+      "title": "3rd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri Australia U19 AUSU19 254 (49.3) India U19 INDU19 255-4 (41.2) India U19 won by 6 wkts",
       "team1": {
-        "name": "5th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 383",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "3rd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri Australia U19 AUSU19 254 (49.3) India U19 INDU19 255",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "7 (50) Tasmania TAS 376",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "4 (41.2) India U19 won by 6 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "5th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 383-7 (50) Tasmania TAS 376-8 (50) South Australia won by 7 runs",
+      "score": "3rd unofficial ODI • Rajkot, Niranjan Shah Stadium, Khandheri Australia U19 AUSU19 254 (49.3) India U19 INDU19 255-4 (41.2) India U19 won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium India A Women INDWA 338-6 (50) Australia A Women AUSWA 341-8 (49.3) Australia A Women won by 2 wkts",
+      "team1": {
+        "name": "2nd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium India A Women INDWA 338",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "6 (50) Australia A Women AUSWA 341",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "2nd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium India A Women INDWA 338-6 (50) Australia A Women AUSWA 341-8 (49.3) Australia A Women won by 2 wkts",
       "status": "Match Details"
     }
   ]
