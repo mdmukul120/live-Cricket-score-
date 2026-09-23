@@ -1,8 +1,47 @@
 {
   "status": "success",
-  "last_updated": "2026-09-23 05:14:25 UTC",
-  "total_matches": 21,
+  "last_updated": "2026-09-23 10:05:02 UTC",
+  "total_matches": 30,
   "matches": [
+    {
+      "title": "INDA vs AUSA - Trail by 231",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDA vs AUSA - Trail by 231",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDWA vs AUSWA - Need 69 off 64b",
+      "team1": {
+        "name": "INDWA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSWA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDWA vs AUSWA - Need 69 off 64b",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSU19 vs INDU19 - Need 72 to win",
+      "team1": {
+        "name": "AUSU19",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSU19 vs INDU19 - Need 72 to win",
+      "status": "Match Details"
+    },
     {
       "title": "IND vs JPN - IND won",
       "team1": {
@@ -17,55 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "INDW vs SLW - INDW won",
+      "title": "ENG vs SL - ENG won",
       "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "SLW",
+        "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "INDW vs SLW - INDW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs AUSA - INDA opt to bat",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDA vs AUSA - INDA opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "SAUS vs TAS - Need 346 to win",
-      "team1": {
-        "name": "SAUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "TAS",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SAUS vs TAS - Need 346 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDWA vs AUSWA - INDWA opt to bat",
-      "team1": {
-        "name": "INDWA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSWA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDWA vs AUSWA - INDWA opt to bat",
+      "score": "ENG vs SL - ENG won",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "South Africa vs Australia 1st ODI",
+      "team1": {
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Australia 1st ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "South Africa vs Australia 1st ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "England vs Sri Lanka 1st ODI",
       "team1": {
         "name": "England",
@@ -105,19 +118,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "England vs Sri Lanka 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "India vs Japan One-off T20I",
-      "team1": {
-        "name": "India",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Japan One",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "India vs Japan One-off T20I",
       "status": "Match Details"
     },
     {
@@ -173,19 +173,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Northern Cape vs Limpopo 1st Match",
-      "team1": {
-        "name": "Northern Cape",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Limpopo 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northern Cape vs Limpopo 1st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "India A vs Australia A LIVE 1st unofficial Test",
       "team1": {
         "name": "India A",
@@ -212,6 +199,71 @@
       "status": "Match Details"
     },
     {
+      "title": "Nottinghamshire vs Yorkshire 67th Match",
+      "team1": {
+        "name": "Nottinghamshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Yorkshire 67th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Nottinghamshire vs Yorkshire 67th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hampshire vs Sussex 68th Match",
+      "team1": {
+        "name": "Hampshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Sussex 68th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hampshire vs Sussex 68th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Glamorgan vs Essex 69th Match",
+      "team1": {
+        "name": "Glamorgan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Essex 69th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Essex 69th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Somerset vs Surrey 70th Match",
+      "team1": {
+        "name": "Somerset",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Surrey 70th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Somerset vs Surrey 70th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warwickshire vs Leicestershire 66th Match",
+      "team1": {
+        "name": "Warwickshire",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "Leicestershire 66th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Warwickshire vs Leicestershire 66th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Queensland vs New South Wales 4th Match",
       "team1": {
         "name": "Queensland",
@@ -225,16 +277,68 @@
       "status": "Match Details"
     },
     {
-      "title": "South Australia vs Tasmania LIVE 5th Match",
+      "title": "South Australia vs Tasmania 5th Match",
       "team1": {
         "name": "South Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Tasmania LIVE 5th Match",
+        "name": "Tasmania 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Australia vs Tasmania LIVE 5th Match",
+      "score": "South Australia vs Tasmania 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kent vs Gloucestershire 53rd Match",
+      "team1": {
+        "name": "Kent",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gloucestershire 53rd Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Kent vs Gloucestershire 53rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Middlesex vs Northamptonshire 54th Match",
+      "team1": {
+        "name": "Middlesex",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northamptonshire 54th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Middlesex vs Northamptonshire 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Derbyshire 55th Match",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire 55th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Derbyshire 55th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lancashire vs Durham 56th Match",
+      "team1": {
+        "name": "Lancashire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Durham 56th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lancashire vs Durham 56th Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +355,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Sri Lanka Women Final",
+      "title": "Zimbabwe Women vs West Indies Women 1st ODI",
       "team1": {
-        "name": "India Women",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Sri Lanka Women Final",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "West Indies Women 1st ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "India Women vs Sri Lanka Women Final",
+      "score": "Zimbabwe Women vs West Indies Women 1st ODI",
       "status": "Match Details"
     },
     {
@@ -274,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Chile Women vs Costa Rica Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 383-7 (50) Tasmania TAS 376-8 (50) South Australia won by 7 runs",
+      "team1": {
+        "name": "5th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 383",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "7 (50) Tasmania TAS 376",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "5th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 383-7 (50) Tasmania TAS 376-8 (50) South Australia won by 7 runs",
       "status": "Match Details"
     }
   ]
