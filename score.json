@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-23 00:41:02 UTC",
+  "last_updated": "2026-09-23 05:14:25 UTC",
   "total_matches": 21,
   "matches": [
-    {
-      "title": "ENG vs SL - ENG won",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "ENG vs SL - ENG won",
-      "status": "Match Details"
-    },
     {
       "title": "IND vs JPN - IND won",
       "team1": {
@@ -43,20 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "PAKW vs BANW - PAKW won",
-      "team1": {
-        "name": "PAKW",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "BANW",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "PAKW vs BANW - PAKW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs AUSA - Stumps",
+      "title": "INDA vs AUSA - INDA opt to bat",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -65,7 +39,33 @@
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDA vs AUSA - Stumps",
+      "score": "INDA vs AUSA - INDA opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "SAUS vs TAS - Need 346 to win",
+      "team1": {
+        "name": "SAUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "TAS",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SAUS vs TAS - Need 346 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDWA vs AUSWA - INDWA opt to bat",
+      "team1": {
+        "name": "INDWA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSWA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDWA vs AUSWA - INDWA opt to bat",
       "status": "Match Details"
     },
     {
@@ -79,6 +79,19 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Japan vs Afghanistan 1st Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Malaysia 2nd Match, Group B",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Malaysia 2nd Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Malaysia 2nd Match, Group B",
       "status": "Match Details"
     },
     {
@@ -173,29 +186,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A 1st unofficial Test",
+      "title": "India A vs Australia A LIVE 1st unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A 1st unofficial Test",
+        "name": "Australia A LIVE 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A vs Australia A 1st unofficial Test",
+      "score": "India A vs Australia A LIVE 1st unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "India U19 vs Australia U19 3rd unofficial ODI",
+      "title": "Australia U19 vs India U19 LIVE 3rd unofficial ODI",
       "team1": {
-        "name": "India U19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia U19 3rd unofficial ODI",
+        "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India U19 vs Australia U19 3rd unofficial ODI",
+      "team2": {
+        "name": "India U19 LIVE 3rd unofficial ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Australia U19 vs India U19 LIVE 3rd unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -225,29 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women 2nd unofficial ODI",
+      "title": "India A Women vs Australia A Women LIVE 2nd unofficial ODI",
       "team1": {
         "name": "India A Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A Women 2nd unofficial ODI",
+        "name": "Australia A Women LIVE 2nd unofficial ODI",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women 2nd unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan Women vs Bangladesh Women Bronze Medal Match",
-      "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Bangladesh Women Bronze Medal Match",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "Pakistan Women vs Bangladesh Women Bronze Medal Match",
+      "score": "India A Women vs Australia A Women LIVE 2nd unofficial ODI",
       "status": "Match Details"
     },
     {
