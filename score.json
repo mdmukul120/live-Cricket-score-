@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-24 00:32:59 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-09-24 05:20:18 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "AFG vs JPN - JPN opt to bowl",
-      "team1": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "JPN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "AFG vs JPN - JPN opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs AUSA - Stumps",
+      "title": "INDA vs AUSA - Lead by 217",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -26,11 +13,11 @@
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDA vs AUSA - Stumps",
+      "score": "INDA vs AUSA - Lead by 217",
       "status": "Match Details"
     },
     {
-      "title": "HKC vs MLY - Preview",
+      "title": "HKC vs MLY - HKC opt to bat",
       "team1": {
         "name": "HKC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +26,20 @@
         "name": "MLY",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "HKC vs MLY - Preview",
+      "score": "HKC vs MLY - HKC opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "AFG vs JPN - AFG won",
+      "team1": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "AFG vs JPN - AFG won",
       "status": "Match Details"
     },
     {
@@ -69,29 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Japan LIVE 1st Match, Group A",
+      "title": "Afghanistan vs Japan 1st Match, Group A",
       "team1": {
         "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Japan LIVE 1st Match, Group A",
+        "name": "Japan 1st Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Afghanistan vs Japan LIVE 1st Match, Group A",
+      "score": "Afghanistan vs Japan 1st Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Malaysia 2nd Match, Group B",
+      "title": "Hong Kong, China vs Malaysia LIVE 2nd Match, Group B",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Malaysia 2nd Match, Group B",
+        "name": "Malaysia LIVE 2nd Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Malaysia 2nd Match, Group B",
+      "score": "Hong Kong, China vs Malaysia LIVE 2nd Match, Group B",
       "status": "Match Details"
     },
     {
@@ -105,6 +105,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hong Kong, China vs Oman 3rd Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan vs Nepal 4th Match, Group A",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Nepal 4th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Afghanistan vs Nepal 4th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -147,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bermuda vs Cayman Islands LIVE 1st Match (Rescheduled match)",
+      "title": "Bermuda vs Cayman Islands 1st Match (Rescheduled match)",
       "team1": {
         "name": "Bermuda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Cayman Islands LIVE 1st Match (Rescheduled match)",
+        "name": "Cayman Islands 1st Match (Rescheduled match)",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Bermuda vs Cayman Islands LIVE 1st Match (Rescheduled match)",
+      "score": "Bermuda vs Cayman Islands 1st Match (Rescheduled match)",
       "status": "Match Details"
     },
     {
@@ -199,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A 1st unofficial Test",
+      "title": "India A vs Australia A LIVE 1st unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A 1st unofficial Test",
+        "name": "Australia A LIVE 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A vs Australia A 1st unofficial Test",
+      "score": "India A vs Australia A LIVE 1st unofficial Test",
       "status": "Match Details"
     },
     {
@@ -303,6 +316,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Victoria vs New South Wales 6th Match",
+      "team1": {
+        "name": "Victoria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "New South Wales 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Victoria vs New South Wales 6th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Kent vs Gloucestershire 53rd Match",
       "team1": {
         "name": "Kent",
@@ -391,6 +417,58 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Chile Women vs Costa Rica Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match, Group A • Nisshin, Korogi Sports Park Afghanistan AFG 129-6 (20) Japan JPN 81 (19.3) Afghanistan won by 48 runs",
+      "team1": {
+        "name": "1st Match, Group A • Nisshin, Korogi Sports Park Afghanistan AFG 129",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "6 (20) Japan JPN 81 (19.3) Afghanistan won by 48 runs",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "1st Match, Group A • Nisshin, Korogi Sports Park Afghanistan AFG 129-6 (20) Japan JPN 81 (19.3) Afghanistan won by 48 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • George Town, Jimmy Powell Oval Cayman Islands CAYM 143-5 (20) Bermuda BER 149-0 (16.4) Bermuda won by 10 wkts",
+      "team1": {
+        "name": "2nd Match • George Town, Jimmy Powell Oval Cayman Islands CAYM 143",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "5 (20) Bermuda BER 149",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • George Town, Jimmy Powell Oval Cayman Islands CAYM 143-5 (20) Bermuda BER 149-0 (16.4) Bermuda won by 10 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match (Rescheduled match) • George Town, Jimmy Powell Oval Bermuda BER 113 (19.2) Cayman Islands CAYM 115-8 (18.3) Cayman Islands won by 2 wkts",
+      "team1": {
+        "name": "1st Match (Rescheduled match) • George Town, Jimmy Powell Oval Bermuda BER 113 (19.2) Cayman Islands CAYM 115",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "8 (18.3) Cayman Islands won by 2 wkts",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "1st Match (Rescheduled match) • George Town, Jimmy Powell Oval Bermuda BER 113 (19.2) Cayman Islands CAYM 115-8 (18.3) Cayman Islands won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 86-8 (20) Costa Rica Women CRW 87-1 (16.4) Costa Rica Women won by 9 wkts",
+      "team1": {
+        "name": "1st Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 86",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Costa Rica Women CRW 87",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 86-8 (20) Costa Rica Women CRW 87-1 (16.4) Costa Rica Women won by 9 wkts",
       "status": "Match Details"
     }
   ]
