@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-24 10:16:48 UTC",
+  "last_updated": "2026-09-24 15:16:05 UTC",
   "total_matches": 34,
   "matches": [
     {
-      "title": "RSA vs AUS - AUS opt to bowl",
+      "title": "RSA vs AUS - Need 95 to win",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -13,11 +13,24 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - AUS opt to bowl",
+      "score": "RSA vs AUS - Need 95 to win",
       "status": "Match Details"
     },
     {
-      "title": "INDA vs AUSA - Need 351 to win",
+      "title": "SL vs ENG - Innings Break",
+      "team1": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "SL vs ENG - Innings Break",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs AUSA - Stumps",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -26,37 +39,24 @@
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDA vs AUSA - Need 351 to win",
+      "score": "INDA vs AUSA - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "ENG vs SL - Preview",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "ENG vs SL - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "HKC vs MLY - MLY won",
+      "title": "HKC vs OMAN - Preview",
       "team1": {
         "name": "HKC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MLY",
+        "name": "OMAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "HKC vs MLY - MLY won",
+      "score": "HKC vs OMAN - Preview",
       "status": "Match Details"
     },
     {
-      "title": "WIW vs ZIMW - WIW opt to bat",
+      "title": "WIW vs ZIMW - WIW won",
       "team1": {
         "name": "WIW",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -65,7 +65,7 @@
         "name": "ZIMW",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "WIW vs ZIMW - WIW opt to bat",
+      "score": "WIW vs ZIMW - WIW won",
       "status": "Match Details"
     },
     {
@@ -134,29 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "England vs Sri Lanka 2nd ODI",
+      "title": "Sri Lanka vs England 2nd ODI",
       "team1": {
-        "name": "England",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Sri Lanka 2nd ODI",
+        "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "England vs Sri Lanka 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nigeria vs Sierra Leone 3rd Match",
-      "team1": {
-        "name": "Nigeria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "Sierra Leone 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England 2nd ODI",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Nigeria vs Sierra Leone 3rd Match",
+      "score": "Sri Lanka vs England 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -225,68 +212,81 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A LIVE 1st unofficial Test",
+      "title": "Bahamas vs Bermuda 5th Match",
+      "team1": {
+        "name": "Bahamas",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bermuda 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahamas vs Bermuda 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warriors vs North West - Eastvaal Renault Dragons Pool A",
+      "team1": {
+        "name": "Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warriors vs North West - Eastvaal Renault Dragons Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "India A vs Australia A 1st unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A LIVE 1st unofficial Test",
+        "name": "Australia A 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A vs Australia A LIVE 1st unofficial Test",
+      "score": "India A vs Australia A 1st unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "Australia U19 vs India U19 3rd unofficial ODI",
-      "team1": {
-        "name": "Australia U19",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "India U19 3rd unofficial ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Australia U19 vs India U19 3rd unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Warwickshire LIVE 66th Match",
+      "title": "Leicestershire vs Warwickshire 66th Match",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Warwickshire LIVE 66th Match",
+        "name": "Warwickshire 66th Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Leicestershire vs Warwickshire LIVE 66th Match",
+      "score": "Leicestershire vs Warwickshire 66th Match",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Yorkshire LIVE 67th Match",
+      "title": "Nottinghamshire vs Yorkshire 67th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Yorkshire LIVE 67th Match",
+        "name": "Yorkshire 67th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Yorkshire LIVE 67th Match",
+      "score": "Nottinghamshire vs Yorkshire 67th Match",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Hampshire LIVE 68th Match",
+      "title": "Sussex vs Hampshire 68th Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hampshire LIVE 68th Match",
+        "name": "Hampshire 68th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Sussex vs Hampshire LIVE 68th Match",
+      "score": "Sussex vs Hampshire 68th Match",
       "status": "Match Details"
     },
     {
@@ -368,29 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Lancashire LIVE 56th Match",
+      "title": "Durham vs Lancashire 56th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lancashire LIVE 56th Match",
+        "name": "Lancashire 56th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Lancashire LIVE 56th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "India A Women vs Australia A Women 2nd unofficial ODI",
-      "team1": {
-        "name": "India A Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia A Women 2nd unofficial ODI",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "India A Women vs Australia A Women 2nd unofficial ODI",
+      "score": "Durham vs Lancashire 56th Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies Women vs Zimbabwe Women LIVE 1st ODI",
+      "title": "West Indies Women vs Zimbabwe Women 1st ODI",
       "team1": {
         "name": "West Indies Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Zimbabwe Women LIVE 1st ODI",
+        "name": "Zimbabwe Women 1st ODI",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "West Indies Women vs Zimbabwe Women LIVE 1st ODI",
+      "score": "West Indies Women vs Zimbabwe Women 1st ODI",
       "status": "Match Details"
     },
     {
@@ -433,16 +420,29 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Match, Group B • Nisshin, Korogi Sports Park Hong Kong, China HKC 81-9 (20) Malaysia MLY 84-2 (12) Malaysia won by 8 wkts",
+      "title": "Costa Rica Women vs Chile Women 2nd Match",
       "team1": {
-        "name": "2nd Match, Group B • Nisshin, Korogi Sports Park Hong Kong, China HKC 81",
+        "name": "Costa Rica Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) Malaysia MLY 84",
+        "name": "Chile Women 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd Match, Group B • Nisshin, Korogi Sports Park Hong Kong, China HKC 81-9 (20) Malaysia MLY 84-2 (12) Malaysia won by 8 wkts",
+      "score": "Costa Rica Women vs Chile Women 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st ODI • Harare, Harare Sports Club West Indies Women WIW 299-6 (50) Zimbabwe Women ZIMW 200 (43.3) West Indies Women won by 99 runs",
+      "team1": {
+        "name": "1st ODI • Harare, Harare Sports Club West Indies Women WIW 299",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "6 (50) Zimbabwe Women ZIMW 200 (43.3) West Indies Women won by 99 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "1st ODI • Harare, Harare Sports Club West Indies Women WIW 299-6 (50) Zimbabwe Women ZIMW 200 (43.3) West Indies Women won by 99 runs",
       "status": "Match Details"
     }
   ]
