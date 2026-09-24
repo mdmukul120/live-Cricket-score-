@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-24 15:16:05 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-09-24 19:18:10 UTC",
+  "total_matches": 35,
   "matches": [
     {
-      "title": "RSA vs AUS - Need 95 to win",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "RSA vs AUS - Need 95 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "SL vs ENG - Innings Break",
+      "title": "SL vs ENG - Need 27 off 15b",
       "team1": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -26,7 +13,20 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "SL vs ENG - Innings Break",
+      "score": "SL vs ENG - Need 27 off 15b",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs AUS - RSA won",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - RSA won",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "WIW vs ZIMW - WIW won",
+      "title": "AFG vs NEP - Preview",
       "team1": {
-        "name": "WIW",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "WIW vs ZIMW - WIW won",
+      "score": "AFG vs NEP - Preview",
       "status": "Match Details"
     },
     {
@@ -121,29 +121,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia LIVE 1st ODI",
+      "title": "South Africa vs Australia 1st ODI",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia LIVE 1st ODI",
+        "name": "Australia 1st ODI",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia LIVE 1st ODI",
+      "score": "South Africa vs Australia 1st ODI",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs England 2nd ODI",
+      "title": "Sri Lanka vs England LIVE 2nd ODI",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "England 2nd ODI",
+        "name": "England LIVE 2nd ODI",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Sri Lanka vs England 2nd ODI",
+      "score": "Sri Lanka vs England LIVE 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -157,19 +157,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Ghana vs Sierra Leone 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bermuda vs Cayman Islands 1st Match (Rescheduled match)",
-      "team1": {
-        "name": "Bermuda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Cayman Islands 1st Match (Rescheduled match)",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Bermuda vs Cayman Islands 1st Match (Rescheduled match)",
       "status": "Match Details"
     },
     {
@@ -238,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Titans vs Western Province Pool B",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Western Province Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Titans vs Western Province Pool B",
+      "status": "Match Details"
+    },
+    {
       "title": "India A vs Australia A 1st unofficial Test",
       "team1": {
         "name": "India A",
@@ -248,19 +248,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "India A vs Australia A 1st unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Warwickshire 66th Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire 66th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Leicestershire vs Warwickshire 66th Match",
       "status": "Match Details"
     },
     {
@@ -290,29 +277,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Essex LIVE 69th Match",
+      "title": "Glamorgan vs Essex 69th Match",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE 69th Match",
+        "name": "Essex 69th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Essex LIVE 69th Match",
+      "score": "Glamorgan vs Essex 69th Match",
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Somerset LIVE 70th Match",
+      "title": "Surrey vs Somerset 70th Match",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Somerset LIVE 70th Match",
+        "name": "Somerset 70th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Surrey vs Somerset LIVE 70th Match",
+      "score": "Surrey vs Somerset 70th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Warwickshire 66th Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 66th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Leicestershire vs Warwickshire 66th Match",
       "status": "Match Details"
     },
     {
@@ -329,42 +329,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Kent LIVE 53rd Match",
+      "title": "Gloucestershire vs Kent 53rd Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent LIVE 53rd Match",
+        "name": "Kent 53rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gloucestershire vs Kent LIVE 53rd Match",
+      "score": "Gloucestershire vs Kent 53rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Middlesex LIVE 54th Match",
+      "title": "Northamptonshire vs Middlesex 54th Match",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Middlesex LIVE 54th Match",
+        "name": "Middlesex 54th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northamptonshire vs Middlesex LIVE 54th Match",
+      "score": "Northamptonshire vs Middlesex 54th Match",
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Derbyshire LIVE 55th Match",
+      "title": "Worcestershire vs Derbyshire 55th Match",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Derbyshire LIVE 55th Match",
+        "name": "Derbyshire 55th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Derbyshire LIVE 55th Match",
+      "score": "Worcestershire vs Derbyshire 55th Match",
       "status": "Match Details"
     },
     {
@@ -430,6 +430,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Costa Rica Women vs Chile Women 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st ODI • Durban, Kingsmead South Africa RSA 297-8 (50) Australia AUS 230 (41.2) South Africa won by 67 runs",
+      "team1": {
+        "name": "1st ODI • Durban, Kingsmead South Africa RSA 297",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "8 (50) Australia AUS 230 (41.2) South Africa won by 67 runs",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "1st ODI • Durban, Kingsmead South Africa RSA 297-8 (50) Australia AUS 230 (41.2) South Africa won by 67 runs",
       "status": "Match Details"
     },
     {
