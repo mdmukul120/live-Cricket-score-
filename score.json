@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-23 22:12:54 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-09-24 00:32:59 UTC",
+  "total_matches": 30,
   "matches": [
+    {
+      "title": "AFG vs JPN - JPN opt to bowl",
+      "team1": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "AFG vs JPN - JPN opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "INDA vs AUSA - Stumps",
       "team1": {
@@ -17,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "JPN vs AFG - Preview",
+      "title": "HKC vs MLY - Preview",
       "team1": {
-        "name": "JPN",
+        "name": "HKC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "MLY",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JPN vs AFG - Preview",
+      "score": "HKC vs MLY - Preview",
       "status": "Match Details"
     },
     {
@@ -43,42 +56,29 @@
       "status": "Match Details"
     },
     {
-      "title": "AUSU19 vs INDU19 - INDU19 won",
+      "title": "ENG vs SL - Preview",
       "team1": {
-        "name": "AUSU19",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "AUSU19 vs INDU19 - INDU19 won",
+      "score": "ENG vs SL - Preview",
       "status": "Match Details"
     },
     {
-      "title": "INDWA vs AUSWA - AUSWA won",
+      "title": "Afghanistan vs Japan LIVE 1st Match, Group A",
       "team1": {
-        "name": "INDWA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSWA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDWA vs AUSWA - AUSWA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "Japan vs Afghanistan 1st Match, Group A",
-      "team1": {
-        "name": "Japan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Afghanistan 1st Match, Group A",
+        "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Japan vs Afghanistan 1st Match, Group A",
+      "team2": {
+        "name": "Japan LIVE 1st Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Afghanistan vs Japan LIVE 1st Match, Group A",
       "status": "Match Details"
     },
     {
@@ -92,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hong Kong, China vs Malaysia 2nd Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Oman 3rd Match, Group B",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Oman 3rd Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Oman 3rd Match, Group B",
       "status": "Match Details"
     },
     {
@@ -134,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Cayman Islands vs Bermuda 1st Match (Rescheduled match)",
+      "title": "Bermuda vs Cayman Islands LIVE 1st Match (Rescheduled match)",
       "team1": {
-        "name": "Cayman Islands",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Bermuda 1st Match (Rescheduled match)",
+        "name": "Bermuda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Cayman Islands vs Bermuda 1st Match (Rescheduled match)",
+      "team2": {
+        "name": "Cayman Islands LIVE 1st Match (Rescheduled match)",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Bermuda vs Cayman Islands LIVE 1st Match (Rescheduled match)",
       "status": "Match Details"
     },
     {
