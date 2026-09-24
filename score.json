@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-24 19:18:10 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-09-24 22:33:17 UTC",
+  "total_matches": 33,
   "matches": [
     {
-      "title": "SL vs ENG - Need 27 off 15b",
+      "title": "SL vs ENG - SL won",
       "team1": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,7 +13,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "SL vs ENG - Need 27 off 15b",
+      "score": "SL vs ENG - SL won",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs England LIVE 2nd ODI",
+      "title": "Sri Lanka vs England 2nd ODI",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "England LIVE 2nd ODI",
+        "name": "England 2nd ODI",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Sri Lanka vs England LIVE 2nd ODI",
+      "score": "Sri Lanka vs England 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -251,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Leicestershire vs Warwickshire 66th Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 66th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Leicestershire vs Warwickshire 66th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Nottinghamshire vs Yorkshire 67th Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -300,19 +313,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Surrey vs Somerset 70th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Warwickshire 66th Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire 66th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Leicestershire vs Warwickshire 66th Match",
       "status": "Match Details"
     },
     {
@@ -407,19 +407,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Chile Women vs Costa Rica Women 1st Match",
-      "team1": {
-        "name": "Chile Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Costa Rica Women 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chile Women vs Costa Rica Women 1st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Costa Rica Women vs Chile Women 2nd Match",
       "team1": {
         "name": "Costa Rica Women",
@@ -433,29 +420,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st ODI • Durban, Kingsmead South Africa RSA 297-8 (50) Australia AUS 230 (41.2) South Africa won by 67 runs",
+      "title": "2nd ODI • Leeds, Headingley Sri Lanka SL 321-6 (50) England ENG 305-9 (50) Sri Lanka won by 16 runs",
       "team1": {
-        "name": "1st ODI • Durban, Kingsmead South Africa RSA 297",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "2nd ODI • Leeds, Headingley Sri Lanka SL 321",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "8 (50) Australia AUS 230 (41.2) South Africa won by 67 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "6 (50) England ENG 305",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "1st ODI • Durban, Kingsmead South Africa RSA 297-8 (50) Australia AUS 230 (41.2) South Africa won by 67 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st ODI • Harare, Harare Sports Club West Indies Women WIW 299-6 (50) Zimbabwe Women ZIMW 200 (43.3) West Indies Women won by 99 runs",
-      "team1": {
-        "name": "1st ODI • Harare, Harare Sports Club West Indies Women WIW 299",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (50) Zimbabwe Women ZIMW 200 (43.3) West Indies Women won by 99 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "1st ODI • Harare, Harare Sports Club West Indies Women WIW 299-6 (50) Zimbabwe Women ZIMW 200 (43.3) West Indies Women won by 99 runs",
+      "score": "2nd ODI • Leeds, Headingley Sri Lanka SL 321-6 (50) England ENG 305-9 (50) Sri Lanka won by 16 runs",
       "status": "Match Details"
     }
   ]
