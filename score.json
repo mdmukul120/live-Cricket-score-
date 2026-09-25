@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-24 22:33:17 UTC",
+  "last_updated": "2026-09-25 00:46:47 UTC",
   "total_matches": 33,
   "matches": [
+    {
+      "title": "HKC vs OMAN - HKC opt to bat",
+      "team1": {
+        "name": "HKC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "OMAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "HKC vs OMAN - HKC opt to bat",
+      "status": "Match Details"
+    },
     {
       "title": "SL vs ENG - SL won",
       "team1": {
@@ -40,19 +53,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "INDA vs AUSA - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "HKC vs OMAN - Preview",
-      "team1": {
-        "name": "HKC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "OMAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "HKC vs OMAN - Preview",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Oman 3rd Match, Group B",
+      "title": "Hong Kong, China vs Oman LIVE 3rd Match, Group B",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Oman 3rd Match, Group B",
+        "name": "Oman LIVE 3rd Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Oman 3rd Match, Group B",
+      "score": "Hong Kong, China vs Oman LIVE 3rd Match, Group B",
       "status": "Match Details"
     },
     {
@@ -118,6 +118,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Afghanistan vs Nepal 4th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Japan vs Nepal 5th Match, Group A",
+      "team1": {
+        "name": "Japan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal 5th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Japan vs Nepal 5th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -157,19 +170,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Ghana vs Sierra Leone 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Cayman Islands vs Bermuda 2nd Match",
-      "team1": {
-        "name": "Cayman Islands",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Bermuda 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Cayman Islands vs Bermuda 2nd Match",
       "status": "Match Details"
     },
     {
