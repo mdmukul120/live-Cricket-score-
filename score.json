@@ -1,19 +1,32 @@
 {
   "status": "success",
-  "last_updated": "2026-09-25 15:30:57 UTC",
+  "last_updated": "2026-09-25 19:31:03 UTC",
   "total_matches": 34,
   "matches": [
     {
-      "title": "AUSWA vs INDWA - Need 38 off 36b",
+      "title": "JPN vs NEP - Preview",
       "team1": {
-        "name": "AUSWA",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "INDWA",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "AUSWA vs INDWA - Need 38 off 36b",
+      "score": "JPN vs NEP - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "MLY vs OMAN - Preview",
+      "team1": {
+        "name": "MLY",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "OMAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MLY vs OMAN - Preview",
       "status": "Match Details"
     },
     {
@@ -30,16 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SL vs ENG - SL won",
+      "title": "AUSWA vs INDWA - INDWA won",
       "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "AUSWA",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "INDWA",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SL vs ENG - SL won",
+      "score": "AUSWA vs INDWA - INDWA won",
       "status": "Match Details"
     },
     {
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "INDA vs AUSA - INDA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "JPN vs NEP - Preview",
-      "team1": {
-        "name": "JPN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JPN vs NEP - Preview",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia 1st ODI",
-      "team1": {
-        "name": "South Africa",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Australia 1st ODI",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "South Africa vs Australia 1st ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Sri Lanka vs England 2nd ODI",
       "team1": {
         "name": "Sri Lanka",
@@ -170,19 +157,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nigeria vs Ghana 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Cayman Islands vs Bahamas 3rd Match(Rescheduled match)",
-      "team1": {
-        "name": "Cayman Islands",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Bahamas 3rd Match(Rescheduled match)",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Cayman Islands vs Bahamas 3rd Match(Rescheduled match)",
       "status": "Match Details"
     },
     {
@@ -225,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Titans vs Western Province Pool B",
+      "title": "Western Province vs Titans Pool B",
       "team1": {
-        "name": "Titans",
+        "name": "Western Province",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Province Pool B",
+        "name": "Titans Pool B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Titans vs Western Province Pool B",
+      "score": "Western Province vs Titans Pool B",
       "status": "Match Details"
     },
     {
@@ -264,68 +238,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Warwickshire LIVE 66th Match",
+      "title": "Leicestershire vs Warwickshire 66th Match",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Warwickshire LIVE 66th Match",
+        "name": "Warwickshire 66th Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Leicestershire vs Warwickshire LIVE 66th Match",
+      "score": "Leicestershire vs Warwickshire 66th Match",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Yorkshire LIVE 67th Match",
+      "title": "Nottinghamshire vs Yorkshire 67th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Yorkshire LIVE 67th Match",
+        "name": "Yorkshire 67th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Yorkshire LIVE 67th Match",
+      "score": "Nottinghamshire vs Yorkshire 67th Match",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Hampshire LIVE 68th Match",
+      "title": "Sussex vs Hampshire 68th Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hampshire LIVE 68th Match",
+        "name": "Hampshire 68th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Sussex vs Hampshire LIVE 68th Match",
+      "score": "Sussex vs Hampshire 68th Match",
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Essex LIVE 69th Match",
+      "title": "Glamorgan vs Essex 69th Match",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex LIVE 69th Match",
+        "name": "Essex 69th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Essex LIVE 69th Match",
+      "score": "Glamorgan vs Essex 69th Match",
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Somerset LIVE 70th Match",
+      "title": "Surrey vs Somerset 70th Match",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Somerset LIVE 70th Match",
+        "name": "Somerset 70th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Surrey vs Somerset LIVE 70th Match",
+      "score": "Surrey vs Somerset 70th Match",
       "status": "Match Details"
     },
     {
@@ -342,107 +316,133 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Lancashire LIVE 56th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lancashire LIVE 56th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Lancashire LIVE 56th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gloucestershire vs Kent LIVE 53rd Match",
+      "title": "Gloucestershire vs Kent 53rd Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent LIVE 53rd Match",
+        "name": "Kent 53rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gloucestershire vs Kent LIVE 53rd Match",
+      "score": "Gloucestershire vs Kent 53rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Middlesex LIVE 54th Match",
+      "title": "Northamptonshire vs Middlesex 54th Match",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Middlesex LIVE 54th Match",
+        "name": "Middlesex 54th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northamptonshire vs Middlesex LIVE 54th Match",
+      "score": "Northamptonshire vs Middlesex 54th Match",
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Derbyshire LIVE 55th Match",
+      "title": "Worcestershire vs Derbyshire 55th Match",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Derbyshire LIVE 55th Match",
+        "name": "Derbyshire 55th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Derbyshire LIVE 55th Match",
+      "score": "Worcestershire vs Derbyshire 55th Match",
       "status": "Match Details"
     },
     {
-      "title": "Australia A Women vs India A Women LIVE 3rd unofficial ODI",
+      "title": "Durham vs Lancashire 56th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lancashire 56th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Lancashire 56th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia A Women vs India A Women 3rd unofficial ODI",
       "team1": {
         "name": "Australia A Women",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India A Women LIVE 3rd unofficial ODI",
+        "name": "India A Women 3rd unofficial ODI",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia A Women vs India A Women LIVE 3rd unofficial ODI",
+      "score": "Australia A Women vs India A Women 3rd unofficial ODI",
       "status": "Match Details"
     },
     {
-      "title": "Chile Women vs Costa Rica Women LIVE 2nd Match",
+      "title": "Chile Women vs Costa Rica Women 2nd Match",
       "team1": {
         "name": "Chile Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Costa Rica Women LIVE 2nd Match",
+        "name": "Costa Rica Women 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chile Women vs Costa Rica Women LIVE 2nd Match",
+      "score": "Chile Women vs Costa Rica Women 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Lagos, Tafawa Balewa Square Cricket Oval Sierra Leone SLE 120-5 (18) Ghana GH 84-2 (15) Sierra Leone won by 13 runs ( DLS Method)",
+      "title": "Pool B • Centurion, SuperSport Park Western Province WPR 186-4 (20) Titans TIT 190-5 (14.5) Titans won by 5 wkts",
       "team1": {
-        "name": "4th Match • Lagos, Tafawa Balewa Square Cricket Oval Sierra Leone SLE 120",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "5 (18) Ghana GH 84",
+        "name": "Pool B • Centurion, SuperSport Park Western Province WPR 186",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "4th Match • Lagos, Tafawa Balewa Square Cricket Oval Sierra Leone SLE 120-5 (18) Ghana GH 84-2 (15) Sierra Leone won by 13 runs ( DLS Method)",
+      "team2": {
+        "name": "4 (20) Titans TIT 190",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Centurion, SuperSport Park Western Province WPR 186-4 (20) Titans TIT 190-5 (14.5) Titans won by 5 wkts",
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Melbourne, Junction Oval New South Wales NSW 257 (48.5) Victoria VIC 212 (44.5) New South Wales won by 47 runs (DLS Method)",
+      "title": "Pool A • Centurion, SuperSport Park Warriors WAR 128-6 (20) North West - Eastvaal Renault Dragons NWEST 131-3 (15.3) North West  -  Eastvaal Renault Dragons won by 7 wkts",
       "team1": {
-        "name": "6th Match • Melbourne, Junction Oval New South Wales NSW 257 (48.5) Victoria VIC 212 (44.5) New South Wales won by 47 runs (DLS Method)",
+        "name": "Pool A • Centurion, SuperSport Park Warriors WAR 128",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Team 2",
+        "name": "6 (20) North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "6th Match • Melbourne, Junction Oval New South Wales NSW 257 (48.5) Victoria VIC 212 (44.5) New South Wales won by 47 runs (DLS Method)",
+      "score": "Pool A • Centurion, SuperSport Park Warriors WAR 128-6 (20) North West - Eastvaal Renault Dragons NWEST 131-3 (15.3) North West  -  Eastvaal Renault Dragons won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 362-9 (50) India A Women INDWA 364-6 (48.2) India A Women won by 4 wkts",
+      "team1": {
+        "name": "3rd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 362",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "9 (50) India A Women INDWA 364",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "3rd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 362-9 (50) India A Women INDWA 364-6 (48.2) India A Women won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 72-9 (20) Costa Rica Women CRW 73-2 (14) Costa Rica Women won by 8 wkts",
+      "team1": {
+        "name": "2nd Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 72",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Costa Rica Women CRW 73",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 72-9 (20) Costa Rica Women CRW 73-2 (14) Costa Rica Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
