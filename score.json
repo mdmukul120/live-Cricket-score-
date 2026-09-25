@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-25 19:31:03 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-09-25 22:45:40 UTC",
+  "total_matches": 31,
   "matches": [
     {
       "title": "JPN vs NEP - Preview",
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs England 2nd ODI",
-      "team1": {
-        "name": "Sri Lanka",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "England 2nd ODI",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Sri Lanka vs England 2nd ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Sierra Leone vs Ghana 4th Match",
       "team1": {
         "name": "Sierra Leone",
@@ -183,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bahamas vs Bermuda 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahamas vs Bermuda 6th Match",
+      "team1": {
+        "name": "Bahamas",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bermuda 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahamas vs Bermuda 6th Match",
       "status": "Match Details"
     },
     {
@@ -404,45 +404,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Pool B • Centurion, SuperSport Park Western Province WPR 186-4 (20) Titans TIT 190-5 (14.5) Titans won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool A • Centurion, SuperSport Park Warriors WAR 128-6 (20) North West - Eastvaal Renault Dragons NWEST 131-3 (15.3) North West  -  Eastvaal Renault Dragons won by 7 wkts",
-      "team1": {
-        "name": "Pool A • Centurion, SuperSport Park Warriors WAR 128",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool A • Centurion, SuperSport Park Warriors WAR 128-6 (20) North West - Eastvaal Renault Dragons NWEST 131-3 (15.3) North West  -  Eastvaal Renault Dragons won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 362-9 (50) India A Women INDWA 364-6 (48.2) India A Women won by 4 wkts",
-      "team1": {
-        "name": "3rd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 362",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "9 (50) India A Women INDWA 364",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "3rd unofficial ODI • Mohali, Punjab Cricket Association IS Bindra Stadium Australia A Women AUSWA 362-9 (50) India A Women INDWA 364-6 (48.2) India A Women won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 72-9 (20) Costa Rica Women CRW 73-2 (14) Costa Rica Women won by 8 wkts",
-      "team1": {
-        "name": "2nd Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 72",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Costa Rica Women CRW 73",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Pocos de Caldas, Pocos Oval Chile Women CHLW 72-9 (20) Costa Rica Women CRW 73-2 (14) Costa Rica Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
