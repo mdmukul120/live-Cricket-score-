@@ -1,19 +1,32 @@
 {
   "status": "success",
-  "last_updated": "2026-09-25 00:46:47 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-09-25 05:30:12 UTC",
+  "total_matches": 34,
   "matches": [
     {
-      "title": "HKC vs OMAN - HKC opt to bat",
+      "title": "AFG vs NEP - AFG opt to bat",
       "team1": {
-        "name": "HKC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "OMAN",
+        "name": "NEP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "HKC vs OMAN - HKC opt to bat",
+      "score": "AFG vs NEP - AFG opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs AUSA - Need 230 to win",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDA vs AUSA - Need 230 to win",
       "status": "Match Details"
     },
     {
@@ -30,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "HKC vs OMAN - HKC won",
+      "team1": {
+        "name": "HKC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "OMAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "HKC vs OMAN - HKC won",
+      "status": "Match Details"
+    },
+    {
       "title": "RSA vs AUS - RSA won",
       "team1": {
         "name": "RSA",
@@ -40,45 +66,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "RSA vs AUS - RSA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs AUSA - Stumps",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDA vs AUSA - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "AFG vs NEP - Preview",
-      "team1": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "AFG vs NEP - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "Afghanistan vs Japan 1st Match, Group A",
-      "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Japan 1st Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Afghanistan vs Japan 1st Match, Group A",
       "status": "Match Details"
     },
     {
@@ -95,29 +82,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Oman LIVE 3rd Match, Group B",
+      "title": "Hong Kong, China vs Oman 3rd Match, Group B",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Oman LIVE 3rd Match, Group B",
+        "name": "Oman 3rd Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Oman LIVE 3rd Match, Group B",
+      "score": "Hong Kong, China vs Oman 3rd Match, Group B",
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Nepal 4th Match, Group A",
+      "title": "Afghanistan vs Nepal LIVE 4th Match, Group A",
       "team1": {
         "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Nepal 4th Match, Group A",
+        "name": "Nepal LIVE 4th Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Afghanistan vs Nepal 4th Match, Group A",
+      "score": "Afghanistan vs Nepal LIVE 4th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -131,6 +118,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Japan vs Nepal 5th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Oman 6th Match, Group B",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Oman 6th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malaysia vs Oman 6th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Cayman Islands vs Bahamas 4th Match",
+      "title": "Bahamas vs Cayman Islands 4th Match",
       "team1": {
-        "name": "Cayman Islands",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Bahamas 4th Match",
+        "name": "Bahamas",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Cayman Islands vs Bahamas 4th Match",
+      "team2": {
+        "name": "Cayman Islands 4th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Bahamas vs Cayman Islands 4th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A 1st unofficial Test",
+      "title": "India A vs Australia A LIVE 1st unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A 1st unofficial Test",
+        "name": "Australia A LIVE 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A vs Australia A 1st unofficial Test",
+      "score": "India A vs Australia A LIVE 1st unofficial Test",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs New South Wales 6th Match",
+      "title": "New South Wales vs Victoria LIVE 6th Match",
       "team1": {
-        "name": "Victoria",
+        "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New South Wales 6th Match",
+        "name": "Victoria LIVE 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Victoria vs New South Wales 6th Match",
+      "score": "New South Wales vs Victoria LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -420,16 +420,29 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd ODI • Leeds, Headingley Sri Lanka SL 321-6 (50) England ENG 305-9 (50) Sri Lanka won by 16 runs",
+      "title": "3rd Match, Group B • Nisshin, Korogi Sports Park Hong Kong, China HKC 121-8 (20) Oman OMAN 80-6 (20) Hong Kong, China won by 41 runs",
       "team1": {
-        "name": "2nd ODI • Leeds, Headingley Sri Lanka SL 321",
+        "name": "3rd Match, Group B • Nisshin, Korogi Sports Park Hong Kong, China HKC 121",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Oman OMAN 80",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Match, Group B • Nisshin, Korogi Sports Park Hong Kong, China HKC 121-8 (20) Oman OMAN 80-6 (20) Hong Kong, China won by 41 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match(Rescheduled match) • George Town, Jimmy Powell Oval Cayman Islands CAYM 215-3 (20) Bahamas BHM 84 (18.3) Cayman Islands won by 131 runs",
+      "team1": {
+        "name": "3rd Match(Rescheduled match) • George Town, Jimmy Powell Oval Cayman Islands CAYM 215",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "6 (50) England ENG 305",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "3 (20) Bahamas BHM 84 (18.3) Cayman Islands won by 131 runs",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "2nd ODI • Leeds, Headingley Sri Lanka SL 321-6 (50) England ENG 305-9 (50) Sri Lanka won by 16 runs",
+      "score": "3rd Match(Rescheduled match) • George Town, Jimmy Powell Oval Cayman Islands CAYM 215-3 (20) Bahamas BHM 84 (18.3) Cayman Islands won by 131 runs",
       "status": "Match Details"
     }
   ]
