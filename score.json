@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-25 10:30:41 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-09-25 15:30:57 UTC",
+  "total_matches": 34,
   "matches": [
     {
-      "title": "AUSWA vs INDWA - AUSWA opt to bat",
+      "title": "AUSWA vs INDWA - Need 38 off 36b",
       "team1": {
         "name": "AUSWA",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -13,7 +13,7 @@
         "name": "INDWA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUSWA vs INDWA - AUSWA opt to bat",
+      "score": "AUSWA vs INDWA - Need 38 off 36b",
       "status": "Match Details"
     },
     {
@@ -27,19 +27,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "AFG vs NEP - NEP won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NSW vs VIC - Need 95 to win",
-      "team1": {
-        "name": "NSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "VIC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NSW vs VIC - Need 95 to win",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "INDA vs AUSA - INDA won",
+      "status": "Match Details"
+    },
+    {
+      "title": "JPN vs NEP - Preview",
+      "team1": {
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "JPN vs NEP - Preview",
       "status": "Match Details"
     },
     {
@@ -160,6 +160,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Nigeria vs Ghana 5th Match",
+      "team1": {
+        "name": "Nigeria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Ghana 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nigeria vs Ghana 5th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Cayman Islands vs Bahamas 3rd Match(Rescheduled match)",
       "team1": {
         "name": "Cayman Islands",
@@ -222,6 +235,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Titans vs Western Province Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northern Cape vs Border Pool A",
+      "team1": {
+        "name": "Northern Cape",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Border Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Cape vs Border Pool A",
       "status": "Match Details"
     },
     {
@@ -303,16 +329,29 @@
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs Victoria LIVE 6th Match",
+      "title": "New South Wales vs Victoria 6th Match",
       "team1": {
         "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Victoria LIVE 6th Match",
+        "name": "Victoria 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New South Wales vs Victoria LIVE 6th Match",
+      "score": "New South Wales vs Victoria 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Lancashire LIVE 56th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lancashire LIVE 56th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Lancashire LIVE 56th Match",
       "status": "Match Details"
     },
     {
@@ -355,19 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Lancashire LIVE 56th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lancashire LIVE 56th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Lancashire LIVE 56th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Australia A Women vs India A Women LIVE 3rd unofficial ODI",
       "team1": {
         "name": "Australia A Women",
@@ -381,55 +407,42 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies Women vs Zimbabwe Women 1st ODI",
+      "title": "Chile Women vs Costa Rica Women LIVE 2nd Match",
       "team1": {
-        "name": "West Indies Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Women 1st ODI",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "West Indies Women vs Zimbabwe Women 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Costa Rica Women vs Chile Women 2nd Match",
-      "team1": {
-        "name": "Costa Rica Women",
+        "name": "Chile Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Chile Women 2nd Match",
+        "name": "Costa Rica Women LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Costa Rica Women vs Chile Women 2nd Match",
+      "score": "Chile Women vs Costa Rica Women LIVE 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "4th Match, Group A • Nisshin, Korogi Sports Park Afghanistan AFG 102-7 (20) Nepal NEP 103-5 (17.2) Nepal won by 5 wkts",
+      "title": "4th Match • Lagos, Tafawa Balewa Square Cricket Oval Sierra Leone SLE 120-5 (18) Ghana GH 84-2 (15) Sierra Leone won by 13 runs ( DLS Method)",
       "team1": {
-        "name": "4th Match, Group A • Nisshin, Korogi Sports Park Afghanistan AFG 102",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "4th Match • Lagos, Tafawa Balewa Square Cricket Oval Sierra Leone SLE 120",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "7 (20) Nepal NEP 103",
+        "name": "5 (18) Ghana GH 84",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "4th Match, Group A • Nisshin, Korogi Sports Park Afghanistan AFG 102-7 (20) Nepal NEP 103-5 (17.2) Nepal won by 5 wkts",
+      "score": "4th Match • Lagos, Tafawa Balewa Square Cricket Oval Sierra Leone SLE 120-5 (18) Ghana GH 84-2 (15) Sierra Leone won by 13 runs ( DLS Method)",
       "status": "Match Details"
     },
     {
-      "title": "1st unofficial Test • Puducherry, Cricket Association Puducherry Siechem Ground India A INDA 334 & 199 Australia A AUSA 171 & 200 India A won by 162 runs",
+      "title": "6th Match • Melbourne, Junction Oval New South Wales NSW 257 (48.5) Victoria VIC 212 (44.5) New South Wales won by 47 runs (DLS Method)",
       "team1": {
-        "name": "1st unofficial Test • Puducherry, Cricket Association Puducherry Siechem Ground India A INDA 334 & 199 Australia A AUSA 171 & 200 India A won by 162 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "6th Match • Melbourne, Junction Oval New South Wales NSW 257 (48.5) Victoria VIC 212 (44.5) New South Wales won by 47 runs (DLS Method)",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st unofficial Test • Puducherry, Cricket Association Puducherry Siechem Ground India A INDA 334 & 199 Australia A AUSA 171 & 200 India A won by 162 runs",
+      "score": "6th Match • Melbourne, Junction Oval New South Wales NSW 257 (48.5) Victoria VIC 212 (44.5) New South Wales won by 47 runs (DLS Method)",
       "status": "Match Details"
     }
   ]
