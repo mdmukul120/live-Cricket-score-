@@ -1,10 +1,49 @@
 {
   "status": "success",
-  "last_updated": "2026-09-26 06:03:03 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-09-26 11:17:37 UTC",
+  "total_matches": 33,
   "matches": [
     {
-      "title": "MLY vs OMAN - Delay",
+      "title": "IND vs WI - Preview",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "IND vs WI - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs AUS - Preview",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs SL - Preview",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "ENG vs SL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "MLY vs OMAN - Abandon",
       "team1": {
         "name": "MLY",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +52,7 @@
         "name": "OMAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MLY vs OMAN - Delay",
+      "score": "MLY vs OMAN - Abandon",
       "status": "Match Details"
     },
     {
@@ -27,58 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "NEP vs JPN - No Result",
-      "status": "Match Details"
-    },
-    {
-      "title": "AFG vs NEP - NEP won",
-      "team1": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "AFG vs NEP - NEP won",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUSWA vs INDWA - INDWA won",
-      "team1": {
-        "name": "AUSWA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDWA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSWA vs INDWA - INDWA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs AUSA - INDA won",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDA vs AUSA - INDA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "Afghanistan vs Nepal 4th Match, Group A",
-      "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Nepal 4th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Afghanistan vs Nepal 4th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -105,6 +92,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Malaysia vs Oman 6th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "India vs West Indies 1st ODI",
+      "team1": {
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "West Indies 1st ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "India vs West Indies 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa vs Australia 2nd ODI",
+      "team1": {
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Australia 2nd ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "South Africa vs Australia 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "England vs Sri Lanka 3rd ODI",
+      "team1": {
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 3rd ODI",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "England vs Sri Lanka 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -199,16 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A 1st unofficial Test",
+      "title": "Dolphins vs Lions Pool A",
       "team1": {
-        "name": "India A",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Dolphins",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Australia A 1st unofficial Test",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Lions Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "India A vs Australia A 1st unofficial Test",
+      "score": "Dolphins vs Lions Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mpumalanga Rhinos vs Titans Pool B",
+      "team1": {
+        "name": "Mpumalanga Rhinos",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Titans Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mpumalanga Rhinos vs Titans Pool B",
       "status": "Match Details"
     },
     {
@@ -225,68 +264,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Warwickshire 66th Match",
+      "title": "Leicestershire vs Warwickshire LIVE 66th Match",
       "team1": {
         "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Warwickshire 66th Match",
+        "name": "Warwickshire LIVE 66th Match",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Leicestershire vs Warwickshire 66th Match",
+      "score": "Leicestershire vs Warwickshire LIVE 66th Match",
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Yorkshire 67th Match",
+      "title": "Nottinghamshire vs Yorkshire LIVE 67th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Yorkshire 67th Match",
+        "name": "Yorkshire LIVE 67th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Yorkshire 67th Match",
+      "score": "Nottinghamshire vs Yorkshire LIVE 67th Match",
       "status": "Match Details"
     },
     {
-      "title": "Sussex vs Hampshire 68th Match",
+      "title": "Sussex vs Hampshire LIVE 68th Match",
       "team1": {
         "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hampshire 68th Match",
+        "name": "Hampshire LIVE 68th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Sussex vs Hampshire 68th Match",
+      "score": "Sussex vs Hampshire LIVE 68th Match",
       "status": "Match Details"
     },
     {
-      "title": "Glamorgan vs Essex 69th Match",
+      "title": "Glamorgan vs Essex LIVE 69th Match",
       "team1": {
         "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Essex 69th Match",
+        "name": "Essex LIVE 69th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Glamorgan vs Essex 69th Match",
+      "score": "Glamorgan vs Essex LIVE 69th Match",
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Somerset 70th Match",
+      "title": "Surrey vs Somerset LIVE 70th Match",
       "team1": {
         "name": "Surrey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Somerset 70th Match",
+        "name": "Somerset LIVE 70th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Surrey vs Somerset 70th Match",
+      "score": "Surrey vs Somerset LIVE 70th Match",
       "status": "Match Details"
     },
     {
@@ -303,55 +342,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Kent 53rd Match",
+      "title": "Gloucestershire vs Kent LIVE 53rd Match",
       "team1": {
         "name": "Gloucestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Kent 53rd Match",
+        "name": "Kent LIVE 53rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gloucestershire vs Kent 53rd Match",
+      "score": "Gloucestershire vs Kent LIVE 53rd Match",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Middlesex 54th Match",
+      "title": "Northamptonshire vs Middlesex LIVE 54th Match",
       "team1": {
         "name": "Northamptonshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Middlesex 54th Match",
+        "name": "Middlesex LIVE 54th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northamptonshire vs Middlesex 54th Match",
+      "score": "Northamptonshire vs Middlesex LIVE 54th Match",
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Derbyshire 55th Match",
+      "title": "Worcestershire vs Derbyshire LIVE 55th Match",
       "team1": {
         "name": "Worcestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Derbyshire 55th Match",
+        "name": "Derbyshire LIVE 55th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Worcestershire vs Derbyshire 55th Match",
+      "score": "Worcestershire vs Derbyshire LIVE 55th Match",
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Lancashire 56th Match",
+      "title": "Durham vs Lancashire LIVE 56th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lancashire 56th Match",
+        "name": "Lancashire LIVE 56th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Lancashire 56th Match",
+      "score": "Durham vs Lancashire LIVE 56th Match",
       "status": "Match Details"
     },
     {
@@ -365,6 +404,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Australia A Women vs India A Women 3rd unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe Women vs West Indies Women 2nd ODI",
+      "team1": {
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "West Indies Women 2nd ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Zimbabwe Women vs West Indies Women 2nd ODI",
       "status": "Match Details"
     },
     {
