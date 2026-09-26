@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-26 18:31:34 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-09-26 21:30:28 UTC",
+  "total_matches": 31,
   "matches": [
     {
       "title": "IND vs WI - Preview",
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs Titans Pool B",
-      "team1": {
-        "name": "Western Province",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Western Province vs Titans Pool B",
-      "status": "Match Details"
-    },
-    {
       "title": "Northern Cape vs Border Pool A",
       "team1": {
         "name": "Northern Cape",
@@ -329,32 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Derbyshire 55th Match",
-      "team1": {
-        "name": "Worcestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Derbyshire 55th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Worcestershire vs Derbyshire 55th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Lancashire 56th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lancashire 56th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Lancashire 56th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Gloucestershire vs Kent 53rd Match",
       "team1": {
         "name": "Gloucestershire",
@@ -378,6 +339,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Northamptonshire vs Middlesex 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Worcestershire vs Derbyshire 55th Match",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire 55th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Derbyshire 55th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Lancashire 56th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lancashire 56th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Lancashire 56th Match",
       "status": "Match Details"
     },
     {
@@ -407,58 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "67th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 251 & 85 Yorkshire YORKS 179 & 159-9 Yorkshire won by 1 wkt",
-      "team1": {
-        "name": "67th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 251 & 85 Yorkshire YORKS 179 & 159",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "9 Yorkshire won by 1 wkt",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "67th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 251 & 85 Yorkshire YORKS 179 & 159-9 Yorkshire won by 1 wkt",
-      "status": "Match Details"
-    },
-    {
-      "title": "68th Match • Southampton, The Rose Bowl Sussex SUS 244 & 319-9 d Hampshire HAM 128 & 238 Sussex won by 197 runs",
-      "team1": {
-        "name": "68th Match • Southampton, The Rose Bowl Sussex SUS 244 & 319",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 d Hampshire HAM 128 & 238 Sussex won by 197 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "68th Match • Southampton, The Rose Bowl Sussex SUS 244 & 319-9 d Hampshire HAM 128 & 238 Sussex won by 197 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "66th Match • Birmingham, Edgbaston Leicestershire LEIC 125 & 168 Warwickshire WARKS 372 Warwickshire won by an innings and 79 runs",
-      "team1": {
-        "name": "66th Match • Birmingham, Edgbaston Leicestershire LEIC 125 & 168 Warwickshire WARKS 372 Warwickshire won by an innings and 79 runs",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "66th Match • Birmingham, Edgbaston Leicestershire LEIC 125 & 168 Warwickshire WARKS 372 Warwickshire won by an innings and 79 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "55th Match • Worcester, New Road Worcestershire WORCS 214 & 206 Derbyshire DERBY 88 & 157 Worcestershire won by 175 runs",
-      "team1": {
-        "name": "55th Match • Worcester, New Road Worcestershire WORCS 214 & 206 Derbyshire DERBY 88 & 157 Worcestershire won by 175 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "55th Match • Worcester, New Road Worcestershire WORCS 214 & 206 Derbyshire DERBY 88 & 157 Worcestershire won by 175 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "53rd Match • Canterbury, St Lawrence Ground Gloucestershire GLOUCS 229 & 241 Kent KENT 353 & 120-2 Kent won by 8 wkts",
       "team1": {
         "name": "53rd Match • Canterbury, St Lawrence Ground Gloucestershire GLOUCS 229 & 241 Kent KENT 353 & 120",
@@ -469,19 +404,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "53rd Match • Canterbury, St Lawrence Ground Gloucestershire GLOUCS 229 & 241 Kent KENT 353 & 120-2 Kent won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134-3 Middlesex won by 7 wkts",
-      "team1": {
-        "name": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "3 Middlesex won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134-3 Middlesex won by 7 wkts",
       "status": "Match Details"
     }
   ]
