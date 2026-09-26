@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-26 15:00:53 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-09-26 18:31:34 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "IND vs WI - Preview",
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nigeria vs Ghana LIVE 5th Match",
+      "title": "Nigeria vs Ghana 5th Match",
       "team1": {
         "name": "Nigeria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ghana LIVE 5th Match",
+        "name": "Ghana 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nigeria vs Ghana LIVE 5th Match",
+      "score": "Nigeria vs Ghana 5th Match",
       "status": "Match Details"
     },
     {
@@ -160,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahamas vs Bermuda 5th Match",
-      "team1": {
-        "name": "Bahamas",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bermuda 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahamas vs Bermuda 5th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bahamas vs Bermuda 6th Match",
       "team1": {
         "name": "Bahamas",
@@ -186,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Warriors vs North West - Eastvaal Renault Dragons Pool A",
+      "title": "TBC vs TBC Qualifier",
       "team1": {
-        "name": "Warriors",
+        "name": "TBC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "North West",
+        "name": "TBC Qualifier",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Warriors vs North West - Eastvaal Renault Dragons Pool A",
+      "score": "TBC vs TBC Qualifier",
       "status": "Match Details"
     },
     {
@@ -251,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Western Province vs Knights Pool B",
+      "team1": {
+        "name": "Western Province",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Knights Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Province vs Knights Pool B",
+      "status": "Match Details"
+    },
+    {
       "title": "India U19 vs Australia U19 1st unofficial Test",
       "team1": {
         "name": "India U19",
@@ -261,45 +261,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "India U19 vs Australia U19 1st unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sussex vs Hampshire LIVE 68th Match",
-      "team1": {
-        "name": "Sussex",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hampshire LIVE 68th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Sussex vs Hampshire LIVE 68th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Glamorgan vs Essex LIVE 69th Match",
-      "team1": {
-        "name": "Glamorgan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Essex LIVE 69th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Glamorgan vs Essex LIVE 69th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Surrey vs Somerset LIVE 70th Match",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Somerset LIVE 70th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Surrey vs Somerset LIVE 70th Match",
       "status": "Match Details"
     },
     {
@@ -316,42 +277,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Nottinghamshire vs Yorkshire LIVE 67th Match",
+      "title": "Nottinghamshire vs Yorkshire 67th Match",
       "team1": {
         "name": "Nottinghamshire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Yorkshire LIVE 67th Match",
+        "name": "Yorkshire 67th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Nottinghamshire vs Yorkshire LIVE 67th Match",
+      "score": "Nottinghamshire vs Yorkshire 67th Match",
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Kent LIVE 53rd Match",
+      "title": "Sussex vs Hampshire 68th Match",
       "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent LIVE 53rd Match",
+        "name": "Sussex",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gloucestershire vs Kent LIVE 53rd Match",
+      "team2": {
+        "name": "Hampshire 68th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sussex vs Hampshire 68th Match",
       "status": "Match Details"
     },
     {
-      "title": "Northamptonshire vs Middlesex 54th Match",
+      "title": "Glamorgan vs Essex 69th Match",
       "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex 54th Match",
+        "name": "Glamorgan",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northamptonshire vs Middlesex 54th Match",
+      "team2": {
+        "name": "Essex 69th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Glamorgan vs Essex 69th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Somerset 70th Match",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Somerset 70th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Surrey vs Somerset 70th Match",
       "status": "Match Details"
     },
     {
@@ -368,29 +342,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Durham vs Lancashire LIVE 56th Match",
+      "title": "Durham vs Lancashire 56th Match",
       "team1": {
         "name": "Durham",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lancashire LIVE 56th Match",
+        "name": "Lancashire 56th Match",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Durham vs Lancashire LIVE 56th Match",
+      "score": "Durham vs Lancashire 56th Match",
       "status": "Match Details"
     },
     {
-      "title": "Australia A Women vs India A Women 3rd unofficial ODI",
+      "title": "Gloucestershire vs Kent 53rd Match",
       "team1": {
-        "name": "Australia A Women",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "India A Women 3rd unofficial ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Kent 53rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Australia A Women vs India A Women 3rd unofficial ODI",
+      "score": "Gloucestershire vs Kent 53rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Middlesex 54th Match",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northamptonshire vs Middlesex 54th Match",
       "status": "Match Details"
     },
     {
@@ -407,16 +394,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Chile Women vs Costa Rica Women 2nd Match",
+      "title": "5th Match • Lagos, Tafawa Balewa Square Cricket Oval Nigeria NGA 146-5 (20) Ghana GH 55 (13) Nigeria won by 91 runs",
       "team1": {
-        "name": "Chile Women",
+        "name": "5th Match • Lagos, Tafawa Balewa Square Cricket Oval Nigeria NGA 146",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Costa Rica Women 2nd Match",
+        "name": "5 (20) Ghana GH 55 (13) Nigeria won by 91 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chile Women vs Costa Rica Women 2nd Match",
+      "score": "5th Match • Lagos, Tafawa Balewa Square Cricket Oval Nigeria NGA 146-5 (20) Ghana GH 55 (13) Nigeria won by 91 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "67th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 251 & 85 Yorkshire YORKS 179 & 159-9 Yorkshire won by 1 wkt",
+      "team1": {
+        "name": "67th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 251 & 85 Yorkshire YORKS 179 & 159",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "9 Yorkshire won by 1 wkt",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "67th Match • Nottingham, Trent Bridge Nottinghamshire NOTTS 251 & 85 Yorkshire YORKS 179 & 159-9 Yorkshire won by 1 wkt",
+      "status": "Match Details"
+    },
+    {
+      "title": "68th Match • Southampton, The Rose Bowl Sussex SUS 244 & 319-9 d Hampshire HAM 128 & 238 Sussex won by 197 runs",
+      "team1": {
+        "name": "68th Match • Southampton, The Rose Bowl Sussex SUS 244 & 319",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 d Hampshire HAM 128 & 238 Sussex won by 197 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "68th Match • Southampton, The Rose Bowl Sussex SUS 244 & 319-9 d Hampshire HAM 128 & 238 Sussex won by 197 runs",
       "status": "Match Details"
     },
     {
@@ -433,19 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134-3 Middlesex won by 7 wkts",
-      "team1": {
-        "name": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "3 Middlesex won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134-3 Middlesex won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "55th Match • Worcester, New Road Worcestershire WORCS 214 & 206 Derbyshire DERBY 88 & 157 Worcestershire won by 175 runs",
       "team1": {
         "name": "55th Match • Worcester, New Road Worcestershire WORCS 214 & 206 Derbyshire DERBY 88 & 157 Worcestershire won by 175 runs",
@@ -456,6 +456,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "55th Match • Worcester, New Road Worcestershire WORCS 214 & 206 Derbyshire DERBY 88 & 157 Worcestershire won by 175 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "53rd Match • Canterbury, St Lawrence Ground Gloucestershire GLOUCS 229 & 241 Kent KENT 353 & 120-2 Kent won by 8 wkts",
+      "team1": {
+        "name": "53rd Match • Canterbury, St Lawrence Ground Gloucestershire GLOUCS 229 & 241 Kent KENT 353 & 120",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "2 Kent won by 8 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "53rd Match • Canterbury, St Lawrence Ground Gloucestershire GLOUCS 229 & 241 Kent KENT 353 & 120-2 Kent won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134-3 Middlesex won by 7 wkts",
+      "team1": {
+        "name": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "3 Middlesex won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "54th Match • London, Lord's Northamptonshire NHNTS 103 & 285 Middlesex MDX 255 & 134-3 Middlesex won by 7 wkts",
       "status": "Match Details"
     }
   ]
