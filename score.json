@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-09-25 22:45:40 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-09-26 00:57:24 UTC",
+  "total_matches": 30,
   "matches": [
     {
-      "title": "JPN vs NEP - Preview",
+      "title": "NEP vs JPN - Delay",
       "team1": {
-        "name": "JPN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "NEP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JPN vs NEP - Preview",
+      "team2": {
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NEP vs JPN - Delay",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Japan vs Nepal 5th Match, Group A",
+      "title": "Nepal vs Japan 5th Match, Group A",
       "team1": {
-        "name": "Japan",
+        "name": "Nepal",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal 5th Match, Group A",
+        "name": "Japan 5th Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Japan vs Nepal 5th Match, Group A",
+      "score": "Nepal vs Japan 5th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -144,19 +144,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Nigeria vs Ghana 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bahamas vs Cayman Islands 4th Match",
-      "team1": {
-        "name": "Bahamas",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Cayman Islands 4th Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Bahamas vs Cayman Islands 4th Match",
       "status": "Match Details"
     },
     {
