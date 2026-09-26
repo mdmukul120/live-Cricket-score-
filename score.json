@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-26 00:57:24 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-09-26 06:03:03 UTC",
+  "total_matches": 29,
   "matches": [
     {
-      "title": "NEP vs JPN - Delay",
-      "team1": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JPN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NEP vs JPN - Delay",
-      "status": "Match Details"
-    },
-    {
-      "title": "MLY vs OMAN - Preview",
+      "title": "MLY vs OMAN - Delay",
       "team1": {
         "name": "MLY",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +13,20 @@
         "name": "OMAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MLY vs OMAN - Preview",
+      "score": "MLY vs OMAN - Delay",
+      "status": "Match Details"
+    },
+    {
+      "title": "NEP vs JPN - No Result",
+      "team1": {
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JPN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NEP vs JPN - No Result",
       "status": "Match Details"
     },
     {
@@ -66,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "INDA vs AUSA - INDA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs Oman 3rd Match, Group B",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Oman 3rd Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hong Kong, China vs Oman 3rd Match, Group B",
       "status": "Match Details"
     },
     {
@@ -222,6 +209,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "India A vs Australia A 1st unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "India U19 vs Australia U19 1st unofficial Test",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia U19 1st unofficial Test",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India U19 vs Australia U19 1st unofficial Test",
       "status": "Match Details"
     },
     {
@@ -378,19 +378,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Chile Women vs Costa Rica Women 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Centurion, SuperSport Park Western Province WPR 186-4 (20) Titans TIT 190-5 (14.5) Titans won by 5 wkts",
-      "team1": {
-        "name": "Pool B • Centurion, SuperSport Park Western Province WPR 186",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (20) Titans TIT 190",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool B • Centurion, SuperSport Park Western Province WPR 186-4 (20) Titans TIT 190-5 (14.5) Titans won by 5 wkts",
       "status": "Match Details"
     }
   ]
