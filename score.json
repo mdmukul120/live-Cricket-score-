@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-09-27 21:34:11 UTC",
-  "total_matches": 34,
+  "last_updated": "2026-09-27 23:56:48 UTC",
+  "total_matches": 28,
   "matches": [
+    {
+      "title": "PAK vs HKC - Abandon",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "HKC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PAK vs HKC - Abandon",
+      "status": "Match Details"
+    },
     {
       "title": "WI vs IND - IND won",
       "team1": {
@@ -14,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "WI vs IND - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "IND vs AFG - Preview",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "IND vs AFG - Preview",
       "status": "Match Details"
     },
     {
@@ -40,32 +66,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "ENG vs SL - ENG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "IND vs AFG - Preview",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "IND vs AFG - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs HKC - Preview",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "HKC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PAK vs HKC - Preview",
       "status": "Match Details"
     },
     {
@@ -147,42 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahamas vs Bermuda Qualifier",
+      "title": "Bermuda vs Cayman Islands Final",
       "team1": {
-        "name": "Bahamas",
+        "name": "Bermuda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bermuda Qualifier",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahamas vs Bermuda Qualifier",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bahamas vs Bermuda 6th Match",
-      "team1": {
-        "name": "Bahamas",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bermuda 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahamas vs Bermuda 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Cayman Islands vs Bermuda Final",
-      "team1": {
-        "name": "Cayman Islands",
+        "name": "Cayman Islands Final",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "team2": {
-        "name": "Bermuda Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Cayman Islands vs Bermuda Final",
+      "score": "Bermuda vs Cayman Islands Final",
       "status": "Match Details"
     },
     {
@@ -378,58 +352,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "West Indies Women vs Zimbabwe Women 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st ODI • Thiruvananthapuram, Greenfield International Stadium West Indies WI 295-7 (50) India IND 300-2 (41.4) India won by 8 wkts",
-      "team1": {
-        "name": "1st ODI • Thiruvananthapuram, Greenfield International Stadium West Indies WI 295",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (50) India IND 300",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "1st ODI • Thiruvananthapuram, Greenfield International Stadium West Indies WI 295-7 (50) India IND 300-2 (41.4) India won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd ODI • Johannesburg, The Wanderers Stadium South Africa RSA 365-9 (50) Australia AUS 333 (49.5) South Africa won by 32 runs",
-      "team1": {
-        "name": "2nd ODI • Johannesburg, The Wanderers Stadium South Africa RSA 365",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "9 (50) Australia AUS 333 (49.5) South Africa won by 32 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "2nd ODI • Johannesburg, The Wanderers Stadium South Africa RSA 365-9 (50) Australia AUS 333 (49.5) South Africa won by 32 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd ODI • London, Kennington Oval England ENG 355-7 (50) Sri Lanka SL 132 (29.1) England won by 223 runs",
-      "team1": {
-        "name": "3rd ODI • London, Kennington Oval England ENG 355",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "7 (50) Sri Lanka SL 132 (29.1) England won by 223 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "3rd ODI • London, Kennington Oval England ENG 355-7 (50) Sri Lanka SL 132 (29.1) England won by 223 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Lagos, Tafawa Balewa Square Cricket Oval Nigeria NGA 136 (19.4) Sierra Leone SLE 65 (19) Nigeria won by 71 runs",
-      "team1": {
-        "name": "6th Match • Lagos, Tafawa Balewa Square Cricket Oval Nigeria NGA 136 (19.4) Sierra Leone SLE 65 (19) Nigeria won by 71 runs",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Lagos, Tafawa Balewa Square Cricket Oval Nigeria NGA 136 (19.4) Sierra Leone SLE 65 (19) Nigeria won by 71 runs",
       "status": "Match Details"
     },
     {
