@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-27 08:34:46 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-09-27 14:17:00 UTC",
+  "total_matches": 33,
   "matches": [
     {
-      "title": "WI vs IND - IND opt to bowl",
+      "title": "WI vs IND - Need 180 to win",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,11 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "WI vs IND - IND opt to bowl",
+      "score": "WI vs IND - Need 180 to win",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - AUS opt to bowl",
+      "title": "RSA vs AUS - Need 188 to win",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,11 +26,11 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - AUS opt to bowl",
+      "score": "RSA vs AUS - Need 188 to win",
       "status": "Match Details"
     },
     {
-      "title": "ENG vs SL - Preview",
+      "title": "ENG vs SL - Need 332 to win",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -39,7 +39,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ENG vs SL - Preview",
+      "score": "ENG vs SL - Need 332 to win",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs India 1st ODI",
+      "title": "West Indies vs India LIVE 1st ODI",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "India 1st ODI",
+        "name": "India LIVE 1st ODI",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "West Indies vs India 1st ODI",
+      "score": "West Indies vs India LIVE 1st ODI",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "England vs Sri Lanka 3rd ODI",
+      "title": "England vs Sri Lanka LIVE 3rd ODI",
       "team1": {
         "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Sri Lanka 3rd ODI",
+        "name": "Sri Lanka LIVE 3rd ODI",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "England vs Sri Lanka 3rd ODI",
+      "score": "England vs Sri Lanka LIVE 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dolphins vs Lions Pool A",
+      "title": "Lions vs Dolphins Pool A",
       "team1": {
-        "name": "Dolphins",
+        "name": "Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lions Pool A",
+        "name": "Dolphins Pool A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dolphins vs Lions Pool A",
+      "score": "Lions vs Dolphins Pool A",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia U19 vs India U19 LIVE 1st unofficial Test",
+      "title": "Border vs North West - Eastvaal Renault Dragons Pool A",
+      "team1": {
+        "name": "Border",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Border vs North West - Eastvaal Renault Dragons Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia U19 vs India U19 1st unofficial Test",
       "team1": {
         "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India U19 LIVE 1st unofficial Test",
+        "name": "India U19 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia U19 vs India U19 LIVE 1st unofficial Test",
+      "score": "Australia U19 vs India U19 1st unofficial Test",
       "status": "Match Details"
     },
     {
@@ -381,16 +394,42 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies Women vs Zimbabwe Women LIVE 2nd ODI",
+      "title": "West Indies Women vs Zimbabwe Women 2nd ODI",
       "team1": {
         "name": "West Indies Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Zimbabwe Women LIVE 2nd ODI",
+        "name": "Zimbabwe Women 2nd ODI",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "West Indies Women vs Zimbabwe Women LIVE 2nd ODI",
+      "score": "West Indies Women vs Zimbabwe Women 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Qualifier • George Town, Jimmy Powell Oval Bahamas BHM 82 (18.5) Bermuda BER 83-2 (6.1) Bermuda won by 8 wkts",
+      "team1": {
+        "name": "Qualifier • George Town, Jimmy Powell Oval Bahamas BHM 82 (18.5) Bermuda BER 83",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (6.1) Bermuda won by 8 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qualifier • George Town, Jimmy Powell Oval Bahamas BHM 82 (18.5) Bermuda BER 83-2 (6.1) Bermuda won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd ODI • Harare, Harare Sports Club West Indies Women WIW 139 (39.3) Zimbabwe Women ZIMW 140-6 (40.5) Zimbabwe Women won by 4 wkts",
+      "team1": {
+        "name": "2nd ODI • Harare, Harare Sports Club West Indies Women WIW 139 (39.3) Zimbabwe Women ZIMW 140",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "6 (40.5) Zimbabwe Women won by 4 wkts",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "2nd ODI • Harare, Harare Sports Club West Indies Women WIW 139 (39.3) Zimbabwe Women ZIMW 140-6 (40.5) Zimbabwe Women won by 4 wkts",
       "status": "Match Details"
     }
   ]
