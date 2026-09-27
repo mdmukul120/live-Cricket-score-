@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-26 23:50:20 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-09-27 02:41:41 UTC",
+  "total_matches": 30,
   "matches": [
     {
       "title": "IND vs WI - Preview",
@@ -92,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Malaysia vs Oman 6th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan vs Hong Kong, China 1st Quarter-Final",
+      "team1": {
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Hong Kong, China 1st Quarter",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pakistan vs Hong Kong, China 1st Quarter-Final",
       "status": "Match Details"
     },
     {
@@ -251,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Warwickshire 66th Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire 66th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Leicestershire vs Warwickshire 66th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Nottinghamshire vs Yorkshire 67th Match",
       "team1": {
         "name": "Nottinghamshire",
@@ -313,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Surrey vs Somerset 70th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Warwickshire 66th Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 66th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Leicestershire vs Warwickshire 66th Match",
       "status": "Match Details"
     },
     {
