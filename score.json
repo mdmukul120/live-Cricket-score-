@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-27 18:30:50 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-09-27 21:34:11 UTC",
+  "total_matches": 34,
   "matches": [
     {
       "title": "WI vs IND - IND won",
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Surrey vs Somerset 70th Match",
-      "team1": {
-        "name": "Surrey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Somerset 70th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Surrey vs Somerset 70th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Leicestershire vs Warwickshire 66th Match",
       "team1": {
         "name": "Leicestershire",
@@ -313,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Glamorgan vs Essex 69th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Surrey vs Somerset 70th Match",
+      "team1": {
+        "name": "Surrey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Somerset 70th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Surrey vs Somerset 70th Match",
       "status": "Match Details"
     },
     {
@@ -433,42 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pool B • Mpumalanga, Uplands College, White River Mpumalanga Rhinos MPR 75-2 (6) Titans TIT 79-1 (5) Titans won by 9 wkts  -  6 over game due to rain",
+      "title": "Pool B • Cape Town, Newlands Knights KNG 168-7 (20) Western Province WPR 169-5 (19.4) Western Province won by 5 wkts",
       "team1": {
-        "name": "Pool B • Mpumalanga, Uplands College, White River Mpumalanga Rhinos MPR 75",
+        "name": "Pool B • Cape Town, Newlands Knights KNG 168",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "2 (6) Titans TIT 79",
+        "name": "7 (20) Western Province WPR 169",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pool B • Mpumalanga, Uplands College, White River Mpumalanga Rhinos MPR 75-2 (6) Titans TIT 79-1 (5) Titans won by 9 wkts  -  6 over game due to rain",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool A • Durban, Kingsmead Lions LIONS 202-4 (20) Dolphins DOL 194-6 (20) Lions won by 8 runs",
-      "team1": {
-        "name": "Pool A • Durban, Kingsmead Lions LIONS 202",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "4 (20) Dolphins DOL 194",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool A • Durban, Kingsmead Lions LIONS 202-4 (20) Dolphins DOL 194-6 (20) Lions won by 8 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd ODI • Harare, Harare Sports Club West Indies Women WIW 139 (39.3) Zimbabwe Women ZIMW 140-6 (40.5) Zimbabwe Women won by 4 wkts",
-      "team1": {
-        "name": "2nd ODI • Harare, Harare Sports Club West Indies Women WIW 139 (39.3) Zimbabwe Women ZIMW 140",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (40.5) Zimbabwe Women won by 4 wkts",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "2nd ODI • Harare, Harare Sports Club West Indies Women WIW 139 (39.3) Zimbabwe Women ZIMW 140-6 (40.5) Zimbabwe Women won by 4 wkts",
+      "score": "Pool B • Cape Town, Newlands Knights KNG 168-7 (20) Western Province WPR 169-5 (19.4) Western Province won by 5 wkts",
       "status": "Match Details"
     }
   ]
