@@ -1,23 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-09-27 02:41:41 UTC",
+  "last_updated": "2026-09-27 08:34:46 UTC",
   "total_matches": 30,
   "matches": [
     {
-      "title": "IND vs WI - Preview",
+      "title": "WI vs IND - IND opt to bowl",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs WI - Preview",
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "WI vs IND - IND opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - Preview",
+      "title": "RSA vs AUS - AUS opt to bowl",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,7 +26,7 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - Preview",
+      "score": "RSA vs AUS - AUS opt to bowl",
       "status": "Match Details"
     },
     {
@@ -43,55 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "MLY vs OMAN - Abandon",
+      "title": "IND vs AFG - Preview",
       "team1": {
-        "name": "MLY",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "OMAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "MLY vs OMAN - Abandon",
+      "score": "IND vs AFG - Preview",
       "status": "Match Details"
     },
     {
-      "title": "NEP vs JPN - No Result",
+      "title": "PAK vs HKC - Preview",
       "team1": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "JPN",
+        "name": "HKC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NEP vs JPN - No Result",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nepal vs Japan 5th Match, Group A",
-      "team1": {
-        "name": "Nepal",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Japan 5th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nepal vs Japan 5th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Malaysia vs Oman 6th Match, Group B",
-      "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Oman 6th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Malaysia vs Oman 6th Match, Group B",
+      "score": "PAK vs HKC - Preview",
       "status": "Match Details"
     },
     {
@@ -108,29 +82,42 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs West Indies 1st ODI",
+      "title": "India vs Afghanistan 2nd Quarter-Final",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "West Indies 1st ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Afghanistan 2nd Quarter",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "India vs West Indies 1st ODI",
+      "score": "India vs Afghanistan 2nd Quarter-Final",
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia 2nd ODI",
+      "title": "West Indies vs India 1st ODI",
+      "team1": {
+        "name": "West Indies",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "India 1st ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "West Indies vs India 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa vs Australia LIVE 2nd ODI",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia 2nd ODI",
+        "name": "Australia LIVE 2nd ODI",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia 2nd ODI",
+      "score": "South Africa vs Australia LIVE 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -173,6 +160,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Bahamas vs Bermuda Qualifier",
+      "team1": {
+        "name": "Bahamas",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bermuda Qualifier",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahamas vs Bermuda Qualifier",
+      "status": "Match Details"
+    },
+    {
       "title": "Bahamas vs Bermuda 6th Match",
       "team1": {
         "name": "Bahamas",
@@ -186,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Qualifier",
+      "title": "Cayman Islands vs Bermuda Final",
       "team1": {
-        "name": "TBC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Cayman Islands",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "TBC Qualifier",
+        "name": "Bermuda Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC Qualifier",
+      "score": "Cayman Islands vs Bermuda Final",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India U19 vs Australia U19 1st unofficial Test",
+      "title": "Australia U19 vs India U19 LIVE 1st unofficial Test",
       "team1": {
-        "name": "India U19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia U19 1st unofficial Test",
+        "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India U19 vs Australia U19 1st unofficial Test",
+      "team2": {
+        "name": "India U19 LIVE 1st unofficial Test",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Australia U19 vs India U19 LIVE 1st unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Leicestershire vs Warwickshire 66th Match",
+      "team1": {
+        "name": "Leicestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Warwickshire 66th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "Leicestershire vs Warwickshire 66th Match",
       "status": "Match Details"
     },
     {
@@ -316,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Leicestershire vs Warwickshire 66th Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire 66th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Leicestershire vs Warwickshire 66th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Gloucestershire vs Kent 53rd Match",
       "team1": {
         "name": "Gloucestershire",
@@ -381,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs West Indies Women 2nd ODI",
+      "title": "West Indies Women vs Zimbabwe Women LIVE 2nd ODI",
       "team1": {
-        "name": "Zimbabwe Women",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "West Indies Women 2nd ODI",
+        "name": "West Indies Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Zimbabwe Women vs West Indies Women 2nd ODI",
+      "team2": {
+        "name": "Zimbabwe Women LIVE 2nd ODI",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "West Indies Women vs Zimbabwe Women LIVE 2nd ODI",
       "status": "Match Details"
     }
   ]
