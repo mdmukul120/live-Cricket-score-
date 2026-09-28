@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-09-27 23:56:48 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-09-28 05:10:26 UTC",
+  "total_matches": 32,
   "matches": [
     {
-      "title": "PAK vs HKC - Abandon",
+      "title": "IND vs AFG - Abandon",
       "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "HKC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "PAK vs HKC - Abandon",
+      "score": "IND vs AFG - Abandon",
       "status": "Match Details"
     },
     {
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "IND vs AFG - Preview",
+      "title": "PAK vs HKC - Abandon",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "HKC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "IND vs AFG - Preview",
+      "score": "PAK vs HKC - Abandon",
       "status": "Match Details"
     },
     {
@@ -92,6 +92,32 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "India vs Afghanistan 2nd Quarter-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lanka vs Nepal 3rd Quarter-Final",
+      "team1": {
+        "name": "Sri Lanka",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Nepal 3rd Quarter",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sri Lanka vs Nepal 3rd Quarter-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bangladesh vs Malaysia 4th Quarter-Final",
+      "team1": {
+        "name": "Bangladesh",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "Malaysia 4th Quarter",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bangladesh vs Malaysia 4th Quarter-Final",
       "status": "Match Details"
     },
     {
@@ -212,16 +238,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia U19 vs India U19 1st unofficial Test",
+      "title": "India A vs Australia A 2nd unofficial Test",
+      "team1": {
+        "name": "India A",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia A 2nd unofficial Test",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India A vs Australia A 2nd unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia U19 vs India U19 LIVE 1st unofficial Test",
       "team1": {
         "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India U19 1st unofficial Test",
+        "name": "India U19 LIVE 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia U19 vs India U19 1st unofficial Test",
+      "score": "Australia U19 vs India U19 LIVE 1st unofficial Test",
       "status": "Match Details"
     },
     {
@@ -290,32 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Gloucestershire vs Kent 53rd Match",
-      "team1": {
-        "name": "Gloucestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Kent 53rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gloucestershire vs Kent 53rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northamptonshire vs Middlesex 54th Match",
-      "team1": {
-        "name": "Northamptonshire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Middlesex 54th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northamptonshire vs Middlesex 54th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Worcestershire vs Derbyshire 55th Match",
       "team1": {
         "name": "Worcestershire",
@@ -342,6 +355,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Gloucestershire vs Kent 53rd Match",
+      "team1": {
+        "name": "Gloucestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Kent 53rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gloucestershire vs Kent 53rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northamptonshire vs Middlesex 54th Match",
+      "team1": {
+        "name": "Northamptonshire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Middlesex 54th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northamptonshire vs Middlesex 54th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "India A Women vs Australia A Women Only unofficial Test",
+      "team1": {
+        "name": "India A Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia A Women Only unofficial Test",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India A Women vs Australia A Women Only unofficial Test",
+      "status": "Match Details"
+    },
+    {
       "title": "West Indies Women vs Zimbabwe Women 2nd ODI",
       "team1": {
         "name": "West Indies Women",
@@ -355,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pool B • Cape Town, Newlands Knights KNG 168-7 (20) Western Province WPR 169-5 (19.4) Western Province won by 5 wkts",
+      "title": "Final • George Town, Jimmy Powell Oval Bermuda BER 101-9 (15) Cayman Islands CAYM 59 (15) Bermuda won by 42 runs",
       "team1": {
-        "name": "Pool B • Cape Town, Newlands Knights KNG 168",
+        "name": "Final • George Town, Jimmy Powell Oval Bermuda BER 101",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) Western Province WPR 169",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "9 (15) Cayman Islands CAYM 59 (15) Bermuda won by 42 runs",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pool B • Cape Town, Newlands Knights KNG 168-7 (20) Western Province WPR 169-5 (19.4) Western Province won by 5 wkts",
+      "score": "Final • George Town, Jimmy Powell Oval Bermuda BER 101-9 (15) Cayman Islands CAYM 59 (15) Bermuda won by 42 runs",
       "status": "Match Details"
     }
   ]
