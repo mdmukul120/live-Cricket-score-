@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-09-28 05:10:26 UTC",
+  "last_updated": "2026-09-28 11:43:07 UTC",
   "total_matches": 32,
   "matches": [
     {
@@ -238,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "South Africa Emerging Players vs KwaZulu-Natal Inland Tuskers Pool B",
+      "team1": {
+        "name": "South Africa Emerging Players",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Africa Emerging Players vs KwaZulu-Natal Inland Tuskers Pool B",
+      "status": "Match Details"
+    },
+    {
       "title": "India A vs Australia A 2nd unofficial Test",
       "team1": {
         "name": "India A",
@@ -251,29 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia U19 vs India U19 LIVE 1st unofficial Test",
+      "title": "Australia U19 vs India U19 1st unofficial Test",
       "team1": {
         "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India U19 LIVE 1st unofficial Test",
+        "name": "India U19 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia U19 vs India U19 LIVE 1st unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Leicestershire vs Warwickshire 66th Match",
-      "team1": {
-        "name": "Leicestershire",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Warwickshire 66th Match",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "Leicestershire vs Warwickshire 66th Match",
+      "score": "Australia U19 vs India U19 1st unofficial Test",
       "status": "Match Details"
     },
     {
@@ -329,29 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Worcestershire vs Derbyshire 55th Match",
+      "title": "Leicestershire vs Warwickshire 66th Match",
       "team1": {
-        "name": "Worcestershire",
+        "name": "Leicestershire",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Derbyshire 55th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Warwickshire 66th Match",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "Worcestershire vs Derbyshire 55th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Durham vs Lancashire 56th Match",
-      "team1": {
-        "name": "Durham",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lancashire 56th Match",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Durham vs Lancashire 56th Match",
+      "score": "Leicestershire vs Warwickshire 66th Match",
       "status": "Match Details"
     },
     {
@@ -381,6 +368,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Worcestershire vs Derbyshire 55th Match",
+      "team1": {
+        "name": "Worcestershire",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "team2": {
+        "name": "Derbyshire 55th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Worcestershire vs Derbyshire 55th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Durham vs Lancashire 56th Match",
+      "team1": {
+        "name": "Durham",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lancashire 56th Match",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Durham vs Lancashire 56th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "India A Women vs Australia A Women Only unofficial Test",
       "team1": {
         "name": "India A Women",
@@ -404,19 +417,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "West Indies Women vs Zimbabwe Women 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • George Town, Jimmy Powell Oval Bermuda BER 101-9 (15) Cayman Islands CAYM 59 (15) Bermuda won by 42 runs",
-      "team1": {
-        "name": "Final • George Town, Jimmy Powell Oval Bermuda BER 101",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (15) Cayman Islands CAYM 59 (15) Bermuda won by 42 runs",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Final • George Town, Jimmy Powell Oval Bermuda BER 101-9 (15) Cayman Islands CAYM 59 (15) Bermuda won by 42 runs",
       "status": "Match Details"
     }
   ]
