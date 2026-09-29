@@ -1,49 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-09-29 02:43:11 UTC",
+  "last_updated": "2026-09-29 09:05:54 UTC",
   "total_matches": 16,
   "matches": [
     {
-      "title": "INDA vs AUSA - Preview",
+      "title": "AUSA vs INDA - AUSA opt to bat",
       "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDA vs AUSA - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "BAN vs MLY - Preview",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
       "team2": {
-        "name": "MLY",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BAN vs MLY - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUSU19 vs INDU19 - Stumps",
-      "team1": {
-        "name": "AUSU19",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDU19",
+        "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUSU19 vs INDU19 - Stumps",
+      "score": "AUSA vs INDA - AUSA opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "INDWA vs AUSWA - Preview",
+      "title": "INDWA vs AUSWA - INDWA opt to bat",
       "team1": {
         "name": "INDWA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -52,7 +26,33 @@
         "name": "AUSWA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDWA vs AUSWA - Preview",
+      "score": "INDWA vs AUSWA - INDWA opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSU19 vs INDU19 - Tea",
+      "team1": {
+        "name": "AUSU19",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSU19 vs INDU19 - Tea",
+      "status": "Match Details"
+    },
+    {
+      "title": "IND vs WI - Preview",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "IND vs WI - Preview",
       "status": "Match Details"
     },
     {
@@ -66,32 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "SL vs NEP - Abandon",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan vs Hong Kong, China 1st Quarter-Final",
-      "team1": {
-        "name": "Pakistan",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Hong Kong, China 1st Quarter",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pakistan vs Hong Kong, China 1st Quarter-Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "India vs Afghanistan 2nd Quarter-Final",
-      "team1": {
-        "name": "India",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Afghanistan 2nd Quarter",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "India vs Afghanistan 2nd Quarter-Final",
       "status": "Match Details"
     },
     {
@@ -118,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh vs Malaysia 4th Quarter-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "India vs West Indies 2nd ODI",
+      "team1": {
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "West Indies 2nd ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "India vs West Indies 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -173,42 +160,55 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A 2nd unofficial Test",
+      "title": "Australia A vs India A LIVE 2nd unofficial Test",
       "team1": {
-        "name": "India A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia A 2nd unofficial Test",
+        "name": "Australia A",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A vs Australia A 2nd unofficial Test",
+      "team2": {
+        "name": "India A LIVE 2nd unofficial Test",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Australia A vs India A LIVE 2nd unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "Australia U19 vs India U19 1st unofficial Test",
+      "title": "Australia U19 vs India U19 LIVE 1st unofficial Test",
       "team1": {
         "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India U19 1st unofficial Test",
+        "name": "India U19 LIVE 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia U19 vs India U19 1st unofficial Test",
+      "score": "Australia U19 vs India U19 LIVE 1st unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women Only unofficial Test",
+      "title": "India A Women vs Australia A Women LIVE Only unofficial Test",
       "team1": {
         "name": "India A Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A Women Only unofficial Test",
+        "name": "Australia A Women LIVE Only unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women Only unofficial Test",
+      "score": "India A Women vs Australia A Women LIVE Only unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe Women vs West Indies Women 3rd ODI",
+      "team1": {
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "West Indies Women 3rd ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Zimbabwe Women vs West Indies Women 3rd ODI",
       "status": "Match Details"
     }
   ]
