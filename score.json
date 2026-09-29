@@ -1,71 +1,71 @@
 {
   "status": "success",
-  "last_updated": "2026-09-28 23:33:56 UTC",
+  "last_updated": "2026-09-29 02:43:11 UTC",
   "total_matches": 16,
   "matches": [
     {
-      "title": "IND vs AFG - Abandon",
+      "title": "INDA vs AUSA - Preview",
       "team1": {
-        "name": "IND",
+        "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "IND vs AFG - Abandon",
-      "status": "Match Details"
-    },
-    {
-      "title": "WI vs IND - IND won",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "WI vs IND - IND won",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs HKC - Abandon",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "HKC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PAK vs HKC - Abandon",
-      "status": "Match Details"
-    },
-    {
-      "title": "RSA vs AUS - RSA won",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "AUS",
+        "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - RSA won",
+      "score": "INDA vs AUSA - Preview",
       "status": "Match Details"
     },
     {
-      "title": "ENG vs SL - ENG won",
+      "title": "BAN vs MLY - Preview",
       "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
+        "name": "MLY",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BAN vs MLY - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSU19 vs INDU19 - Stumps",
+      "team1": {
+        "name": "AUSU19",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSU19 vs INDU19 - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDWA vs AUSWA - Preview",
+      "team1": {
+        "name": "INDWA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSWA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDWA vs AUSWA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "SL vs NEP - Abandon",
+      "team1": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ENG vs SL - ENG won",
+      "team2": {
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SL vs NEP - Abandon",
       "status": "Match Details"
     },
     {
