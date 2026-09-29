@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-09-29 15:47:35 UTC",
-  "total_matches": 16,
+  "last_updated": "2026-09-29 20:15:51 UTC",
+  "total_matches": 18,
   "matches": [
     {
       "title": "IND vs WI - Preview",
@@ -147,16 +147,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Boland vs Knights Pool B",
+      "title": "Knights vs Boland Pool B",
       "team1": {
-        "name": "Boland",
+        "name": "Knights",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Knights Pool B",
+        "name": "Boland Pool B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Boland vs Knights Pool B",
+      "score": "Knights vs Boland Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Dolphins vs Northern Cape Pool A",
+      "team1": {
+        "name": "Dolphins",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Cape Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Dolphins vs Northern Cape Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Eastern Storm vs Mpumalanga Rhinos Pool B",
+      "team1": {
+        "name": "Eastern Storm",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mpumalanga Rhinos Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Eastern Storm vs Mpumalanga Rhinos Pool B",
       "status": "Match Details"
     },
     {
