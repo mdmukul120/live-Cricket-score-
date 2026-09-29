@@ -1,47 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-09-29 09:05:54 UTC",
+  "last_updated": "2026-09-29 15:47:35 UTC",
   "total_matches": 16,
   "matches": [
-    {
-      "title": "AUSA vs INDA - AUSA opt to bat",
-      "team1": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSA vs INDA - AUSA opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDWA vs AUSWA - INDWA opt to bat",
-      "team1": {
-        "name": "INDWA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSWA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDWA vs AUSWA - INDWA opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUSU19 vs INDU19 - Tea",
-      "team1": {
-        "name": "AUSU19",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSU19 vs INDU19 - Tea",
-      "status": "Match Details"
-    },
     {
       "title": "IND vs WI - Preview",
       "team1": {
@@ -56,16 +17,55 @@
       "status": "Match Details"
     },
     {
-      "title": "SL vs NEP - Abandon",
+      "title": "AUSA vs INDA - Stumps",
       "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "SL vs NEP - Abandon",
+      "score": "AUSA vs INDA - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDWA vs AUSWA - Stumps",
+      "team1": {
+        "name": "INDWA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSWA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDWA vs AUSWA - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs AUS - Preview",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSU19 vs INDU19 - INDU19 won",
+      "team1": {
+        "name": "AUSU19",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSU19 vs INDU19 - INDU19 won",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Border vs North West - Eastvaal Renault Dragons Pool A",
+      "title": "South Africa vs Australia 3rd ODI",
       "team1": {
-        "name": "Border",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Australia 3rd ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Border vs North West - Eastvaal Renault Dragons Pool A",
+      "score": "South Africa vs Australia 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -160,42 +160,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia A vs India A LIVE 2nd unofficial Test",
+      "title": "Australia A vs India A 2nd unofficial Test",
       "team1": {
         "name": "Australia A",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India A LIVE 2nd unofficial Test",
+        "name": "India A 2nd unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia A vs India A LIVE 2nd unofficial Test",
+      "score": "Australia A vs India A 2nd unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "Australia U19 vs India U19 LIVE 1st unofficial Test",
+      "title": "Australia U19 vs India U19 1st unofficial Test",
       "team1": {
         "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India U19 LIVE 1st unofficial Test",
+        "name": "India U19 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia U19 vs India U19 LIVE 1st unofficial Test",
+      "score": "Australia U19 vs India U19 1st unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women LIVE Only unofficial Test",
+      "title": "India A Women vs Australia A Women Only unofficial Test",
       "team1": {
         "name": "India A Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A Women LIVE Only unofficial Test",
+        "name": "Australia A Women Only unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women LIVE Only unofficial Test",
+      "score": "India A Women vs Australia A Women Only unofficial Test",
       "status": "Match Details"
     },
     {
