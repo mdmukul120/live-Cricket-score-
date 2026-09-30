@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-30 15:50:14 UTC",
+  "last_updated": "2026-09-30 20:24:47 UTC",
   "total_matches": 19,
   "matches": [
     {
-      "title": "WI vs IND - Need 86 to win",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "WI vs IND - Need 86 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs RSA - RSA opt to bowl",
+      "title": "AUS vs RSA - AUS won",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,20 +13,33 @@
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "AUS vs RSA - RSA opt to bowl",
+      "score": "AUS vs RSA - AUS won",
       "status": "Match Details"
     },
     {
-      "title": "AUSA vs INDA - Stumps",
+      "title": "WI vs IND - IND won",
       "team1": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "INDA",
+        "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUSA vs INDA - Stumps",
+      "score": "WI vs IND - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs BAN - Preview",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "PAK vs BAN - Preview",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "PAK vs BAN - Preview",
+      "title": "JK vs ROI - Preview",
       "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "JK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "ROI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PAK vs BAN - Preview",
+      "score": "JK vs ROI - Preview",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs India LIVE 2nd ODI",
+      "title": "West Indies vs India 2nd ODI",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "India LIVE 2nd ODI",
+        "name": "India 2nd ODI",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "West Indies vs India LIVE 2nd ODI",
+      "score": "West Indies vs India 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -118,19 +118,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Australia vs South Africa 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Knights vs Boland Pool B",
-      "team1": {
-        "name": "Knights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Boland Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Knights vs Boland Pool B",
       "status": "Match Details"
     },
     {
@@ -238,16 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd ODI • Harare, Harare Sports Club West Indies Women WIW 271-5 (50) Zimbabwe Women ZIMW 180 (47.3) West Indies Women won by 91 runs",
+      "title": "2nd ODI • Guwahati, Barsapara Cricket Stadium West Indies WI 405-7 (50) India IND 406-2 (43.3) India won by 8 wkts",
       "team1": {
-        "name": "3rd ODI • Harare, Harare Sports Club West Indies Women WIW 271",
+        "name": "2nd ODI • Guwahati, Barsapara Cricket Stadium West Indies WI 405",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "5 (50) Zimbabwe Women ZIMW 180 (47.3) West Indies Women won by 91 runs",
+        "name": "7 (50) India IND 406",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "3rd ODI • Harare, Harare Sports Club West Indies Women WIW 271-5 (50) Zimbabwe Women ZIMW 180 (47.3) West Indies Women won by 91 runs",
+      "score": "2nd ODI • Guwahati, Barsapara Cricket Stadium West Indies WI 405-7 (50) India IND 406-2 (43.3) India won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd ODI • Potchefstroom, Senwes Park Australia AUS 322-9 (50) South Africa RSA 145-4 (28) Australia won by 45 runs (DLS Method due to rain)",
+      "team1": {
+        "name": "3rd ODI • Potchefstroom, Senwes Park Australia AUS 322",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "9 (50) South Africa RSA 145",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "3rd ODI • Potchefstroom, Senwes Park Australia AUS 322-9 (50) South Africa RSA 145-4 (28) Australia won by 45 runs (DLS Method due to rain)",
       "status": "Match Details"
     }
   ]
