@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-09-30 08:57:07 UTC",
-  "total_matches": 21,
+  "last_updated": "2026-09-30 15:50:14 UTC",
+  "total_matches": 19,
   "matches": [
     {
-      "title": "WI vs IND - IND opt to bowl",
+      "title": "WI vs IND - Need 86 to win",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,11 +13,24 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "WI vs IND - IND opt to bowl",
+      "score": "WI vs IND - Need 86 to win",
       "status": "Match Details"
     },
     {
-      "title": "AUSA vs INDA - Tea",
+      "title": "AUS vs RSA - RSA opt to bowl",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "AUS vs RSA - RSA opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSA vs INDA - Stumps",
       "team1": {
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,33 +39,7 @@
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUSA vs INDA - Tea",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDWA vs AUSWA - Tea",
-      "team1": {
-        "name": "INDWA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSWA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDWA vs AUSWA - Tea",
-      "status": "Match Details"
-    },
-    {
-      "title": "RSA vs AUS - Preview",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "RSA vs AUS - Preview",
+      "score": "AUSA vs INDA - Stumps",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs BAN - Preview",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "PAK vs BAN - Preview",
       "status": "Match Details"
     },
     {
@@ -108,42 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia 3rd ODI",
+      "title": "Australia vs South Africa 3rd ODI",
       "team1": {
-        "name": "South Africa",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Australia 3rd ODI",
+        "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa Emerging Players vs KwaZulu-Natal Inland Tuskers Pool B",
-      "team1": {
-        "name": "South Africa Emerging Players",
+      "team2": {
+        "name": "South Africa 3rd ODI",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "team2": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Africa Emerging Players vs KwaZulu-Natal Inland Tuskers Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warriors vs Limpopo Pool A",
-      "team1": {
-        "name": "Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Limpopo Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warriors vs Limpopo Pool A",
+      "score": "Australia vs South Africa 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -160,6 +134,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Dolphins vs Northern Cape Pool A",
+      "team1": {
+        "name": "Dolphins",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Cape Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Dolphins vs Northern Cape Pool A",
+      "status": "Match Details"
+    },
+    {
       "title": "Eastern Storm vs Mpumalanga Rhinos Pool B",
       "team1": {
         "name": "Eastern Storm",
@@ -173,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dolphins vs Northern Cape Pool A",
+      "title": "South Western Districts vs Border Pool A",
       "team1": {
-        "name": "Dolphins",
+        "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Cape Pool A",
+        "name": "Border Pool A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Dolphins vs Northern Cape Pool A",
+      "score": "South Western Districts vs Border Pool A",
       "status": "Match Details"
     },
     {
@@ -238,42 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies Women vs Zimbabwe Women LIVE 3rd ODI",
+      "title": "West Indies Women vs Zimbabwe Women 3rd ODI",
       "team1": {
         "name": "West Indies Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Zimbabwe Women LIVE 3rd ODI",
+        "name": "Zimbabwe Women 3rd ODI",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "West Indies Women vs Zimbabwe Women LIVE 3rd ODI",
+      "score": "West Indies Women vs Zimbabwe Women 3rd ODI",
       "status": "Match Details"
     },
     {
-      "title": "Pool B • Paarl, Boland Park Knights KNG 160-5 (20) Boland BOL 161-5 (20) Boland won by 5 wkts",
+      "title": "3rd ODI • Harare, Harare Sports Club West Indies Women WIW 271-5 (50) Zimbabwe Women ZIMW 180 (47.3) West Indies Women won by 91 runs",
       "team1": {
-        "name": "Pool B • Paarl, Boland Park Knights KNG 160",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "3rd ODI • Harare, Harare Sports Club West Indies Women WIW 271",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "5 (20) Boland BOL 161",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "5 (50) Zimbabwe Women ZIMW 180 (47.3) West Indies Women won by 91 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Pool B • Paarl, Boland Park Knights KNG 160-5 (20) Boland BOL 161-5 (20) Boland won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool A • Gqeberha, St George's Park Warriors WAR 175-4 (20) Limpopo LIMPO 140-8 (20) Warriors won by 35 runs",
-      "team1": {
-        "name": "Pool A • Gqeberha, St George's Park Warriors WAR 175",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (20) Limpopo LIMPO 140",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool A • Gqeberha, St George's Park Warriors WAR 175-4 (20) Limpopo LIMPO 140-8 (20) Warriors won by 35 runs",
+      "score": "3rd ODI • Harare, Harare Sports Club West Indies Women WIW 271-5 (50) Zimbabwe Women ZIMW 180 (47.3) West Indies Women won by 91 runs",
       "status": "Match Details"
     }
   ]
