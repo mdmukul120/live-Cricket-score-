@@ -1,19 +1,58 @@
 {
   "status": "success",
-  "last_updated": "2026-10-01 00:05:07 UTC",
-  "total_matches": 18,
+  "last_updated": "2026-10-01 05:45:58 UTC",
+  "total_matches": 19,
   "matches": [
     {
-      "title": "PAK vs BAN - Delay",
+      "title": "IND vs SL - SL opt to bowl",
       "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "IND vs SL - SL opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "ROI vs JK - JK opt to bowl",
+      "team1": {
+        "name": "ROI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ROI vs JK - JK opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "BAN vs PAK - PAK won",
+      "team1": {
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "PAK vs BAN - Delay",
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "BAN vs PAK - PAK won",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSA vs INDA - Innings Break",
+      "team1": {
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSA vs INDA - Innings Break",
       "status": "Match Details"
     },
     {
@@ -30,68 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "IND vs SL - Preview",
+      "title": "Bangladesh vs Pakistan 1st Semi-Final",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "IND vs SL - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs RSA - AUS won",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "AUS vs RSA - AUS won",
-      "status": "Match Details"
-    },
-    {
-      "title": "JK vs ROI - Preview",
-      "team1": {
-        "name": "JK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ROI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "JK vs ROI - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan vs Bangladesh 1st Semi-Final",
-      "team1": {
-        "name": "Pakistan",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Bangladesh 1st Semi",
+        "name": "Bangladesh",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Pakistan vs Bangladesh 1st Semi-Final",
+      "team2": {
+        "name": "Pakistan 1st Semi",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Bangladesh vs Pakistan 1st Semi-Final",
       "status": "Match Details"
     },
     {
-      "title": "India vs Sri Lanka 2nd Semi-Final",
+      "title": "India vs Sri Lanka LIVE 2nd Semi-Final",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka 2nd Semi",
+        "name": "Sri Lanka LIVE 2nd Semi",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India vs Sri Lanka 2nd Semi-Final",
+      "score": "India vs Sri Lanka LIVE 2nd Semi-Final",
       "status": "Match Details"
     },
     {
@@ -186,29 +186,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Jammu and Kashmir vs Rest of India Irani Cup",
+      "title": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
       "team1": {
-        "name": "Jammu and Kashmir",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Rest of India Irani Cup",
+        "name": "Rest of India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Jammu and Kashmir vs Rest of India Irani Cup",
+      "team2": {
+        "name": "Jammu and Kashmir LIVE Irani Cup",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
       "status": "Match Details"
     },
     {
-      "title": "India A Women vs Australia A Women Only unofficial Test",
+      "title": "India A Women vs Australia A Women LIVE Only unofficial Test",
       "team1": {
         "name": "India A Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Australia A Women Only unofficial Test",
+        "name": "Australia A Women LIVE Only unofficial Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A Women vs Australia A Women Only unofficial Test",
+      "score": "India A Women vs Australia A Women LIVE Only unofficial Test",
       "status": "Match Details"
     },
     {
@@ -225,16 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd ODI • Potchefstroom, Senwes Park Australia AUS 322-9 (50) South Africa RSA 145-4 (28) Australia won by 45 runs (DLS Method due to rain)",
+      "title": "1st Semi-Final • Nisshin, Korogi Sports Park Bangladesh BAN 111-7 (13) Pakistan PAK 112-4 (11.3) Pakistan won by 6 wkts (13 overs game due to rain)",
       "team1": {
-        "name": "3rd ODI • Potchefstroom, Senwes Park Australia AUS 322",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "1st Semi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (50) South Africa RSA 145",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Final • Nisshin, Korogi Sports Park Bangladesh BAN 111",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "3rd ODI • Potchefstroom, Senwes Park Australia AUS 322-9 (50) South Africa RSA 145-4 (28) Australia won by 45 runs (DLS Method due to rain)",
+      "score": "1st Semi-Final • Nisshin, Korogi Sports Park Bangladesh BAN 111-7 (13) Pakistan PAK 112-4 (11.3) Pakistan won by 6 wkts (13 overs game due to rain)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool A • Durban, Kingsmead Dolphins DOL 239-5 (20) Northern Cape NCAPE 135 (16.4) Dolphins won by 104 runs",
+      "team1": {
+        "name": "Pool A • Durban, Kingsmead Dolphins DOL 239",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "5 (20) Northern Cape NCAPE 135 (16.4) Dolphins won by 104 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool A • Durban, Kingsmead Dolphins DOL 239-5 (20) Northern Cape NCAPE 135 (16.4) Dolphins won by 104 runs",
       "status": "Match Details"
     }
   ]
