@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-09-30 20:24:47 UTC",
-  "total_matches": 19,
+  "last_updated": "2026-10-01 00:05:07 UTC",
+  "total_matches": 18,
   "matches": [
     {
-      "title": "AUS vs RSA - AUS won",
+      "title": "PAK vs BAN - Delay",
       "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUS vs RSA - AUS won",
+      "score": "PAK vs BAN - Delay",
       "status": "Match Details"
     },
     {
@@ -30,19 +30,6 @@
       "status": "Match Details"
     },
     {
-      "title": "PAK vs BAN - Preview",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "PAK vs BAN - Preview",
-      "status": "Match Details"
-    },
-    {
       "title": "IND vs SL - Preview",
       "team1": {
         "name": "IND",
@@ -53,6 +40,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUS vs RSA - AUS won",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "AUS vs RSA - AUS won",
       "status": "Match Details"
     },
     {
@@ -222,19 +222,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "West Indies Women vs Zimbabwe Women 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd ODI • Guwahati, Barsapara Cricket Stadium West Indies WI 405-7 (50) India IND 406-2 (43.3) India won by 8 wkts",
-      "team1": {
-        "name": "2nd ODI • Guwahati, Barsapara Cricket Stadium West Indies WI 405",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (50) India IND 406",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "2nd ODI • Guwahati, Barsapara Cricket Stadium West Indies WI 405-7 (50) India IND 406-2 (43.3) India won by 8 wkts",
       "status": "Match Details"
     },
     {
