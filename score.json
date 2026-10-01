@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-01 11:51:13 UTC",
-  "total_matches": 19,
+  "last_updated": "2026-10-01 17:51:34 UTC",
+  "total_matches": 18,
   "matches": [
     {
       "title": "ROI vs JK - Stumps",
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs India 2nd ODI",
-      "team1": {
-        "name": "West Indies",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "India 2nd ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "West Indies vs India 2nd ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Australia vs South Africa 3rd ODI",
       "team1": {
         "name": "Australia",
@@ -173,16 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia A vs India A 2nd unofficial Test",
+      "title": "Knights vs Titans Pool B",
       "team1": {
-        "name": "Australia A",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Knights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "India A 2nd unofficial Test",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Titans Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Australia A vs India A 2nd unofficial Test",
+      "score": "Knights vs Titans Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lions vs North West - Eastvaal Renault Dragons Pool A",
+      "team1": {
+        "name": "Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lions vs North West - Eastvaal Renault Dragons Pool A",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies Women vs Zimbabwe Women 3rd ODI",
+      "title": "Australia A vs India A 2nd unofficial Test",
       "team1": {
-        "name": "West Indies Women",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Australia A",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Zimbabwe Women 3rd ODI",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "India A 2nd unofficial Test",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "West Indies Women vs Zimbabwe Women 3rd ODI",
+      "score": "Australia A vs India A 2nd unofficial Test",
       "status": "Match Details"
     },
     {
@@ -225,29 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Semi-Final • Nisshin, Korogi Sports Park India IND 169-7 (20) Sri Lanka SL 45 (9.5) India won by 124 runs",
+      "title": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 182-4 (20) Border BOR 143-9 (20) South Western Districts won by 39 runs",
       "team1": {
-        "name": "2nd Semi",
+        "name": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 182",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Final • Nisshin, Korogi Sports Park India IND 169",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "2nd Semi-Final • Nisshin, Korogi Sports Park India IND 169-7 (20) Sri Lanka SL 45 (9.5) India won by 124 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Only unofficial Test • Dharamsala, Himachal Pradesh Cricket Association Stadium India A Women INDWA 364 & 257 Australia A Women AUSWA 176 & 164 India A Women won by 281 runs",
-      "team1": {
-        "name": "Only unofficial Test • Dharamsala, Himachal Pradesh Cricket Association Stadium India A Women INDWA 364 & 257 Australia A Women AUSWA 176 & 164 India A Women won by 281 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Team 2",
+        "name": "4 (20) Border BOR 143",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Only unofficial Test • Dharamsala, Himachal Pradesh Cricket Association Stadium India A Women INDWA 364 & 257 Australia A Women AUSWA 176 & 164 India A Women won by 281 runs",
+      "score": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 182-4 (20) Border BOR 143-9 (20) South Western Districts won by 39 runs",
       "status": "Match Details"
     }
   ]
