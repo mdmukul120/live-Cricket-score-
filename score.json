@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-02 01:42:53 UTC",
-  "total_matches": 16,
+  "last_updated": "2026-10-02 07:33:12 UTC",
+  "total_matches": 17,
   "matches": [
     {
-      "title": "ROI vs JK - Stumps",
+      "title": "ROI vs JK - Trail by 94",
       "team1": {
         "name": "ROI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,46 @@
         "name": "JK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ROI vs JK - Stumps",
+      "score": "ROI vs JK - Trail by 94",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSA vs INDA - Need 223 to win",
+      "team1": {
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSA vs INDA - Need 223 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs IND - Preview",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "PAK vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "BAN vs SL - Preview",
+      "team1": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "BAN vs SL - Preview",
       "status": "Match Details"
     },
     {
@@ -27,58 +66,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "IND vs SL - IND won",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUSA vs INDA - Stumps",
-      "team1": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSA vs INDA - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "WI vs IND - IND won",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "WI vs IND - IND won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BAN vs PAK - PAK won",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "BAN vs PAK - PAK won",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bangladesh vs Pakistan 1st Semi-Final",
-      "team1": {
-        "name": "Bangladesh",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "Pakistan 1st Semi",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Bangladesh vs Pakistan 1st Semi-Final",
       "status": "Match Details"
     },
     {
@@ -105,6 +92,19 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "Bangladesh vs Sri Lanka Bronze Medal Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan vs India Gold Medal Match",
+      "team1": {
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "India Gold Medal Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Pakistan vs India Gold Medal Match",
       "status": "Match Details"
     },
     {
@@ -173,29 +173,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "title": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
       "team1": {
         "name": "Rest of India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Jammu and Kashmir Irani Cup",
+        "name": "Jammu and Kashmir LIVE Irani Cup",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "score": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
       "status": "Match Details"
     },
     {
-      "title": "Australia A vs India A 2nd unofficial Test",
+      "title": "Australia A vs India A LIVE 2nd unofficial Test",
       "team1": {
         "name": "Australia A",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India A 2nd unofficial Test",
+        "name": "India A LIVE 2nd unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia A vs India A 2nd unofficial Test",
+      "score": "Australia A vs India A LIVE 2nd unofficial Test",
       "status": "Match Details"
     },
     {
@@ -209,6 +209,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "India A Women vs Australia A Women Only unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia Women vs Samoa Women 1st Match",
+      "team1": {
+        "name": "Malaysia Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Samoa Women 1st Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Malaysia Women vs Samoa Women 1st Match",
       "status": "Match Details"
     }
   ]
