@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-10-02 14:06:59 UTC",
-  "total_matches": 19,
+  "last_updated": "2026-10-02 19:16:57 UTC",
+  "total_matches": 21,
   "matches": [
-    {
-      "title": "ROI vs JK - Stumps",
-      "team1": {
-        "name": "ROI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ROI vs JK - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUSA vs INDA - Draw",
-      "team1": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSA vs INDA - Draw",
-      "status": "Match Details"
-    },
     {
       "title": "PAK vs IND - Preview",
       "team1": {
@@ -40,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "PAK vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ROI vs JK - Stumps",
+      "team1": {
+        "name": "ROI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ROI vs JK - Stumps",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "IND vs WI - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSA vs INDA - Draw",
+      "team1": {
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSA vs INDA - Draw",
       "status": "Match Details"
     },
     {
@@ -121,6 +121,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Namibia vs United Arab Emirates 128th Match",
+      "team1": {
+        "name": "Namibia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 128th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Namibia vs United Arab Emirates 128th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "India Champions vs Australia Champions 1st Match",
       "team1": {
         "name": "India Champions",
@@ -134,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Border Pool A",
+      "title": "Pakistan Champions vs Bangladesh Champions 2nd Match",
       "team1": {
-        "name": "South Western Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Pakistan Champions",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Border Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Bangladesh Champions 2nd Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "South Western Districts vs Border Pool A",
+      "score": "Pakistan Champions vs Bangladesh Champions 2nd Match",
       "status": "Match Details"
     },
     {
@@ -160,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Knights vs Titans Pool B",
+      "title": "Titans vs Knights Pool B",
       "team1": {
-        "name": "Knights",
+        "name": "Titans",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Titans Pool B",
+        "name": "Knights Pool B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Knights vs Titans Pool B",
+      "score": "Titans vs Knights Pool B",
       "status": "Match Details"
     },
     {
@@ -248,6 +261,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Malaysia Women vs Samoa Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool B • Mpumalanga, Uplands College, White River Mpumalanga Rhinos MPR 159-4 (20) KwaZulu-Natal Inland Tuskers KZNIN 142 (19.3) Mpumalanga Rhinos won by 17 runs",
+      "team1": {
+        "name": "Pool B • Mpumalanga, Uplands College, White River Mpumalanga Rhinos MPR 159",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Mpumalanga, Uplands College, White River Mpumalanga Rhinos MPR 159-4 (20) KwaZulu-Natal Inland Tuskers KZNIN 142 (19.3) Mpumalanga Rhinos won by 17 runs",
       "status": "Match Details"
     }
   ]
