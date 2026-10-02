@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-02 07:33:12 UTC",
-  "total_matches": 17,
+  "last_updated": "2026-10-02 14:06:59 UTC",
+  "total_matches": 19,
   "matches": [
     {
-      "title": "ROI vs JK - Trail by 94",
+      "title": "ROI vs JK - Stumps",
       "team1": {
         "name": "ROI",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,11 +13,11 @@
         "name": "JK",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ROI vs JK - Trail by 94",
+      "score": "ROI vs JK - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "AUSA vs INDA - Need 223 to win",
+      "title": "AUSA vs INDA - Draw",
       "team1": {
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,7 +26,7 @@
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUSA vs INDA - Need 223 to win",
+      "score": "AUSA vs INDA - Draw",
       "status": "Match Details"
     },
     {
@@ -56,29 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "IND vs SL - IND won",
+      "title": "IND vs WI - Preview",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs SL - IND won",
-      "status": "Match Details"
-    },
-    {
-      "title": "India vs Sri Lanka 2nd Semi-Final",
-      "team1": {
-        "name": "India",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Sri Lanka 2nd Semi",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "India vs Sri Lanka 2nd Semi-Final",
+      "score": "IND vs WI - Preview",
       "status": "Match Details"
     },
     {
@@ -108,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "India vs West Indies 3rd ODI",
+      "team1": {
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "West Indies 3rd ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "India vs West Indies 3rd ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "South Korea vs Indonesia 1st T20I",
       "team1": {
         "name": "South Korea",
@@ -118,6 +118,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "South Korea vs Indonesia 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "India Champions vs Australia Champions 1st Match",
+      "team1": {
+        "name": "India Champions",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia Champions 1st Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India Champions vs Australia Champions 1st Match",
       "status": "Match Details"
     },
     {
@@ -173,29 +186,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
+      "title": "Rest of India vs Jammu and Kashmir Irani Cup",
       "team1": {
         "name": "Rest of India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Jammu and Kashmir LIVE Irani Cup",
+        "name": "Jammu and Kashmir Irani Cup",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
+      "score": "Rest of India vs Jammu and Kashmir Irani Cup",
       "status": "Match Details"
     },
     {
-      "title": "Australia A vs India A LIVE 2nd unofficial Test",
+      "title": "Australia A vs India A 2nd unofficial Test",
       "team1": {
         "name": "Australia A",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India A LIVE 2nd unofficial Test",
+        "name": "India A 2nd unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia A vs India A LIVE 2nd unofficial Test",
+      "score": "Australia A vs India A 2nd unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe Women vs West Indies Women 1st T20I",
+      "team1": {
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "West Indies Women 1st T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Zimbabwe Women vs West Indies Women 1st T20I",
       "status": "Match Details"
     },
     {
