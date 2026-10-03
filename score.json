@@ -1,45 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-10-03 01:54:49 UTC",
-  "total_matches": 21,
+  "last_updated": "2026-10-03 07:47:36 UTC",
+  "total_matches": 24,
   "matches": [
     {
-      "title": "SL vs BAN - Need 166 to win",
+      "title": "IND vs PAK - Need 55 off 20b",
       "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "SL vs BAN - Need 166 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs IND - Preview",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "PAK vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "ROI vs JK - Stumps",
-      "team1": {
-        "name": "ROI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "JK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "ROI vs JK - Stumps",
+      "score": "IND vs PAK - Need 55 off 20b",
       "status": "Match Details"
     },
     {
@@ -56,6 +30,32 @@
       "status": "Match Details"
     },
     {
+      "title": "ROI vs JK - Lead by 89",
+      "team1": {
+        "name": "ROI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ROI vs JK - Lead by 89",
+      "status": "Match Details"
+    },
+    {
+      "title": "SL vs BAN - SL won",
+      "team1": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "SL vs BAN - SL won",
+      "status": "Match Details"
+    },
+    {
       "title": "AUSA vs INDA - Draw",
       "team1": {
         "name": "AUSA",
@@ -69,29 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs Bangladesh LIVE Bronze Medal Match",
+      "title": "Sri Lanka vs Bangladesh Bronze Medal Match",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Bangladesh LIVE Bronze Medal Match",
+        "name": "Bangladesh Bronze Medal Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Sri Lanka vs Bangladesh LIVE Bronze Medal Match",
+      "score": "Sri Lanka vs Bangladesh Bronze Medal Match",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs India Gold Medal Match",
+      "title": "India vs Pakistan LIVE Gold Medal Match",
       "team1": {
-        "name": "Pakistan",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "India Gold Medal Match",
+        "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Pakistan vs India Gold Medal Match",
+      "team2": {
+        "name": "Pakistan LIVE Gold Medal Match",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "India vs Pakistan LIVE Gold Medal Match",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Korea vs Indonesia 1st T20I",
+      "title": "Indonesia vs South Korea 1st T20I",
       "team1": {
-        "name": "South Korea",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Indonesia 1st T20I",
+        "name": "Indonesia",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "South Korea vs Indonesia 1st T20I",
+      "team2": {
+        "name": "South Korea 1st T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Indonesia vs South Korea 1st T20I",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "title": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
       "team1": {
         "name": "Rest of India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Jammu and Kashmir Irani Cup",
+        "name": "Jammu and Kashmir LIVE Irani Cup",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "score": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
       "status": "Match Details"
     },
     {
@@ -264,16 +264,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia Women vs Samoa Women 1st Match",
+      "title": "Samoa Women vs Malaysia Women 1st Match",
       "team1": {
-        "name": "Malaysia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Samoa Women 1st Match",
+        "name": "Samoa Women",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Malaysia Women vs Samoa Women 1st Match",
+      "team2": {
+        "name": "Malaysia Women 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Samoa Women vs Malaysia Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Indonesia Women vs Samoa Women 2nd Match",
+      "team1": {
+        "name": "Indonesia Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Samoa Women 2nd Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Indonesia Women vs Samoa Women 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bronze Medal Match • Nisshin, Korogi Sports Park Sri Lanka SL 165-9 (20) Bangladesh BAN 102 (17.3) Sri Lanka won by 63 runs",
+      "team1": {
+        "name": "Bronze Medal Match • Nisshin, Korogi Sports Park Sri Lanka SL 165",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "9 (20) Bangladesh BAN 102 (17.3) Sri Lanka won by 63 runs",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Bronze Medal Match • Nisshin, Korogi Sports Park Sri Lanka SL 165-9 (20) Bangladesh BAN 102 (17.3) Sri Lanka won by 63 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match • Kuala Lumpur, Selangor Turf Club Samoa Women WSMW 91-8 (20) Malaysia Women MLYW 95-2 (16.4) Malaysia Women won by 8 wkts",
+      "team1": {
+        "name": "1st Match • Kuala Lumpur, Selangor Turf Club Samoa Women WSMW 91",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "8 (20) Malaysia Women MLYW 95",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Kuala Lumpur, Selangor Turf Club Samoa Women WSMW 91-8 (20) Malaysia Women MLYW 95-2 (16.4) Malaysia Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
