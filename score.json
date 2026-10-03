@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-03 19:33:01 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-10-03 22:24:37 UTC",
+  "total_matches": 24,
   "matches": [
     {
       "title": "IND vs WI - WI won",
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "NAM vs UAE - Delay",
+      "title": "NAM vs UAE - No Result",
       "team1": {
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NAM vs UAE - Delay",
+      "score": "NAM vs UAE - No Result",
       "status": "Match Details"
     },
     {
@@ -313,19 +313,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "3rd ODI • New Chandigarh, PCA International Cricket Stadium, Ground A India IND 351-7 (50) West Indies WI 352-5 (48.2) West Indies won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196-7 (20) Australia Champions AUSCH 150 (16.2) India Champions won by 46 runs",
-      "team1": {
-        "name": "1st Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (20) Australia Champions AUSCH 150 (16.2) India Champions won by 46 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "1st Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196-7 (20) Australia Champions AUSCH 150 (16.2) India Champions won by 46 runs",
       "status": "Match Details"
     }
   ]
