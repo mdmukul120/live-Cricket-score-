@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-04 20:31:50 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-10-04 23:34:17 UTC",
+  "total_matches": 29,
   "matches": [
     {
       "title": "IND vs WI - WI won",
@@ -17,33 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "ENGCH vs INDCH - ENGCH won",
-      "team1": {
-        "name": "ENGCH",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "INDCH",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "ENGCH vs INDCH - ENGCH won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SACH vs WICH - SACH won",
-      "team1": {
-        "name": "SACH",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "WICH",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "SACH vs WICH - SACH won",
-      "status": "Match Details"
-    },
-    {
-      "title": "CSA Inv XI vs AUS - Draw",
+      "title": "CSA Inv XI vs AUS - Trail by 28",
       "team1": {
         "name": "CSA Inv XI",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -52,7 +26,20 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "CSA Inv XI vs AUS - Draw",
+      "score": "CSA Inv XI vs AUS - Trail by 28",
+      "status": "Match Details"
+    },
+    {
+      "title": "SACH vs WICH - Need 235 to win",
+      "team1": {
+        "name": "SACH",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "WICH",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "SACH vs WICH - Need 235 to win",
       "status": "Match Details"
     },
     {
@@ -69,16 +56,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Cricket South Africa Invitation XI vs Australia 2 Days Warm-Up Match",
+      "title": "IND vs PAK - IND won",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "IND vs PAK - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "India vs West Indies 3rd ODI",
+      "team1": {
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "West Indies 3rd ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "India vs West Indies 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Cricket South Africa Invitation XI vs Australia LIVE 2 Days Warm-Up Match",
       "team1": {
         "name": "Cricket South Africa Invitation XI",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia 2 Days Warm",
+        "name": "Australia LIVE 2 Days Warm",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Cricket South Africa Invitation XI vs Australia 2 Days Warm-Up Match",
+      "score": "Cricket South Africa Invitation XI vs Australia LIVE 2 Days Warm-Up Match",
       "status": "Match Details"
     },
     {
@@ -134,19 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "United States of America vs United Arab Emirates 129th Match",
-      "team1": {
-        "name": "United States of America",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates 129th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United States of America vs United Arab Emirates 129th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bhutan vs Myanmar 1st Match",
       "team1": {
         "name": "Bhutan",
@@ -186,29 +186,55 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Champions vs West Indies Champions 3rd Match",
+      "title": "India Champions vs Australia Champions 1st Match",
+      "team1": {
+        "name": "India Champions",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia Champions 1st Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India Champions vs Australia Champions 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan Champions vs Bangladesh Champions 2nd Match",
+      "team1": {
+        "name": "Pakistan Champions",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Bangladesh Champions 2nd Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Pakistan Champions vs Bangladesh Champions 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa Champions vs West Indies Champions LIVE 3rd Match",
       "team1": {
         "name": "South Africa Champions",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "West Indies Champions 3rd Match",
+        "name": "West Indies Champions LIVE 3rd Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "South Africa Champions vs West Indies Champions 3rd Match",
+      "score": "South Africa Champions vs West Indies Champions LIVE 3rd Match",
       "status": "Match Details"
     },
     {
-      "title": "England Champions vs India Champions 4th Match",
+      "title": "India Champions vs England Champions 4th Match",
       "team1": {
-        "name": "England Champions",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "India Champions 4th Match",
+        "name": "India Champions",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "England Champions vs India Champions 4th Match",
+      "team2": {
+        "name": "England Champions 4th Match",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "India Champions vs England Champions 4th Match",
       "status": "Match Details"
     },
     {
@@ -222,19 +248,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "Australia Champions vs Pakistan Champions 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bangladesh Champions vs England Champions 6th Match",
-      "team1": {
-        "name": "Bangladesh Champions",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "England Champions 6th Match",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Bangladesh Champions vs England Champions 6th Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Emerging Players vs Western Province Pool B",
+      "title": "Western Province vs South Africa Emerging Players Pool B",
       "team1": {
-        "name": "South Africa Emerging Players",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Western Province Pool B",
+        "name": "Western Province",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa Emerging Players vs Western Province Pool B",
+      "team2": {
+        "name": "South Africa Emerging Players Pool B",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Western Province vs South Africa Emerging Players Pool B",
       "status": "Match Details"
     },
     {
@@ -329,6 +342,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Zimbabwe Women vs West Indies Women 1st T20I",
+      "team1": {
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "West Indies Women 1st T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Zimbabwe Women vs West Indies Women 1st T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Zimbabwe Women vs West Indies Women 2nd T20I",
       "team1": {
         "name": "Zimbabwe Women",
@@ -342,55 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 192-4 (20) India Champions INDCH 171-8 (20) England Champions won by 21 runs",
+      "title": "Irani Cup • Srinagar, Sher-i-Kashmir Stadium Rest of India ROI 237 & 319 Jammu and Kashmir JK 278 & 111 Rest of India won by 167 runs",
       "team1": {
-        "name": "4th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 192",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "4 (20) India Champions INDCH 171",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "4th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 192-4 (20) India Champions INDCH 171-8 (20) England Champions won by 21 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 242-5 (20) West Indies Champions WICH 145 (18.2) South Africa Champions won by 97 runs",
-      "team1": {
-        "name": "3rd Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 242",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "5 (20) West Indies Champions WICH 145 (18.2) South Africa Champions won by 97 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "3rd Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 242-5 (20) West Indies Champions WICH 145 (18.2) South Africa Champions won by 97 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool A • Polokwane, Polokwane Cricket Club Limpopo LIMPO 91 (19.4) Dolphins DOL 95-3 (12.5) Dolphins won by 7 wkts",
-      "team1": {
-        "name": "Pool A • Polokwane, Polokwane Cricket Club Limpopo LIMPO 91 (19.4) Dolphins DOL 95",
+        "name": "Irani Cup • Srinagar, Sher",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (12.5) Dolphins won by 7 wkts",
+        "name": "i",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pool A • Polokwane, Polokwane Cricket Club Limpopo LIMPO 91 (19.4) Dolphins DOL 95-3 (12.5) Dolphins won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Pietermaritzburg, City Oval Boland BOL 187-5 (20) KwaZulu-Natal Inland Tuskers KZNIN 124 (19.1) Boland won by 63 runs",
-      "team1": {
-        "name": "Pool B • Pietermaritzburg, City Oval Boland BOL 187",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool B • Pietermaritzburg, City Oval Boland BOL 187-5 (20) KwaZulu-Natal Inland Tuskers KZNIN 124 (19.1) Boland won by 63 runs",
+      "score": "Irani Cup • Srinagar, Sher-i-Kashmir Stadium Rest of India ROI 237 & 319 Jammu and Kashmir JK 278 & 111 Rest of India won by 167 runs",
       "status": "Match Details"
     }
   ]
