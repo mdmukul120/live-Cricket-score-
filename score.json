@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-03 22:24:37 UTC",
-  "total_matches": 24,
+  "last_updated": "2026-10-04 01:53:29 UTC",
+  "total_matches": 26,
   "matches": [
     {
       "title": "IND vs WI - WI won",
@@ -147,6 +147,19 @@
       "status": "Match Details"
     },
     {
+      "title": "South Korea vs Indonesia 3rd T20I",
+      "team1": {
+        "name": "South Korea",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Indonesia 3rd T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "South Korea vs Indonesia 3rd T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Namibia vs United Arab Emirates 128th Match",
       "team1": {
         "name": "Namibia",
@@ -157,6 +170,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Namibia vs United Arab Emirates 128th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bhutan vs Myanmar 1st Match",
+      "team1": {
+        "name": "Bhutan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Myanmar 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bhutan vs Myanmar 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Thailand 2nd Match",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Thailand 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahrain vs Thailand 2nd Match",
       "status": "Match Details"
     },
     {
@@ -300,19 +339,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Samoa Women vs Malaysia Women 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd ODI • New Chandigarh, PCA International Cricket Stadium, Ground A India IND 351-7 (50) West Indies WI 352-5 (48.2) West Indies won by 5 wkts",
-      "team1": {
-        "name": "3rd ODI • New Chandigarh, PCA International Cricket Stadium, Ground A India IND 351",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (50) West Indies WI 352",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "3rd ODI • New Chandigarh, PCA International Cricket Stadium, Ground A India IND 351-7 (50) West Indies WI 352-5 (48.2) West Indies won by 5 wkts",
       "status": "Match Details"
     }
   ]
