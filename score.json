@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-10-04 07:49:11 UTC",
-  "total_matches": 27,
+  "last_updated": "2026-10-04 13:31:39 UTC",
+  "total_matches": 29,
   "matches": [
-    {
-      "title": "ROI vs JK - Need 176 to win",
-      "team1": {
-        "name": "ROI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ROI vs JK - Need 176 to win",
-      "status": "Match Details"
-    },
     {
       "title": "IND vs WI - WI won",
       "team1": {
@@ -27,6 +14,45 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "IND vs WI - WI won",
+      "status": "Match Details"
+    },
+    {
+      "title": "CSA Inv XI vs AUS - Trail by 45",
+      "team1": {
+        "name": "CSA Inv XI",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "CSA Inv XI vs AUS - Trail by 45",
+      "status": "Match Details"
+    },
+    {
+      "title": "SACH vs WICH - Innings Break",
+      "team1": {
+        "name": "SACH",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "WICH",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "SACH vs WICH - Innings Break",
+      "status": "Match Details"
+    },
+    {
+      "title": "ROI vs JK - ROI won",
+      "team1": {
+        "name": "ROI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ROI vs JK - ROI won",
       "status": "Match Details"
     },
     {
@@ -43,45 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "SL vs BAN - SL won",
-      "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "SL vs BAN - SL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SACH vs WICH - Preview",
-      "team1": {
-        "name": "SACH",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "WICH",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "SACH vs WICH - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "India vs Pakistan Gold Medal Match",
-      "team1": {
-        "name": "India",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Pakistan Gold Medal Match",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "India vs Pakistan Gold Medal Match",
-      "status": "Match Details"
-    },
-    {
       "title": "India vs West Indies 3rd ODI",
       "team1": {
         "name": "India",
@@ -95,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Cricket South Africa Invitation XI vs Australia 2 Days Warm-Up Match",
+      "title": "Cricket South Africa Invitation XI vs Australia LIVE 2 Days Warm-Up Match",
       "team1": {
         "name": "Cricket South Africa Invitation XI",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia 2 Days Warm",
+        "name": "Australia LIVE 2 Days Warm",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Cricket South Africa Invitation XI vs Australia 2 Days Warm-Up Match",
+      "score": "Cricket South Africa Invitation XI vs Australia LIVE 2 Days Warm-Up Match",
       "status": "Match Details"
     },
     {
@@ -251,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Australia Champions vs Pakistan Champions 5th Match",
+      "team1": {
+        "name": "Australia Champions",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Pakistan Champions 5th Match",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "Australia Champions vs Pakistan Champions 5th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Limpopo vs Dolphins Pool A",
       "team1": {
         "name": "Limpopo",
@@ -264,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "KwaZulu-Natal Inland Tuskers vs Boland Pool B",
+      "title": "Boland vs KwaZulu-Natal Inland Tuskers Pool B",
       "team1": {
-        "name": "KwaZulu",
+        "name": "Boland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Natal Inland Tuskers",
+        "name": "KwaZulu",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "KwaZulu-Natal Inland Tuskers vs Boland Pool B",
+      "score": "Boland vs KwaZulu-Natal Inland Tuskers Pool B",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
+      "title": "Limpopo vs South Western Districts Pool A",
+      "team1": {
+        "name": "Limpopo",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Western Districts Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Limpopo vs South Western Districts Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rest of India vs Jammu and Kashmir Irani Cup",
       "team1": {
         "name": "Rest of India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Jammu and Kashmir LIVE Irani Cup",
+        "name": "Jammu and Kashmir Irani Cup",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
+      "score": "Rest of India vs Jammu and Kashmir Irani Cup",
       "status": "Match Details"
     },
     {
@@ -342,16 +355,29 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 105-9 (20) South Korea SKR 110-1 (15) South Korea won by 9 wkts",
+      "title": "Zimbabwe Women vs West Indies Women 2nd T20I",
       "team1": {
-        "name": "2nd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 105",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Zimbabwe Women",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "9 (20) South Korea SKR 110",
+        "name": "West Indies Women 2nd T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Zimbabwe Women vs West Indies Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Irani Cup • Srinagar, Sher-i-Kashmir Stadium Rest of India ROI 237 & 319 Jammu and Kashmir JK 278 & 111 Rest of India won by 167 runs",
+      "team1": {
+        "name": "Irani Cup • Srinagar, Sher",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 105-9 (20) South Korea SKR 110-1 (15) South Korea won by 9 wkts",
+      "team2": {
+        "name": "i",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Irani Cup • Srinagar, Sher-i-Kashmir Stadium Rest of India ROI 237 & 319 Jammu and Kashmir JK 278 & 111 Rest of India won by 167 runs",
       "status": "Match Details"
     }
   ]
