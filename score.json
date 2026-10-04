@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-10-04 01:53:29 UTC",
-  "total_matches": 26,
+  "last_updated": "2026-10-04 07:49:11 UTC",
+  "total_matches": 27,
   "matches": [
+    {
+      "title": "ROI vs JK - Need 176 to win",
+      "team1": {
+        "name": "ROI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ROI vs JK - Need 176 to win",
+      "status": "Match Details"
+    },
     {
       "title": "IND vs WI - WI won",
       "team1": {
@@ -30,55 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "ROI vs JK - Stumps",
+      "title": "SL vs BAN - SL won",
       "team1": {
-        "name": "ROI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ROI vs JK - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDCH vs AUSCH - INDCH won",
-      "team1": {
-        "name": "INDCH",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSCH",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "INDCH vs AUSCH - INDCH won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NAM vs UAE - No Result",
-      "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NAM vs UAE - No Result",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sri Lanka vs Bangladesh Bronze Medal Match",
-      "team1": {
-        "name": "Sri Lanka",
+        "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Bangladesh Bronze Medal Match",
+        "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Sri Lanka vs Bangladesh Bronze Medal Match",
+      "score": "SL vs BAN - SL won",
+      "status": "Match Details"
+    },
+    {
+      "title": "SACH vs WICH - Preview",
+      "team1": {
+        "name": "SACH",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "WICH",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "SACH vs WICH - Preview",
       "status": "Match Details"
     },
     {
@@ -121,29 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Indonesia vs South Korea 1st T20I",
+      "title": "Indonesia vs South Korea 2nd T20I",
       "team1": {
         "name": "Indonesia",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "South Korea 1st T20I",
+        "name": "South Korea 2nd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Indonesia vs South Korea 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Korea vs Indonesia 2nd T20I",
-      "team1": {
-        "name": "South Korea",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Indonesia 2nd T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "South Korea vs Indonesia 2nd T20I",
+      "score": "Indonesia vs South Korea 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -157,6 +131,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "South Korea vs Indonesia 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Korea vs Indonesia 4th T20I",
+      "team1": {
+        "name": "South Korea",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Indonesia 4th T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "South Korea vs Indonesia 4th T20I",
       "status": "Match Details"
     },
     {
@@ -196,6 +183,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bahrain vs Thailand 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kuwait vs Qatar 3rd Match",
+      "team1": {
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Qatar 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kuwait vs Qatar 3rd Match",
       "status": "Match Details"
     },
     {
@@ -303,16 +303,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "title": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
       "team1": {
         "name": "Rest of India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Jammu and Kashmir Irani Cup",
+        "name": "Jammu and Kashmir LIVE Irani Cup",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "score": "Rest of India vs Jammu and Kashmir LIVE Irani Cup",
+      "status": "Match Details"
+    },
+    {
+      "title": "India U19 vs Australia U19 2nd unofficial Test",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia U19 2nd unofficial Test",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India U19 vs Australia U19 2nd unofficial Test",
       "status": "Match Details"
     },
     {
@@ -329,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Samoa Women vs Malaysia Women 1st Match",
+      "title": "2nd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 105-9 (20) South Korea SKR 110-1 (15) South Korea won by 9 wkts",
       "team1": {
-        "name": "Samoa Women",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "2nd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 105",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Malaysia Women 1st Match",
+        "name": "9 (20) South Korea SKR 110",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Samoa Women vs Malaysia Women 1st Match",
+      "score": "2nd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 105-9 (20) South Korea SKR 110-1 (15) South Korea won by 9 wkts",
       "status": "Match Details"
     }
   ]
