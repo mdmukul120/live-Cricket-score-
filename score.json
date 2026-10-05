@@ -1,49 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-05 09:27:54 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-10-05 18:47:12 UTC",
+  "total_matches": 27,
   "matches": [
     {
-      "title": "AUSU19 vs INDU19 - INDU19 opt to bowl",
-      "team1": {
-        "name": "AUSU19",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSU19 vs INDU19 - INDU19 opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIMW vs WIW - Preview",
-      "team1": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "WIW",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "ZIMW vs WIW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "USA vs UAE - Preview",
-      "team1": {
-        "name": "USA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "USA vs UAE - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "IND vs WI - WI won",
+      "title": "IND vs WI - Preview",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -52,33 +13,72 @@
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs WI - WI won",
+      "score": "IND vs WI - Preview",
       "status": "Match Details"
     },
     {
-      "title": "AUSCH vs PAKCH - Preview",
+      "title": "UAE vs USA - USA opt to bowl",
       "team1": {
-        "name": "AUSCH",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "UAE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "PAKCH",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "AUSCH vs PAKCH - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "Cricket South Africa Invitation XI vs Australia 2 Days Warm-Up Match",
-      "team1": {
-        "name": "Cricket South Africa Invitation XI",
+        "name": "USA",
         "flag": "https://flagcdn.com/w80/za.png"
       },
+      "score": "UAE vs USA - USA opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "BANCH vs ENGCH - Need 25 off 32b",
+      "team1": {
+        "name": "BANCH",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
       "team2": {
-        "name": "Australia 2 Days Warm",
+        "name": "ENGCH",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "BANCH vs ENGCH - Need 25 off 32b",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs AUSA - Preview",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Cricket South Africa Invitation XI vs Australia 2 Days Warm-Up Match",
+      "score": "INDA vs AUSA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSU19 vs INDU19 - Stumps",
+      "team1": {
+        "name": "AUSU19",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSU19 vs INDU19 - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "India vs West Indies 1st T20I",
+      "team1": {
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "West Indies 1st T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "India vs West Indies 1st T20I",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "United States of America vs United Arab Emirates 129th Match",
+      "title": "United Arab Emirates vs United States of America LIVE 129th Match",
       "team1": {
-        "name": "United States of America",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 129th Match",
+        "name": "United States of America LIVE 129th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United States of America vs United Arab Emirates 129th Match",
+      "score": "United Arab Emirates vs United States of America LIVE 129th Match",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs Qatar LIVE 3rd Match",
+      "title": "Kuwait vs Qatar 3rd Match",
       "team1": {
         "name": "Kuwait",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Qatar LIVE 3rd Match",
+        "name": "Qatar 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kuwait vs Qatar LIVE 3rd Match",
+      "score": "Kuwait vs Qatar 3rd Match",
       "status": "Match Details"
     },
     {
@@ -199,19 +199,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Champions vs West Indies Champions 3rd Match",
-      "team1": {
-        "name": "South Africa Champions",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "West Indies Champions 3rd Match",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "South Africa Champions vs West Indies Champions 3rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "England Champions vs India Champions 4th Match",
       "team1": {
         "name": "England Champions",
@@ -238,42 +225,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh Champions vs England Champions 6th Match",
+      "title": "Bangladesh Champions vs England Champions LIVE 6th Match",
       "team1": {
         "name": "Bangladesh Champions",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "England Champions 6th Match",
+        "name": "England Champions LIVE 6th Match",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Bangladesh Champions vs England Champions 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Boland vs KwaZulu-Natal Inland Tuskers Pool B",
-      "team1": {
-        "name": "Boland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Boland vs KwaZulu-Natal Inland Tuskers Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Limpopo vs Dolphins Pool A",
-      "team1": {
-        "name": "Limpopo",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dolphins Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Limpopo vs Dolphins Pool A",
+      "score": "Bangladesh Champions vs England Champions LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "title": "Western Province vs Eastern Storm Pool B",
       "team1": {
-        "name": "Rest of India",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Jammu and Kashmir Irani Cup",
+        "name": "Western Province",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "team2": {
+        "name": "Eastern Storm Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Province vs Eastern Storm Pool B",
       "status": "Match Details"
     },
     {
@@ -342,16 +303,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia U19 vs India U19 LIVE 2nd unofficial Test",
+      "title": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "team1": {
+        "name": "Rest of India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Jammu and Kashmir Irani Cup",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia U19 vs India U19 2nd unofficial Test",
       "team1": {
         "name": "Australia U19",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India U19 LIVE 2nd unofficial Test",
+        "name": "India U19 2nd unofficial Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia U19 vs India U19 LIVE 2nd unofficial Test",
+      "score": "Australia U19 vs India U19 2nd unofficial Test",
       "status": "Match Details"
     },
     {
@@ -368,55 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "4th T20I • Incheon, Yeonhui Cricket Ground South Korea SKR 172-7 (20) Indonesia IDN 130-8 (20) South Korea won by 42 runs",
+      "title": "Pool A • Polokwane, Polokwane Cricket Club Limpopo LIMPO 128-6 (20) South Western Districts SWD 131-5 (19.3) South Western Districts won by 5 wkts",
       "team1": {
-        "name": "4th T20I • Incheon, Yeonhui Cricket Ground South Korea SKR 172",
+        "name": "Pool A • Polokwane, Polokwane Cricket Club Limpopo LIMPO 128",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) Indonesia IDN 130",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "4th T20I • Incheon, Yeonhui Cricket Ground South Korea SKR 172-7 (20) Indonesia IDN 130-8 (20) South Korea won by 42 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 99 (20) South Korea SKR 102-2 (13.3) South Korea won by 8 wkts",
-      "team1": {
-        "name": "3rd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 99 (20) South Korea SKR 102",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "2 (13.3) South Korea won by 8 wkts",
+        "name": "6 (20) South Western Districts SWD 131",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd T20I • Incheon, Yeonhui Cricket Ground Indonesia IDN 99 (20) South Korea SKR 102-2 (13.3) South Korea won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Bangi, YSD-UKM Cricket Oval Bahrain BHR 104-6 (20) Thailand THAI 97-8 (20) Bahrain won by 7 runs",
-      "team1": {
-        "name": "2nd Match • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "UKM Cricket Oval Bahrain BHR 104",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Bangi, YSD-UKM Cricket Oval Bahrain BHR 104-6 (20) Thailand THAI 97-8 (20) Bahrain won by 7 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Kuala Lumpur, Bayuemas Oval Bhutan BTN 119-8 (20) Myanmar MMR 92-9 (20) Bhutan won by 27 runs",
-      "team1": {
-        "name": "1st Match • Kuala Lumpur, Bayuemas Oval Bhutan BTN 119",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Myanmar MMR 92",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Kuala Lumpur, Bayuemas Oval Bhutan BTN 119-8 (20) Myanmar MMR 92-9 (20) Bhutan won by 27 runs",
+      "score": "Pool A • Polokwane, Polokwane Cricket Club Limpopo LIMPO 128-6 (20) South Western Districts SWD 131-5 (19.3) South Western Districts won by 5 wkts",
       "status": "Match Details"
     }
   ]
