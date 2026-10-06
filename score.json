@@ -1,36 +1,36 @@
 {
   "status": "success",
-  "last_updated": "2026-10-06 06:42:49 UTC",
-  "total_matches": 22,
+  "last_updated": "2026-10-06 13:39:29 UTC",
+  "total_matches": 21,
   "matches": [
     {
-      "title": "IND vs WI - Preview",
+      "title": "WI vs IND - IND opt to bowl",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs WI - Preview",
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "WI vs IND - IND opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "INDA vs AUSA - Preview",
+      "title": "AUSA vs INDA - Need 227 to win",
       "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDA vs AUSA - Preview",
+      "team2": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSA vs INDA - Need 227 to win",
       "status": "Match Details"
     },
     {
-      "title": "AUSU19 vs INDU19 - Lunch",
+      "title": "AUSU19 vs INDU19 - Stumps",
       "team1": {
         "name": "AUSU19",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -39,7 +39,7 @@
         "name": "INDU19",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUSU19 vs INDU19 - Lunch",
+      "score": "AUSU19 vs INDU19 - Stumps",
       "status": "Match Details"
     },
     {
@@ -69,29 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs West Indies 1st T20I",
+      "title": "West Indies vs India LIVE 1st T20I",
       "team1": {
-        "name": "India",
+        "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "West Indies 1st T20I",
+        "name": "India LIVE 1st T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "India vs West Indies 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Korea vs Indonesia 4th T20I",
-      "team1": {
-        "name": "South Korea",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Indonesia 4th T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "South Korea vs Indonesia 4th T20I",
+      "score": "West Indies vs India LIVE 1st T20I",
       "status": "Match Details"
     },
     {
@@ -105,19 +92,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United Arab Emirates vs United States of America 129th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kuwait vs Qatar 3rd Match",
-      "team1": {
-        "name": "Kuwait",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kuwait vs Qatar 3rd Match",
       "status": "Match Details"
     },
     {
@@ -186,6 +160,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Australia Champions vs Bangladesh Champions 7th Match",
+      "team1": {
+        "name": "Australia Champions",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Bangladesh Champions 7th Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Australia Champions vs Bangladesh Champions 7th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Limpopo vs South Western Districts Pool A",
       "team1": {
         "name": "Limpopo",
@@ -212,29 +199,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A 1st unofficial ODI",
+      "title": "South Western Districts vs Lions Pool A",
       "team1": {
-        "name": "India A",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "South Western Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Australia A 1st unofficial ODI",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Lions Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "India A vs Australia A 1st unofficial ODI",
+      "score": "South Western Districts vs Lions Pool A",
       "status": "Match Details"
     },
     {
-      "title": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "title": "Australia A vs India A LIVE 1st unofficial ODI",
       "team1": {
-        "name": "Rest of India",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Australia A",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Jammu and Kashmir Irani Cup",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India A LIVE 1st unofficial ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Rest of India vs Jammu and Kashmir Irani Cup",
+      "score": "Australia A vs India A LIVE 1st unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -264,29 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs West Indies Women 2nd T20I",
+      "title": "Zimbabwe Women vs West Indies Women 3rd T20I",
       "team1": {
         "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "West Indies Women 2nd T20I",
+        "name": "West Indies Women 3rd T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Zimbabwe Women vs West Indies Women 2nd T20I",
+      "score": "Zimbabwe Women vs West Indies Women 3rd T20I",
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 76-9 (20) Qatar QAT 80-3 (12.3) Qatar won by 7 wkts",
+      "title": "5th Match • Bangi, YSD-UKM Cricket Oval Bahrain BHR 139-5 (20) Bhutan BTN 73 (18.4) Bahrain won by 66 runs",
       "team1": {
-        "name": "4th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 76",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "5th Match • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "9 (20) Qatar QAT 80",
+        "name": "UKM Cricket Oval Bahrain BHR 139",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "4th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 76-9 (20) Qatar QAT 80-3 (12.3) Qatar won by 7 wkts",
+      "score": "5th Match • Bangi, YSD-UKM Cricket Oval Bahrain BHR 139-5 (20) Bhutan BTN 73 (18.4) Bahrain won by 66 runs",
       "status": "Match Details"
     }
   ]
