@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-06 13:39:29 UTC",
-  "total_matches": 21,
+  "last_updated": "2026-10-06 19:06:24 UTC",
+  "total_matches": 23,
   "matches": [
     {
-      "title": "WI vs IND - IND opt to bowl",
+      "title": "WI vs IND - IND won",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -13,11 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "WI vs IND - IND opt to bowl",
+      "score": "WI vs IND - IND won",
       "status": "Match Details"
     },
     {
-      "title": "AUSA vs INDA - Need 227 to win",
+      "title": "AUSA vs INDA - AUSA won",
       "team1": {
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -26,7 +26,7 @@
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUSA vs INDA - Need 227 to win",
+      "score": "AUSA vs INDA - AUSA won",
       "status": "Match Details"
     },
     {
@@ -43,42 +43,42 @@
       "status": "Match Details"
     },
     {
-      "title": "UAE vs USA - USA won",
+      "title": "VIC vs SAUS - Preview",
       "team1": {
-        "name": "UAE",
+        "name": "VIC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "USA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "SAUS",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "UAE vs USA - USA won",
+      "score": "VIC vs SAUS - Preview",
       "status": "Match Details"
     },
     {
-      "title": "BANCH vs ENGCH - ENGCH won",
+      "title": "ZIMW vs WIW - Preview",
       "team1": {
-        "name": "BANCH",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "ENGCH",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "WIW",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "BANCH vs ENGCH - ENGCH won",
+      "score": "ZIMW vs WIW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs India LIVE 1st T20I",
+      "title": "West Indies vs India 1st T20I",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "India LIVE 1st T20I",
+        "name": "India 1st T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "West Indies vs India LIVE 1st T20I",
+      "score": "West Indies vs India 1st T20I",
       "status": "Match Details"
     },
     {
@@ -92,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United Arab Emirates vs United States of America 129th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "United States of America vs Namibia 130th Match",
+      "team1": {
+        "name": "United States of America",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Namibia 130th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United States of America vs Namibia 130th Match",
       "status": "Match Details"
     },
     {
@@ -134,32 +147,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia Champions vs Pakistan Champions 5th Match",
-      "team1": {
-        "name": "Australia Champions",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Pakistan Champions 5th Match",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Australia Champions vs Pakistan Champions 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bangladesh Champions vs England Champions 6th Match",
-      "team1": {
-        "name": "Bangladesh Champions",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "England Champions 6th Match",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Bangladesh Champions vs England Champions 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Australia Champions vs Bangladesh Champions 7th Match",
       "team1": {
         "name": "Australia Champions",
@@ -173,29 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Limpopo vs South Western Districts Pool A",
+      "title": "England Champions vs West Indies Champions 8th Match",
       "team1": {
-        "name": "Limpopo",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England Champions",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "South Western Districts Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "West Indies Champions 8th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Limpopo vs South Western Districts Pool A",
+      "score": "England Champions vs West Indies Champions 8th Match",
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs Eastern Storm Pool B",
+      "title": "Eastern Storm vs Western Province Pool B",
       "team1": {
-        "name": "Western Province",
+        "name": "Eastern Storm",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Eastern Storm Pool B",
+        "name": "Western Province Pool B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Province vs Eastern Storm Pool B",
+      "score": "Eastern Storm vs Western Province Pool B",
       "status": "Match Details"
     },
     {
@@ -212,16 +199,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia A vs India A LIVE 1st unofficial ODI",
+      "title": "Knights vs KwaZulu-Natal Inland Tuskers Pool B",
+      "team1": {
+        "name": "Knights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Knights vs KwaZulu-Natal Inland Tuskers Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Titans vs South Africa Emerging Players Pool B",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Africa Emerging Players Pool B",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Titans vs South Africa Emerging Players Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia A vs India A 1st unofficial ODI",
       "team1": {
         "name": "Australia A",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "India A LIVE 1st unofficial ODI",
+        "name": "India A 1st unofficial ODI",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia A vs India A LIVE 1st unofficial ODI",
+      "score": "Australia A vs India A 1st unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -264,16 +277,29 @@
       "status": "Match Details"
     },
     {
-      "title": "5th Match • Bangi, YSD-UKM Cricket Oval Bahrain BHR 139-5 (20) Bhutan BTN 73 (18.4) Bahrain won by 66 runs",
+      "title": "1st T20I • Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium West Indies WI 171 (19.1) India IND 172-2 (14.4) India won by 8 wkts",
       "team1": {
-        "name": "5th Match • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "1st T20I • Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium West Indies WI 171 (19.1) India IND 172",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "UKM Cricket Oval Bahrain BHR 139",
+        "name": "2 (14.4) India won by 8 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "1st T20I • Lucknow, Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium West Indies WI 171 (19.1) India IND 172-2 (14.4) India won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground Australia A AUSA 274 (48.2) India A INDA 149 (31.4) Australia A won by 125 runs",
+      "team1": {
+        "name": "1st unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground Australia A AUSA 274 (48.2) India A INDA 149 (31.4) Australia A won by 125 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "5th Match • Bangi, YSD-UKM Cricket Oval Bahrain BHR 139-5 (20) Bhutan BTN 73 (18.4) Bahrain won by 66 runs",
+      "score": "1st unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground Australia A AUSA 274 (48.2) India A INDA 149 (31.4) Australia A won by 125 runs",
       "status": "Match Details"
     }
   ]
