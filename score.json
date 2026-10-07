@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-07 16:15:33 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-10-07 21:22:38 UTC",
+  "total_matches": 25,
   "matches": [
     {
-      "title": "NAM vs USA - NAM opt to bat",
+      "title": "NAM vs USA - Need 88 off 93b",
       "team1": {
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,11 +13,11 @@
         "name": "USA",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "NAM vs USA - NAM opt to bat",
+      "score": "NAM vs USA - Need 88 off 93b",
       "status": "Match Details"
     },
     {
-      "title": "ENGCH vs WICH - WICH opt to bowl",
+      "title": "ENGCH vs WICH - WICH won",
       "team1": {
         "name": "ENGCH",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -26,7 +26,7 @@
         "name": "WICH",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "ENGCH vs WICH - WICH opt to bowl",
+      "score": "ENGCH vs WICH - WICH won",
       "status": "Match Details"
     },
     {
@@ -66,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "AUSU19 vs INDU19 - INDU19 won",
-      "status": "Match Details"
-    },
-    {
-      "title": "West Indies vs India 1st T20I",
-      "team1": {
-        "name": "West Indies",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "India 1st T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "West Indies vs India 1st T20I",
       "status": "Match Details"
     },
     {
@@ -186,29 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "England Champions vs West Indies Champions LIVE 8th Match",
+      "title": "England Champions vs West Indies Champions 8th Match",
       "team1": {
         "name": "England Champions",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "West Indies Champions LIVE 8th Match",
+        "name": "West Indies Champions 8th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "England Champions vs West Indies Champions LIVE 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Eastern Storm vs Western Province Pool B",
-      "team1": {
-        "name": "Eastern Storm",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Western Province Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Eastern Storm vs Western Province Pool B",
+      "score": "England Champions vs West Indies Champions 8th Match",
       "status": "Match Details"
     },
     {
@@ -277,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia A vs India A 1st unofficial ODI",
-      "team1": {
-        "name": "Australia A",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "India A 1st unofficial ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Australia A vs India A 1st unofficial ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Victoria vs South Australia 1st Match",
       "team1": {
         "name": "Victoria",
@@ -355,29 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "7th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 203-6 (20) Bangladesh Champions BANCH 166-6 (20) Australia Champions won by 37 runs",
+      "title": "8th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 154 (19.1) West Indies Champions WICH 156-3 (16.1) West Indies Champions won by 7 wkts",
       "team1": {
-        "name": "7th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 203",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "6 (20) Bangladesh Champions BANCH 166",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "7th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 203-6 (20) Bangladesh Champions BANCH 166-6 (20) Australia Champions won by 37 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd T20I • Harare, Takashinga Sports Club Zimbabwe Women ZIMW 142-6 (20) West Indies Women WIW 143-2 (17) West Indies Women won by 8 wkts",
-      "team1": {
-        "name": "3rd T20I • Harare, Takashinga Sports Club Zimbabwe Women ZIMW 142",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "6 (20) West Indies Women WIW 143",
+        "name": "8th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 154 (19.1) West Indies Champions WICH 156",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "3rd T20I • Harare, Takashinga Sports Club Zimbabwe Women ZIMW 142-6 (20) West Indies Women WIW 143-2 (17) West Indies Women won by 8 wkts",
+      "team2": {
+        "name": "3 (16.1) West Indies Champions won by 7 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "8th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 154 (19.1) West Indies Champions WICH 156-3 (16.1) West Indies Champions won by 7 wkts",
       "status": "Match Details"
     }
   ]
