@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-06 23:02:45 UTC",
-  "total_matches": 22,
+  "last_updated": "2026-10-07 02:18:27 UTC",
+  "total_matches": 24,
   "matches": [
     {
       "title": "WI vs IND - IND won",
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "VIC vs SAUS - Preview",
+      "title": "VIC vs SAUS - SAUS opt to bowl",
       "team1": {
         "name": "VIC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "SAUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "VIC vs SAUS - Preview",
+      "score": "VIC vs SAUS - SAUS opt to bowl",
       "status": "Match Details"
     },
     {
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "West Indies vs India 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Arab Emirates vs United States of America 129th Match",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United States of America 129th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs United States of America 129th Match",
       "status": "Match Details"
     },
     {
@@ -144,6 +131,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mongolia vs Kuwait 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kuwait vs Thailand 7th Match",
+      "team1": {
+        "name": "Kuwait",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Thailand 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kuwait vs Thailand 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bhutan vs Mongolia 8th Match",
+      "team1": {
+        "name": "Bhutan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mongolia 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bhutan vs Mongolia 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Myanmar 9th Match",
+      "team1": {
+        "name": "Bahrain",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Myanmar 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bahrain vs Myanmar 9th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +264,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs South Australia 1st Match",
+      "title": "Victoria vs South Australia LIVE 1st Match",
       "team1": {
         "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Australia 1st Match",
+        "name": "South Australia LIVE 1st Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Victoria vs South Australia 1st Match",
+      "score": "Victoria vs South Australia LIVE 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "New South Wales vs Tasmania 2nd Match",
+      "team1": {
+        "name": "New South Wales",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tasmania 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "New South Wales vs Tasmania 2nd Match",
       "status": "Match Details"
     },
     {
@@ -274,19 +313,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Zimbabwe Women vs West Indies Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Cape Town, Newlands Eastern Storm ESTORM 130-7 (20) Western Province WPR 134-1 (15.5) Western Province won by 9 wkts",
-      "team1": {
-        "name": "Pool B • Cape Town, Newlands Eastern Storm ESTORM 130",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Western Province WPR 134",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool B • Cape Town, Newlands Eastern Storm ESTORM 130-7 (20) Western Province WPR 134-1 (15.5) Western Province won by 9 wkts",
       "status": "Match Details"
     }
   ]
