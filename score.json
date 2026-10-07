@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-07 02:18:27 UTC",
-  "total_matches": 24,
+  "last_updated": "2026-10-07 08:55:38 UTC",
+  "total_matches": 28,
   "matches": [
     {
       "title": "WI vs IND - IND won",
@@ -14,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "WI vs IND - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSU19 vs INDU19 - INDU19 won",
+      "team1": {
+        "name": "AUSU19",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSU19 vs INDU19 - INDU19 won",
       "status": "Match Details"
     },
     {
@@ -30,20 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AUSU19 vs INDU19 - Stumps",
-      "team1": {
-        "name": "AUSU19",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSU19 vs INDU19 - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "VIC vs SAUS - SAUS opt to bowl",
+      "title": "VIC vs SAUS - Stumps",
       "team1": {
         "name": "VIC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "SAUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "VIC vs SAUS - SAUS opt to bowl",
+      "score": "VIC vs SAUS - Stumps",
       "status": "Match Details"
     },
     {
@@ -92,19 +92,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United States of America vs Namibia 130th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Thailand vs Qatar 4th Match",
-      "team1": {
-        "name": "Thailand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Thailand vs Qatar 4th Match",
       "status": "Match Details"
     },
     {
@@ -170,6 +157,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bahrain vs Myanmar 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Saudi Arabia vs Singapore 2nd Match",
+      "team1": {
+        "name": "Saudi Arabia",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Singapore 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saudi Arabia vs Singapore 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Hong Kong, China 3rd Match",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hong Kong, China 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malaysia vs Hong Kong, China 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "China vs Maldives 1st Match",
+      "team1": {
+        "name": "China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Maldives 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "China vs Maldives 1st Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs South Australia LIVE 1st Match",
+      "title": "Victoria vs South Australia 1st Match",
       "team1": {
         "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Australia LIVE 1st Match",
+        "name": "South Australia 1st Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Victoria vs South Australia LIVE 1st Match",
+      "score": "Victoria vs South Australia 1st Match",
       "status": "Match Details"
     },
     {
@@ -287,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "New South Wales vs Tasmania 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Australia vs Queensland 3rd Match",
+      "team1": {
+        "name": "Western Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Queensland 3rd Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Western Australia vs Queensland 3rd Match",
       "status": "Match Details"
     },
     {
@@ -313,6 +352,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Zimbabwe Women vs West Indies Women 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd unofficial Test • Ahmedabad, Narendra Modi Stadium B Ground Australia U19 AUSU19 174 & 151 India U19 INDU19 315 & 11-0 India U19 won by 10 wkts",
+      "team1": {
+        "name": "2nd unofficial Test • Ahmedabad, Narendra Modi Stadium B Ground Australia U19 AUSU19 174 & 151 India U19 INDU19 315 & 11",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "0 India U19 won by 10 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "2nd unofficial Test • Ahmedabad, Narendra Modi Stadium B Ground Australia U19 AUSU19 174 & 151 India U19 INDU19 315 & 11-0 India U19 won by 10 wkts",
       "status": "Match Details"
     }
   ]
