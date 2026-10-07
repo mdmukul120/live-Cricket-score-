@@ -1,8 +1,34 @@
 {
   "status": "success",
-  "last_updated": "2026-10-07 08:55:38 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-10-07 16:15:33 UTC",
+  "total_matches": 29,
   "matches": [
+    {
+      "title": "NAM vs USA - NAM opt to bat",
+      "team1": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "USA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "NAM vs USA - NAM opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENGCH vs WICH - WICH opt to bowl",
+      "team1": {
+        "name": "ENGCH",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "WICH",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "ENGCH vs WICH - WICH opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "WI vs IND - IND won",
       "team1": {
@@ -14,6 +40,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "WI vs IND - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSCH vs BANCH - AUSCH won",
+      "team1": {
+        "name": "AUSCH",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "BANCH",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AUSCH vs BANCH - AUSCH won",
       "status": "Match Details"
     },
     {
@@ -30,45 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "AUSA vs INDA - AUSA won",
-      "team1": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSA vs INDA - AUSA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "VIC vs SAUS - Stumps",
-      "team1": {
-        "name": "VIC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SAUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "VIC vs SAUS - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIMW vs WIW - Preview",
-      "team1": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "WIW",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "ZIMW vs WIW - Preview",
-      "status": "Match Details"
-    },
-    {
       "title": "West Indies vs India 1st T20I",
       "team1": {
         "name": "West Indies",
@@ -82,42 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "United States of America vs Namibia 130th Match",
+      "title": "Namibia vs United States of America LIVE 130th Match",
       "team1": {
-        "name": "United States of America",
+        "name": "Namibia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Namibia 130th Match",
+        "name": "United States of America LIVE 130th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United States of America vs Namibia 130th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bahrain vs Bhutan 5th Match",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bhutan 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahrain vs Bhutan 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mongolia vs Kuwait 6th Match",
-      "team1": {
-        "name": "Mongolia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kuwait 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mongolia vs Kuwait 6th Match",
+      "score": "Namibia vs United States of America LIVE 130th Match",
       "status": "Match Details"
     },
     {
@@ -160,6 +134,19 @@
       "status": "Match Details"
     },
     {
+      "title": "China vs Maldives 1st Match",
+      "team1": {
+        "name": "China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Maldives 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "China vs Maldives 1st Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Saudi Arabia vs Singapore 2nd Match",
       "team1": {
         "name": "Saudi Arabia",
@@ -186,19 +173,6 @@
       "status": "Match Details"
     },
     {
-      "title": "China vs Maldives 1st Match",
-      "team1": {
-        "name": "China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Maldives 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "China vs Maldives 1st Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Australia Champions vs Bangladesh Champions 7th Match",
       "team1": {
         "name": "Australia Champions",
@@ -212,16 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "England Champions vs West Indies Champions 8th Match",
+      "title": "England Champions vs West Indies Champions LIVE 8th Match",
       "team1": {
         "name": "England Champions",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "West Indies Champions 8th Match",
+        "name": "West Indies Champions LIVE 8th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "England Champions vs West Indies Champions 8th Match",
+      "score": "England Champions vs West Indies Champions LIVE 8th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Lions Pool A",
+      "title": "Lions vs South Western Districts Pool A",
       "team1": {
-        "name": "South Western Districts",
+        "name": "Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lions Pool A",
+        "name": "South Western Districts Pool A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Western Districts vs Lions Pool A",
+      "score": "Lions vs South Western Districts Pool A",
       "status": "Match Details"
     },
     {
@@ -264,16 +238,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Titans vs South Africa Emerging Players Pool B",
+      "title": "South Africa Emerging Players vs Titans Pool B",
       "team1": {
-        "name": "Titans",
+        "name": "South Africa Emerging Players",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Titans Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Africa Emerging Players vs Titans Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Boland vs Eastern Storm Pool B",
+      "team1": {
+        "name": "Boland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Africa Emerging Players Pool B",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Eastern Storm Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Titans vs South Africa Emerging Players Pool B",
+      "score": "Boland vs Eastern Storm Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Warriors vs Northern Cape Pool A",
+      "team1": {
+        "name": "Warriors",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Cape Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Warriors vs Northern Cape Pool A",
       "status": "Match Details"
     },
     {
@@ -355,16 +355,29 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd unofficial Test • Ahmedabad, Narendra Modi Stadium B Ground Australia U19 AUSU19 174 & 151 India U19 INDU19 315 & 11-0 India U19 won by 10 wkts",
+      "title": "7th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 203-6 (20) Bangladesh Champions BANCH 166-6 (20) Australia Champions won by 37 runs",
       "team1": {
-        "name": "2nd unofficial Test • Ahmedabad, Narendra Modi Stadium B Ground Australia U19 AUSU19 174 & 151 India U19 INDU19 315 & 11",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "7th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 203",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "0 India U19 won by 10 wkts",
+        "name": "6 (20) Bangladesh Champions BANCH 166",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "7th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 203-6 (20) Bangladesh Champions BANCH 166-6 (20) Australia Champions won by 37 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd T20I • Harare, Takashinga Sports Club Zimbabwe Women ZIMW 142-6 (20) West Indies Women WIW 143-2 (17) West Indies Women won by 8 wkts",
+      "team1": {
+        "name": "3rd T20I • Harare, Takashinga Sports Club Zimbabwe Women ZIMW 142",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "6 (20) West Indies Women WIW 143",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "2nd unofficial Test • Ahmedabad, Narendra Modi Stadium B Ground Australia U19 AUSU19 174 & 151 India U19 INDU19 315 & 11-0 India U19 won by 10 wkts",
+      "score": "3rd T20I • Harare, Takashinga Sports Club Zimbabwe Women ZIMW 142-6 (20) West Indies Women WIW 143-2 (17) West Indies Women won by 8 wkts",
       "status": "Match Details"
     }
   ]
