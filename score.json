@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-10-08 07:27:03 UTC",
+  "last_updated": "2026-10-08 14:51:16 UTC",
   "total_matches": 38,
   "matches": [
+    {
+      "title": "IND vs WI - Preview",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "IND vs WI - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "INDA vs AUSA - Preview",
       "team1": {
@@ -14,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "INDA vs AUSA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs AUS - Preview",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - Preview",
       "status": "Match Details"
     },
     {
@@ -43,29 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "WI vs IND - IND won",
+      "title": "India vs West Indies 2nd T20I",
       "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "IND",
+        "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "WI vs IND - IND won",
+      "team2": {
+        "name": "West Indies 2nd T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "India vs West Indies 2nd T20I",
       "status": "Match Details"
     },
     {
-      "title": "VIC vs SAUS - Stumps",
+      "title": "South Africa vs Australia 1st Test",
       "team1": {
-        "name": "VIC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "SAUS",
+        "name": "Australia 1st Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "VIC vs SAUS - Stumps",
+      "score": "South Africa vs Australia 1st Test",
       "status": "Match Details"
     },
     {
@@ -186,42 +212,42 @@
       "status": "Match Details"
     },
     {
-      "title": "China vs Maldives LIVE 1st Match",
+      "title": "China vs Maldives 1st Match",
       "team1": {
         "name": "China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Maldives LIVE 1st Match",
+        "name": "Maldives 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "China vs Maldives LIVE 1st Match",
+      "score": "China vs Maldives 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Saudi Arabia vs Singapore LIVE 2nd Match",
+      "title": "Saudi Arabia vs Singapore 2nd Match",
       "team1": {
         "name": "Saudi Arabia",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Singapore LIVE 2nd Match",
+        "name": "Singapore 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Saudi Arabia vs Singapore LIVE 2nd Match",
+      "score": "Saudi Arabia vs Singapore 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Hong Kong, China vs Malaysia LIVE 3rd Match",
+      "title": "Hong Kong, China vs Malaysia 3rd Match",
       "team1": {
         "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Malaysia LIVE 3rd Match",
+        "name": "Malaysia 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hong Kong, China vs Malaysia LIVE 3rd Match",
+      "score": "Hong Kong, China vs Malaysia 3rd Match",
       "status": "Match Details"
     },
     {
@@ -290,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Lions vs South Western Districts Pool A",
+      "title": "Australia Champions vs South Africa Champions 9th Match",
       "team1": {
-        "name": "Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Australia Champions",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "South Western Districts Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Africa Champions 9th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Lions vs South Western Districts Pool A",
+      "score": "Australia Champions vs South Africa Champions 9th Match",
       "status": "Match Details"
     },
     {
@@ -355,6 +381,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Border vs Dolphins Pool A",
+      "team1": {
+        "name": "Border",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dolphins Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Border vs Dolphins Pool A",
+      "status": "Match Details"
+    },
+    {
       "title": "India A vs Australia A 2nd unofficial ODI",
       "team1": {
         "name": "India A",
@@ -394,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs Western Australia LIVE 3rd Match",
+      "title": "Queensland vs Western Australia 3rd Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Western Australia LIVE 3rd Match",
+        "name": "Western Australia 3rd Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Queensland vs Western Australia LIVE 3rd Match",
+      "score": "Queensland vs Western Australia 3rd Match",
       "status": "Match Details"
     },
     {
@@ -420,19 +459,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs West Indies Women 3rd T20I",
-      "team1": {
-        "name": "Zimbabwe Women",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "West Indies Women 3rd T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Zimbabwe Women vs West Indies Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Australia Women vs Bangladesh Women 1st ODI",
       "team1": {
         "name": "Australia Women",
@@ -446,55 +472,29 @@
       "status": "Match Details"
     },
     {
-      "title": "8th Match • Bangi, YSD-UKM Cricket Oval Bhutan BTN 203-5 (20) Mongolia MGL 67 (15) Bhutan won by 136 runs",
+      "title": "2nd Match • Bangi, YSD-UKM Cricket Oval Saudi Arabia SAU 174-7 (20) Singapore SIN 99-7 (20) Saudi Arabia won by 75 runs",
       "team1": {
-        "name": "8th Match • Bangi, YSD",
+        "name": "2nd Match • Bangi, YSD",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "UKM Cricket Oval Bhutan BTN 203",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "8th Match • Bangi, YSD-UKM Cricket Oval Bhutan BTN 203-5 (20) Mongolia MGL 67 (15) Bhutan won by 136 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "9th Match • Kuala Lumpur, Selangor Turf Club Myanmar MMR 70-9 (20) Bahrain BHR 73-2 (11.2) Bahrain won by 8 wkts",
-      "team1": {
-        "name": "9th Match • Kuala Lumpur, Selangor Turf Club Myanmar MMR 70",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Bahrain BHR 73",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "9th Match • Kuala Lumpur, Selangor Turf Club Myanmar MMR 70-9 (20) Bahrain BHR 73-2 (11.2) Bahrain won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 60 (18.3) Kuwait KUW 61-1 (7) Kuwait won by 9 wkts",
-      "team1": {
-        "name": "7th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 60 (18.3) Kuwait KUW 61",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "1 (7) Kuwait won by 9 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 60 (18.3) Kuwait KUW 61-1 (7) Kuwait won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Centurion, SuperSport Park South Africa Emerging Players SAEP 143-5 (20) Titans TIT 147-2 (11.4) Titans won by 8 wkts",
-      "team1": {
-        "name": "Pool B • Centurion, SuperSport Park South Africa Emerging Players SAEP 143",
+        "name": "UKM Cricket Oval Saudi Arabia SAU 174",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "team2": {
-        "name": "5 (20) Titans TIT 147",
+      "score": "2nd Match • Bangi, YSD-UKM Cricket Oval Saudi Arabia SAU 174-7 (20) Singapore SIN 99-7 (20) Saudi Arabia won by 75 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match • Kuala Lumpur, Selangor Turf Club Hong Kong, China HKC 140-5 (20) Malaysia MLY 72-5 (10) Hong Kong, China won by 7 runs (DLS method)",
+      "team1": {
+        "name": "3rd Match • Kuala Lumpur, Selangor Turf Club Hong Kong, China HKC 140",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pool B • Centurion, SuperSport Park South Africa Emerging Players SAEP 143-5 (20) Titans TIT 147-2 (11.4) Titans won by 8 wkts",
+      "team2": {
+        "name": "5 (20) Malaysia MLY 72",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Match • Kuala Lumpur, Selangor Turf Club Hong Kong, China HKC 140-5 (20) Malaysia MLY 72-5 (10) Hong Kong, China won by 7 runs (DLS method)",
       "status": "Match Details"
     }
   ]
