@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-07 21:22:38 UTC",
+  "last_updated": "2026-10-08 01:10:04 UTC",
   "total_matches": 25,
   "matches": [
     {
-      "title": "NAM vs USA - Need 88 off 93b",
+      "title": "NAM vs USA - USA won",
       "team1": {
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "USA",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "NAM vs USA - Need 88 off 93b",
+      "score": "NAM vs USA - USA won",
       "status": "Match Details"
     },
     {
@@ -43,19 +43,6 @@
       "status": "Match Details"
     },
     {
-      "title": "AUSCH vs BANCH - AUSCH won",
-      "team1": {
-        "name": "AUSCH",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "BANCH",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "AUSCH vs BANCH - AUSCH won",
-      "status": "Match Details"
-    },
-    {
       "title": "AUSU19 vs INDU19 - INDU19 won",
       "team1": {
         "name": "AUSU19",
@@ -69,16 +56,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs United States of America LIVE 130th Match",
+      "title": "VIC vs SAUS - Trail by 171",
+      "team1": {
+        "name": "VIC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SAUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "VIC vs SAUS - Trail by 171",
+      "status": "Match Details"
+    },
+    {
+      "title": "Namibia vs United States of America 130th Match",
       "team1": {
         "name": "Namibia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United States of America LIVE 130th Match",
+        "name": "United States of America 130th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Namibia vs United States of America LIVE 130th Match",
+      "score": "Namibia vs United States of America 130th Match",
       "status": "Match Details"
     },
     {
@@ -251,29 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs South Australia 1st Match",
+      "title": "Victoria vs South Australia LIVE 1st Match",
       "team1": {
         "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Australia 1st Match",
+        "name": "South Australia LIVE 1st Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Victoria vs South Australia 1st Match",
+      "score": "Victoria vs South Australia LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs Tasmania 2nd Match",
+      "title": "Tasmania vs New South Wales LIVE 2nd Match",
       "team1": {
-        "name": "New South Wales",
+        "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Tasmania 2nd Match",
+        "name": "New South Wales LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New South Wales vs Tasmania 2nd Match",
+      "score": "Tasmania vs New South Wales LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "8th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 154 (19.1) West Indies Champions WICH 156-3 (16.1) West Indies Champions won by 7 wkts",
+      "title": "130th Match • Dallas, Grand Prairie Stadium Namibia NAM 298-9 (50) United States of America USA 299-6 (48.5) United States of America won by 4 wkts",
       "team1": {
-        "name": "8th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 154 (19.1) West Indies Champions WICH 156",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "130th Match • Dallas, Grand Prairie Stadium Namibia NAM 298",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (16.1) West Indies Champions won by 7 wkts",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "9 (50) United States of America USA 299",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "8th Match • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 154 (19.1) West Indies Champions WICH 156-3 (16.1) West Indies Champions won by 7 wkts",
+      "score": "130th Match • Dallas, Grand Prairie Stadium Namibia NAM 298-9 (50) United States of America USA 299-6 (48.5) United States of America won by 4 wkts",
       "status": "Match Details"
     }
   ]
