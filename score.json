@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-08 14:51:16 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-10-08 20:26:34 UTC",
+  "total_matches": 35,
   "matches": [
     {
       "title": "IND vs WI - Preview",
@@ -43,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "PAK vs SL - Preview",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAK vs SL - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "AFG vs BAN - Preview",
       "team1": {
         "name": "AFG",
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "AFG vs BAN - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "NAM vs USA - USA won",
-      "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "USA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "NAM vs USA - USA won",
       "status": "Match Details"
     },
     {
@@ -95,6 +95,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Pakistan vs Sri Lanka 1st T20I",
+      "team1": {
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 1st T20I",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan vs Sri Lanka 1st T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Afghanistan vs Bangladesh One-off Test",
       "team1": {
         "name": "Afghanistan",
@@ -105,32 +118,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "Afghanistan vs Bangladesh One-off Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Namibia vs United States of America 130th Match",
-      "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United States of America 130th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Namibia vs United States of America 130th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Oman vs Canada 131st Match",
-      "team1": {
-        "name": "Oman",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canada 131st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman vs Canada 131st Match",
       "status": "Match Details"
     },
     {
@@ -290,29 +277,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia Champions vs Bangladesh Champions 7th Match",
+      "title": "Namibia vs United States of America 130th Match",
       "team1": {
-        "name": "Australia Champions",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Namibia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bangladesh Champions 7th Match",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "United States of America 130th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Australia Champions vs Bangladesh Champions 7th Match",
+      "score": "Namibia vs United States of America 130th Match",
       "status": "Match Details"
     },
     {
-      "title": "England Champions vs West Indies Champions 8th Match",
+      "title": "Oman vs Canada 131st Match",
       "team1": {
-        "name": "England Champions",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Indies Champions 8th Match",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Canada 131st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "England Champions vs West Indies Champions 8th Match",
+      "score": "Oman vs Canada 131st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Namibia vs United Arab Emirates 132nd Match",
+      "team1": {
+        "name": "Namibia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United Arab Emirates 132nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Namibia vs United Arab Emirates 132nd Match",
       "status": "Match Details"
     },
     {
@@ -329,29 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Knights vs KwaZulu-Natal Inland Tuskers Pool B",
+      "title": "Bangladesh Champions vs West Indies Champions 10th Match",
       "team1": {
-        "name": "Knights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Bangladesh Champions",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "West Indies Champions 10th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Knights vs KwaZulu-Natal Inland Tuskers Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa Emerging Players vs Titans Pool B",
-      "team1": {
-        "name": "South Africa Emerging Players",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Titans Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Africa Emerging Players vs Titans Pool B",
+      "score": "Bangladesh Champions vs West Indies Champions 10th Match",
       "status": "Match Details"
     },
     {
@@ -368,16 +355,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Warriors vs Northern Cape Pool A",
+      "title": "Northern Cape vs Warriors Pool A",
       "team1": {
-        "name": "Warriors",
+        "name": "Northern Cape",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Cape Pool A",
+        "name": "Warriors Pool A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Warriors vs Northern Cape Pool A",
+      "score": "Northern Cape vs Warriors Pool A",
       "status": "Match Details"
     },
     {
@@ -469,32 +456,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "Australia Women vs Bangladesh Women 1st ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Bangi, YSD-UKM Cricket Oval Saudi Arabia SAU 174-7 (20) Singapore SIN 99-7 (20) Saudi Arabia won by 75 runs",
-      "team1": {
-        "name": "2nd Match • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "UKM Cricket Oval Saudi Arabia SAU 174",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "2nd Match • Bangi, YSD-UKM Cricket Oval Saudi Arabia SAU 174-7 (20) Singapore SIN 99-7 (20) Saudi Arabia won by 75 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Kuala Lumpur, Selangor Turf Club Hong Kong, China HKC 140-5 (20) Malaysia MLY 72-5 (10) Hong Kong, China won by 7 runs (DLS method)",
-      "team1": {
-        "name": "3rd Match • Kuala Lumpur, Selangor Turf Club Hong Kong, China HKC 140",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Malaysia MLY 72",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • Kuala Lumpur, Selangor Turf Club Hong Kong, China HKC 140-5 (20) Malaysia MLY 72-5 (10) Hong Kong, China won by 7 runs (DLS method)",
       "status": "Match Details"
     }
   ]
