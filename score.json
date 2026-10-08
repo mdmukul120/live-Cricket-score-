@@ -1,8 +1,34 @@
 {
   "status": "success",
-  "last_updated": "2026-10-08 01:10:04 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-10-08 07:27:03 UTC",
+  "total_matches": 38,
   "matches": [
+    {
+      "title": "INDA vs AUSA - Preview",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDA vs AUSA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AFG vs BAN - Preview",
+      "team1": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "AFG vs BAN - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "NAM vs USA - USA won",
       "team1": {
@@ -14,19 +40,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "NAM vs USA - USA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENGCH vs WICH - WICH won",
-      "team1": {
-        "name": "ENGCH",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "WICH",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "ENGCH vs WICH - WICH won",
       "status": "Match Details"
     },
     {
@@ -43,20 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AUSU19 vs INDU19 - INDU19 won",
-      "team1": {
-        "name": "AUSU19",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSU19 vs INDU19 - INDU19 won",
-      "status": "Match Details"
-    },
-    {
-      "title": "VIC vs SAUS - Trail by 171",
+      "title": "VIC vs SAUS - Stumps",
       "team1": {
         "name": "VIC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,20 @@
         "name": "SAUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "VIC vs SAUS - Trail by 171",
+      "score": "VIC vs SAUS - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh One-off Test",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Bangladesh One",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Afghanistan vs Bangladesh One-off Test",
       "status": "Match Details"
     },
     {
@@ -82,16 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Kuwait vs Thailand 7th Match",
+      "title": "Oman vs Canada 131st Match",
       "team1": {
-        "name": "Kuwait",
+        "name": "Oman",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Thailand 7th Match",
+        "name": "Canada 131st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kuwait vs Thailand 7th Match",
+      "score": "Oman vs Canada 131st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Thailand vs Kuwait 7th Match",
+      "team1": {
+        "name": "Thailand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kuwait 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Thailand vs Kuwait 7th Match",
       "status": "Match Details"
     },
     {
@@ -108,55 +134,133 @@
       "status": "Match Details"
     },
     {
-      "title": "Bahrain vs Myanmar 9th Match",
+      "title": "Myanmar vs Bahrain 9th Match",
+      "team1": {
+        "name": "Myanmar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bahrain 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Myanmar vs Bahrain 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mongolia vs Thailand 10th Match",
+      "team1": {
+        "name": "Mongolia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Thailand 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mongolia vs Thailand 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bahrain vs Kuwait 11th Match",
       "team1": {
         "name": "Bahrain",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Myanmar 9th Match",
+        "name": "Kuwait 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bahrain vs Myanmar 9th Match",
+      "score": "Bahrain vs Kuwait 11th Match",
       "status": "Match Details"
     },
     {
-      "title": "China vs Maldives 1st Match",
+      "title": "Qatar vs Myanmar 12th Match",
+      "team1": {
+        "name": "Qatar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Myanmar 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qatar vs Myanmar 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "China vs Maldives LIVE 1st Match",
       "team1": {
         "name": "China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Maldives 1st Match",
+        "name": "Maldives LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "China vs Maldives 1st Match",
+      "score": "China vs Maldives LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Saudi Arabia vs Singapore 2nd Match",
+      "title": "Saudi Arabia vs Singapore LIVE 2nd Match",
       "team1": {
         "name": "Saudi Arabia",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Singapore 2nd Match",
+        "name": "Singapore LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Saudi Arabia vs Singapore 2nd Match",
+      "score": "Saudi Arabia vs Singapore LIVE 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs Hong Kong, China 3rd Match",
+      "title": "Hong Kong, China vs Malaysia LIVE 3rd Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Malaysia LIVE 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Malaysia LIVE 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Saudi Arabia 4th Match",
       "team1": {
         "name": "Malaysia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hong Kong, China 3rd Match",
+        "name": "Saudi Arabia 4th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Malaysia vs Saudi Arabia 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "China vs Hong Kong, China 5th Match",
+      "team1": {
+        "name": "China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malaysia vs Hong Kong, China 3rd Match",
+      "team2": {
+        "name": "Hong Kong, China 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "China vs Hong Kong, China 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Maldives vs Singapore 6th Match",
+      "team1": {
+        "name": "Maldives",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Maldives vs Singapore 6th Match",
       "status": "Match Details"
     },
     {
@@ -251,42 +355,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs South Australia LIVE 1st Match",
+      "title": "India A vs Australia A 2nd unofficial ODI",
+      "team1": {
+        "name": "India A",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Australia A 2nd unofficial ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "India A vs Australia A 2nd unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Victoria vs South Australia 1st Match",
       "team1": {
         "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Australia LIVE 1st Match",
+        "name": "South Australia 1st Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Victoria vs South Australia LIVE 1st Match",
+      "score": "Victoria vs South Australia 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs New South Wales LIVE 2nd Match",
+      "title": "Tasmania vs New South Wales 2nd Match",
       "team1": {
         "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New South Wales LIVE 2nd Match",
+        "name": "New South Wales 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs New South Wales LIVE 2nd Match",
+      "score": "Tasmania vs New South Wales 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs Queensland 3rd Match",
+      "title": "Queensland vs Western Australia LIVE 3rd Match",
       "team1": {
-        "name": "Western Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Queensland 3rd Match",
+        "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Western Australia vs Queensland 3rd Match",
+      "team2": {
+        "name": "Western Australia LIVE 3rd Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Queensland vs Western Australia LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +433,68 @@
       "status": "Match Details"
     },
     {
-      "title": "130th Match • Dallas, Grand Prairie Stadium Namibia NAM 298-9 (50) United States of America USA 299-6 (48.5) United States of America won by 4 wkts",
+      "title": "Australia Women vs Bangladesh Women 1st ODI",
       "team1": {
-        "name": "130th Match • Dallas, Grand Prairie Stadium Namibia NAM 298",
+        "name": "Australia Women",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Bangladesh Women 1st ODI",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Australia Women vs Bangladesh Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "8th Match • Bangi, YSD-UKM Cricket Oval Bhutan BTN 203-5 (20) Mongolia MGL 67 (15) Bhutan won by 136 runs",
+      "team1": {
+        "name": "8th Match • Bangi, YSD",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "UKM Cricket Oval Bhutan BTN 203",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "8th Match • Bangi, YSD-UKM Cricket Oval Bhutan BTN 203-5 (20) Mongolia MGL 67 (15) Bhutan won by 136 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "9th Match • Kuala Lumpur, Selangor Turf Club Myanmar MMR 70-9 (20) Bahrain BHR 73-2 (11.2) Bahrain won by 8 wkts",
+      "team1": {
+        "name": "9th Match • Kuala Lumpur, Selangor Turf Club Myanmar MMR 70",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (50) United States of America USA 299",
+        "name": "9 (20) Bahrain BHR 73",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "9th Match • Kuala Lumpur, Selangor Turf Club Myanmar MMR 70-9 (20) Bahrain BHR 73-2 (11.2) Bahrain won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "7th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 60 (18.3) Kuwait KUW 61-1 (7) Kuwait won by 9 wkts",
+      "team1": {
+        "name": "7th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 60 (18.3) Kuwait KUW 61",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "1 (7) Kuwait won by 9 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "7th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 60 (18.3) Kuwait KUW 61-1 (7) Kuwait won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool B • Centurion, SuperSport Park South Africa Emerging Players SAEP 143-5 (20) Titans TIT 147-2 (11.4) Titans won by 8 wkts",
+      "team1": {
+        "name": "Pool B • Centurion, SuperSport Park South Africa Emerging Players SAEP 143",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "130th Match • Dallas, Grand Prairie Stadium Namibia NAM 298-9 (50) United States of America USA 299-6 (48.5) United States of America won by 4 wkts",
+      "team2": {
+        "name": "5 (20) Titans TIT 147",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Centurion, SuperSport Park South Africa Emerging Players SAEP 143-5 (20) Titans TIT 147-2 (11.4) Titans won by 8 wkts",
       "status": "Match Details"
     }
   ]
