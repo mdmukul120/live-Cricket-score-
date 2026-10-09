@@ -1,19 +1,32 @@
 {
   "status": "success",
-  "last_updated": "2026-10-09 00:35:10 UTC",
+  "last_updated": "2026-10-09 06:41:00 UTC",
   "total_matches": 34,
   "matches": [
     {
-      "title": "INDA vs AUSA - Preview",
+      "title": "BAN vs AFG - BAN opt to bat",
       "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "BAN vs AFG - BAN opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSA vs INDA - AUSA opt to bat",
+      "team1": {
         "name": "AUSA",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDA vs AUSA - Preview",
+      "team2": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "AUSA vs INDA - AUSA opt to bat",
       "status": "Match Details"
     },
     {
@@ -30,29 +43,16 @@
       "status": "Match Details"
     },
     {
-      "title": "AUSW vs BANW - Preview",
+      "title": "BANW vs AUSW - AUSW opt to bowl",
       "team1": {
-        "name": "AUSW",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
         "name": "BANW",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "AUSW vs BANW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "AFG vs BAN - Preview",
-      "team1": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
       "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "AUSW",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "AFG vs BAN - Preview",
+      "score": "BANW vs AUSW - AUSW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -108,94 +108,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Bangladesh One-off Test",
+      "title": "Bangladesh vs Afghanistan LIVE One-off Test",
       "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Bangladesh One",
+        "name": "Bangladesh",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Afghanistan vs Bangladesh One-off Test",
+      "team2": {
+        "name": "Afghanistan LIVE One",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Bangladesh vs Afghanistan LIVE One-off Test",
       "status": "Match Details"
     },
     {
-      "title": "Thailand vs Kuwait 7th Match",
+      "title": "Thailand vs Mongolia 10th Match",
       "team1": {
         "name": "Thailand",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kuwait 7th Match",
+        "name": "Mongolia 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Thailand vs Kuwait 7th Match",
+      "score": "Thailand vs Mongolia 10th Match",
       "status": "Match Details"
     },
     {
-      "title": "Bhutan vs Mongolia 8th Match",
+      "title": "Kuwait vs Bahrain LIVE 11th Match",
       "team1": {
-        "name": "Bhutan",
+        "name": "Kuwait",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mongolia 8th Match",
+        "name": "Bahrain LIVE 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bhutan vs Mongolia 8th Match",
+      "score": "Kuwait vs Bahrain LIVE 11th Match",
       "status": "Match Details"
     },
     {
-      "title": "Myanmar vs Bahrain 9th Match",
+      "title": "Myanmar vs Qatar 12th Match",
       "team1": {
         "name": "Myanmar",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bahrain 9th Match",
+        "name": "Qatar 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Myanmar vs Bahrain 9th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mongolia vs Thailand 10th Match",
-      "team1": {
-        "name": "Mongolia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Thailand 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mongolia vs Thailand 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bahrain vs Kuwait 11th Match",
-      "team1": {
-        "name": "Bahrain",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kuwait 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bahrain vs Kuwait 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qatar vs Myanmar 12th Match",
-      "team1": {
-        "name": "Qatar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Myanmar 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qatar vs Myanmar 12th Match",
+      "score": "Myanmar vs Qatar 12th Match",
       "status": "Match Details"
     },
     {
@@ -264,29 +225,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Maldives vs Singapore 6th Match",
+      "title": "Singapore vs Maldives 6th Match",
       "team1": {
-        "name": "Maldives",
+        "name": "Singapore",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Singapore 6th Match",
+        "name": "Maldives 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Maldives vs Singapore 6th Match",
+      "score": "Singapore vs Maldives 6th Match",
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Canada 131st Match",
+      "title": "Oman vs Canada LIVE 131st Match",
       "team1": {
         "name": "Oman",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada 131st Match",
+        "name": "Canada LIVE 131st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Oman vs Canada 131st Match",
+      "score": "Oman vs Canada LIVE 131st Match",
       "status": "Match Details"
     },
     {
@@ -368,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Australia A 2nd unofficial ODI",
+      "title": "Australia A vs India A LIVE 2nd unofficial ODI",
       "team1": {
-        "name": "India A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Australia A 2nd unofficial ODI",
+        "name": "Australia A",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "India A vs Australia A 2nd unofficial ODI",
+      "team2": {
+        "name": "India A LIVE 2nd unofficial ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Australia A vs India A LIVE 2nd unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -407,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs Western Australia 3rd Match",
+      "title": "Queensland vs Western Australia LIVE 3rd Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Western Australia 3rd Match",
+        "name": "Western Australia LIVE 3rd Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Queensland vs Western Australia 3rd Match",
+      "score": "Queensland vs Western Australia LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -433,16 +394,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia Women vs Bangladesh Women 1st ODI",
+      "title": "Bangladesh Women vs Australia Women LIVE 1st ODI",
       "team1": {
-        "name": "Australia Women",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Bangladesh Women 1st ODI",
+        "name": "Bangladesh Women",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Australia Women vs Bangladesh Women 1st ODI",
+      "team2": {
+        "name": "Australia Women LIVE 1st ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Bangladesh Women vs Australia Women LIVE 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 196-2 (20) Mongolia MGL 13 (11.3) Thailand won by 183 runs",
+      "team1": {
+        "name": "10th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 196",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (20) Mongolia MGL 13 (11.3) Thailand won by 183 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Kuala Lumpur, Bayuemas Oval Thailand THAI 196-2 (20) Mongolia MGL 13 (11.3) Thailand won by 183 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool B • Paarl, Boland Park Boland BOL 164-4 (20) Eastern Storm ESTORM 164-5 (20) Match tied (Boland won the Super Over)",
+      "team1": {
+        "name": "Pool B • Paarl, Boland Park Boland BOL 164",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Eastern Storm ESTORM 164",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Paarl, Boland Park Boland BOL 164-4 (20) Eastern Storm ESTORM 164-5 (20) Match tied (Boland won the Super Over)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool A • Gqeberha, St George's Park Northern Cape NCAPE 83-9 (20) Warriors WAR 88-3 (11) Warriors won by 7 wkts",
+      "team1": {
+        "name": "Pool A • Gqeberha, St George's Park Northern Cape NCAPE 83",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Warriors WAR 88",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool A • Gqeberha, St George's Park Northern Cape NCAPE 83-9 (20) Warriors WAR 88-3 (11) Warriors won by 7 wkts",
       "status": "Match Details"
     }
   ]
