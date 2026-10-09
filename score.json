@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-10-08 20:26:34 UTC",
-  "total_matches": 35,
+  "last_updated": "2026-10-09 00:35:10 UTC",
+  "total_matches": 34,
   "matches": [
-    {
-      "title": "IND vs WI - Preview",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "IND vs WI - Preview",
-      "status": "Match Details"
-    },
     {
       "title": "INDA vs AUSA - Preview",
       "team1": {
@@ -30,29 +17,29 @@
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - Preview",
+      "title": "IND vs WI - Preview",
       "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "RSA vs AUS - Preview",
+      "score": "IND vs WI - Preview",
       "status": "Match Details"
     },
     {
-      "title": "PAK vs SL - Preview",
+      "title": "AUSW vs BANW - Preview",
       "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "AUSW",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "PAK vs SL - Preview",
+      "score": "AUSW vs BANW - Preview",
       "status": "Match Details"
     },
     {
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "AFG vs BAN - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs AUS - Preview",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - Preview",
       "status": "Match Details"
     },
     {
@@ -277,19 +277,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs United States of America 130th Match",
-      "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United States of America 130th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Namibia vs United States of America 130th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Oman vs Canada 131st Match",
       "team1": {
         "name": "Oman",
@@ -394,29 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs South Australia 1st Match",
+      "title": "Victoria vs South Australia LIVE 1st Match",
       "team1": {
         "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Australia 1st Match",
+        "name": "South Australia LIVE 1st Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Victoria vs South Australia 1st Match",
+      "score": "Victoria vs South Australia LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs New South Wales 2nd Match",
+      "title": "Tasmania vs New South Wales LIVE 2nd Match",
       "team1": {
         "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New South Wales 2nd Match",
+        "name": "New South Wales LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs New South Wales 2nd Match",
+      "score": "Tasmania vs New South Wales LIVE 2nd Match",
       "status": "Match Details"
     },
     {
