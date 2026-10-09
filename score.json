@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-09 13:49:20 UTC",
+  "last_updated": "2026-10-09 19:07:47 UTC",
   "total_matches": 34,
   "matches": [
     {
-      "title": "IND vs WI - WI opt to bowl",
+      "title": "IND vs WI - WI won",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs WI - WI opt to bowl",
+      "score": "IND vs WI - WI won",
       "status": "Match Details"
     },
     {
-      "title": "SL vs PAK - SL opt to bat",
+      "title": "SL vs PAK - PAK won",
       "team1": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -26,11 +26,24 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "SL vs PAK - SL opt to bat",
+      "score": "SL vs PAK - PAK won",
       "status": "Match Details"
     },
     {
-      "title": "AUS vs RSA - Badlight",
+      "title": "BANCH vs WICH - Need 35 off 27b",
+      "team1": {
+        "name": "BANCH",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "WICH",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "BANCH vs WICH - Need 35 off 27b",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUS vs RSA - Stumps",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -39,7 +52,7 @@
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "AUS vs RSA - Badlight",
+      "score": "AUS vs RSA - Stumps",
       "status": "Match Details"
     },
     {
@@ -56,29 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "AUSA vs INDA - AUSA won",
-      "team1": {
-        "name": "AUSA",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "AUSA vs INDA - AUSA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "India vs West Indies LIVE 2nd T20I",
+      "title": "India vs West Indies 2nd T20I",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "West Indies LIVE 2nd T20I",
+        "name": "West Indies 2nd T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "India vs West Indies LIVE 2nd T20I",
+      "score": "India vs West Indies 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs Pakistan LIVE 1st T20I",
+      "title": "Sri Lanka vs Pakistan 1st T20I",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 1st T20I",
+        "name": "Pakistan 1st T20I",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Sri Lanka vs Pakistan LIVE 1st T20I",
+      "score": "Sri Lanka vs Pakistan 1st T20I",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs United Arab Emirates 132nd Match",
+      "title": "United Arab Emirates vs Namibia 132nd Match",
       "team1": {
-        "name": "Namibia",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 132nd Match",
+        "name": "Namibia 132nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Namibia vs United Arab Emirates 132nd Match",
+      "score": "United Arab Emirates vs Namibia 132nd Match",
       "status": "Match Details"
     },
     {
@@ -225,29 +225,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia Champions vs South Africa Champions LIVE 9th Match",
+      "title": "Australia Champions vs South Africa Champions 9th Match",
       "team1": {
         "name": "Australia Champions",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "South Africa Champions LIVE 9th Match",
+        "name": "South Africa Champions 9th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Australia Champions vs South Africa Champions LIVE 9th Match",
+      "score": "Australia Champions vs South Africa Champions 9th Match",
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh Champions vs West Indies Champions 10th Match",
+      "title": "Bangladesh Champions vs West Indies Champions LIVE 10th Match",
       "team1": {
         "name": "Bangladesh Champions",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "West Indies Champions 10th Match",
+        "name": "West Indies Champions LIVE 10th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Bangladesh Champions vs West Indies Champions 10th Match",
+      "score": "Bangladesh Champions vs West Indies Champions LIVE 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "India Champions vs South Africa Champions 11th Match",
+      "team1": {
+        "name": "India Champions",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "South Africa Champions 11th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "India Champions vs South Africa Champions 11th Match",
       "status": "Match Details"
     },
     {
@@ -300,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mpumalanga Rhinos vs Western Province Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "North West - Eastvaal Renault Dragons vs South Western Districts Pool A",
+      "team1": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastvaal Renault Dragons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North West - Eastvaal Renault Dragons vs South Western Districts Pool A",
       "status": "Match Details"
     },
     {
@@ -368,6 +394,32 @@
       "status": "Match Details"
     },
     {
+      "title": "2nd T20I • Ranchi, JSCA International Stadium Complex India IND 249-5 (20) West Indies WI 252-4 (18.3) West Indies won by 6 wkts",
+      "team1": {
+        "name": "2nd T20I • Ranchi, JSCA International Stadium Complex India IND 249",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "5 (20) West Indies WI 252",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "2nd T20I • Ranchi, JSCA International Stadium Complex India IND 249-5 (20) West Indies WI 252-4 (18.3) West Indies won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st T20I • Rawalpindi, Rawalpindi Cricket Stadium Sri Lanka SL 182-8 (20) Pakistan PAK 187-6 (18.5) Pakistan won by 4 wkts",
+      "team1": {
+        "name": "1st T20I • Rawalpindi, Rawalpindi Cricket Stadium Sri Lanka SL 182",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "8 (20) Pakistan PAK 187",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "1st T20I • Rawalpindi, Rawalpindi Cricket Stadium Sri Lanka SL 182-8 (20) Pakistan PAK 187-6 (18.5) Pakistan won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "131st Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Oman OMAN 263 (49.1) Canada CAN 222 (48) Oman won by 41 runs",
       "team1": {
         "name": "131st Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Oman OMAN 263 (49.1) Canada CAN 222 (48) Oman won by 41 runs",
@@ -381,68 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Kuala Lumpur, Bayuemas Oval Malaysia MLY 137-2 (20) Saudi Arabia SAU 139-7 (19.1) Saudi Arabia won by 3 wkts",
+      "title": "9th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 209-5 (20) South Africa Champions SACH 210-2 (15.4) South Africa Champions won by 8 wkts",
       "team1": {
-        "name": "4th Match • Kuala Lumpur, Bayuemas Oval Malaysia MLY 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (20) Saudi Arabia SAU 139",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "4th Match • Kuala Lumpur, Bayuemas Oval Malaysia MLY 137-2 (20) Saudi Arabia SAU 139-7 (19.1) Saudi Arabia won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Bangi, YSD-UKM Cricket Oval China CHN 40 (13.2) Hong Kong, China HKC 41-2 (3.4) Hong Kong, China won by 8 wkts",
-      "team1": {
-        "name": "5th Match • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "UKM Cricket Oval China CHN 40 (13.2) Hong Kong, China HKC 41",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Bangi, YSD-UKM Cricket Oval China CHN 40 (13.2) Hong Kong, China HKC 41-2 (3.4) Hong Kong, China won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Kuala Lumpur, Selangor Turf Club Singapore SIN 188-6 (20) Maldives MDV 155-7 (20) Singapore won by 33 runs",
-      "team1": {
-        "name": "6th Match • Kuala Lumpur, Selangor Turf Club Singapore SIN 188",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Maldives MDV 155",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Kuala Lumpur, Selangor Turf Club Singapore SIN 188-6 (20) Maldives MDV 155-7 (20) Singapore won by 33 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground Australia A AUSA 275 (49.5) India A INDA 206 (45.2) Australia A won by 69 runs",
-      "team1": {
-        "name": "2nd unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground Australia A AUSA 275 (49.5) India A INDA 206 (45.2) Australia A won by 69 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground Australia A AUSA 275 (49.5) India A INDA 206 (45.2) Australia A won by 69 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st ODI • Brisbane, Allan Border Field Bangladesh Women BANW 166 (49.4) Australia Women AUSW 168-3 (25.4) Australia Women won by 7 wkts",
-      "team1": {
-        "name": "1st ODI • Brisbane, Allan Border Field Bangladesh Women BANW 166 (49.4) Australia Women AUSW 168",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "3 (25.4) Australia Women won by 7 wkts",
+        "name": "9th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 209",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "1st ODI • Brisbane, Allan Border Field Bangladesh Women BANW 166 (49.4) Australia Women AUSW 168-3 (25.4) Australia Women won by 7 wkts",
+      "team2": {
+        "name": "5 (20) South Africa Champions SACH 210",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "9th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 209-5 (20) South Africa Champions SACH 210-2 (15.4) South Africa Champions won by 8 wkts",
       "status": "Match Details"
     }
   ]
