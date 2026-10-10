@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-10 08:51:46 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-10-10 14:58:26 UTC",
+  "total_matches": 51,
   "matches": [
     {
-      "title": "AUS vs RSA - AUS opt to bat",
+      "title": "AUS vs RSA - Stumps",
       "team1": {
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -13,46 +13,7 @@
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "AUS vs RSA - AUS opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "BAN vs AFG - Trail by 295",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "BAN vs AFG - Trail by 295",
-      "status": "Match Details"
-    },
-    {
-      "title": "IND vs WI - WI won",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "IND vs WI - WI won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SL vs PAK - PAK won",
-      "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "SL vs PAK - PAK won",
+      "score": "AUS vs RSA - Stumps",
       "status": "Match Details"
     },
     {
@@ -69,6 +30,45 @@
       "status": "Match Details"
     },
     {
+      "title": "BAN vs AFG - Stumps",
+      "team1": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "BAN vs AFG - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "IND vs WI - Preview",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "IND vs WI - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs AUSA - Preview",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "AUSA",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "INDA vs AUSA - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "India vs West Indies 2nd T20I",
       "team1": {
         "name": "India",
@@ -82,16 +82,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs South Africa LIVE 1st Test",
+      "title": "India vs West Indies 3rd T20I",
+      "team1": {
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "West Indies 3rd T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "India vs West Indies 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia vs South Africa 1st Test",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "South Africa LIVE 1st Test",
+        "name": "South Africa 1st Test",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Australia vs South Africa LIVE 1st Test",
+      "score": "Australia vs South Africa 1st Test",
       "status": "Match Details"
     },
     {
@@ -108,16 +121,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh vs Afghanistan LIVE One-off Test",
+      "title": "Pakistan vs Sri Lanka 2nd T20I",
+      "team1": {
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 2nd T20I",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan vs Sri Lanka 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bangladesh vs Afghanistan One-off Test",
       "team1": {
         "name": "Bangladesh",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "Afghanistan LIVE One",
+        "name": "Afghanistan One",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Bangladesh vs Afghanistan LIVE One-off Test",
+      "score": "Bangladesh vs Afghanistan One-off Test",
       "status": "Match Details"
     },
     {
@@ -160,58 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia vs Saudi Arabia 4th Match",
-      "team1": {
-        "name": "Malaysia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia 4th Match",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Malaysia vs Saudi Arabia 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "China vs Hong Kong, China 5th Match",
-      "team1": {
-        "name": "China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hong Kong, China 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "China vs Hong Kong, China 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Singapore vs Maldives 6th Match",
-      "team1": {
-        "name": "Singapore",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Maldives 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Singapore vs Maldives 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "China vs Singapore 9th Match",
-      "team1": {
-        "name": "China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Singapore 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "China vs Singapore 9th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Hong Kong, China vs Saudi Arabia 7th Match",
       "team1": {
         "name": "Hong Kong, China",
@@ -238,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Canada 131st Match",
+      "title": "China vs Singapore 9th Match",
       "team1": {
-        "name": "Oman",
+        "name": "China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canada 131st Match",
+        "name": "Singapore 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Oman vs Canada 131st Match",
+      "score": "China vs Singapore 9th Match",
       "status": "Match Details"
     },
     {
@@ -316,29 +290,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Border vs Dolphins Pool A",
+      "title": "Australia Champions vs West Indies Champions 12th Match",
       "team1": {
-        "name": "Border",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Australia Champions",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Dolphins Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "West Indies Champions 12th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Border vs Dolphins Pool A",
+      "score": "Australia Champions vs West Indies Champions 12th Match",
       "status": "Match Details"
     },
     {
-      "title": "Mpumalanga Rhinos vs Western Province Pool B",
+      "title": "Western Province vs Mpumalanga Rhinos Pool B",
       "team1": {
-        "name": "Mpumalanga Rhinos",
+        "name": "Western Province",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Province Pool B",
+        "name": "Mpumalanga Rhinos Pool B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mpumalanga Rhinos vs Western Province Pool B",
+      "score": "Western Province vs Mpumalanga Rhinos Pool B",
       "status": "Match Details"
     },
     {
@@ -352,6 +326,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North West - Eastvaal Renault Dragons vs South Western Districts Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa Emerging Players vs Boland Pool B",
+      "team1": {
+        "name": "South Africa Emerging Players",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Boland Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Africa Emerging Players vs Boland Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Titans vs Eastern Storm Pool B",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastern Storm Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Titans vs Eastern Storm Pool B",
       "status": "Match Details"
     },
     {
@@ -563,19 +563,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia A vs India A 2nd unofficial ODI",
-      "team1": {
-        "name": "Australia A",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "India A 2nd unofficial ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Australia A vs India A 2nd unofficial ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "India A vs Australia A 3rd unofficial ODI",
       "team1": {
         "name": "India A",
@@ -615,16 +602,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs Western Australia LIVE 3rd Match",
+      "title": "Queensland vs Western Australia 3rd Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Western Australia LIVE 3rd Match",
+        "name": "Western Australia 3rd Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Queensland vs Western Australia LIVE 3rd Match",
+      "score": "Queensland vs Western Australia 3rd Match",
       "status": "Match Details"
     },
     {
@@ -664,19 +651,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Arunachal Pradesh vs Nagaland Plate",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bangladesh Women vs Australia Women 1st ODI",
-      "team1": {
-        "name": "Bangladesh Women",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "Australia Women 1st ODI",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Bangladesh Women vs Australia Women 1st ODI",
       "status": "Match Details"
     },
     {
