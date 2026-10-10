@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-10 19:14:02 UTC",
-  "total_matches": 49,
+  "last_updated": "2026-10-10 22:39:19 UTC",
+  "total_matches": 50,
   "matches": [
     {
       "title": "AUS vs RSA - Stumps",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "INDCH vs SACH - Need 8 off 8b",
+      "title": "INDCH vs SACH - SACH won",
       "team1": {
         "name": "INDCH",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -26,7 +26,7 @@
         "name": "SACH",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "INDCH vs SACH - Need 8 off 8b",
+      "score": "INDCH vs SACH - SACH won",
       "status": "Match Details"
     },
     {
@@ -160,6 +160,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Hong Kong, China vs Saudi Arabia 7th Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 7th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Hong Kong, China vs Saudi Arabia 7th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Malaysia vs Maldives 8th Match",
       "team1": {
         "name": "Malaysia",
@@ -183,19 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "China vs Singapore 9th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hong Kong, China vs Saudi Arabia 7th Match",
-      "team1": {
-        "name": "Hong Kong, China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia 7th Match",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Hong Kong, China vs Saudi Arabia 7th Match",
       "status": "Match Details"
     },
     {
@@ -238,16 +238,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India Champions vs South Africa Champions LIVE 11th Match",
+      "title": "India Champions vs South Africa Champions 11th Match",
       "team1": {
         "name": "India Champions",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "South Africa Champions LIVE 11th Match",
+        "name": "South Africa Champions 11th Match",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "India Champions vs South Africa Champions LIVE 11th Match",
+      "score": "India Champions vs South Africa Champions 11th Match",
       "status": "Match Details"
     },
     {
@@ -365,6 +365,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bengal vs Delhi Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Railways vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mumbai vs Chandigarh Elite Group D",
+      "team1": {
+        "name": "Mumbai",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chandigarh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mumbai vs Chandigarh Elite Group D",
       "status": "Match Details"
     },
     {
@@ -498,45 +537,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Railways vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mumbai vs Chandigarh Elite Group D",
-      "team1": {
-        "name": "Mumbai",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chandigarh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mumbai vs Chandigarh Elite Group D",
-      "status": "Match Details"
-    },
-    {
       "title": "India A vs Australia A 3rd unofficial ODI",
       "team1": {
         "name": "India A",
@@ -638,6 +638,19 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "Australia Women vs Bangladesh Women 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196-8 (20) South Africa Champions SACH 198-6 (18.5) South Africa Champions won by 4 wkts",
+      "team1": {
+        "name": "11th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "8 (20) South Africa Champions SACH 198",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "11th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196-8 (20) South Africa Champions SACH 198-6 (18.5) South Africa Champions won by 4 wkts",
       "status": "Match Details"
     }
   ]
