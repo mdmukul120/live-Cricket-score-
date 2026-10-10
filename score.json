@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-09 23:15:31 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-10-10 02:25:47 UTC",
+  "total_matches": 33,
   "matches": [
     {
       "title": "IND vs WI - WI won",
@@ -225,6 +225,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Hong Kong, China vs Saudi Arabia 7th Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 7th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Hong Kong, China vs Saudi Arabia 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia vs Maldives 8th Match",
+      "team1": {
+        "name": "Malaysia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Maldives 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Malaysia vs Maldives 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "China vs Singapore 9th Match",
+      "team1": {
+        "name": "China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Singapore 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "China vs Singapore 9th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Australia Champions vs South Africa Champions 9th Match",
       "team1": {
         "name": "Australia Champions",
@@ -329,16 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs New South Wales 2nd Match",
+      "title": "Tasmania vs New South Wales LIVE 2nd Match",
       "team1": {
         "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New South Wales 2nd Match",
+        "name": "New South Wales LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs New South Wales 2nd Match",
+      "score": "Tasmania vs New South Wales LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -368,32 +407,6 @@
       "status": "Match Details"
     },
     {
-      "title": "132nd Match • Dallas, Grand Prairie Stadium United Arab Emirates UAE 134 (37.3) Namibia NAM 135-2 (26) Namibia won by 8 wkts",
-      "team1": {
-        "name": "132nd Match • Dallas, Grand Prairie Stadium United Arab Emirates UAE 134 (37.3) Namibia NAM 135",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (26) Namibia won by 8 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "132nd Match • Dallas, Grand Prairie Stadium United Arab Emirates UAE 134 (37.3) Namibia NAM 135-2 (26) Namibia won by 8 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Sharjah, Sharjah Cricket Stadium Bangladesh Champions BANCH 218-4 (20) West Indies Champions WICH 221-5 (19.1) West Indies Champions won by 5 wkts",
-      "team1": {
-        "name": "10th Match • Sharjah, Sharjah Cricket Stadium Bangladesh Champions BANCH 218",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "4 (20) West Indies Champions WICH 221",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "10th Match • Sharjah, Sharjah Cricket Stadium Bangladesh Champions BANCH 218-4 (20) West Indies Champions WICH 221-5 (19.1) West Indies Champions won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "Pool A • East London, Buffalo Park Border BOR 128-7 (20) Dolphins DOL 129-3 (15.2) Dolphins won by 7 wkts",
       "team1": {
         "name": "Pool A • East London, Buffalo Park Border BOR 128",
@@ -404,6 +417,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Pool A • East London, Buffalo Park Border BOR 128-7 (20) Dolphins DOL 129-3 (15.2) Dolphins won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match • Melbourne, Junction Oval Victoria VIC 244 & 224 South Australia SAUS 508 South Australia won by an innings and 40 runs",
+      "team1": {
+        "name": "1st Match • Melbourne, Junction Oval Victoria VIC 244 & 224 South Australia SAUS 508 South Australia won by an innings and 40 runs",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Melbourne, Junction Oval Victoria VIC 244 & 224 South Australia SAUS 508 South Australia won by an innings and 40 runs",
       "status": "Match Details"
     }
   ]
