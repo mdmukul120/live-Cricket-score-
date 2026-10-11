@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-11 14:15:24 UTC",
-  "total_matches": 65,
+  "last_updated": "2026-10-11 19:00:10 UTC",
+  "total_matches": 60,
   "matches": [
     {
-      "title": "IND vs WI - WI opt to bowl",
+      "title": "IND vs WI - IND won",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,24 +13,37 @@
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs WI - WI opt to bowl",
+      "score": "IND vs WI - IND won",
       "status": "Match Details"
     },
     {
-      "title": "AUS vs RSA - Lead by 116",
+      "title": "BANCH vs INDCH - Need 53 off 30b",
       "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "BANCH",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "INDCH",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "AUS vs RSA - Lead by 116",
+      "score": "BANCH vs INDCH - Need 53 off 30b",
       "status": "Match Details"
     },
     {
-      "title": "PAK vs SL - SL opt to bowl",
+      "title": "UAE vs USA - Innings Break",
+      "team1": {
+        "name": "UAE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "USA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "UAE vs USA - Innings Break",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs SL - PAK won",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -39,72 +52,59 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAK vs SL - SL opt to bowl",
+      "score": "PAK vs SL - PAK won",
       "status": "Match Details"
     },
     {
-      "title": "BAN vs AFG - Stumps",
+      "title": "AUS vs RSA - Stumps",
       "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "BAN vs AFG - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs AUSA - INDA won",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "AUSA",
+        "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "INDA vs AUSA - INDA won",
+      "team2": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "AUS vs RSA - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "India vs West Indies LIVE 3rd T20I",
+      "title": "India vs West Indies 3rd T20I",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "West Indies LIVE 3rd T20I",
+        "name": "West Indies 3rd T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "India vs West Indies LIVE 3rd T20I",
+      "score": "India vs West Indies 3rd T20I",
       "status": "Match Details"
     },
     {
-      "title": "Australia vs South Africa LIVE 1st Test",
+      "title": "Australia vs South Africa 1st Test",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "South Africa LIVE 1st Test",
+        "name": "South Africa 1st Test",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Australia vs South Africa LIVE 1st Test",
+      "score": "Australia vs South Africa 1st Test",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs Sri Lanka LIVE 2nd T20I",
+      "title": "Pakistan vs Sri Lanka 2nd T20I",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 2nd T20I",
+        "name": "Sri Lanka 2nd T20I",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan vs Sri Lanka LIVE 2nd T20I",
+      "score": "Pakistan vs Sri Lanka 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -290,68 +290,42 @@
       "status": "Match Details"
     },
     {
-      "title": "United States of America vs United Arab Emirates 134th Match",
+      "title": "United Arab Emirates vs United States of America 134th Match",
       "team1": {
-        "name": "United States of America",
+        "name": "United Arab Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Arab Emirates 134th Match",
+        "name": "United States of America 134th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United States of America vs United Arab Emirates 134th Match",
+      "score": "United Arab Emirates vs United States of America 134th Match",
       "status": "Match Details"
     },
     {
-      "title": "India Champions vs South Africa Champions 11th Match",
-      "team1": {
-        "name": "India Champions",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "South Africa Champions 11th Match",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "India Champions vs South Africa Champions 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Australia Champions vs West Indies Champions LIVE 12th Match",
+      "title": "Australia Champions vs West Indies Champions 12th Match",
       "team1": {
         "name": "Australia Champions",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "West Indies Champions LIVE 12th Match",
+        "name": "West Indies Champions 12th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia Champions vs West Indies Champions LIVE 12th Match",
+      "score": "Australia Champions vs West Indies Champions 12th Match",
       "status": "Match Details"
     },
     {
-      "title": "India Champions vs Bangladesh Champions 13th Match",
+      "title": "Bangladesh Champions vs India Champions LIVE 13th Match",
       "team1": {
-        "name": "India Champions",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Bangladesh Champions 13th Match",
+        "name": "Bangladesh Champions",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "India Champions vs Bangladesh Champions 13th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Western Province vs Mpumalanga Rhinos Pool B",
-      "team1": {
-        "name": "Western Province",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "Mpumalanga Rhinos Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India Champions LIVE 13th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Western Province vs Mpumalanga Rhinos Pool B",
+      "score": "Bangladesh Champions vs India Champions LIVE 13th Match",
       "status": "Match Details"
     },
     {
@@ -394,6 +368,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Uttar Pradesh vs Bihar Elite Group A",
+      "team1": {
+        "name": "Uttar Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttar Pradesh vs Bihar Elite Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Jharkhand vs Kerala Elite Group C",
       "team1": {
         "name": "Jharkhand",
@@ -420,16 +407,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Uttar Pradesh vs Bihar Elite Group A",
+      "title": "Baroda vs Goa Elite Group A",
       "team1": {
-        "name": "Uttar Pradesh",
+        "name": "Baroda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bihar Elite Group A",
+        "name": "Goa Elite Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uttar Pradesh vs Bihar Elite Group A",
+      "score": "Baroda vs Goa Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Madhya Pradesh vs Jammu and Kashmir Elite Group A",
+      "team1": {
+        "name": "Madhya Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jammu and Kashmir Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Madhya Pradesh vs Jammu and Kashmir Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Vidarbha vs Puducherry Elite Group A",
+      "team1": {
+        "name": "Vidarbha",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Puducherry Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vidarbha vs Puducherry Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tripura vs Hyderabad Elite Group B",
+      "team1": {
+        "name": "Tripura",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hyderabad Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tripura vs Hyderabad Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Karnataka vs Andhra Elite Group B",
+      "team1": {
+        "name": "Karnataka",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Andhra Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Karnataka vs Andhra Elite Group B",
       "status": "Match Details"
     },
     {
@@ -534,71 +573,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mumbai vs Chandigarh Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Baroda vs Goa Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Goa Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Goa Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Madhya Pradesh vs Jammu and Kashmir Elite Group A",
-      "team1": {
-        "name": "Madhya Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jammu and Kashmir Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Madhya Pradesh vs Jammu and Kashmir Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Vidarbha vs Puducherry Elite Group A",
-      "team1": {
-        "name": "Vidarbha",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Puducherry Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Vidarbha vs Puducherry Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Tripura vs Hyderabad Elite Group B",
-      "team1": {
-        "name": "Tripura",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tripura vs Hyderabad Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Karnataka vs Andhra Elite Group B",
-      "team1": {
-        "name": "Karnataka",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Andhra Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Karnataka vs Andhra Elite Group B",
       "status": "Match Details"
     },
     {
@@ -758,55 +732,42 @@
       "status": "Match Details"
     },
     {
-      "title": "133rd Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 235 (50) Canada CAN 211 (48.4) Nepal won by 24 runs",
+      "title": "3rd T20I • Indore, Holkar Stadium India IND 223 (20) West Indies WI 209-7 (20) India won by 14 runs",
       "team1": {
-        "name": "133rd Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 235 (50) Canada CAN 211 (48.4) Nepal won by 24 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "3rd T20I • Indore, Holkar Stadium India IND 223 (20) West Indies WI 209",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (20) India won by 14 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "3rd T20I • Indore, Holkar Stadium India IND 223 (20) West Indies WI 209-7 (20) India won by 14 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 215-3 (20) Sri Lanka SL 133-7 (20) Pakistan won by 82 runs",
+      "team1": {
+        "name": "2nd T20I • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 215",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "3 (20) Sri Lanka SL 133",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "2nd T20I • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 215-3 (20) Sri Lanka SL 133-7 (20) Pakistan won by 82 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 119 (16.2) West Indies Champions WICH 83 (18.1) Australia Champions won by 36 runs",
+      "team1": {
+        "name": "12th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 119 (16.2) West Indies Champions WICH 83 (18.1) Australia Champions won by 36 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
         "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "133rd Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 235 (50) Canada CAN 211 (48.4) Nepal won by 24 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "13th Match • Kuala Lumpur, Bayuemas Oval Myanmar MMR 34 (15.3) Kuwait KUW 37-1 (4) Kuwait won by 9 wkts",
-      "team1": {
-        "name": "13th Match • Kuala Lumpur, Bayuemas Oval Myanmar MMR 34 (15.3) Kuwait KUW 37",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "1 (4) Kuwait won by 9 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "13th Match • Kuala Lumpur, Bayuemas Oval Myanmar MMR 34 (15.3) Kuwait KUW 37-1 (4) Kuwait won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "14th Match • Bangi, YSD-UKM Cricket Oval Bhutan BTN 64 (15.5) Qatar QAT 65-1 (5.4) Qatar won by 9 wkts",
-      "team1": {
-        "name": "14th Match • Bangi, YSD",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "UKM Cricket Oval Bhutan BTN 64 (15.5) Qatar QAT 65",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "14th Match • Bangi, YSD-UKM Cricket Oval Bhutan BTN 64 (15.5) Qatar QAT 65-1 (5.4) Qatar won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "15th Match • Kuala Lumpur, Selangor Turf Club Mongolia MGL 17 (12.4) Bahrain BHR 18-2 (1.1) Bahrain won by 8 wkts",
-      "team1": {
-        "name": "15th Match • Kuala Lumpur, Selangor Turf Club Mongolia MGL 17 (12.4) Bahrain BHR 18",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (1.1) Bahrain won by 8 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "15th Match • Kuala Lumpur, Selangor Turf Club Mongolia MGL 17 (12.4) Bahrain BHR 18-2 (1.1) Bahrain won by 8 wkts",
+      "score": "12th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 119 (16.2) West Indies Champions WICH 83 (18.1) Australia Champions won by 36 runs",
       "status": "Match Details"
     },
     {
@@ -820,32 +781,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Pool B • Pretoria, LC de Villiers Oval South Africa Emerging Players SAEP 151-4 (20) Boland BOL 155-7 (16.3) Boland won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground India A INDA 275 (47.3) Australia A AUSA 226 (46.2) India A won by 49 runs",
-      "team1": {
-        "name": "3rd unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground India A INDA 275 (47.3) Australia A AUSA 226 (46.2) India A won by 49 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd unofficial ODI • Puducherry, Cricket Association Puducherry Siechem Ground India A INDA 275 (47.3) Australia A AUSA 226 (46.2) India A won by 49 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd ODI • Brisbane, Allan Border Field Bangladesh Women BANW 220-6 (50) Australia Women AUSW 222-1 (28.1) Australia Women won by 9 wkts",
-      "team1": {
-        "name": "2nd ODI • Brisbane, Allan Border Field Bangladesh Women BANW 220",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "6 (50) Australia Women AUSW 222",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "2nd ODI • Brisbane, Allan Border Field Bangladesh Women BANW 220-6 (50) Australia Women AUSW 222-1 (28.1) Australia Women won by 9 wkts",
       "status": "Match Details"
     }
   ]
