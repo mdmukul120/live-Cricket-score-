@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-10 22:39:19 UTC",
-  "total_matches": 50,
+  "last_updated": "2026-10-11 01:16:28 UTC",
+  "total_matches": 53,
   "matches": [
     {
       "title": "AUS vs RSA - Stumps",
@@ -199,16 +199,42 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates vs Namibia 132nd Match",
+      "title": "Malaysia vs Singapore 10th Match",
       "team1": {
-        "name": "United Arab Emirates",
+        "name": "Malaysia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Namibia 132nd Match",
+        "name": "Singapore 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United Arab Emirates vs Namibia 132nd Match",
+      "score": "Malaysia vs Singapore 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hong Kong, China vs Maldives 11th Match",
+      "team1": {
+        "name": "Hong Kong, China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Maldives 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hong Kong, China vs Maldives 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "China vs Saudi Arabia 12th Match",
+      "team1": {
+        "name": "China",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saudi Arabia 12th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "China vs Saudi Arabia 12th Match",
       "status": "Match Details"
     },
     {
@@ -368,45 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Railways vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mumbai vs Chandigarh Elite Group D",
-      "team1": {
-        "name": "Mumbai",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chandigarh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mumbai vs Chandigarh Elite Group D",
-      "status": "Match Details"
-    },
-    {
       "title": "Goa vs Baroda Elite Group A",
       "team1": {
         "name": "Goa",
@@ -537,6 +524,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Railways vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mumbai vs Chandigarh Elite Group D",
+      "team1": {
+        "name": "Mumbai",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chandigarh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mumbai vs Chandigarh Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "India A vs Australia A 3rd unofficial ODI",
       "team1": {
         "name": "India A",
@@ -563,16 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs New South Wales 2nd Match",
+      "title": "Tasmania vs New South Wales LIVE 2nd Match",
       "team1": {
         "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New South Wales 2nd Match",
+        "name": "New South Wales LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs New South Wales 2nd Match",
+      "score": "Tasmania vs New South Wales LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -641,16 +667,29 @@
       "status": "Match Details"
     },
     {
-      "title": "11th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196-8 (20) South Africa Champions SACH 198-6 (18.5) South Africa Champions won by 4 wkts",
+      "title": "Hobart Hurricanes Women vs ACT Women 1st Match",
       "team1": {
-        "name": "11th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Hobart Hurricanes Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) South Africa Champions SACH 198",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "ACT Women 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "11th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 196-8 (20) South Africa Champions SACH 198-6 (18.5) South Africa Champions won by 4 wkts",
+      "score": "Hobart Hurricanes Women vs ACT Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Sixers Women vs Brisbane Heat Women 2nd Match",
+      "team1": {
+        "name": "Sydney Sixers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Brisbane Heat Women 2nd Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Sydney Sixers Women vs Brisbane Heat Women 2nd Match",
       "status": "Match Details"
     }
   ]
