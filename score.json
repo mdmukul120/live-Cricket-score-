@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-11 22:48:09 UTC",
-  "total_matches": 59,
+  "last_updated": "2026-10-12 01:51:48 UTC",
+  "total_matches": 60,
   "matches": [
     {
       "title": "IND vs WI - IND won",
@@ -264,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "China vs Saudi Arabia 12th Match",
+      "title": "Saudi Arabia vs China 12th Match",
       "team1": {
-        "name": "China",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saudi Arabia 12th Match",
+        "name": "Saudi Arabia",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "China vs Saudi Arabia 12th Match",
+      "team2": {
+        "name": "China 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Saudi Arabia vs China 12th Match",
       "status": "Match Details"
     },
     {
@@ -329,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Titans vs Eastern Storm Pool B",
-      "team1": {
-        "name": "Titans",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastern Storm Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Titans vs Eastern Storm Pool B",
-      "status": "Match Details"
-    },
-    {
       "title": "South Africa Emerging Players vs Boland Pool B",
       "team1": {
         "name": "South Africa Emerging Players",
@@ -352,6 +339,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "South Africa Emerging Players vs Boland Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Titans vs Eastern Storm Pool B",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastern Storm Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Titans vs Eastern Storm Pool B",
       "status": "Match Details"
     },
     {
@@ -615,6 +615,19 @@
       "status": "Match Details"
     },
     {
+      "title": "New South Wales vs Tasmania 8th Match",
+      "team1": {
+        "name": "New South Wales",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tasmania 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "New South Wales vs Tasmania 8th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sikkim vs Meghalaya Plate",
       "team1": {
         "name": "Sikkim",
@@ -667,29 +680,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hobart Hurricanes Women vs ACT Women 1st Match",
+      "title": "Hobart Hurricanes Women vs ACT Women LIVE 1st Match",
       "team1": {
         "name": "Hobart Hurricanes Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ACT Women 1st Match",
+        "name": "ACT Women LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hobart Hurricanes Women vs ACT Women 1st Match",
+      "score": "Hobart Hurricanes Women vs ACT Women LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Sydney Sixers Women vs Brisbane Heat Women 2nd Match",
+      "title": "Sydney Sixers Women vs Brisbane Heat Women LIVE 2nd Match",
       "team1": {
         "name": "Sydney Sixers Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Brisbane Heat Women 2nd Match",
+        "name": "Brisbane Heat Women LIVE 2nd Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Sydney Sixers Women vs Brisbane Heat Women 2nd Match",
+      "score": "Sydney Sixers Women vs Brisbane Heat Women LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -719,16 +732,16 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd T20I • Indore, Holkar Stadium India IND 223 (20) West Indies WI 209-7 (20) India won by 14 runs",
+      "title": "Sydney Sixers Women vs ACT Women 5th Match",
       "team1": {
-        "name": "3rd T20I • Indore, Holkar Stadium India IND 223 (20) West Indies WI 209",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Sydney Sixers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) India won by 14 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "ACT Women 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd T20I • Indore, Holkar Stadium India IND 223 (20) West Indies WI 209-7 (20) India won by 14 runs",
+      "score": "Sydney Sixers Women vs ACT Women 5th Match",
       "status": "Match Details"
     },
     {
@@ -745,19 +758,6 @@
       "status": "Match Details"
     },
     {
-      "title": "13th Match • Sharjah, Sharjah Cricket Stadium Bangladesh Champions BANCH 141-9 (20) India Champions INDCH 138-8 (20) Bangladesh Champions won by 3 runs",
-      "team1": {
-        "name": "13th Match • Sharjah, Sharjah Cricket Stadium Bangladesh Champions BANCH 141",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "9 (20) India Champions INDCH 138",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "13th Match • Sharjah, Sharjah Cricket Stadium Bangladesh Champions BANCH 141-9 (20) India Champions INDCH 138-8 (20) Bangladesh Champions won by 3 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "Pool B • Centurion, SuperSport Park Titans TIT 260-4 (20) Eastern Storm ESTORM 161-7 (20) Titans won by 99 runs",
       "team1": {
         "name": "Pool B • Centurion, SuperSport Park Titans TIT 260",
@@ -768,6 +768,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Pool B • Centurion, SuperSport Park Titans TIT 260-4 (20) Eastern Storm ESTORM 161-7 (20) Titans won by 99 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Sydney, Hurstville Oval Sydney Sixers Women SYSW 136-3 (20) Brisbane Heat Women BRHW 90 (18) Sydney Sixers Women won by 46 runs",
+      "team1": {
+        "name": "2nd Match • Sydney, Hurstville Oval Sydney Sixers Women SYSW 136",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (20) Brisbane Heat Women BRHW 90 (18) Sydney Sixers Women won by 46 runs",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "2nd Match • Sydney, Hurstville Oval Sydney Sixers Women SYSW 136-3 (20) Brisbane Heat Women BRHW 90 (18) Sydney Sixers Women won by 46 runs",
       "status": "Match Details"
     }
   ]
