@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-10-13 15:03:02 UTC",
+  "last_updated": "2026-10-13 20:37:51 UTC",
   "total_matches": 58,
   "matches": [
     {
-      "title": "PAK vs SL - Innings Break",
+      "title": "IND vs WI - Preview",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "IND vs WI - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs SL - SL won",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,33 +26,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAK vs SL - Innings Break",
-      "status": "Match Details"
-    },
-    {
-      "title": "BAN vs AFG - Draw",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "BAN vs AFG - Draw",
-      "status": "Match Details"
-    },
-    {
-      "title": "USA vs NAM - NAM opt to bowl",
-      "team1": {
-        "name": "USA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "USA vs NAM - NAM opt to bowl",
+      "score": "PAK vs SL - SL won",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "IND vs WI - Preview",
+      "title": "BAN vs AFG - Draw",
       "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "IND vs WI - Preview",
+      "score": "BAN vs AFG - Draw",
+      "status": "Match Details"
+    },
+    {
+      "title": "USA vs NAM - Need 186 to win",
+      "team1": {
+        "name": "USA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "USA vs NAM - Need 186 to win",
       "status": "Match Details"
     },
     {
@@ -264,6 +264,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Bangladesh Champions vs South Africa Champions 17th Match",
+      "team1": {
+        "name": "Bangladesh Champions",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "South Africa Champions 17th Match",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Bangladesh Champions vs South Africa Champions 17th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Titans vs KwaZulu-Natal Inland Tuskers Pool B",
       "team1": {
         "name": "Titans",
@@ -313,6 +326,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "North West - Eastvaal Renault Dragons vs Dolphins Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Province vs Boland Pool B",
+      "team1": {
+        "name": "Western Province",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Boland Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Province vs Boland Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Knights vs Eastern Storm Pool B",
+      "team1": {
+        "name": "Knights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastern Storm Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Knights vs Eastern Storm Pool B",
       "status": "Match Details"
     },
     {
@@ -563,19 +602,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Arunachal Pradesh vs Nagaland Plate",
-      "team1": {
-        "name": "Arunachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nagaland Plate",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Arunachal Pradesh vs Nagaland Plate",
-      "status": "Match Details"
-    },
-    {
       "title": "Mizoram vs Manipur Plate",
       "team1": {
         "name": "Mizoram",
@@ -586,6 +612,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mizoram vs Manipur Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Arunachal Pradesh vs Nagaland Plate",
+      "team1": {
+        "name": "Arunachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nagaland Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Arunachal Pradesh vs Nagaland Plate",
       "status": "Match Details"
     },
     {
@@ -667,94 +706,55 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Test • Durban, Kingsmead Australia AUS 390 & 314-6 d South Africa RSA 284 & 206 Australia won by 214 runs",
+      "title": "3rd T20I • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 168-8 (20) Sri Lanka SL 172-2 (17.1) Sri Lanka won by 8 wkts",
       "team1": {
-        "name": "1st Test • Durban, Kingsmead Australia AUS 390 & 314",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "3rd T20I • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 168",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "6 d South Africa RSA 284 & 206 Australia won by 214 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "8 (20) Sri Lanka SL 172",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "1st Test • Durban, Kingsmead Australia AUS 390 & 314-6 d South Africa RSA 284 & 206 Australia won by 214 runs",
+      "score": "3rd T20I • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 168-8 (20) Sri Lanka SL 172-2 (17.1) Sri Lanka won by 8 wkts",
       "status": "Match Details"
     },
     {
-      "title": "135th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 263-8 (50) Oman OMAN 150 (40) Nepal won by 113 runs",
+      "title": "15th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 110-8 (20) West Indies Champions WICH 111-4 (14.5) West Indies Champions won by 6 wkts",
       "team1": {
-        "name": "135th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 263",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "15th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 110",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "8 (50) Oman OMAN 150 (40) Nepal won by 113 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "8 (20) West Indies Champions WICH 111",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "135th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 263-8 (50) Oman OMAN 150 (40) Nepal won by 113 runs",
+      "score": "15th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 110-8 (20) West Indies Champions WICH 111-4 (14.5) West Indies Champions won by 6 wkts",
       "status": "Match Details"
     },
     {
-      "title": "14th Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 204-5 (20) England Champions ENGCH 195-7 (20) South Africa Champions won by 9 runs",
+      "title": "Pool A • Potchefstroom, Senwes Park North West - Eastvaal Renault Dragons NWEST 144-5 (20) Dolphins DOL 148-3 (16) Dolphins won by 7 wkts",
       "team1": {
-        "name": "14th Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 204",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Pool A • Potchefstroom, Senwes Park North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (20) England Champions ENGCH 195",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "Eastvaal Renault Dragons NWEST 144",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "14th Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 204-5 (20) England Champions ENGCH 195-7 (20) South Africa Champions won by 9 runs",
+      "score": "Pool A • Potchefstroom, Senwes Park North West - Eastvaal Renault Dragons NWEST 144-5 (20) Dolphins DOL 148-3 (16) Dolphins won by 7 wkts",
       "status": "Match Details"
     },
     {
-      "title": "Pool A • Kimberley, Diamond Oval Northern Cape NCAPE 171-6 (20) Limpopo LIMPO 65-4 (8.3) Northern Cape won by 14 runs (DLS method)",
+      "title": "Pool A • Johannesburg, The Wanderers Stadium Lions LIONS 138-8 (20) Border BOR 133-6 (20) Lions won by 5 runs",
       "team1": {
-        "name": "Pool A • Kimberley, Diamond Oval Northern Cape NCAPE 171",
+        "name": "Pool A • Johannesburg, The Wanderers Stadium Lions LIONS 138",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) Limpopo LIMPO 65",
+        "name": "8 (20) Border BOR 133",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pool A • Kimberley, Diamond Oval Northern Cape NCAPE 171-6 (20) Limpopo LIMPO 65-4 (8.3) Northern Cape won by 14 runs (DLS method)",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Pietermaritzburg, City Oval Titans TIT 204 (19.5) KwaZulu-Natal Inland Tuskers KZNIN 183-6 (20) Titans won by 21 runs",
-      "team1": {
-        "name": "Pool B • Pietermaritzburg, City Oval Titans TIT 204 (19.5) KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Natal Inland Tuskers KZNIN 183",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool B • Pietermaritzburg, City Oval Titans TIT 204 (19.5) KwaZulu-Natal Inland Tuskers KZNIN 183-6 (20) Titans won by 21 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group A • Rajgir, Rajgir International Cricket Stadium Uttar Pradesh UP 540 Bihar BIH 141 & 132 (f/o) Uttar Pradesh won by an innings and 267 runs",
-      "team1": {
-        "name": "Elite Group A • Rajgir, Rajgir International Cricket Stadium Uttar Pradesh UP 540 Bihar BIH 141 & 132 (f/o) Uttar Pradesh won by an innings and 267 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group A • Rajgir, Rajgir International Cricket Stadium Uttar Pradesh UP 540 Bihar BIH 141 & 132 (f/o) Uttar Pradesh won by an innings and 267 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "9th Match • Perth, W.A.C.A. Ground Queensland QL 261 (45.2) Western Australia WA 246 (44) Queensland won by 15 runs",
-      "team1": {
-        "name": "9th Match • Perth, W.A.C.A. Ground Queensland QL 261 (45.2) Western Australia WA 246 (44) Queensland won by 15 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "9th Match • Perth, W.A.C.A. Ground Queensland QL 261 (45.2) Western Australia WA 246 (44) Queensland won by 15 runs",
+      "score": "Pool A • Johannesburg, The Wanderers Stadium Lions LIONS 138-8 (20) Border BOR 133-6 (20) Lions won by 5 runs",
       "status": "Match Details"
     }
   ]
