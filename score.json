@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-14 18:54:46 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-10-14 22:07:39 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "WI vs IND - WI won",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "SACH vs BANCH - Need 90 off 10b",
+      "title": "SACH vs BANCH - SACH won",
       "team1": {
         "name": "SACH",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,7 +26,7 @@
         "name": "BANCH",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "SACH vs BANCH - Need 90 off 10b",
+      "score": "SACH vs BANCH - SACH won",
       "status": "Match Details"
     },
     {
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "India Champions vs West Indies Champions 15th Match",
-      "team1": {
-        "name": "India Champions",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "West Indies Champions 15th Match",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "India Champions vs West Indies Champions 15th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Australia Champions vs England Champions 16th Match",
       "team1": {
         "name": "Australia Champions",
@@ -212,42 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Champions vs Bangladesh Champions LIVE 17th Match",
+      "title": "South Africa Champions vs Bangladesh Champions 17th Match",
       "team1": {
         "name": "South Africa Champions",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Bangladesh Champions LIVE 17th Match",
+        "name": "Bangladesh Champions 17th Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "South Africa Champions vs Bangladesh Champions LIVE 17th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lions vs Border Pool A",
-      "team1": {
-        "name": "Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Border Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lions vs Border Pool A",
-      "status": "Match Details"
-    },
-    {
-      "title": "North West - Eastvaal Renault Dragons vs Dolphins Pool A",
-      "team1": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastvaal Renault Dragons",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "North West - Eastvaal Renault Dragons vs Dolphins Pool A",
+      "score": "South Africa Champions vs Bangladesh Champions 17th Match",
       "status": "Match Details"
     },
     {
@@ -277,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Delhi vs Bengal Elite Group C",
+      "team1": {
+        "name": "Delhi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bengal Elite Group C",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Delhi vs Bengal Elite Group C",
+      "status": "Match Details"
+    },
+    {
       "title": "Uttar Pradesh vs Bihar Elite Group A",
       "team1": {
         "name": "Uttar Pradesh",
@@ -303,16 +277,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Delhi vs Bengal Elite Group C",
+      "title": "Maharashtra vs Services Elite Group C",
       "team1": {
-        "name": "Delhi",
+        "name": "Maharashtra",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bengal Elite Group C",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "Services Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Delhi vs Bengal Elite Group C",
+      "score": "Maharashtra vs Services Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Himachal Pradesh vs Haryana Elite Group D",
+      "team1": {
+        "name": "Himachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Himachal Pradesh vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Railways vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mumbai vs Chandigarh Elite Group D",
+      "team1": {
+        "name": "Mumbai",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chandigarh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mumbai vs Chandigarh Elite Group D",
       "status": "Match Details"
     },
     {
@@ -420,71 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Maharashtra vs Services Elite Group C",
-      "team1": {
-        "name": "Maharashtra",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Services Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Maharashtra vs Services Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Himachal Pradesh vs Haryana Elite Group D",
-      "team1": {
-        "name": "Himachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Himachal Pradesh vs Haryana Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Railways vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mumbai vs Chandigarh Elite Group D",
-      "team1": {
-        "name": "Mumbai",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chandigarh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mumbai vs Chandigarh Elite Group D",
-      "status": "Match Details"
-    },
-    {
       "title": "Sikkim vs Meghalaya Plate",
       "team1": {
         "name": "Sikkim",
@@ -576,16 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "16th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 218-6 (20) England Champions ENGCH 202-4 (20) Australia Champions won by 16 runs",
+      "title": "17th Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 210-3 (20) Bangladesh Champions BANCH 122 (18.5) South Africa Champions won by 88 runs",
       "team1": {
-        "name": "16th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 218",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "17th Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 210",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "6 (20) England Champions ENGCH 202",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "3 (20) Bangladesh Champions BANCH 122 (18.5) South Africa Champions won by 88 runs",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "16th Match • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 218-6 (20) England Champions ENGCH 202-4 (20) Australia Champions won by 16 runs",
+      "score": "17th Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 210-3 (20) Bangladesh Champions BANCH 122 (18.5) South Africa Champions won by 88 runs",
       "status": "Match Details"
     }
   ]
