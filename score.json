@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-13 23:54:37 UTC",
-  "total_matches": 58,
+  "last_updated": "2026-10-14 04:06:38 UTC",
+  "total_matches": 54,
   "matches": [
     {
       "title": "IND vs WI - Preview",
@@ -14,6 +14,32 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "IND vs WI - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "BANW vs AUSW - AUSW opt to bowl",
+      "team1": {
+        "name": "BANW",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "AUSW",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "BANW vs AUSW - AUSW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "DEL vs BEN - Trail by 69",
+      "team1": {
+        "name": "DEL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BEN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "DEL vs BEN - Trail by 69",
       "status": "Match Details"
     },
     {
@@ -40,32 +66,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "AUS vs RSA - AUS won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BAN vs AFG - Draw",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "BAN vs AFG - Draw",
-      "status": "Match Details"
-    },
-    {
-      "title": "USA vs NAM - NAM won",
-      "team1": {
-        "name": "USA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "USA vs NAM - NAM won",
       "status": "Match Details"
     },
     {
@@ -355,6 +355,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Jharkhand vs Kerala LIVE Elite Group C",
+      "team1": {
+        "name": "Jharkhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kerala LIVE Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jharkhand vs Kerala LIVE Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Delhi vs Bengal LIVE Elite Group C",
+      "team1": {
+        "name": "Delhi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bengal LIVE Elite Group C",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Delhi vs Bengal LIVE Elite Group C",
+      "status": "Match Details"
+    },
+    {
       "title": "Uttar Pradesh vs Bihar Elite Group A",
       "team1": {
         "name": "Uttar Pradesh",
@@ -365,84 +391,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uttar Pradesh vs Bihar Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jharkhand vs Kerala Elite Group C",
-      "team1": {
-        "name": "Jharkhand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kerala Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jharkhand vs Kerala Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Delhi vs Bengal Elite Group C",
-      "team1": {
-        "name": "Delhi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bengal Elite Group C",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Delhi vs Bengal Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Baroda vs Goa Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Goa Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Goa Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Madhya Pradesh vs Jammu and Kashmir Elite Group A",
-      "team1": {
-        "name": "Madhya Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jammu and Kashmir Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Madhya Pradesh vs Jammu and Kashmir Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Vidarbha vs Puducherry Elite Group A",
-      "team1": {
-        "name": "Vidarbha",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Puducherry Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Vidarbha vs Puducherry Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Tripura vs Hyderabad Elite Group B",
-      "team1": {
-        "name": "Tripura",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tripura vs Hyderabad Elite Group B",
       "status": "Match Details"
     },
     {
@@ -563,6 +511,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Baroda vs Goa Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Goa Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Goa Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Madhya Pradesh vs Jammu and Kashmir Elite Group A",
+      "team1": {
+        "name": "Madhya Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jammu and Kashmir Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Madhya Pradesh vs Jammu and Kashmir Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Vidarbha vs Puducherry Elite Group A",
+      "team1": {
+        "name": "Vidarbha",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Puducherry Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vidarbha vs Puducherry Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tripura vs Hyderabad Elite Group B",
+      "team1": {
+        "name": "Tripura",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hyderabad Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tripura vs Hyderabad Elite Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Tasmania vs New South Wales 8th Match",
       "team1": {
         "name": "Tasmania",
@@ -589,29 +589,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sikkim vs Meghalaya Plate",
+      "title": "Sikkim vs Meghalaya LIVE Plate",
       "team1": {
         "name": "Sikkim",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Meghalaya Plate",
+        "name": "Meghalaya LIVE Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sikkim vs Meghalaya Plate",
+      "score": "Sikkim vs Meghalaya LIVE Plate",
       "status": "Match Details"
     },
     {
-      "title": "Mizoram vs Manipur Plate",
+      "title": "Mizoram vs Manipur LIVE Plate",
       "team1": {
         "name": "Mizoram",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manipur Plate",
+        "name": "Manipur LIVE Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mizoram vs Manipur Plate",
+      "score": "Mizoram vs Manipur LIVE Plate",
       "status": "Match Details"
     },
     {
@@ -628,29 +628,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia Women vs Bangladesh Women 3rd ODI",
+      "title": "Bangladesh Women vs Australia Women LIVE 3rd ODI",
       "team1": {
-        "name": "Australia Women",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Bangladesh Women 3rd ODI",
+        "name": "Bangladesh Women",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Australia Women vs Bangladesh Women 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sydney Sixers Women vs ACT Women 5th Match",
-      "team1": {
-        "name": "Sydney Sixers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "ACT Women 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Australia Women LIVE 3rd ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Sydney Sixers Women vs ACT Women 5th Match",
+      "score": "Bangladesh Women vs Australia Women LIVE 3rd ODI",
       "status": "Match Details"
     },
     {
@@ -680,16 +667,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Melbourne Renegades Women vs Melbourne Stars Women 8th Match",
+      "title": "Melbourne Renegades Women vs Melbourne Stars Women LIVE 8th Match",
       "team1": {
         "name": "Melbourne Renegades Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Melbourne Stars Women 8th Match",
+        "name": "Melbourne Stars Women LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Melbourne Renegades Women vs Melbourne Stars Women 8th Match",
+      "score": "Melbourne Renegades Women vs Melbourne Stars Women LIVE 8th Match",
       "status": "Match Details"
     },
     {
@@ -716,45 +703,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "136th Match • Dallas, Grand Prairie Stadium United States of America USA 277-7 (50) Namibia NAM 278-4 (48.3) Namibia won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "15th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 110-8 (20) West Indies Champions WICH 111-4 (14.5) West Indies Champions won by 6 wkts",
-      "team1": {
-        "name": "15th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 110",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (20) West Indies Champions WICH 111",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "15th Match • Sharjah, Sharjah Cricket Stadium India Champions INDCH 110-8 (20) West Indies Champions WICH 111-4 (14.5) West Indies Champions won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool A • Johannesburg, The Wanderers Stadium Lions LIONS 138-8 (20) Border BOR 133-6 (20) Lions won by 5 runs",
-      "team1": {
-        "name": "Pool A • Johannesburg, The Wanderers Stadium Lions LIONS 138",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Border BOR 133",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool A • Johannesburg, The Wanderers Stadium Lions LIONS 138-8 (20) Border BOR 133-6 (20) Lions won by 5 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool A • Potchefstroom, Senwes Park North West - Eastvaal Renault Dragons NWEST 144-5 (20) Dolphins DOL 148-3 (16) Dolphins won by 7 wkts",
-      "team1": {
-        "name": "Pool A • Potchefstroom, Senwes Park North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Eastvaal Renault Dragons NWEST 144",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool A • Potchefstroom, Senwes Park North West - Eastvaal Renault Dragons NWEST 144-5 (20) Dolphins DOL 148-3 (16) Dolphins won by 7 wkts",
       "status": "Match Details"
     }
   ]
