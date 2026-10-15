@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-15 14:38:50 UTC",
-  "total_matches": 17,
+  "last_updated": "2026-10-15 18:40:29 UTC",
+  "total_matches": 15,
   "matches": [
     {
       "title": "INDW vs ZIMW - Preview",
@@ -30,19 +30,6 @@
       "status": "Match Details"
     },
     {
-      "title": "CAN vs OMAN - CAN won",
-      "team1": {
-        "name": "CAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "OMAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "CAN vs OMAN - CAN won",
-      "status": "Match Details"
-    },
-    {
       "title": "AUS vs RSA - AUS won",
       "team1": {
         "name": "AUS",
@@ -53,6 +40,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "AUS vs RSA - AUS won",
+      "status": "Match Details"
+    },
+    {
+      "title": "SACH vs ENGCH - Preview",
+      "team1": {
+        "name": "SACH",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "ENGCH",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "SACH vs ENGCH - Preview",
       "status": "Match Details"
     },
     {
@@ -69,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs India 4th T20I",
-      "team1": {
-        "name": "West Indies",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "India 4th T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "West Indies vs India 4th T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Canada vs Oman 137th Match",
       "team1": {
         "name": "Canada",
@@ -92,19 +79,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Canada vs Oman 137th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Australia Champions vs England Champions 16th Match",
-      "team1": {
-        "name": "Australia Champions",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "England Champions 16th Match",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Australia Champions vs England Champions 16th Match",
       "status": "Match Details"
     },
     {
@@ -131,6 +105,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "South Africa Champions vs England Champions Semi Final 1",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia Champions vs West Indies Champions Semi Final 2",
+      "team1": {
+        "name": "Australia Champions",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "West Indies Champions Semi Final 2",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Australia Champions vs West Indies Champions Semi Final 2",
       "status": "Match Details"
     },
     {
@@ -209,19 +196,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Brisbane Heat Women vs ACT Women 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "137th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Oman OMAN 198 (46.3) Canada won by 58 runs",
-      "team1": {
-        "name": "137th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Oman OMAN 198 (46.3) Canada won by 58 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "137th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Oman OMAN 198 (46.3) Canada won by 58 runs",
       "status": "Match Details"
     }
   ]
