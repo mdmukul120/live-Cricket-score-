@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-14 22:07:39 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-10-15 00:31:01 UTC",
+  "total_matches": 43,
   "matches": [
     {
       "title": "WI vs IND - WI won",
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "West Indies vs India 4th T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "United States of America vs Namibia 136th Match",
-      "team1": {
-        "name": "United States of America",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Namibia 136th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United States of America vs Namibia 136th Match",
       "status": "Match Details"
     },
     {
@@ -238,19 +225,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Delhi vs Bengal Elite Group C",
-      "team1": {
-        "name": "Delhi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bengal Elite Group C",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Delhi vs Bengal Elite Group C",
-      "status": "Match Details"
-    },
-    {
       "title": "Uttar Pradesh vs Bihar Elite Group A",
       "team1": {
         "name": "Uttar Pradesh",
@@ -277,68 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Maharashtra vs Services Elite Group C",
+      "title": "Delhi vs Bengal Elite Group C",
       "team1": {
-        "name": "Maharashtra",
+        "name": "Delhi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Services Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Bengal Elite Group C",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Maharashtra vs Services Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Himachal Pradesh vs Haryana Elite Group D",
-      "team1": {
-        "name": "Himachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Himachal Pradesh vs Haryana Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Railways vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mumbai vs Chandigarh Elite Group D",
-      "team1": {
-        "name": "Mumbai",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chandigarh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mumbai vs Chandigarh Elite Group D",
+      "score": "Delhi vs Bengal Elite Group C",
       "status": "Match Details"
     },
     {
@@ -446,6 +368,71 @@
       "status": "Match Details"
     },
     {
+      "title": "Maharashtra vs Services Elite Group C",
+      "team1": {
+        "name": "Maharashtra",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Services Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Maharashtra vs Services Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Himachal Pradesh vs Haryana Elite Group D",
+      "team1": {
+        "name": "Himachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Himachal Pradesh vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Railways vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mumbai vs Chandigarh Elite Group D",
+      "team1": {
+        "name": "Mumbai",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chandigarh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mumbai vs Chandigarh Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "Sikkim vs Meghalaya Plate",
       "team1": {
         "name": "Sikkim",
@@ -524,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "4th T20I • Hyderabad, Rajiv Gandhi International Stadium West Indies WI 247-3 (20) India IND 223 (19.3) West Indies won by 24 runs",
+      "title": "Brisbane Heat Women vs ACT Women 10th Match",
       "team1": {
-        "name": "4th T20I • Hyderabad, Rajiv Gandhi International Stadium West Indies WI 247",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Brisbane Heat Women",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "3 (20) India IND 223 (19.3) West Indies won by 24 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "ACT Women 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "4th T20I • Hyderabad, Rajiv Gandhi International Stadium West Indies WI 247-3 (20) India IND 223 (19.3) West Indies won by 24 runs",
+      "score": "Brisbane Heat Women vs ACT Women 10th Match",
       "status": "Match Details"
     },
     {
@@ -547,6 +534,32 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "17th Match • Sharjah, Sharjah Cricket Stadium South Africa Champions SACH 210-3 (20) Bangladesh Champions BANCH 122 (18.5) South Africa Champions won by 88 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool B • Bloemfontein, Mangaung Oval Eastern Storm ESTORM 186-6 (20) Knights KNG 168-8 (20) Eastern Storm won by 18 runs",
+      "team1": {
+        "name": "Pool B • Bloemfontein, Mangaung Oval Eastern Storm ESTORM 186",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Knights KNG 168",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Bloemfontein, Mangaung Oval Eastern Storm ESTORM 186-6 (20) Knights KNG 168-8 (20) Eastern Storm won by 18 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool B • Cape Town, Newlands Boland BOL 174-7 (20) Western Province WPR 175-4 (19.5) Western Province won by 6 wkts",
+      "team1": {
+        "name": "Pool B • Cape Town, Newlands Boland BOL 174",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (20) Western Province WPR 175",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Cape Town, Newlands Boland BOL 174-7 (20) Western Province WPR 175-4 (19.5) Western Province won by 6 wkts",
       "status": "Match Details"
     }
   ]
