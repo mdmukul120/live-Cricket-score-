@@ -1,19 +1,19 @@
 {
   "status": "success",
-  "last_updated": "2026-10-16 09:05:23 UTC",
+  "last_updated": "2026-10-16 13:55:37 UTC",
   "total_matches": 26,
   "matches": [
     {
-      "title": "INDW vs ZIMW - Preview",
+      "title": "ZIMW vs INDW - INDW opt to bowl",
       "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
         "name": "ZIMW",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "INDW vs ZIMW - Preview",
+      "team2": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "ZIMW vs INDW - INDW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "SACH vs ENGCH - Preview",
+      "title": "ENGCH vs SACH - Need 138 off 95b",
       "team1": {
-        "name": "SACH",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
         "name": "ENGCH",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "SACH vs ENGCH - Preview",
+      "team2": {
+        "name": "SACH",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "ENGCH vs SACH - Need 138 off 95b",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Canada vs Oman 137th Match",
+      "title": "India vs West Indies 5th T20I",
       "team1": {
-        "name": "Canada",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Oman 137th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "West Indies 5th T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Canada vs Oman 137th Match",
+      "score": "India vs West Indies 5th T20I",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Champions vs England Champions Semi Final 1",
+      "title": "Bangladesh vs Zimbabwe 1st Match",
       "team1": {
-        "name": "South Africa Champions",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "Bangladesh",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "England Champions Semi Final 1",
+        "name": "Zimbabwe 1st Match",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Bangladesh vs Zimbabwe 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "England Champions vs South Africa Champions LIVE Semi Final 1",
+      "team1": {
+        "name": "England Champions",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "South Africa Champions vs England Champions Semi Final 1",
+      "team2": {
+        "name": "South Africa Champions LIVE Semi Final 1",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "England Champions vs South Africa Champions LIVE Semi Final 1",
       "status": "Match Details"
     },
     {
@@ -134,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Limpopo vs Border Pool A",
+      "title": "Border vs Limpopo Pool A",
       "team1": {
-        "name": "Limpopo",
+        "name": "Border",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Border Pool A",
+        "name": "Limpopo Pool A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Limpopo vs Border Pool A",
+      "score": "Border vs Limpopo Pool A",
       "status": "Match Details"
     },
     {
@@ -160,29 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Zimbabwe Women 1st T20I",
+      "title": "Zimbabwe Women vs India Women LIVE 1st T20I",
       "team1": {
-        "name": "India Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Women 1st T20I",
+        "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "India Women vs Zimbabwe Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Austria Women vs Sweden Women 1st Match",
-      "team1": {
-        "name": "Austria Women",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
       "team2": {
-        "name": "Sweden Women 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India Women LIVE 1st T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Austria Women vs Sweden Women 1st Match",
+      "score": "Zimbabwe Women vs India Women LIVE 1st T20I",
       "status": "Match Details"
     },
     {
@@ -212,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Austria Women vs Bulgaria Women 4th Match",
+      "title": "Bulgaria Women vs Austria Women 4th Match",
       "team1": {
-        "name": "Austria Women",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Bulgaria Women 4th Match",
+        "name": "Bulgaria Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Austria Women vs Bulgaria Women 4th Match",
+      "team2": {
+        "name": "Austria Women 4th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Bulgaria Women vs Austria Women 4th Match",
       "status": "Match Details"
     },
     {
@@ -235,6 +235,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "Romania Women vs Austria Women 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Romania Women vs Sweden Women 6th Match",
+      "team1": {
+        "name": "Romania Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sweden Women 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Romania Women vs Sweden Women 6th Match",
       "status": "Match Details"
     },
     {
@@ -303,6 +316,19 @@
       "status": "Match Details"
     },
     {
+      "title": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75-5 (15) Bulgaria Women BGRW 76-8 (13.3) Bulgaria Women won by 2 wkts - 15 overs game",
+      "team1": {
+        "name": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (15) Bulgaria Women BGRW 76",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75-5 (15) Bulgaria Women BGRW 76-8 (13.3) Bulgaria Women won by 2 wkts - 15 overs game",
+      "status": "Match Details"
+    },
+    {
       "title": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 98-9 (20) Sweden Women SWEW 99-0 (5.5) Sweden Women won by 10 wkts",
       "team1": {
         "name": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 98",
@@ -313,32 +339,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 98-9 (20) Sweden Women SWEW 99-0 (5.5) Sweden Women won by 10 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 91-9 (20) Sweden Women SWEW 92-1 (9.4) Sweden Women won by 9 wkts",
-      "team1": {
-        "name": "1st Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 91",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "9 (20) Sweden Women SWEW 92",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Austria Women AUTW 91-9 (20) Sweden Women SWEW 92-1 (9.4) Sweden Women won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Sydney, Raby Oval No. 1 ACT Women ACTW 83 (17.3) Brisbane Heat Women BRHW 86-4 (14.1) Brisbane Heat Women won by 6 wkts",
-      "team1": {
-        "name": "10th Match • Sydney, Raby Oval No. 1 ACT Women ACTW 83 (17.3) Brisbane Heat Women BRHW 86",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "4 (14.1) Brisbane Heat Women won by 6 wkts",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "10th Match • Sydney, Raby Oval No. 1 ACT Women ACTW 83 (17.3) Brisbane Heat Women BRHW 86-4 (14.1) Brisbane Heat Women won by 6 wkts",
       "status": "Match Details"
     }
   ]
