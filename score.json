@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-10-16 17:54:34 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-10-16 20:39:52 UTC",
+  "total_matches": 26,
   "matches": [
-    {
-      "title": "ZIMW vs INDW - INDW won",
-      "team1": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "ZIMW vs INDW - INDW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUSCH vs WICH - Need 128 off 79b",
-      "team1": {
-        "name": "AUSCH",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "WICH",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "AUSCH vs WICH - Need 128 off 79b",
-      "status": "Match Details"
-    },
     {
       "title": "IND vs WI - Preview",
       "team1": {
@@ -43,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "ENGCH vs SACH - ENGCH won",
+      "title": "ZIMW vs INDW - INDW won",
       "team1": {
-        "name": "ENGCH",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "SACH",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ENGCH vs SACH - ENGCH won",
+      "score": "ZIMW vs INDW - INDW won",
       "status": "Match Details"
     },
     {
@@ -66,6 +40,32 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "BAN vs ZIM - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUSCH vs WICH - WICH won",
+      "team1": {
+        "name": "AUSCH",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "WICH",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "AUSCH vs WICH - WICH won",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENGCH vs SACH - ENGCH won",
+      "team1": {
+        "name": "ENGCH",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "SACH",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "ENGCH vs SACH - ENGCH won",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia Champions vs West Indies Champions LIVE Semi Final 2",
+      "title": "Australia Champions vs West Indies Champions Semi Final 2",
       "team1": {
         "name": "Australia Champions",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "West Indies Champions LIVE Semi Final 2",
+        "name": "West Indies Champions Semi Final 2",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia Champions vs West Indies Champions LIVE Semi Final 2",
+      "score": "Australia Champions vs West Indies Champions Semi Final 2",
       "status": "Match Details"
     },
     {
@@ -316,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Semi Final 1 • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 189-8 (20) South Africa Champions SACH 143 (16.5) England Champions won by 46 runs",
+      "title": "Semi Final 2 • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 172-7 (20) West Indies Champions WICH 173-5 (19) West Indies Champions won by 5 wkts",
       "team1": {
-        "name": "Semi Final 1 • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 189",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "Semi Final 2 • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 172",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "8 (20) South Africa Champions SACH 143 (16.5) England Champions won by 46 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "7 (20) West Indies Champions WICH 173",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Semi Final 1 • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 189-8 (20) South Africa Champions SACH 143 (16.5) England Champions won by 46 runs",
+      "score": "Semi Final 2 • Sharjah, Sharjah Cricket Stadium Australia Champions AUSCH 172-7 (20) West Indies Champions WICH 173-5 (19) West Indies Champions won by 5 wkts",
       "status": "Match Details"
     },
     {
@@ -339,32 +339,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "1st T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 114-5 (20) India Women INDW 116-6 (15.4) India Women won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 39-8 (12) Austria Women AUTW 37-0 (4.5) Austria Women won by 10 wkts (DLS method)",
-      "team1": {
-        "name": "4th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 39",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (12) Austria Women AUTW 37",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "4th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 39-8 (12) Austria Women AUTW 37-0 (4.5) Austria Women won by 10 wkts (DLS method)",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75-5 (15) Bulgaria Women BGRW 76-8 (13.3) Bulgaria Women won by 2 wkts - 15 overs game",
-      "team1": {
-        "name": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (15) Bulgaria Women BGRW 76",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75-5 (15) Bulgaria Women BGRW 76-8 (13.3) Bulgaria Women won by 2 wkts - 15 overs game",
       "status": "Match Details"
     }
   ]
