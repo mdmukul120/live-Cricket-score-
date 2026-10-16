@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-15 23:56:11 UTC",
-  "total_matches": 15,
+  "last_updated": "2026-10-16 04:13:31 UTC",
+  "total_matches": 17,
   "matches": [
     {
       "title": "INDW vs ZIMW - Preview",
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "AUS vs RSA - AUS won",
+      "title": "ACTW vs BRHW - ACTW opt to bat",
       "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "ACTW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "BRHW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "AUS vs RSA - AUS won",
+      "score": "ACTW vs BRHW - ACTW opt to bat",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "BAN vs AFG - Draw",
+      "title": "AUS vs RSA - AUS won",
       "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "BAN vs AFG - Draw",
+      "score": "AUS vs RSA - AUS won",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Brisbane Heat Women vs ACT Women 10th Match",
+      "title": "ACT Women vs Brisbane Heat Women LIVE 10th Match",
       "team1": {
-        "name": "Brisbane Heat Women",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "ACT Women 10th Match",
+        "name": "ACT Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Brisbane Heat Women vs ACT Women 10th Match",
+      "team2": {
+        "name": "Brisbane Heat Women LIVE 10th Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "ACT Women vs Brisbane Heat Women LIVE 10th Match",
       "status": "Match Details"
     },
     {
@@ -196,6 +196,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Sydney Thunder Women vs Melbourne Renegades Women 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "ACT Women vs Melbourne Stars Women 13th Match",
+      "team1": {
+        "name": "ACT Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Melbourne Stars Women 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ACT Women vs Melbourne Stars Women 13th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Sixers Women vs Adelaide Strikers Women 14th Match",
+      "team1": {
+        "name": "Sydney Sixers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Adelaide Strikers Women 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sydney Sixers Women vs Adelaide Strikers Women 14th Match",
       "status": "Match Details"
     }
   ]
