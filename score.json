@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-16 13:55:37 UTC",
-  "total_matches": 26,
+  "last_updated": "2026-10-16 17:54:34 UTC",
+  "total_matches": 28,
   "matches": [
     {
-      "title": "ZIMW vs INDW - INDW opt to bowl",
+      "title": "ZIMW vs INDW - INDW won",
       "team1": {
         "name": "ZIMW",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -13,37 +13,11 @@
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ZIMW vs INDW - INDW opt to bowl",
+      "score": "ZIMW vs INDW - INDW won",
       "status": "Match Details"
     },
     {
-      "title": "WI vs IND - WI won",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "WI vs IND - WI won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENGCH vs SACH - Need 138 off 95b",
-      "team1": {
-        "name": "ENGCH",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SACH",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "ENGCH vs SACH - Need 138 off 95b",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUSCH vs WICH - Preview",
+      "title": "AUSCH vs WICH - Need 128 off 79b",
       "team1": {
         "name": "AUSCH",
         "flag": "https://flagcdn.com/w80/au.png"
@@ -52,20 +26,46 @@
         "name": "WICH",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "AUSCH vs WICH - Preview",
+      "score": "AUSCH vs WICH - Need 128 off 79b",
       "status": "Match Details"
     },
     {
-      "title": "ACTW vs BRHW - BRHW won",
+      "title": "IND vs WI - Preview",
       "team1": {
-        "name": "ACTW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "BRHW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "ACTW vs BRHW - BRHW won",
+      "score": "IND vs WI - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENGCH vs SACH - ENGCH won",
+      "team1": {
+        "name": "ENGCH",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "SACH",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "ENGCH vs SACH - ENGCH won",
+      "status": "Match Details"
+    },
+    {
+      "title": "BAN vs ZIM - Preview",
+      "team1": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "BAN vs ZIM - Preview",
       "status": "Match Details"
     },
     {
@@ -108,29 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "England Champions vs South Africa Champions LIVE Semi Final 1",
+      "title": "England Champions vs South Africa Champions Semi Final 1",
       "team1": {
         "name": "England Champions",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "South Africa Champions LIVE Semi Final 1",
+        "name": "South Africa Champions Semi Final 1",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "England Champions vs South Africa Champions LIVE Semi Final 1",
+      "score": "England Champions vs South Africa Champions Semi Final 1",
       "status": "Match Details"
     },
     {
-      "title": "Australia Champions vs West Indies Champions Semi Final 2",
+      "title": "Australia Champions vs West Indies Champions LIVE Semi Final 2",
       "team1": {
         "name": "Australia Champions",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "West Indies Champions Semi Final 2",
+        "name": "West Indies Champions LIVE Semi Final 2",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Australia Champions vs West Indies Champions Semi Final 2",
+      "score": "Australia Champions vs West Indies Champions LIVE Semi Final 2",
       "status": "Match Details"
     },
     {
@@ -160,6 +160,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Boland vs Mpumalanga Rhinos Pool B",
+      "team1": {
+        "name": "Boland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mpumalanga Rhinos Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Boland vs Mpumalanga Rhinos Pool B",
+      "status": "Match Details"
+    },
+    {
       "title": "South Australia vs Queensland 10th Match",
       "team1": {
         "name": "South Australia",
@@ -173,29 +186,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs India Women LIVE 1st T20I",
+      "title": "Zimbabwe Women vs India Women 1st T20I",
       "team1": {
         "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "India Women LIVE 1st T20I",
+        "name": "India Women 1st T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Zimbabwe Women vs India Women LIVE 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bulgaria Women vs Sweden Women 2nd Match",
-      "team1": {
-        "name": "Bulgaria Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sweden Women 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bulgaria Women vs Sweden Women 2nd Match",
+      "score": "Zimbabwe Women vs India Women 1st T20I",
       "status": "Match Details"
     },
     {
@@ -316,6 +316,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Semi Final 1 • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 189-8 (20) South Africa Champions SACH 143 (16.5) England Champions won by 46 runs",
+      "team1": {
+        "name": "Semi Final 1 • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 189",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "8 (20) South Africa Champions SACH 143 (16.5) England Champions won by 46 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Semi Final 1 • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 189-8 (20) South Africa Champions SACH 143 (16.5) England Champions won by 46 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 114-5 (20) India Women INDW 116-6 (15.4) India Women won by 4 wkts",
+      "team1": {
+        "name": "1st T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 114",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "5 (20) India Women INDW 116",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "1st T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 114-5 (20) India Women INDW 116-6 (15.4) India Women won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 39-8 (12) Austria Women AUTW 37-0 (4.5) Austria Women won by 10 wkts (DLS method)",
+      "team1": {
+        "name": "4th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 39",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (12) Austria Women AUTW 37",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "4th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 39-8 (12) Austria Women AUTW 37-0 (4.5) Austria Women won by 10 wkts (DLS method)",
+      "status": "Match Details"
+    },
+    {
       "title": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75-5 (15) Bulgaria Women BGRW 76-8 (13.3) Bulgaria Women won by 2 wkts - 15 overs game",
       "team1": {
         "name": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75",
@@ -326,19 +365,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 75-5 (15) Bulgaria Women BGRW 76-8 (13.3) Bulgaria Women won by 2 wkts - 15 overs game",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 98-9 (20) Sweden Women SWEW 99-0 (5.5) Sweden Women won by 10 wkts",
-      "team1": {
-        "name": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 98",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Sweden Women SWEW 99",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Bulgaria Women BGRW 98-9 (20) Sweden Women SWEW 99-0 (5.5) Sweden Women won by 10 wkts",
       "status": "Match Details"
     }
   ]
