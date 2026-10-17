@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-17 16:30:13 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-10-17 18:46:48 UTC",
+  "total_matches": 52,
   "matches": [
     {
-      "title": "IND vs WI - WI opt to bowl",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "IND vs WI - WI opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs BAN - Need 225 to win",
+      "title": "ZIM vs BAN - ZIM won",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -26,7 +13,20 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "ZIM vs BAN - Need 225 to win",
+      "score": "ZIM vs BAN - ZIM won",
+      "status": "Match Details"
+    },
+    {
+      "title": "IND vs WI - No Result",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "IND vs WI - No Result",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs West Indies LIVE 5th T20I",
+      "title": "India vs West Indies 5th T20I",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "West Indies LIVE 5th T20I",
+        "name": "West Indies 5th T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "India vs West Indies LIVE 5th T20I",
+      "score": "India vs West Indies 5th T20I",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Bangladesh LIVE 1st Match",
+      "title": "Zimbabwe vs Bangladesh 1st Match",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Bangladesh LIVE 1st Match",
+        "name": "Bangladesh 1st Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Zimbabwe vs Bangladesh LIVE 1st Match",
+      "score": "Zimbabwe vs Bangladesh 1st Match",
       "status": "Match Details"
     },
     {
@@ -173,19 +173,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Lions vs Northern Cape Pool A",
-      "team1": {
-        "name": "Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northern Cape Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lions vs Northern Cape Pool A",
-      "status": "Match Details"
-    },
-    {
       "title": "South Africa Emerging Players vs Knights Pool B",
       "team1": {
         "name": "South Africa Emerging Players",
@@ -199,6 +186,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Lions vs Northern Cape Pool A",
+      "team1": {
+        "name": "Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Cape Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lions vs Northern Cape Pool A",
+      "status": "Match Details"
+    },
+    {
       "title": "Assam vs Tripura Elite Group B",
       "team1": {
         "name": "Assam",
@@ -209,6 +209,58 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Assam vs Tripura Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Baroda vs Bihar Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Bihar Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Puducherry vs Madhya Pradesh Elite Group A",
+      "team1": {
+        "name": "Puducherry",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Madhya Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Puducherry vs Madhya Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jammu and Kashmir vs Vidarbha Elite Group A",
+      "team1": {
+        "name": "Jammu and Kashmir",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Vidarbha Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jammu and Kashmir vs Vidarbha Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttar Pradesh vs Goa Elite Group A",
+      "team1": {
+        "name": "Uttar Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Goa Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttar Pradesh vs Goa Elite Group A",
       "status": "Match Details"
     },
     {
@@ -355,58 +407,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Baroda vs Bihar Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bihar Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Bihar Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Puducherry vs Madhya Pradesh Elite Group A",
-      "team1": {
-        "name": "Puducherry",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Madhya Pradesh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Puducherry vs Madhya Pradesh Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jammu and Kashmir vs Vidarbha Elite Group A",
-      "team1": {
-        "name": "Jammu and Kashmir",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Vidarbha Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jammu and Kashmir vs Vidarbha Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttar Pradesh vs Goa Elite Group A",
-      "team1": {
-        "name": "Uttar Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Goa Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttar Pradesh vs Goa Elite Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "South Australia vs Queensland 10th Match",
       "team1": {
         "name": "South Australia",
@@ -456,19 +456,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Arunachal Pradesh vs Sikkim Plate",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zimbabwe Women vs India Women 1st T20I",
-      "team1": {
-        "name": "Zimbabwe Women",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "India Women 1st T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Zimbabwe Women vs India Women 1st T20I",
       "status": "Match Details"
     },
     {
@@ -654,16 +641,16 @@
       "status": "Match Details"
     },
     {
-      "title": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
+      "title": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Zimbabwe ZIM 271-8 (50) Bangladesh BAN 172 (33.4) Zimbabwe won by 99 runs",
       "team1": {
-        "name": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Zimbabwe ZIM 271",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "8 (50) Bangladesh BAN 172 (33.4) Zimbabwe won by 99 runs",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
+      "score": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Zimbabwe ZIM 271-8 (50) Bangladesh BAN 172 (33.4) Zimbabwe won by 99 runs",
       "status": "Match Details"
     },
     {
