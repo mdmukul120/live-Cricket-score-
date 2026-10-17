@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-10-17 18:46:48 UTC",
-  "total_matches": 52,
+  "last_updated": "2026-10-17 21:03:27 UTC",
+  "total_matches": 49,
   "matches": [
-    {
-      "title": "ZIM vs BAN - ZIM won",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "ZIM vs BAN - ZIM won",
-      "status": "Match Details"
-    },
     {
       "title": "IND vs WI - No Result",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "IND vs WI - No Result",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs BAN - ZIM won",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "ZIM vs BAN - ZIM won",
       "status": "Match Details"
     },
     {
@@ -134,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia Champions vs West Indies Champions Semi Final 2",
-      "team1": {
-        "name": "Australia Champions",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "West Indies Champions Semi Final 2",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Australia Champions vs West Indies Champions Semi Final 2",
-      "status": "Match Details"
-    },
-    {
       "title": "England Champions vs West Indies Champions Final",
       "team1": {
         "name": "England Champions",
@@ -173,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Emerging Players vs Knights Pool B",
-      "team1": {
-        "name": "South Africa Emerging Players",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Knights Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Africa Emerging Players vs Knights Pool B",
-      "status": "Match Details"
-    },
-    {
       "title": "Lions vs Northern Cape Pool A",
       "team1": {
         "name": "Lions",
@@ -196,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Lions vs Northern Cape Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa Emerging Players vs Knights Pool B",
+      "team1": {
+        "name": "South Africa Emerging Players",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Knights Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Africa Emerging Players vs Knights Pool B",
       "status": "Match Details"
     },
     {
@@ -651,32 +638,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Zimbabwe ZIM 271-8 (50) Bangladesh BAN 172 (33.4) Zimbabwe won by 99 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 56-9 (20) Sweden Women SWEW 57-0 (5) Sweden Women won by 10 wkts",
-      "team1": {
-        "name": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 56",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Sweden Women SWEW 57",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 56-9 (20) Sweden Women SWEW 57-0 (5) Sweden Women won by 10 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 66-9 (20) Austria Women AUTW 70-3 (9.5) Austria Women won by 7 wkts",
-      "team1": {
-        "name": "5th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 66",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Austria Women AUTW 70",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "5th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 66-9 (20) Austria Women AUTW 70-3 (9.5) Austria Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
