@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-17 01:15:32 UTC",
-  "total_matches": 25,
+  "last_updated": "2026-10-17 05:41:15 UTC",
+  "total_matches": 50,
   "matches": [
     {
       "title": "IND vs WI - Preview",
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Canada vs Nepal 138th Match",
+      "title": "Canada vs Nepal LIVE 138th Match",
       "team1": {
         "name": "Canada",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal 138th Match",
+        "name": "Nepal LIVE 138th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Canada vs Nepal 138th Match",
+      "score": "Canada vs Nepal LIVE 138th Match",
       "status": "Match Details"
     },
     {
@@ -173,6 +173,214 @@
       "status": "Match Details"
     },
     {
+      "title": "Baroda vs Bihar Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Bihar Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Puducherry vs Madhya Pradesh Elite Group A",
+      "team1": {
+        "name": "Puducherry",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Madhya Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Puducherry vs Madhya Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jammu and Kashmir vs Vidarbha Elite Group A",
+      "team1": {
+        "name": "Jammu and Kashmir",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Vidarbha Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jammu and Kashmir vs Vidarbha Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttar Pradesh vs Goa Elite Group A",
+      "team1": {
+        "name": "Uttar Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Goa Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttar Pradesh vs Goa Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Andhra vs Hyderabad Elite Group B",
+      "team1": {
+        "name": "Andhra",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hyderabad Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Andhra vs Hyderabad Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Karnataka vs Saurashtra Elite Group B",
+      "team1": {
+        "name": "Karnataka",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saurashtra Elite Group B",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Karnataka vs Saurashtra Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Punjab vs Chhattisgarh Elite Group B",
+      "team1": {
+        "name": "Punjab",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chhattisgarh Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Punjab vs Chhattisgarh Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Assam vs Tripura Elite Group B",
+      "team1": {
+        "name": "Assam",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Tripura Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Assam vs Tripura Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Maharashtra vs Jharkhand Elite Group C",
+      "team1": {
+        "name": "Maharashtra",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jharkhand Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Maharashtra vs Jharkhand Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Delhi vs Gujarat Elite Group C",
+      "team1": {
+        "name": "Delhi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gujarat Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Delhi vs Gujarat Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Services vs Bengal Elite Group C",
+      "team1": {
+        "name": "Services",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bengal Elite Group C",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Services vs Bengal Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kerala vs Odisha Elite Group C",
+      "team1": {
+        "name": "Kerala",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Odisha Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kerala vs Odisha Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Haryana vs Chandigarh Elite Group D",
+      "team1": {
+        "name": "Haryana",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chandigarh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Haryana vs Chandigarh Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Himachal Pradesh vs Mumbai Elite Group D",
+      "team1": {
+        "name": "Himachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mumbai Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Himachal Pradesh vs Mumbai Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tamil Nadu vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Tamil Nadu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tamil Nadu vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Railways Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Railways Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Railways Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "South Australia vs Queensland LIVE 10th Match",
       "team1": {
         "name": "South Australia",
@@ -183,6 +391,45 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "South Australia vs Queensland LIVE 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Meghalaya vs Manipur Plate",
+      "team1": {
+        "name": "Meghalaya",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manipur Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Meghalaya vs Manipur Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nagaland vs Mizoram Plate",
+      "team1": {
+        "name": "Nagaland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mizoram Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nagaland vs Mizoram Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Arunachal Pradesh vs Sikkim Plate",
+      "team1": {
+        "name": "Arunachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sikkim Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Arunachal Pradesh vs Sikkim Plate",
       "status": "Match Details"
     },
     {
@@ -264,55 +511,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Perth Scorchers Women vs Hobart Hurricanes Women LIVE 11th Match",
-      "team1": {
-        "name": "Perth Scorchers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hobart Hurricanes Women LIVE 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Perth Scorchers Women vs Hobart Hurricanes Women LIVE 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Melbourne Renegades Women vs Sydney Thunder Women LIVE 12th Match",
+      "title": "Melbourne Renegades Women vs Sydney Thunder Women 12th Match",
       "team1": {
         "name": "Melbourne Renegades Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sydney Thunder Women LIVE 12th Match",
+        "name": "Sydney Thunder Women 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Melbourne Renegades Women vs Sydney Thunder Women LIVE 12th Match",
+      "score": "Melbourne Renegades Women vs Sydney Thunder Women 12th Match",
       "status": "Match Details"
     },
     {
-      "title": "ACT Women vs Melbourne Stars Women 13th Match",
+      "title": "Perth Scorchers Women vs Hobart Hurricanes Women 11th Match",
+      "team1": {
+        "name": "Perth Scorchers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hobart Hurricanes Women 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Perth Scorchers Women vs Hobart Hurricanes Women 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "ACT Women vs Melbourne Stars Women LIVE 13th Match",
       "team1": {
         "name": "ACT Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Melbourne Stars Women 13th Match",
+        "name": "Melbourne Stars Women LIVE 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ACT Women vs Melbourne Stars Women 13th Match",
+      "score": "ACT Women vs Melbourne Stars Women LIVE 13th Match",
       "status": "Match Details"
     },
     {
-      "title": "Sydney Sixers Women vs Adelaide Strikers Women 14th Match",
+      "title": "Adelaide Strikers Women vs Sydney Sixers Women LIVE 14th Match",
       "team1": {
-        "name": "Sydney Sixers Women",
+        "name": "Adelaide Strikers Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Adelaide Strikers Women 14th Match",
+        "name": "Sydney Sixers Women LIVE 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sydney Sixers Women vs Adelaide Strikers Women 14th Match",
+      "score": "Adelaide Strikers Women vs Sydney Sixers Women LIVE 14th Match",
       "status": "Match Details"
     },
     {
@@ -326,6 +573,84 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Melbourne Renegades Women vs Hobart Hurricanes Women 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Brisbane Heat Women vs Adelaide Strikers Women 16th Match",
+      "team1": {
+        "name": "Brisbane Heat Women",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "Adelaide Strikers Women 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brisbane Heat Women vs Adelaide Strikers Women 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Thunder Women vs Perth Scorchers Women 17th Match",
+      "team1": {
+        "name": "Sydney Thunder Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Perth Scorchers Women 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sydney Thunder Women vs Perth Scorchers Women 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 68 (16.2) Warriors WAR 70-1 (9.3) Warriors won by 9 wkts",
+      "team1": {
+        "name": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 68 (16.2) Warriors WAR 70",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "1 (9.3) Warriors won by 9 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 68 (16.2) Warriors WAR 70-1 (9.3) Warriors won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool A • Polokwane, Polokwane Cricket Club Border BOR 166-3 (20) Limpopo LIMPO 163-9 (20) Border won by 3 runs",
+      "team1": {
+        "name": "Pool A • Polokwane, Polokwane Cricket Club Border BOR 166",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (20) Limpopo LIMPO 163",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool A • Polokwane, Polokwane Cricket Club Border BOR 166-3 (20) Limpopo LIMPO 163-9 (20) Border won by 3 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 166-8 (20) Hobart Hurricanes Women HBHW 136-5 (20) Perth Scorchers Women won by 30 runs",
+      "team1": {
+        "name": "11th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 166",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Hobart Hurricanes Women HBHW 136",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 166-8 (20) Hobart Hurricanes Women HBHW 136-5 (20) Perth Scorchers Women won by 30 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match • Sydney, Blacktown Olympic Park No 2 Oval Melbourne Renegades Women MLRW 121-9 (20) Sydney Thunder Women SYTW 122-5 (18.5) Sydney Thunder Women won by 5 wkts",
+      "team1": {
+        "name": "12th Match • Sydney, Blacktown Olympic Park No 2 Oval Melbourne Renegades Women MLRW 121",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Sydney Thunder Women SYTW 122",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "12th Match • Sydney, Blacktown Olympic Park No 2 Oval Melbourne Renegades Women MLRW 121-9 (20) Sydney Thunder Women SYTW 122-5 (18.5) Sydney Thunder Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
