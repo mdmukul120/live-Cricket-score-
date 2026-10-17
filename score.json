@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-17 05:41:15 UTC",
-  "total_matches": 50,
+  "last_updated": "2026-10-17 09:42:39 UTC",
+  "total_matches": 54,
   "matches": [
     {
       "title": "IND vs WI - Preview",
@@ -82,16 +82,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Canada vs Nepal LIVE 138th Match",
+      "title": "South Africa vs Australia 2nd Test",
       "team1": {
-        "name": "Canada",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Africa",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Nepal LIVE 138th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Australia 2nd Test",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Canada vs Nepal LIVE 138th Match",
+      "score": "South Africa vs Australia 2nd Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan vs Sri Lanka 1st Match",
+      "team1": {
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 1st Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan vs Sri Lanka 1st Match",
       "status": "Match Details"
     },
     {
@@ -105,6 +118,19 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "Bangladesh vs Zimbabwe 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Canada vs Nepal LIVE 138th Match",
+      "team1": {
+        "name": "Canada",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal LIVE 138th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Canada vs Nepal LIVE 138th Match",
       "status": "Match Details"
     },
     {
@@ -381,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Australia vs Queensland LIVE 10th Match",
+      "title": "South Australia vs Queensland 10th Match",
       "team1": {
         "name": "South Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Queensland LIVE 10th Match",
+        "name": "Queensland 10th Match",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "South Australia vs Queensland LIVE 10th Match",
+      "score": "South Australia vs Queensland 10th Match",
       "status": "Match Details"
     },
     {
@@ -446,6 +472,123 @@
       "status": "Match Details"
     },
     {
+      "title": "Perth Scorchers Women vs Hobart Hurricanes Women 11th Match",
+      "team1": {
+        "name": "Perth Scorchers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hobart Hurricanes Women 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Perth Scorchers Women vs Hobart Hurricanes Women 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Melbourne Renegades Women vs Sydney Thunder Women 12th Match",
+      "team1": {
+        "name": "Melbourne Renegades Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sydney Thunder Women 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Melbourne Renegades Women vs Sydney Thunder Women 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "ACT Women vs Melbourne Stars Women 13th Match",
+      "team1": {
+        "name": "ACT Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Melbourne Stars Women 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ACT Women vs Melbourne Stars Women 13th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Adelaide Strikers Women vs Sydney Sixers Women 14th Match",
+      "team1": {
+        "name": "Adelaide Strikers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sydney Sixers Women 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Adelaide Strikers Women vs Sydney Sixers Women 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Melbourne Renegades Women vs Hobart Hurricanes Women 15th Match",
+      "team1": {
+        "name": "Melbourne Renegades Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hobart Hurricanes Women 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Melbourne Renegades Women vs Hobart Hurricanes Women 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Brisbane Heat Women vs Adelaide Strikers Women 16th Match",
+      "team1": {
+        "name": "Brisbane Heat Women",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "Adelaide Strikers Women 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Brisbane Heat Women vs Adelaide Strikers Women 16th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Thunder Women vs Perth Scorchers Women 17th Match",
+      "team1": {
+        "name": "Sydney Thunder Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Perth Scorchers Women 17th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sydney Thunder Women vs Perth Scorchers Women 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Sixers Women vs Melbourne Stars Women 18th Match",
+      "team1": {
+        "name": "Sydney Sixers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Melbourne Stars Women 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sydney Sixers Women vs Melbourne Stars Women 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia Women vs New Zealand Women 1st T20I",
+      "team1": {
+        "name": "Australia Women",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "New Zealand Women 1st T20I",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Australia Women vs New Zealand Women 1st T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Romania Women vs Bulgaria Women 3rd Match",
       "team1": {
         "name": "Romania Women",
@@ -498,107 +641,16 @@
       "status": "Match Details"
     },
     {
-      "title": "ACT Women vs Brisbane Heat Women 10th Match",
+      "title": "TBC vs TBC 3rd place play-off",
       "team1": {
-        "name": "ACT Women",
+        "name": "TBC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Brisbane Heat Women 10th Match",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "ACT Women vs Brisbane Heat Women 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Melbourne Renegades Women vs Sydney Thunder Women 12th Match",
-      "team1": {
-        "name": "Melbourne Renegades Women",
+        "name": "TBC 3rd place play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "Sydney Thunder Women 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Melbourne Renegades Women vs Sydney Thunder Women 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Perth Scorchers Women vs Hobart Hurricanes Women 11th Match",
-      "team1": {
-        "name": "Perth Scorchers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hobart Hurricanes Women 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Perth Scorchers Women vs Hobart Hurricanes Women 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "ACT Women vs Melbourne Stars Women LIVE 13th Match",
-      "team1": {
-        "name": "ACT Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Melbourne Stars Women LIVE 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ACT Women vs Melbourne Stars Women LIVE 13th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Adelaide Strikers Women vs Sydney Sixers Women LIVE 14th Match",
-      "team1": {
-        "name": "Adelaide Strikers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sydney Sixers Women LIVE 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Adelaide Strikers Women vs Sydney Sixers Women LIVE 14th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Melbourne Renegades Women vs Hobart Hurricanes Women 15th Match",
-      "team1": {
-        "name": "Melbourne Renegades Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hobart Hurricanes Women 15th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Melbourne Renegades Women vs Hobart Hurricanes Women 15th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Brisbane Heat Women vs Adelaide Strikers Women 16th Match",
-      "team1": {
-        "name": "Brisbane Heat Women",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "Adelaide Strikers Women 16th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Brisbane Heat Women vs Adelaide Strikers Women 16th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sydney Thunder Women vs Perth Scorchers Women 17th Match",
-      "team1": {
-        "name": "Sydney Thunder Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Perth Scorchers Women 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sydney Thunder Women vs Perth Scorchers Women 17th Match",
+      "score": "TBC vs TBC 3rd place play-off",
       "status": "Match Details"
     },
     {
@@ -615,42 +667,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Pool A • Polokwane, Polokwane Cricket Club Border BOR 166-3 (20) Limpopo LIMPO 163-9 (20) Border won by 3 runs",
+      "title": "10th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 397-7 (50) Queensland QL 271 (40.1) South Australia won by 126 runs",
       "team1": {
-        "name": "Pool A • Polokwane, Polokwane Cricket Club Border BOR 166",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "10th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 397",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "3 (20) Limpopo LIMPO 163",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7 (50) Queensland QL 271 (40.1) South Australia won by 126 runs",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Pool A • Polokwane, Polokwane Cricket Club Border BOR 166-3 (20) Limpopo LIMPO 163-9 (20) Border won by 3 runs",
+      "score": "10th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 397-7 (50) Queensland QL 271 (40.1) South Australia won by 126 runs",
       "status": "Match Details"
     },
     {
-      "title": "11th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 166-8 (20) Hobart Hurricanes Women HBHW 136-5 (20) Perth Scorchers Women won by 30 runs",
+      "title": "13th Match • Sydney, Blacktown Olympic Park No 2 Oval ACT Women ACTW 129-4 (20) Melbourne Stars Women MLSW 132-6 (19.1) Melbourne Stars Women won by 4 wkts",
       "team1": {
-        "name": "11th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 166",
+        "name": "13th Match • Sydney, Blacktown Olympic Park No 2 Oval ACT Women ACTW 129",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) Hobart Hurricanes Women HBHW 136",
+        "name": "4 (20) Melbourne Stars Women MLSW 132",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "11th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 166-8 (20) Hobart Hurricanes Women HBHW 136-5 (20) Perth Scorchers Women won by 30 runs",
+      "score": "13th Match • Sydney, Blacktown Olympic Park No 2 Oval ACT Women ACTW 129-4 (20) Melbourne Stars Women MLSW 132-6 (19.1) Melbourne Stars Women won by 4 wkts",
       "status": "Match Details"
     },
     {
-      "title": "12th Match • Sydney, Blacktown Olympic Park No 2 Oval Melbourne Renegades Women MLRW 121-9 (20) Sydney Thunder Women SYTW 122-5 (18.5) Sydney Thunder Women won by 5 wkts",
+      "title": "14th Match • Sydney, Blacktown International Sportspark Adelaide Strikers Women ADSW 143-6 (20) Sydney Sixers Women SYSW 105-9 (20) Adelaide Strikers Women won by 38 runs",
       "team1": {
-        "name": "12th Match • Sydney, Blacktown Olympic Park No 2 Oval Melbourne Renegades Women MLRW 121",
+        "name": "14th Match • Sydney, Blacktown International Sportspark Adelaide Strikers Women ADSW 143",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) Sydney Thunder Women SYTW 122",
+        "name": "6 (20) Sydney Sixers Women SYSW 105",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "12th Match • Sydney, Blacktown Olympic Park No 2 Oval Melbourne Renegades Women MLRW 121-9 (20) Sydney Thunder Women SYTW 122-5 (18.5) Sydney Thunder Women won by 5 wkts",
+      "score": "14th Match • Sydney, Blacktown International Sportspark Adelaide Strikers Women ADSW 143-6 (20) Sydney Sixers Women SYSW 105-9 (20) Adelaide Strikers Women won by 38 runs",
       "status": "Match Details"
     }
   ]
