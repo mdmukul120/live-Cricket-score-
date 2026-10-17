@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-17 09:42:39 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-10-17 13:15:51 UTC",
+  "total_matches": 53,
   "matches": [
     {
-      "title": "IND vs WI - Preview",
+      "title": "IND vs WI - Delay",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,33 @@
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs WI - Preview",
+      "score": "IND vs WI - Delay",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs BAN - ZIM opt to bat",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "ZIM vs BAN - ZIM opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "CAN vs NEP - CAN won",
+      "team1": {
+        "name": "CAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "CAN vs NEP - CAN won",
       "status": "Match Details"
     },
     {
@@ -30,19 +56,6 @@
       "status": "Match Details"
     },
     {
-      "title": "BAN vs ZIM - Preview",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "BAN vs ZIM - Preview",
-      "status": "Match Details"
-    },
-    {
       "title": "AUSCH vs WICH - WICH won",
       "team1": {
         "name": "AUSCH",
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "AUSCH vs WICH - WICH won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENGCH vs SACH - ENGCH won",
-      "team1": {
-        "name": "ENGCH",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SACH",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "ENGCH vs SACH - ENGCH won",
       "status": "Match Details"
     },
     {
@@ -108,29 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh vs Zimbabwe 1st Match",
+      "title": "Zimbabwe vs Bangladesh LIVE 1st Match",
       "team1": {
-        "name": "Bangladesh",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "Zimbabwe 1st Match",
+        "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Bangladesh vs Zimbabwe 1st Match",
+      "team2": {
+        "name": "Bangladesh LIVE 1st Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Zimbabwe vs Bangladesh LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Canada vs Nepal LIVE 138th Match",
+      "title": "Canada vs Nepal 138th Match",
       "team1": {
         "name": "Canada",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal LIVE 138th Match",
+        "name": "Nepal 138th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Canada vs Nepal LIVE 138th Match",
+      "score": "Canada vs Nepal 138th Match",
       "status": "Match Details"
     },
     {
@@ -196,6 +196,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Boland vs Mpumalanga Rhinos Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lions vs Northern Cape Pool A",
+      "team1": {
+        "name": "Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Cape Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lions vs Northern Cape Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Africa Emerging Players vs Knights Pool B",
+      "team1": {
+        "name": "South Africa Emerging Players",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Knights Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Africa Emerging Players vs Knights Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Assam vs Tripura Elite Group B",
+      "team1": {
+        "name": "Assam",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Tripura Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Assam vs Tripura Elite Group B",
       "status": "Match Details"
     },
     {
@@ -287,19 +326,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Punjab vs Chhattisgarh Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Assam vs Tripura Elite Group B",
-      "team1": {
-        "name": "Assam",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Tripura Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Assam vs Tripura Elite Group B",
       "status": "Match Details"
     },
     {
@@ -589,19 +615,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Romania Women vs Bulgaria Women 3rd Match",
-      "team1": {
-        "name": "Romania Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bulgaria Women 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Romania Women vs Bulgaria Women 3rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Bulgaria Women vs Austria Women 4th Match",
       "team1": {
         "name": "Bulgaria Women",
@@ -641,68 +654,42 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC 3rd place play-off",
+      "title": "Romania Women vs Bulgaria Women 3rd place play-off",
       "team1": {
-        "name": "TBC",
+        "name": "Romania Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC 3rd place play",
+        "name": "Bulgaria Women 3rd place play",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC 3rd place play-off",
+      "score": "Romania Women vs Bulgaria Women 3rd place play-off",
       "status": "Match Details"
     },
     {
-      "title": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 68 (16.2) Warriors WAR 70-1 (9.3) Warriors won by 9 wkts",
+      "title": "Austria Women vs Sweden Women Final",
       "team1": {
-        "name": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 68 (16.2) Warriors WAR 70",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "1 (9.3) Warriors won by 9 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool A • Oudtshoorn, Recreation Ground South Western Districts SWD 68 (16.2) Warriors WAR 70-1 (9.3) Warriors won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 397-7 (50) Queensland QL 271 (40.1) South Australia won by 126 runs",
-      "team1": {
-        "name": "10th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 397",
+        "name": "Austria Women",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "7 (50) Queensland QL 271 (40.1) South Australia won by 126 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Sweden Women Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "10th Match • Adelaide, South Australia, Karen Rolton Oval South Australia SAUS 397-7 (50) Queensland QL 271 (40.1) South Australia won by 126 runs",
+      "score": "Austria Women vs Sweden Women Final",
       "status": "Match Details"
     },
     {
-      "title": "13th Match • Sydney, Blacktown Olympic Park No 2 Oval ACT Women ACTW 129-4 (20) Melbourne Stars Women MLSW 132-6 (19.1) Melbourne Stars Women won by 4 wkts",
+      "title": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
       "team1": {
-        "name": "13th Match • Sydney, Blacktown Olympic Park No 2 Oval ACT Women ACTW 129",
+        "name": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "4 (20) Melbourne Stars Women MLSW 132",
+        "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "13th Match • Sydney, Blacktown Olympic Park No 2 Oval ACT Women ACTW 129-4 (20) Melbourne Stars Women MLSW 132-6 (19.1) Melbourne Stars Women won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "14th Match • Sydney, Blacktown International Sportspark Adelaide Strikers Women ADSW 143-6 (20) Sydney Sixers Women SYSW 105-9 (20) Adelaide Strikers Women won by 38 runs",
-      "team1": {
-        "name": "14th Match • Sydney, Blacktown International Sportspark Adelaide Strikers Women ADSW 143",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Sydney Sixers Women SYSW 105",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "14th Match • Sydney, Blacktown International Sportspark Adelaide Strikers Women ADSW 143-6 (20) Sydney Sixers Women SYSW 105-9 (20) Adelaide Strikers Women won by 38 runs",
+      "score": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
       "status": "Match Details"
     }
   ]
