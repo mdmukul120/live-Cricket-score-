@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-17 13:15:51 UTC",
+  "last_updated": "2026-10-17 16:30:13 UTC",
   "total_matches": 53,
   "matches": [
     {
-      "title": "IND vs WI - Delay",
+      "title": "IND vs WI - WI opt to bowl",
       "team1": {
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs WI - Delay",
+      "score": "IND vs WI - WI opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "ZIM vs BAN - ZIM opt to bat",
+      "title": "ZIM vs BAN - Need 225 to win",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -26,59 +26,59 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "ZIM vs BAN - ZIM opt to bat",
+      "score": "ZIM vs BAN - Need 225 to win",
       "status": "Match Details"
     },
     {
-      "title": "CAN vs NEP - CAN won",
+      "title": "RSA vs AUS - Preview",
       "team1": {
-        "name": "CAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "CAN vs NEP - CAN won",
+      "score": "RSA vs AUS - Preview",
       "status": "Match Details"
     },
     {
-      "title": "ZIMW vs INDW - INDW won",
+      "title": "INDW vs ZIMW - Preview",
       "team1": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ZIMW vs INDW - INDW won",
+      "team2": {
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "INDW vs ZIMW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "AUSCH vs WICH - WICH won",
+      "title": "ENGCH vs WICH - Preview",
       "team1": {
-        "name": "AUSCH",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "ENGCH",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
         "name": "WICH",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "AUSCH vs WICH - WICH won",
+      "score": "ENGCH vs WICH - Preview",
       "status": "Match Details"
     },
     {
-      "title": "India vs West Indies 5th T20I",
+      "title": "India vs West Indies LIVE 5th T20I",
       "team1": {
         "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "West Indies 5th T20I",
+        "name": "West Indies LIVE 5th T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "India vs West Indies 5th T20I",
+      "score": "India vs West Indies LIVE 5th T20I",
       "status": "Match Details"
     },
     {
@@ -134,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "England Champions vs South Africa Champions Semi Final 1",
-      "team1": {
-        "name": "England Champions",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "South Africa Champions Semi Final 1",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "England Champions vs South Africa Champions Semi Final 1",
-      "status": "Match Details"
-    },
-    {
       "title": "Australia Champions vs West Indies Champions Semi Final 2",
       "team1": {
         "name": "Australia Champions",
@@ -160,29 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Warriors Pool A",
+      "title": "England Champions vs West Indies Champions Final",
       "team1": {
-        "name": "South Western Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England Champions",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Warriors Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "West Indies Champions Final",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "South Western Districts vs Warriors Pool A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Border vs Limpopo Pool A",
-      "team1": {
-        "name": "Border",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Limpopo Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Border vs Limpopo Pool A",
+      "score": "England Champions vs West Indies Champions Final",
       "status": "Match Details"
     },
     {
@@ -235,58 +209,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Assam vs Tripura Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Baroda vs Bihar Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bihar Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Bihar Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Puducherry vs Madhya Pradesh Elite Group A",
-      "team1": {
-        "name": "Puducherry",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Madhya Pradesh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Puducherry vs Madhya Pradesh Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jammu and Kashmir vs Vidarbha Elite Group A",
-      "team1": {
-        "name": "Jammu and Kashmir",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Vidarbha Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jammu and Kashmir vs Vidarbha Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttar Pradesh vs Goa Elite Group A",
-      "team1": {
-        "name": "Uttar Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Goa Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttar Pradesh vs Goa Elite Group A",
       "status": "Match Details"
     },
     {
@@ -433,6 +355,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Baroda vs Bihar Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Bihar Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Puducherry vs Madhya Pradesh Elite Group A",
+      "team1": {
+        "name": "Puducherry",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Madhya Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Puducherry vs Madhya Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jammu and Kashmir vs Vidarbha Elite Group A",
+      "team1": {
+        "name": "Jammu and Kashmir",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Vidarbha Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jammu and Kashmir vs Vidarbha Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttar Pradesh vs Goa Elite Group A",
+      "team1": {
+        "name": "Uttar Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Goa Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttar Pradesh vs Goa Elite Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "South Australia vs Queensland 10th Match",
       "team1": {
         "name": "South Australia",
@@ -495,6 +469,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Zimbabwe Women vs India Women 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "India Women vs Zimbabwe Women 2nd T20I",
+      "team1": {
+        "name": "India Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Zimbabwe Women 2nd T20I",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "India Women vs Zimbabwe Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -615,19 +602,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bulgaria Women vs Austria Women 4th Match",
-      "team1": {
-        "name": "Bulgaria Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Austria Women 4th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Bulgaria Women vs Austria Women 4th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Romania Women vs Austria Women 5th Match",
       "team1": {
         "name": "Romania Women",
@@ -654,19 +628,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Romania Women vs Bulgaria Women 3rd place play-off",
-      "team1": {
-        "name": "Romania Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bulgaria Women 3rd place play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Romania Women vs Bulgaria Women 3rd place play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "Austria Women vs Sweden Women Final",
       "team1": {
         "name": "Austria Women",
@@ -680,6 +641,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Romania Women vs Bulgaria Women 3rd place play-off",
+      "team1": {
+        "name": "Romania Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bulgaria Women 3rd place play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Romania Women vs Bulgaria Women 3rd place play-off",
+      "status": "Match Details"
+    },
+    {
       "title": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
       "team1": {
         "name": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
@@ -690,6 +664,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "138th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Canada CAN 256 (50) Nepal NEP 232 (46) Canada won by 24 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 56-9 (20) Sweden Women SWEW 57-0 (5) Sweden Women won by 10 wkts",
+      "team1": {
+        "name": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 56",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Sweden Women SWEW 57",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 56-9 (20) Sweden Women SWEW 57-0 (5) Sweden Women won by 10 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 66-9 (20) Austria Women AUTW 70-3 (9.5) Austria Women won by 7 wkts",
+      "team1": {
+        "name": "5th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 66",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Austria Women AUTW 70",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "5th Match • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Romania Women ROMW 66-9 (20) Austria Women AUTW 70-3 (9.5) Austria Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
