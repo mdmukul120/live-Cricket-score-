@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-18 13:53:49 UTC",
-  "total_matches": 50,
+  "last_updated": "2026-10-18 17:06:30 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "ZIMW vs INDW - ZIMW opt to bat",
+      "title": "ZIMW vs INDW - INDW won",
       "team1": {
         "name": "ZIMW",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -13,11 +13,11 @@
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ZIMW vs INDW - ZIMW opt to bat",
+      "score": "ZIMW vs INDW - INDW won",
       "status": "Match Details"
     },
     {
-      "title": "PAK vs SL - Need 239 to win",
+      "title": "PAK vs SL - PAK won",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -26,11 +26,11 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAK vs SL - Need 239 to win",
+      "score": "PAK vs SL - PAK won",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - Rain",
+      "title": "RSA vs AUS - Stumps",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -39,11 +39,11 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - Rain",
+      "score": "RSA vs AUS - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "ENGCH vs WICH - Preview",
+      "title": "ENGCH vs WICH - WICH opt to bowl",
       "team1": {
         "name": "ENGCH",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -52,7 +52,7 @@
         "name": "WICH",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "ENGCH vs WICH - Preview",
+      "score": "ENGCH vs WICH - WICH opt to bowl",
       "status": "Match Details"
     },
     {
@@ -69,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "India vs West Indies 5th T20I",
-      "team1": {
-        "name": "India",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "West Indies 5th T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "India vs West Indies 5th T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "South Africa vs Australia 2nd Test",
       "team1": {
         "name": "South Africa",
@@ -95,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs Sri Lanka LIVE 1st Match",
+      "title": "Pakistan vs Sri Lanka 1st Match",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 1st Match",
+        "name": "Sri Lanka 1st Match",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan vs Sri Lanka LIVE 1st Match",
+      "score": "Pakistan vs Sri Lanka 1st Match",
       "status": "Match Details"
     },
     {
@@ -134,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Canada vs Nepal 138th Match",
-      "team1": {
-        "name": "Canada",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 138th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Canada vs Nepal 138th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Oman vs Nepal 139th Match",
       "team1": {
         "name": "Oman",
@@ -160,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "England Champions vs West Indies Champions Final",
+      "title": "England Champions vs West Indies Champions LIVE Final",
       "team1": {
         "name": "England Champions",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "West Indies Champions Final",
+        "name": "West Indies Champions LIVE Final",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "England Champions vs West Indies Champions Final",
+      "score": "England Champions vs West Indies Champions LIVE Final",
       "status": "Match Details"
     },
     {
@@ -186,29 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Lions vs Northern Cape Pool A",
+      "title": "Northern Cape vs Lions Pool A",
       "team1": {
-        "name": "Lions",
+        "name": "Northern Cape",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Cape Pool A",
+        "name": "Lions Pool A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lions vs Northern Cape Pool A",
+      "score": "Northern Cape vs Lions Pool A",
       "status": "Match Details"
     },
     {
-      "title": "South Africa Emerging Players vs Knights Pool B",
+      "title": "Knights vs South Africa Emerging Players Pool B",
       "team1": {
-        "name": "South Africa Emerging Players",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Knights Pool B",
+        "name": "Knights",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa Emerging Players vs Knights Pool B",
+      "team2": {
+        "name": "South Africa Emerging Players Pool B",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Knights vs South Africa Emerging Players Pool B",
       "status": "Match Details"
     },
     {
@@ -498,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs India Women LIVE 2nd T20I",
+      "title": "Zimbabwe Women vs India Women 2nd T20I",
       "team1": {
         "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "India Women LIVE 2nd T20I",
+        "name": "India Women 2nd T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Zimbabwe Women vs India Women LIVE 2nd T20I",
+      "score": "Zimbabwe Women vs India Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -576,19 +550,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Romania Women vs Sweden Women 6th Match",
-      "team1": {
-        "name": "Romania Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sweden Women 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Romania Women vs Sweden Women 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Sweden Women vs Austria Women Final",
       "team1": {
         "name": "Sweden Women",
@@ -615,6 +576,19 @@
       "status": "Match Details"
     },
     {
+      "title": "1st Match • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 305 (49.5) Sri Lanka SL 268 (48.1) Pakistan won by 37 runs",
+      "team1": {
+        "name": "1st Match • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 305 (49.5) Sri Lanka SL 268 (48.1) Pakistan won by 37 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 305 (49.5) Sri Lanka SL 268 (48.1) Pakistan won by 37 runs",
+      "status": "Match Details"
+    },
+    {
       "title": "1st T20I • Sydney, North Sydney Oval New Zealand Women NZW 162-2 (20) Australia Women AUSW 165-8 (18.5) Australia Women won by 2 wkts",
       "team1": {
         "name": "1st T20I • Sydney, North Sydney Oval New Zealand Women NZW 162",
@@ -628,29 +602,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Sweden Women SWEW 124-9 (20) Austria Women AUTW 60 (15) Sweden Women won by 64 runs",
+      "title": "2nd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 102-8 (20) India Women INDW 104-1 (8.5) India Women won by 9 wkts",
       "team1": {
-        "name": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Sweden Women SWEW 124",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "2nd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 102",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "9 (20) Austria Women AUTW 60 (15) Sweden Women won by 64 runs",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "8 (20) India Women INDW 104",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Sweden Women SWEW 124-9 (20) Austria Women AUTW 60 (15) Sweden Women won by 64 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "18th Match • Sydney, Blacktown International Sportspark Sydney Sixers Women SYSW 155-8 (20) Melbourne Stars Women MLSW 158-5 (20) Melbourne Stars Women won by 5 wkts",
-      "team1": {
-        "name": "18th Match • Sydney, Blacktown International Sportspark Sydney Sixers Women SYSW 155",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Melbourne Stars Women MLSW 158",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "18th Match • Sydney, Blacktown International Sportspark Sydney Sixers Women SYSW 155-8 (20) Melbourne Stars Women MLSW 158-5 (20) Melbourne Stars Women won by 5 wkts",
+      "score": "2nd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 102-8 (20) India Women INDW 104-1 (8.5) India Women won by 9 wkts",
       "status": "Match Details"
     }
   ]
