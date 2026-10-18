@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-10-18 09:56:25 UTC",
+  "last_updated": "2026-10-18 13:53:49 UTC",
   "total_matches": 50,
   "matches": [
     {
-      "title": "PAK vs SL - SL opt to bowl",
+      "title": "ZIMW vs INDW - ZIMW opt to bat",
+      "team1": {
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "ZIMW vs INDW - ZIMW opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs SL - Need 239 to win",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,11 +26,11 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAK vs SL - SL opt to bowl",
+      "score": "PAK vs SL - Need 239 to win",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - Delay",
+      "title": "RSA vs AUS - Rain",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,46 +39,33 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - Delay",
+      "score": "RSA vs AUS - Rain",
       "status": "Match Details"
     },
     {
-      "title": "NZW vs AUSW - Need 163 to win",
+      "title": "ENGCH vs WICH - Preview",
       "team1": {
-        "name": "NZW",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "ENGCH",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "AUSW",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "NZW vs AUSW - Need 163 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs ZIMW - Preview",
-      "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "INDW vs ZIMW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "IND vs WI - No Result",
-      "team1": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "WI",
+        "name": "WICH",
         "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "IND vs WI - No Result",
+      "score": "ENGCH vs WICH - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "KAR vs SAUR - Stumps",
+      "team1": {
+        "name": "KAR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SAUR",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "KAR vs SAUR - Stumps",
       "status": "Match Details"
     },
     {
@@ -118,6 +118,19 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "Zimbabwe vs Bangladesh 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan vs Zimbabwe 2nd Match",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Zimbabwe 2nd Match",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Afghanistan vs Zimbabwe 2nd Match",
       "status": "Match Details"
     },
     {
@@ -199,81 +212,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Assam vs Tripura LIVE Elite Group B",
+      "title": "Assam vs Tripura Elite Group B",
       "team1": {
         "name": "Assam",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Tripura LIVE Elite Group B",
+        "name": "Tripura Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Assam vs Tripura LIVE Elite Group B",
+      "score": "Assam vs Tripura Elite Group B",
       "status": "Match Details"
     },
     {
-      "title": "Chandigarh vs Haryana LIVE Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana LIVE Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Haryana LIVE Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Himachal Pradesh vs Mumbai LIVE Elite Group D",
-      "team1": {
-        "name": "Himachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mumbai LIVE Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Himachal Pradesh vs Mumbai LIVE Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttarakhand vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Uttarakhand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttarakhand vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Railways Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Railways Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Railways Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bihar vs Baroda LIVE Elite Group A",
+      "title": "Bihar vs Baroda Elite Group A",
       "team1": {
         "name": "Bihar",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Baroda LIVE Elite Group A",
+        "name": "Baroda Elite Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bihar vs Baroda LIVE Elite Group A",
+      "score": "Bihar vs Baroda Elite Group A",
       "status": "Match Details"
     },
     {
@@ -316,29 +277,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Hyderabad vs Andhra LIVE Elite Group B",
+      "title": "Hyderabad vs Andhra Elite Group B",
       "team1": {
         "name": "Hyderabad",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Andhra LIVE Elite Group B",
+        "name": "Andhra Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hyderabad vs Andhra LIVE Elite Group B",
+      "score": "Hyderabad vs Andhra Elite Group B",
       "status": "Match Details"
     },
     {
-      "title": "Karnataka vs Saurashtra LIVE Elite Group B",
+      "title": "Karnataka vs Saurashtra Elite Group B",
       "team1": {
         "name": "Karnataka",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Saurashtra LIVE Elite Group B",
+        "name": "Saurashtra Elite Group B",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Karnataka vs Saurashtra LIVE Elite Group B",
+      "score": "Karnataka vs Saurashtra Elite Group B",
       "status": "Match Details"
     },
     {
@@ -368,29 +329,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Delhi vs Gujarat LIVE Elite Group C",
+      "title": "Delhi vs Gujarat Elite Group C",
       "team1": {
         "name": "Delhi",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Gujarat LIVE Elite Group C",
+        "name": "Gujarat Elite Group C",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Delhi vs Gujarat LIVE Elite Group C",
+      "score": "Delhi vs Gujarat Elite Group C",
       "status": "Match Details"
     },
     {
-      "title": "Bengal vs Services LIVE Elite Group C",
+      "title": "Bengal vs Services Elite Group C",
       "team1": {
         "name": "Bengal",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Services LIVE Elite Group C",
+        "name": "Services Elite Group C",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bengal vs Services LIVE Elite Group C",
+      "score": "Bengal vs Services Elite Group C",
       "status": "Match Details"
     },
     {
@@ -404,6 +365,58 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kerala vs Odisha Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Haryana Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Himachal Pradesh vs Mumbai Elite Group D",
+      "team1": {
+        "name": "Himachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mumbai Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Himachal Pradesh vs Mumbai Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttarakhand vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Uttarakhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttarakhand vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Railways Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Railways Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Railways Elite Group D",
       "status": "Match Details"
     },
     {
@@ -459,42 +472,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Mizoram vs Nagaland LIVE Plate",
+      "title": "Mizoram vs Nagaland Plate",
       "team1": {
         "name": "Mizoram",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nagaland LIVE Plate",
+        "name": "Nagaland Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mizoram vs Nagaland LIVE Plate",
+      "score": "Mizoram vs Nagaland Plate",
       "status": "Match Details"
     },
     {
-      "title": "Arunachal Pradesh vs Sikkim LIVE Plate",
+      "title": "Arunachal Pradesh vs Sikkim Plate",
       "team1": {
         "name": "Arunachal Pradesh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sikkim LIVE Plate",
+        "name": "Sikkim Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Arunachal Pradesh vs Sikkim LIVE Plate",
+      "score": "Arunachal Pradesh vs Sikkim Plate",
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Zimbabwe Women 2nd T20I",
+      "title": "Zimbabwe Women vs India Women LIVE 2nd T20I",
       "team1": {
-        "name": "India Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Women 2nd T20I",
+        "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "India Women vs Zimbabwe Women 2nd T20I",
+      "team2": {
+        "name": "India Women LIVE 2nd T20I",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Zimbabwe Women vs India Women LIVE 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -537,42 +550,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sydney Sixers Women vs Melbourne Stars Women LIVE 18th Match",
+      "title": "Sydney Sixers Women vs Melbourne Stars Women 18th Match",
       "team1": {
         "name": "Sydney Sixers Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Melbourne Stars Women LIVE 18th Match",
+        "name": "Melbourne Stars Women 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sydney Sixers Women vs Melbourne Stars Women LIVE 18th Match",
+      "score": "Sydney Sixers Women vs Melbourne Stars Women 18th Match",
       "status": "Match Details"
     },
     {
-      "title": "New Zealand Women vs Australia Women LIVE 1st T20I",
+      "title": "New Zealand Women vs Australia Women 1st T20I",
       "team1": {
         "name": "New Zealand Women",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "Australia Women LIVE 1st T20I",
+        "name": "Australia Women 1st T20I",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "New Zealand Women vs Australia Women LIVE 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Romania Women vs Austria Women 5th Match",
-      "team1": {
-        "name": "Romania Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Austria Women 5th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Romania Women vs Austria Women 5th Match",
+      "score": "New Zealand Women vs Australia Women 1st T20I",
       "status": "Match Details"
     },
     {
@@ -589,16 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sweden Women vs Austria Women LIVE Final",
+      "title": "Sweden Women vs Austria Women Final",
       "team1": {
         "name": "Sweden Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Austria Women LIVE Final",
+        "name": "Austria Women Final",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Sweden Women vs Austria Women LIVE Final",
+      "score": "Sweden Women vs Austria Women Final",
       "status": "Match Details"
     },
     {
@@ -615,42 +615,42 @@
       "status": "Match Details"
     },
     {
-      "title": "16th Match • Sydney, Blacktown Olympic Park No 2 Oval Adelaide Strikers Women ADSW 139-6 (20) Brisbane Heat Women BRHW 129 (17.5) Adelaide Strikers Women won by 10 runs",
+      "title": "1st T20I • Sydney, North Sydney Oval New Zealand Women NZW 162-2 (20) Australia Women AUSW 165-8 (18.5) Australia Women won by 2 wkts",
       "team1": {
-        "name": "16th Match • Sydney, Blacktown Olympic Park No 2 Oval Adelaide Strikers Women ADSW 139",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "1st T20I • Sydney, North Sydney Oval New Zealand Women NZW 162",
+        "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "6 (20) Brisbane Heat Women BRHW 129 (17.5) Adelaide Strikers Women won by 10 runs",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "2 (20) Australia Women AUSW 165",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "16th Match • Sydney, Blacktown Olympic Park No 2 Oval Adelaide Strikers Women ADSW 139-6 (20) Brisbane Heat Women BRHW 129 (17.5) Adelaide Strikers Women won by 10 runs",
+      "score": "1st T20I • Sydney, North Sydney Oval New Zealand Women NZW 162-2 (20) Australia Women AUSW 165-8 (18.5) Australia Women won by 2 wkts",
       "status": "Match Details"
     },
     {
-      "title": "17th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 92 (18.2) Sydney Thunder Women SYTW 93-2 (13.1) Sydney Thunder Women won by 8 wkts",
+      "title": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Sweden Women SWEW 124-9 (20) Austria Women AUTW 60 (15) Sweden Women won by 64 runs",
       "team1": {
-        "name": "17th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 92 (18.2) Sydney Thunder Women SYTW 93",
+        "name": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Sweden Women SWEW 124",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "2 (13.1) Sydney Thunder Women won by 8 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "9 (20) Austria Women AUTW 60 (15) Sweden Women won by 64 runs",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "17th Match • Sydney, Blacktown International Sportspark Perth Scorchers Women PRSW 92 (18.2) Sydney Thunder Women SYTW 93-2 (13.1) Sydney Thunder Women won by 8 wkts",
+      "score": "Final • Ilfov County, Moara Vlasiei Cricket Ground, Bucharest Sweden Women SWEW 124-9 (20) Austria Women AUTW 60 (15) Sweden Women won by 64 runs",
       "status": "Match Details"
     },
     {
-      "title": "15th Match • Sydney, Blacktown Olympic Park No 2 Oval Hobart Hurricanes Women HBHW 129-8 (20) Melbourne Renegades Women MLRW 132-2 (17.1) Melbourne Renegades Women won by 8 wkts",
+      "title": "18th Match • Sydney, Blacktown International Sportspark Sydney Sixers Women SYSW 155-8 (20) Melbourne Stars Women MLSW 158-5 (20) Melbourne Stars Women won by 5 wkts",
       "team1": {
-        "name": "15th Match • Sydney, Blacktown Olympic Park No 2 Oval Hobart Hurricanes Women HBHW 129",
+        "name": "18th Match • Sydney, Blacktown International Sportspark Sydney Sixers Women SYSW 155",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) Melbourne Renegades Women MLRW 132",
+        "name": "8 (20) Melbourne Stars Women MLSW 158",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "15th Match • Sydney, Blacktown Olympic Park No 2 Oval Hobart Hurricanes Women HBHW 129-8 (20) Melbourne Renegades Women MLRW 132-2 (17.1) Melbourne Renegades Women won by 8 wkts",
+      "score": "18th Match • Sydney, Blacktown International Sportspark Sydney Sixers Women SYSW 155-8 (20) Melbourne Stars Women MLSW 158-5 (20) Melbourne Stars Women won by 5 wkts",
       "status": "Match Details"
     }
   ]
