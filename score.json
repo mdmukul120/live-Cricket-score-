@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-18 19:24:54 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-10-18 21:43:08 UTC",
+  "total_matches": 44,
   "matches": [
     {
       "title": "ZIMW vs INDW - INDW won",
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Bangladesh 1st Match",
+      "title": "Oman vs Nepal 139th Match",
       "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Bangladesh 1st Match",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "Nepal 139th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zimbabwe vs Bangladesh 1st Match",
+      "score": "Oman vs Nepal 139th Match",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Nepal 139th Match",
-      "team1": {
-        "name": "Oman",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nepal 139th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Oman vs Nepal 139th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "England Champions vs West Indies Champions Final",
       "team1": {
         "name": "England Champions",
@@ -144,19 +131,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "England Champions vs West Indies Champions Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Boland vs Mpumalanga Rhinos Pool B",
-      "team1": {
-        "name": "Boland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mpumalanga Rhinos Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Boland vs Mpumalanga Rhinos Pool B",
       "status": "Match Details"
     },
     {
@@ -394,45 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs Victoria 4th Match",
-      "team1": {
-        "name": "Tasmania",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Victoria 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tasmania vs Victoria 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Australia vs Queensland 5th Match",
-      "team1": {
-        "name": "South Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Queensland 5th Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "South Australia vs Queensland 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Western Australia vs New South Wales 6th Match",
-      "team1": {
-        "name": "Western Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "New South Wales 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Western Australia vs New South Wales 6th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Meghalaya vs Manipur Plate",
       "team1": {
         "name": "Meghalaya",
@@ -472,6 +407,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Tasmania vs Victoria 4th Match",
+      "team1": {
+        "name": "Tasmania",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Victoria 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tasmania vs Victoria 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Australia vs Queensland 5th Match",
+      "team1": {
+        "name": "South Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Queensland 5th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "South Australia vs Queensland 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Australia vs New South Wales 6th Match",
+      "team1": {
+        "name": "Western Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "New South Wales 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Australia vs New South Wales 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Zealand Women vs Australia Women 1st T20I",
+      "team1": {
+        "name": "New Zealand Women",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "Australia Women 1st T20I",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "New Zealand Women vs Australia Women 1st T20I",
+      "status": "Match Details"
+    },
+    {
       "title": "Zimbabwe Women vs India Women 2nd T20I",
       "team1": {
         "name": "Zimbabwe Women",
@@ -482,6 +469,32 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Zimbabwe Women vs India Women 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sweden Women vs Austria Women Final",
+      "team1": {
+        "name": "Sweden Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Austria Women Final",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Sweden Women vs Austria Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Romania Women vs Bulgaria Women 3rd place play-off",
+      "team1": {
+        "name": "Romania Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bulgaria Women 3rd place play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Romania Women vs Bulgaria Women 3rd place play-off",
       "status": "Match Details"
     },
     {
@@ -537,45 +550,6 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand Women vs Australia Women 1st T20I",
-      "team1": {
-        "name": "New Zealand Women",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "Australia Women 1st T20I",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "New Zealand Women vs Australia Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sweden Women vs Austria Women Final",
-      "team1": {
-        "name": "Sweden Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Austria Women Final",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Sweden Women vs Austria Women Final",
-      "status": "Match Details"
-    },
-    {
-      "title": "Romania Women vs Bulgaria Women 3rd place play-off",
-      "team1": {
-        "name": "Romania Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bulgaria Women 3rd place play",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Romania Women vs Bulgaria Women 3rd place play-off",
-      "status": "Match Details"
-    },
-    {
       "title": "1st Match • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 305 (49.5) Sri Lanka SL 268 (48.1) Pakistan won by 37 runs",
       "team1": {
         "name": "1st Match • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 305 (49.5) Sri Lanka SL 268 (48.1) Pakistan won by 37 runs",
@@ -599,19 +573,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Final • Sharjah, Sharjah Cricket Stadium England Champions ENGCH 159-7 (20) West Indies Champions WICH 165-1 (17) West Indies Champions won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 102-8 (20) India Women INDW 104-1 (8.5) India Women won by 9 wkts",
-      "team1": {
-        "name": "2nd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 102",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "8 (20) India Women INDW 104",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "2nd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium Zimbabwe Women ZIMW 102-8 (20) India Women INDW 104-1 (8.5) India Women won by 9 wkts",
       "status": "Match Details"
     }
   ]
