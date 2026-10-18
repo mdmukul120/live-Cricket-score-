@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-17 23:04:36 UTC",
-  "total_matches": 50,
+  "last_updated": "2026-10-18 00:59:05 UTC",
+  "total_matches": 51,
   "matches": [
     {
       "title": "IND vs WI - No Result",
@@ -199,6 +199,97 @@
       "status": "Match Details"
     },
     {
+      "title": "Delhi vs Gujarat Elite Group C",
+      "team1": {
+        "name": "Delhi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gujarat Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Delhi vs Gujarat Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Services vs Bengal Elite Group C",
+      "team1": {
+        "name": "Services",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bengal Elite Group C",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Services vs Bengal Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kerala vs Odisha Elite Group C",
+      "team1": {
+        "name": "Kerala",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Odisha Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kerala vs Odisha Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Haryana vs Chandigarh Elite Group D",
+      "team1": {
+        "name": "Haryana",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chandigarh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Haryana vs Chandigarh Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Himachal Pradesh vs Mumbai Elite Group D",
+      "team1": {
+        "name": "Himachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mumbai Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Himachal Pradesh vs Mumbai Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tamil Nadu vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Tamil Nadu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tamil Nadu vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Railways Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Railways Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Railways Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "Baroda vs Bihar Elite Group A",
       "team1": {
         "name": "Baroda",
@@ -303,94 +394,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Delhi vs Gujarat Elite Group C",
+      "title": "Tasmania vs Victoria 4th Match",
       "team1": {
-        "name": "Delhi",
+        "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Gujarat Elite Group C",
+        "name": "Victoria 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Delhi vs Gujarat Elite Group C",
+      "score": "Tasmania vs Victoria 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "Services vs Bengal Elite Group C",
+      "title": "South Australia vs Queensland 5th Match",
       "team1": {
-        "name": "Services",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Bengal Elite Group C",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "Queensland 5th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Services vs Bengal Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kerala vs Odisha Elite Group C",
-      "team1": {
-        "name": "Kerala",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Odisha Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kerala vs Odisha Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Haryana vs Chandigarh Elite Group D",
-      "team1": {
-        "name": "Haryana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chandigarh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Haryana vs Chandigarh Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Himachal Pradesh vs Mumbai Elite Group D",
-      "team1": {
-        "name": "Himachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mumbai Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Himachal Pradesh vs Mumbai Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Tamil Nadu vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Tamil Nadu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tamil Nadu vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Railways Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Railways Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Railways Elite Group D",
+      "score": "South Australia vs Queensland 5th Match",
       "status": "Match Details"
     },
     {
@@ -625,19 +651,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Romania Women vs Bulgaria Women 3rd place play-off",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Zimbabwe ZIM 271-8 (50) Bangladesh BAN 172 (33.4) Zimbabwe won by 99 runs",
-      "team1": {
-        "name": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Zimbabwe ZIM 271",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "8 (50) Bangladesh BAN 172 (33.4) Zimbabwe won by 99 runs",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Zimbabwe ZIM 271-8 (50) Bangladesh BAN 172 (33.4) Zimbabwe won by 99 runs",
       "status": "Match Details"
     },
     {
