@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-19 07:04:22 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-10-19 14:37:38 UTC",
+  "total_matches": 44,
   "matches": [
     {
-      "title": "RSA vs AUS - Stumps",
+      "title": "RSA vs AUS - AUS opt to bowl",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -13,11 +13,11 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - Stumps",
+      "score": "RSA vs AUS - AUS opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "AFG vs ZIM - Preview",
+      "title": "AFG vs ZIM - AFG opt to bat",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -26,24 +26,11 @@
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "AFG vs ZIM - Preview",
+      "score": "AFG vs ZIM - AFG opt to bat",
       "status": "Match Details"
     },
     {
-      "title": "NEP vs OMAN - NEP opt to bat",
-      "team1": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "OMAN",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "NEP vs OMAN - NEP opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "KAR vs SAUR - Lunch",
+      "title": "KAR vs SAUR - Stumps",
       "team1": {
         "name": "KAR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,33 +39,46 @@
         "name": "SAUR",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "KAR vs SAUR - Lunch",
+      "score": "KAR vs SAUR - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "ZIMW vs INDW - INDW won",
+      "title": "PAK vs ENG - Preview",
       "team1": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "PAK vs ENG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDW vs ZIMW - Preview",
+      "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ZIMW vs INDW - INDW won",
+      "team2": {
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "INDW vs ZIMW - Preview",
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia 2nd Test",
+      "title": "South Africa vs Australia LIVE 2nd Test",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia 2nd Test",
+        "name": "Australia LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia 2nd Test",
+      "score": "South Africa vs Australia LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,81 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Zimbabwe 2nd Match",
+      "title": "Pakistan vs England 2nd Match",
       "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Zimbabwe 2nd Match",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "England 2nd Match",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Afghanistan vs Zimbabwe 2nd Match",
+      "score": "Pakistan vs England 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Nepal vs Oman LIVE 139th Match",
+      "title": "Uganda vs Zambia 1st Match",
+      "team1": {
+        "name": "Uganda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Zambia 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda vs Zambia 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lesotho vs Mozambique 2nd Match",
+      "team1": {
+        "name": "Lesotho",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mozambique 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lesotho vs Mozambique 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nigeria vs Gambia 3rd Match",
+      "team1": {
+        "name": "Nigeria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gambia 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nigeria vs Gambia 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nepal vs Oman 139th Match",
       "team1": {
         "name": "Nepal",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Oman LIVE 139th Match",
+        "name": "Oman 139th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nepal vs Oman LIVE 139th Match",
+      "score": "Nepal vs Oman 139th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan vs Zimbabwe LIVE 2nd Match",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Zimbabwe LIVE 2nd Match",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Afghanistan vs Zimbabwe LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -134,42 +186,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Northern Cape vs Lions Pool A",
-      "team1": {
-        "name": "Northern Cape",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lions Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northern Cape vs Lions Pool A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Knights vs South Africa Emerging Players Pool B",
-      "team1": {
-        "name": "Knights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Africa Emerging Players Pool B",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Knights vs South Africa Emerging Players Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Assam vs Tripura LIVE Elite Group B",
+      "title": "Assam vs Tripura Elite Group B",
       "team1": {
         "name": "Assam",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Tripura LIVE Elite Group B",
+        "name": "Tripura Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Assam vs Tripura LIVE Elite Group B",
+      "score": "Assam vs Tripura Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bihar vs Baroda Elite Group A",
+      "team1": {
+        "name": "Bihar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Baroda Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bihar vs Baroda Elite Group A",
       "status": "Match Details"
     },
     {
@@ -355,94 +394,94 @@
       "status": "Match Details"
     },
     {
-      "title": "Bihar vs Baroda LIVE Elite Group A",
-      "team1": {
-        "name": "Bihar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Baroda LIVE Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bihar vs Baroda LIVE Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Tasmania vs Victoria LIVE 4th Match",
-      "team1": {
-        "name": "Tasmania",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Victoria LIVE 4th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tasmania vs Victoria LIVE 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Australia vs Queensland LIVE 5th Match",
-      "team1": {
-        "name": "South Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Queensland LIVE 5th Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "South Australia vs Queensland LIVE 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "New South Wales vs Western Australia LIVE 6th Match",
-      "team1": {
-        "name": "New South Wales",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Western Australia LIVE 6th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "New South Wales vs Western Australia LIVE 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Meghalaya vs Manipur LIVE Plate",
+      "title": "Meghalaya vs Manipur Plate",
       "team1": {
         "name": "Meghalaya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manipur LIVE Plate",
+        "name": "Manipur Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Meghalaya vs Manipur LIVE Plate",
+      "score": "Meghalaya vs Manipur Plate",
       "status": "Match Details"
     },
     {
-      "title": "Mizoram vs Nagaland LIVE Plate",
+      "title": "Mizoram vs Nagaland Plate",
       "team1": {
         "name": "Mizoram",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nagaland LIVE Plate",
+        "name": "Nagaland Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mizoram vs Nagaland LIVE Plate",
+      "score": "Mizoram vs Nagaland Plate",
       "status": "Match Details"
     },
     {
-      "title": "Arunachal Pradesh vs Sikkim LIVE Plate",
+      "title": "Arunachal Pradesh vs Sikkim Plate",
       "team1": {
         "name": "Arunachal Pradesh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sikkim LIVE Plate",
+        "name": "Sikkim Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Arunachal Pradesh vs Sikkim LIVE Plate",
+      "score": "Arunachal Pradesh vs Sikkim Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tasmania vs Victoria 4th Match",
+      "team1": {
+        "name": "Tasmania",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Victoria 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tasmania vs Victoria 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Australia vs Queensland 5th Match",
+      "team1": {
+        "name": "South Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Queensland 5th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "South Australia vs Queensland 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "New South Wales vs Western Australia 6th Match",
+      "team1": {
+        "name": "New South Wales",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Western Australia 6th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "New South Wales vs Western Australia 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia Women vs New Zealand Women 2nd T20I",
+      "team1": {
+        "name": "Australia Women",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "New Zealand Women 2nd T20I",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "Australia Women vs New Zealand Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -459,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sydney Sixers Women vs Melbourne Stars Women 18th Match",
+      "title": "India Women vs Zimbabwe Women 3rd T20I",
       "team1": {
-        "name": "Sydney Sixers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India Women",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Melbourne Stars Women 18th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Zimbabwe Women 3rd T20I",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Sydney Sixers Women vs Melbourne Stars Women 18th Match",
+      "score": "India Women vs Zimbabwe Women 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -498,42 +537,42 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand Women vs Australia Women 1st T20I",
+      "title": "139th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 280 (50) Oman OMAN 270-7 (50) Nepal won by 10 runs",
       "team1": {
-        "name": "New Zealand Women",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "139th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 280 (50) Oman OMAN 270",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Australia Women 1st T20I",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "7 (50) Nepal won by 10 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Zealand Women vs Australia Women 1st T20I",
+      "score": "139th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 280 (50) Oman OMAN 270-7 (50) Nepal won by 10 runs",
       "status": "Match Details"
     },
     {
-      "title": "Sweden Women vs Austria Women Final",
+      "title": "Pool B • Pretoria, LC de Villiers Oval Knights KNG 206-6 (20) South Africa Emerging Players SAEP 152-6 (20) Knights won by 54 runs",
       "team1": {
-        "name": "Sweden Women",
+        "name": "Pool B • Pretoria, LC de Villiers Oval Knights KNG 206",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Austria Women Final",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "6 (20) South Africa Emerging Players SAEP 152",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Sweden Women vs Austria Women Final",
+      "score": "Pool B • Pretoria, LC de Villiers Oval Knights KNG 206-6 (20) South Africa Emerging Players SAEP 152-6 (20) Knights won by 54 runs",
       "status": "Match Details"
     },
     {
-      "title": "Romania Women vs Bulgaria Women 3rd place play-off",
+      "title": "Elite Group D • Rohtak, Ch Bansi Lal Cricket Stadium Chandigarh CDG 103 & 118 Haryana HAR 245 Haryana won by an innings and 24 runs",
       "team1": {
-        "name": "Romania Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Elite Group D • Rohtak, Ch Bansi Lal Cricket Stadium Chandigarh CDG 103 & 118 Haryana HAR 245 Haryana won by an innings and 24 runs",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "Bulgaria Women 3rd place play",
+        "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Romania Women vs Bulgaria Women 3rd place play-off",
+      "score": "Elite Group D • Rohtak, Ch Bansi Lal Cricket Stadium Chandigarh CDG 103 & 118 Haryana HAR 245 Haryana won by an innings and 24 runs",
       "status": "Match Details"
     }
   ]
