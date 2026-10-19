@@ -1,34 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-10-19 01:49:26 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-10-19 07:04:22 UTC",
+  "total_matches": 41,
   "matches": [
-    {
-      "title": "ZIMW vs INDW - INDW won",
-      "team1": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "ZIMW vs INDW - INDW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs SL - PAK won",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "PAK vs SL - PAK won",
-      "status": "Match Details"
-    },
     {
       "title": "RSA vs AUS - Stumps",
       "team1": {
@@ -43,20 +17,33 @@
       "status": "Match Details"
     },
     {
-      "title": "ENGCH vs WICH - WICH won",
+      "title": "AFG vs ZIM - Preview",
       "team1": {
-        "name": "ENGCH",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "WICH",
-        "flag": "https://flagcdn.com/w80/jm.png"
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "ENGCH vs WICH - WICH won",
+      "score": "AFG vs ZIM - Preview",
       "status": "Match Details"
     },
     {
-      "title": "KAR vs SAUR - Stumps",
+      "title": "NEP vs OMAN - NEP opt to bat",
+      "team1": {
+        "name": "NEP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "OMAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "NEP vs OMAN - NEP opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "KAR vs SAUR - Lunch",
       "team1": {
         "name": "KAR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +52,20 @@
         "name": "SAUR",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "KAR vs SAUR - Stumps",
+      "score": "KAR vs SAUR - Lunch",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIMW vs INDW - INDW won",
+      "team1": {
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "ZIMW vs INDW - INDW won",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Oman vs Nepal 139th Match",
+      "title": "Nepal vs Oman LIVE 139th Match",
       "team1": {
-        "name": "Oman",
+        "name": "Nepal",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal 139th Match",
+        "name": "Oman LIVE 139th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Oman vs Nepal 139th Match",
+      "score": "Nepal vs Oman LIVE 139th Match",
       "status": "Match Details"
     },
     {
@@ -160,29 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Assam vs Tripura Elite Group B",
+      "title": "Assam vs Tripura LIVE Elite Group B",
       "team1": {
         "name": "Assam",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Tripura Elite Group B",
+        "name": "Tripura LIVE Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Assam vs Tripura Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bihar vs Baroda Elite Group A",
-      "team1": {
-        "name": "Bihar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Baroda Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bihar vs Baroda Elite Group A",
+      "score": "Assam vs Tripura LIVE Elite Group B",
       "status": "Match Details"
     },
     {
@@ -368,16 +355,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs Victoria 4th Match",
+      "title": "Bihar vs Baroda LIVE Elite Group A",
+      "team1": {
+        "name": "Bihar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Baroda LIVE Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bihar vs Baroda LIVE Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tasmania vs Victoria LIVE 4th Match",
       "team1": {
         "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Victoria 4th Match",
+        "name": "Victoria LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs Victoria 4th Match",
+      "score": "Tasmania vs Victoria LIVE 4th Match",
       "status": "Match Details"
     },
     {
@@ -394,55 +394,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs New South Wales 6th Match",
+      "title": "New South Wales vs Western Australia LIVE 6th Match",
       "team1": {
-        "name": "Western Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "New South Wales 6th Match",
+        "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Australia vs New South Wales 6th Match",
+      "team2": {
+        "name": "Western Australia LIVE 6th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "New South Wales vs Western Australia LIVE 6th Match",
       "status": "Match Details"
     },
     {
-      "title": "Meghalaya vs Manipur Plate",
+      "title": "Meghalaya vs Manipur LIVE Plate",
       "team1": {
         "name": "Meghalaya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manipur Plate",
+        "name": "Manipur LIVE Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Meghalaya vs Manipur Plate",
+      "score": "Meghalaya vs Manipur LIVE Plate",
       "status": "Match Details"
     },
     {
-      "title": "Mizoram vs Nagaland Plate",
+      "title": "Mizoram vs Nagaland LIVE Plate",
       "team1": {
         "name": "Mizoram",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nagaland Plate",
+        "name": "Nagaland LIVE Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mizoram vs Nagaland Plate",
+      "score": "Mizoram vs Nagaland LIVE Plate",
       "status": "Match Details"
     },
     {
-      "title": "Arunachal Pradesh vs Sikkim Plate",
+      "title": "Arunachal Pradesh vs Sikkim LIVE Plate",
       "team1": {
         "name": "Arunachal Pradesh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sikkim Plate",
+        "name": "Sikkim LIVE Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Arunachal Pradesh vs Sikkim Plate",
+      "score": "Arunachal Pradesh vs Sikkim LIVE Plate",
       "status": "Match Details"
     },
     {
@@ -456,45 +456,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Zimbabwe Women vs India Women 2nd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hobart Hurricanes Women vs Melbourne Renegades Women 15th Match",
-      "team1": {
-        "name": "Hobart Hurricanes Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Melbourne Renegades Women 15th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hobart Hurricanes Women vs Melbourne Renegades Women 15th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Adelaide Strikers Women vs Brisbane Heat Women 16th Match",
-      "team1": {
-        "name": "Adelaide Strikers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Brisbane Heat Women 16th Match",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "Adelaide Strikers Women vs Brisbane Heat Women 16th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Perth Scorchers Women vs Sydney Thunder Women 17th Match",
-      "team1": {
-        "name": "Perth Scorchers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sydney Thunder Women 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Perth Scorchers Women vs Sydney Thunder Women 17th Match",
       "status": "Match Details"
     },
     {
@@ -521,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Adelaide Strikers Women vs Perth Scorchers Women Semi Final 1",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Thunder Women vs Sydney Sixers Women Semi Final 2",
+      "team1": {
+        "name": "Sydney Thunder Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sydney Sixers Women Semi Final 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sydney Thunder Women vs Sydney Sixers Women Semi Final 2",
       "status": "Match Details"
     },
     {
