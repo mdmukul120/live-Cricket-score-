@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-19 14:37:38 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-10-19 20:12:35 UTC",
+  "total_matches": 40,
   "matches": [
     {
-      "title": "RSA vs AUS - AUS opt to bowl",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "RSA vs AUS - AUS opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "AFG vs ZIM - AFG opt to bat",
+      "title": "AFG vs ZIM - AFG won",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -26,7 +13,20 @@
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "AFG vs ZIM - AFG opt to bat",
+      "score": "AFG vs ZIM - AFG won",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs AUS - Stumps",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - Stumps",
       "status": "Match Details"
     },
     {
@@ -69,29 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia LIVE 2nd Test",
+      "title": "South Africa vs Australia 2nd Test",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia LIVE 2nd Test",
+        "name": "Australia 2nd Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia LIVE 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan vs Sri Lanka 1st Match",
-      "team1": {
-        "name": "Pakistan",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Sri Lanka 1st Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Pakistan vs Sri Lanka 1st Match",
+      "score": "South Africa vs Australia 2nd Test",
       "status": "Match Details"
     },
     {
@@ -160,29 +147,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Zimbabwe LIVE 2nd Match",
+      "title": "Afghanistan vs Zimbabwe 2nd Match",
       "team1": {
         "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Zimbabwe LIVE 2nd Match",
+        "name": "Zimbabwe 2nd Match",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Afghanistan vs Zimbabwe LIVE 2nd Match",
+      "score": "Afghanistan vs Zimbabwe 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "England Champions vs West Indies Champions Final",
+      "title": "Dolphins vs Warriors Pool A",
       "team1": {
-        "name": "England Champions",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "Dolphins",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Indies Champions Final",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Warriors Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "England Champions vs West Indies Champions Final",
+      "score": "Dolphins vs Warriors Pool A",
       "status": "Match Details"
     },
     {
@@ -196,6 +183,58 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Assam vs Tripura Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Haryana Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Himachal Pradesh vs Mumbai Elite Group D",
+      "team1": {
+        "name": "Himachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mumbai Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Himachal Pradesh vs Mumbai Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttarakhand vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Uttarakhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttarakhand vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Railways Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Railways Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Railways Elite Group D",
       "status": "Match Details"
     },
     {
@@ -342,58 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Chandigarh vs Haryana Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Haryana Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Himachal Pradesh vs Mumbai Elite Group D",
-      "team1": {
-        "name": "Himachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mumbai Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Himachal Pradesh vs Mumbai Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttarakhand vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Uttarakhand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttarakhand vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Railways Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Railways Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Railways Elite Group D",
-      "status": "Match Details"
-    },
-    {
       "title": "Meghalaya vs Manipur Plate",
       "team1": {
         "name": "Meghalaya",
@@ -485,19 +472,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs India Women 2nd T20I",
-      "team1": {
-        "name": "Zimbabwe Women",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "India Women 2nd T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Zimbabwe Women vs India Women 2nd T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "India Women vs Zimbabwe Women 3rd T20I",
       "team1": {
         "name": "India Women",
@@ -537,42 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "139th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 280 (50) Oman OMAN 270-7 (50) Nepal won by 10 runs",
+      "title": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Afghanistan AFG 294 (50) Zimbabwe ZIM 136 (38.4) Afghanistan won by 158 runs",
       "team1": {
-        "name": "139th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 280 (50) Oman OMAN 270",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (50) Nepal won by 10 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "139th Match • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal NEP 280 (50) Oman OMAN 270-7 (50) Nepal won by 10 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Pretoria, LC de Villiers Oval Knights KNG 206-6 (20) South Africa Emerging Players SAEP 152-6 (20) Knights won by 54 runs",
-      "team1": {
-        "name": "Pool B • Pretoria, LC de Villiers Oval Knights KNG 206",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) South Africa Emerging Players SAEP 152",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Pool B • Pretoria, LC de Villiers Oval Knights KNG 206-6 (20) South Africa Emerging Players SAEP 152-6 (20) Knights won by 54 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group D • Rohtak, Ch Bansi Lal Cricket Stadium Chandigarh CDG 103 & 118 Haryana HAR 245 Haryana won by an innings and 24 runs",
-      "team1": {
-        "name": "Elite Group D • Rohtak, Ch Bansi Lal Cricket Stadium Chandigarh CDG 103 & 118 Haryana HAR 245 Haryana won by an innings and 24 runs",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Afghanistan AFG 294 (50) Zimbabwe ZIM 136 (38.4) Afghanistan won by 158 runs",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
         "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Elite Group D • Rohtak, Ch Bansi Lal Cricket Stadium Chandigarh CDG 103 & 118 Haryana HAR 245 Haryana won by an innings and 24 runs",
+      "score": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Afghanistan AFG 294 (50) Zimbabwe ZIM 136 (38.4) Afghanistan won by 158 runs",
       "status": "Match Details"
     }
   ]
