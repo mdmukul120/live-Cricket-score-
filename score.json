@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-20 12:58:49 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-10-20 17:55:35 UTC",
+  "total_matches": 49,
   "matches": [
     {
-      "title": "INDW vs ZIMW - Preview",
+      "title": "INDW vs ZIMW - INDW won",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "ZIMW",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "INDW vs ZIMW - Preview",
+      "score": "INDW vs ZIMW - INDW won",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - AUS opt to bowl",
+      "title": "RSA vs AUS - Stumps",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,11 +26,11 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - AUS opt to bowl",
+      "score": "RSA vs AUS - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "PAK vs ENG - Need 247 to win",
+      "title": "PAK vs ENG - PAK won",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -39,7 +39,7 @@
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "PAK vs ENG - Need 247 to win",
+      "score": "PAK vs ENG - PAK won",
       "status": "Match Details"
     },
     {
@@ -69,55 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia LIVE 2nd Test",
+      "title": "South Africa vs Australia 2nd Test",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia LIVE 2nd Test",
+        "name": "Australia 2nd Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia LIVE 2nd Test",
+      "score": "South Africa vs Australia 2nd Test",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs England LIVE 2nd Match",
+      "title": "Pakistan vs England 2nd Match",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "England LIVE 2nd Match",
+        "name": "England 2nd Match",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Pakistan vs England LIVE 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Afghanistan vs Zimbabwe 2nd Match",
-      "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Zimbabwe 2nd Match",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "Afghanistan vs Zimbabwe 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Afghanistan vs Bangladesh 3rd Match",
-      "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Bangladesh 3rd Match",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "Afghanistan vs Bangladesh 3rd Match",
+      "score": "Pakistan vs England 2nd Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +160,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Nepal vs Oman 139th Match",
+      "title": "Zambia vs Nigeria 6th Match",
       "team1": {
-        "name": "Nepal",
+        "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Oman 139th Match",
+        "name": "Nigeria 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nepal vs Oman 139th Match",
+      "score": "Zambia vs Nigeria 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan vs Zimbabwe 2nd Match",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Zimbabwe 2nd Match",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Afghanistan vs Zimbabwe 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan vs Bangladesh 3rd Match",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Bangladesh 3rd Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Afghanistan vs Bangladesh 3rd Match",
       "status": "Match Details"
     },
     {
@@ -222,6 +222,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Northern Cape vs South Western Districts Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "North West - Eastvaal Renault Dragons vs Limpopo Pool A",
+      "team1": {
+        "name": "North West",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastvaal Renault Dragons",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "North West - Eastvaal Renault Dragons vs Limpopo Pool A",
       "status": "Match Details"
     },
     {
@@ -446,6 +459,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Meghalaya vs Manipur Plate",
+      "team1": {
+        "name": "Meghalaya",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manipur Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Meghalaya vs Manipur Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mizoram vs Nagaland Plate",
+      "team1": {
+        "name": "Mizoram",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nagaland Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mizoram vs Nagaland Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Arunachal Pradesh vs Sikkim Plate",
+      "team1": {
+        "name": "Arunachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sikkim Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Arunachal Pradesh vs Sikkim Plate",
+      "status": "Match Details"
+    },
+    {
       "title": "Tasmania vs Victoria 4th Match",
       "team1": {
         "name": "Tasmania",
@@ -485,42 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Meghalaya vs Manipur Plate",
+      "title": "Australia Women vs New Zealand Women 2nd T20I",
       "team1": {
-        "name": "Meghalaya",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Australia Women",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Manipur Plate",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "New Zealand Women 2nd T20I",
+        "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "Meghalaya vs Manipur Plate",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mizoram vs Nagaland Plate",
-      "team1": {
-        "name": "Mizoram",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nagaland Plate",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mizoram vs Nagaland Plate",
-      "status": "Match Details"
-    },
-    {
-      "title": "Arunachal Pradesh vs Sikkim Plate",
-      "team1": {
-        "name": "Arunachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sikkim Plate",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Arunachal Pradesh vs Sikkim Plate",
+      "score": "Australia Women vs New Zealand Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -576,16 +602,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia Women vs New Zealand Women 2nd T20I",
+      "title": "2nd Match • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 302-9 (50) England ENG 215 (38.4) Pakistan won by 87 runs",
       "team1": {
-        "name": "Australia Women",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "2nd Match • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 302",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand Women 2nd T20I",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "9 (50) England ENG 215 (38.4) Pakistan won by 87 runs",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Australia Women vs New Zealand Women 2nd T20I",
+      "score": "2nd Match • Rawalpindi, Rawalpindi Cricket Stadium Pakistan PAK 302-9 (50) England ENG 215 (38.4) Pakistan won by 87 runs",
       "status": "Match Details"
     },
     {
@@ -602,107 +628,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Elite Group D • Chennai, MA Chidambaram Stadium Uttarakhand UTK 134 & 113 Tamil Nadu TN 313 Tamil Nadu won by an innings and 66 runs",
+      "title": "3rd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium India Women INDW 216-7 (20) Zimbabwe Women ZIMW 124-7 (20) India Women won by 92 runs",
       "team1": {
-        "name": "Elite Group D • Chennai, MA Chidambaram Stadium Uttarakhand UTK 134 & 113 Tamil Nadu TN 313 Tamil Nadu won by an innings and 66 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "3rd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium India Women INDW 216",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7 (20) Zimbabwe Women ZIMW 124",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Elite Group D • Chennai, MA Chidambaram Stadium Uttarakhand UTK 134 & 113 Tamil Nadu TN 313 Tamil Nadu won by an innings and 66 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group A • Vadodara, Reliance Stadium Bihar BIH 166 & 251 Baroda BRD 416 & 4-0 Baroda won by 10 wkts",
-      "team1": {
-        "name": "Elite Group A • Vadodara, Reliance Stadium Bihar BIH 166 & 251 Baroda BRD 416 & 4",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "0 Baroda won by 10 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group A • Vadodara, Reliance Stadium Bihar BIH 166 & 251 Baroda BRD 416 & 4-0 Baroda won by 10 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group A • Kanpur, Green Park Uttar Pradesh UP 202 & 197 Goa GOA 164 & 167 Uttar Pradesh won by 68 runs",
-      "team1": {
-        "name": "Elite Group A • Kanpur, Green Park Uttar Pradesh UP 202 & 197 Goa GOA 164 & 167 Uttar Pradesh won by 68 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group A • Kanpur, Green Park Uttar Pradesh UP 202 & 197 Goa GOA 164 & 167 Uttar Pradesh won by 68 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group B • Guwahati, Barsapara Cricket Stadium Assam ASM 334 & 36-1 Tripura TRI 62 & 307 (f/o) Assam won by 9 wkts",
-      "team1": {
-        "name": "Elite Group B • Guwahati, Barsapara Cricket Stadium Assam ASM 334 & 36",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "1 Tripura TRI 62 & 307 (f/o) Assam won by 9 wkts",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Elite Group B • Guwahati, Barsapara Cricket Stadium Assam ASM 334 & 36-1 Tripura TRI 62 & 307 (f/o) Assam won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group A • Srinagar, Sher-i-Kashmir Stadium Jammu and Kashmir JK 260 & 123 Vidarbha VID 305 & 81-7 Vidarbha won by 3 wkts",
-      "team1": {
-        "name": "Elite Group A • Srinagar, Sher",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "i",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group A • Srinagar, Sher-i-Kashmir Stadium Jammu and Kashmir JK 260 & 123 Vidarbha VID 305 & 81-7 Vidarbha won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group C • Delhi, Palam A Stadium Bengal BEN 184 & 146 Services SER 122 & 148 Bengal won by 60 runs",
-      "team1": {
-        "name": "Elite Group C • Delhi, Palam A Stadium Bengal BEN 184 & 146 Services SER 122 & 148 Bengal won by 60 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group C • Delhi, Palam A Stadium Bengal BEN 184 & 146 Services SER 122 & 148 Bengal won by 60 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Plate • Nadiad, Gokulbhai Somabhai Patel Stadium Arunachal Pradesh ARNP 121 & 123 Sikkim SKM 572-5 d Sikkim won by an innings and 328 runs",
-      "team1": {
-        "name": "Plate • Nadiad, Gokulbhai Somabhai Patel Stadium Arunachal Pradesh ARNP 121 & 123 Sikkim SKM 572",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 d Sikkim won by an innings and 328 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Plate • Nadiad, Gokulbhai Somabhai Patel Stadium Arunachal Pradesh ARNP 121 & 123 Sikkim SKM 572-5 d Sikkim won by an innings and 328 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd T20I • Sydney, North Sydney Oval Australia Women AUSW 167-7 (20) New Zealand Women NZW 127-8 (20) Australia Women won by 40 runs",
-      "team1": {
-        "name": "2nd T20I • Sydney, North Sydney Oval Australia Women AUSW 167",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "7 (20) New Zealand Women NZW 127",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "2nd T20I • Sydney, North Sydney Oval Australia Women AUSW 167-7 (20) New Zealand Women NZW 127-8 (20) Australia Women won by 40 runs",
+      "score": "3rd T20I • Raipur, Shaheed Veer Narayan Singh International Stadium India Women INDW 216-7 (20) Zimbabwe Women ZIMW 124-7 (20) India Women won by 92 runs",
       "status": "Match Details"
     }
   ]
