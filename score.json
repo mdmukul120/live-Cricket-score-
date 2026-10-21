@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-10-21 00:03:43 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-10-21 04:37:11 UTC",
+  "total_matches": 49,
   "matches": [
+    {
+      "title": "RSA vs AUS - Stumps",
+      "team1": {
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "RSA vs AUS - Stumps",
+      "status": "Match Details"
+    },
     {
       "title": "INDW vs ZIMW - INDW won",
       "team1": {
@@ -17,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - Stumps",
+      "title": "SYSW vs PRSW - Innings Break",
       "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "SYSW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "PRSW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RSA vs AUS - Stumps",
+      "score": "SYSW vs PRSW - Innings Break",
       "status": "Match Details"
     },
     {
@@ -43,20 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "AUSW vs NZW - AUSW won",
-      "team1": {
-        "name": "AUSW",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "NZW",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "AUSW vs NZW - AUSW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "KAR vs SAUR - Stumps",
+      "title": "KAR vs SAUR - Lead by 128",
       "team1": {
         "name": "KAR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "SAUR",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "KAR vs SAUR - Stumps",
+      "score": "KAR vs SAUR - Lead by 128",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Lesotho vs Mozambique LIVE 2nd Match",
+      "title": "Lesotho vs Mozambique 2nd Match",
       "team1": {
         "name": "Lesotho",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mozambique LIVE 2nd Match",
+        "name": "Mozambique 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Lesotho vs Mozambique LIVE 2nd Match",
+      "score": "Lesotho vs Mozambique 2nd Match",
       "status": "Match Details"
     },
     {
@@ -170,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Zambia vs Nigeria 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bangladesh Cricket Board XI vs West Indies 3 Days Warm-up Match",
+      "team1": {
+        "name": "Bangladesh Cricket Board XI",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "West Indies 3 Days Warm",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Bangladesh Cricket Board XI vs West Indies 3 Days Warm-up Match",
       "status": "Match Details"
     },
     {
@@ -238,6 +251,149 @@
       "status": "Match Details"
     },
     {
+      "title": "Hyderabad vs Andhra LIVE Elite Group B",
+      "team1": {
+        "name": "Hyderabad",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Andhra LIVE Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hyderabad vs Andhra LIVE Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Karnataka vs Saurashtra LIVE Elite Group B",
+      "team1": {
+        "name": "Karnataka",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saurashtra LIVE Elite Group B",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Karnataka vs Saurashtra LIVE Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Punjab vs Chhattisgarh LIVE Elite Group B",
+      "team1": {
+        "name": "Punjab",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chhattisgarh LIVE Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Punjab vs Chhattisgarh LIVE Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jharkhand vs Maharashtra LIVE Elite Group C",
+      "team1": {
+        "name": "Jharkhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Maharashtra LIVE Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jharkhand vs Maharashtra LIVE Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Delhi vs Gujarat LIVE Elite Group C",
+      "team1": {
+        "name": "Delhi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gujarat LIVE Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Delhi vs Gujarat LIVE Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bengal vs Services Elite Group C",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Services Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Services Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kerala vs Odisha LIVE Elite Group C",
+      "team1": {
+        "name": "Kerala",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Odisha LIVE Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kerala vs Odisha LIVE Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Haryana Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Himachal Pradesh vs Mumbai LIVE Elite Group D",
+      "team1": {
+        "name": "Himachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mumbai LIVE Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Himachal Pradesh vs Mumbai LIVE Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttarakhand vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Uttarakhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttarakhand vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Railways LIVE Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Railways LIVE Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Railways LIVE Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "Bihar vs Baroda Elite Group A",
       "team1": {
         "name": "Bihar",
@@ -290,149 +446,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Hyderabad vs Andhra Elite Group B",
-      "team1": {
-        "name": "Hyderabad",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Andhra Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hyderabad vs Andhra Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Karnataka vs Saurashtra Elite Group B",
-      "team1": {
-        "name": "Karnataka",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saurashtra Elite Group B",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Karnataka vs Saurashtra Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Punjab vs Chhattisgarh Elite Group B",
-      "team1": {
-        "name": "Punjab",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chhattisgarh Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Punjab vs Chhattisgarh Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jharkhand vs Maharashtra Elite Group C",
-      "team1": {
-        "name": "Jharkhand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Maharashtra Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jharkhand vs Maharashtra Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Delhi vs Gujarat Elite Group C",
-      "team1": {
-        "name": "Delhi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Gujarat Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Delhi vs Gujarat Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Services Elite Group C",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Services Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Services Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kerala vs Odisha Elite Group C",
-      "team1": {
-        "name": "Kerala",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Odisha Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kerala vs Odisha Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chandigarh vs Haryana Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Haryana Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Himachal Pradesh vs Mumbai Elite Group D",
-      "team1": {
-        "name": "Himachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mumbai Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Himachal Pradesh vs Mumbai Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttarakhand vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Uttarakhand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttarakhand vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Railways Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Railways Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Railways Elite Group D",
-      "status": "Match Details"
-    },
-    {
       "title": "Kenya vs Denmark 31st Match",
       "team1": {
         "name": "Kenya",
@@ -446,29 +459,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Mizoram vs Nagaland Plate",
-      "team1": {
-        "name": "Mizoram",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nagaland Plate",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mizoram vs Nagaland Plate",
-      "status": "Match Details"
-    },
-    {
-      "title": "Meghalaya vs Manipur Plate",
+      "title": "Meghalaya vs Manipur LIVE Plate",
       "team1": {
         "name": "Meghalaya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manipur Plate",
+        "name": "Manipur LIVE Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Meghalaya vs Manipur Plate",
+      "score": "Meghalaya vs Manipur LIVE Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mizoram vs Nagaland LIVE Plate",
+      "team1": {
+        "name": "Mizoram",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nagaland LIVE Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mizoram vs Nagaland LIVE Plate",
       "status": "Match Details"
     },
     {
@@ -498,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Australia vs Queensland LIVE 5th Match",
+      "title": "South Australia vs Queensland 5th Match",
       "team1": {
         "name": "South Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Queensland LIVE 5th Match",
+        "name": "Queensland 5th Match",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "South Australia vs Queensland LIVE 5th Match",
+      "score": "South Australia vs Queensland 5th Match",
       "status": "Match Details"
     },
     {
@@ -550,19 +563,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Adelaide Strikers Women vs Perth Scorchers Women Semi Final 1",
-      "team1": {
-        "name": "Adelaide Strikers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Perth Scorchers Women Semi Final 1",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Adelaide Strikers Women vs Perth Scorchers Women Semi Final 1",
-      "status": "Match Details"
-    },
-    {
       "title": "Sydney Thunder Women vs Sydney Sixers Women Semi Final 2",
       "team1": {
         "name": "Sydney Thunder Women",
@@ -576,16 +576,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Perth Scorchers Women vs Sydney Sixers Women Final",
+      "title": "Sydney Sixers Women vs Perth Scorchers Women Final",
       "team1": {
-        "name": "Perth Scorchers Women",
+        "name": "Sydney Sixers Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sydney Sixers Women Final",
+        "name": "Perth Scorchers Women Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Perth Scorchers Women vs Sydney Sixers Women Final",
+      "score": "Sydney Sixers Women vs Perth Scorchers Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Abuja, Nigeria Cricket Federation Oval 1 Lesotho LSO 169-8 (20) Mozambique MOZ 95 (18.2) Lesotho won by 74 runs",
+      "team1": {
+        "name": "2nd Match • Abuja, Nigeria Cricket Federation Oval 1 Lesotho LSO 169",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Mozambique MOZ 95 (18.2) Lesotho won by 74 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Abuja, Nigeria Cricket Federation Oval 1 Lesotho LSO 169-8 (20) Mozambique MOZ 95 (18.2) Lesotho won by 74 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match • Abuja, Nigeria Cricket Federation Oval 2 Nigeria NGA 262-1 (20) Gambia GM 102 (17.2) Nigeria won by 160 runs",
+      "team1": {
+        "name": "3rd Match • Abuja, Nigeria Cricket Federation Oval 2 Nigeria NGA 262",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "1 (20) Gambia GM 102 (17.2) Nigeria won by 160 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "3rd Match • Abuja, Nigeria Cricket Federation Oval 2 Nigeria NGA 262-1 (20) Gambia GM 102 (17.2) Nigeria won by 160 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool A • Durban, Kingsmead Dolphins DOL 116 (18.5) Warriors WAR 117-4 (15) Warriors won by 6 wkts",
+      "team1": {
+        "name": "Pool A • Durban, Kingsmead Dolphins DOL 116 (18.5) Warriors WAR 117",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "4 (15) Warriors won by 6 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool A • Durban, Kingsmead Dolphins DOL 116 (18.5) Warriors WAR 117-4 (15) Warriors won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match • Adelaide, Adelaide Oval South Australia SAUS 203 & 145 Queensland QL 238 & 114-4 Queensland won by 6 wkts",
+      "team1": {
+        "name": "5th Match • Adelaide, Adelaide Oval South Australia SAUS 203 & 145 Queensland QL 238 & 114",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "4 Queensland won by 6 wkts",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "5th Match • Adelaide, Adelaide Oval South Australia SAUS 203 & 145 Queensland QL 238 & 114-4 Queensland won by 6 wkts",
       "status": "Match Details"
     }
   ]
