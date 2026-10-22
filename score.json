@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-22 05:28:08 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-10-22 10:32:34 UTC",
+  "total_matches": 44,
   "matches": [
     {
-      "title": "NZ vs IND - Preview",
+      "title": "NZ vs IND - Need 72 off 40b",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,11 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Preview",
+      "score": "NZ vs IND - Need 72 off 40b",
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - Stumps",
+      "title": "RSA vs AUS - Trail by 139",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -26,85 +26,85 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - Stumps",
+      "score": "RSA vs AUS - Trail by 139",
       "status": "Match Details"
     },
     {
-      "title": "SL vs ENG - Preview",
+      "title": "ENG vs SL - SL opt to bowl",
       "team1": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "SL vs ENG - Preview",
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "ENG vs SL - SL opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "NAM vs IRE - Preview",
+      "title": "IRE vs NAM - NAM opt to bowl",
       "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "NAM vs IRE - Preview",
+      "team2": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "IRE vs NAM - NAM opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "AUSW vs NZW - Preview",
+      "title": "NZW vs AUSW - Rain",
       "team1": {
-        "name": "AUSW",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
         "name": "NZW",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "AUSW vs NZW - Preview",
+      "team2": {
+        "name": "AUSW",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "NZW vs AUSW - Rain",
       "status": "Match Details"
     },
     {
-      "title": "New Zealand vs India 1st T20I",
+      "title": "New Zealand vs India LIVE 1st T20I",
       "team1": {
         "name": "New Zealand",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "India 1st T20I",
+        "name": "India LIVE 1st T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand vs India 1st T20I",
+      "score": "New Zealand vs India LIVE 1st T20I",
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia 2nd Test",
+      "title": "South Africa vs Australia LIVE 2nd Test",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia 2nd Test",
+        "name": "Australia LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia 2nd Test",
+      "score": "South Africa vs Australia LIVE 2nd Test",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs England 3rd Match",
+      "title": "England vs Sri Lanka LIVE 3rd Match",
       "team1": {
-        "name": "Sri Lanka",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "England 3rd Match",
+        "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Sri Lanka vs England 3rd Match",
+      "team2": {
+        "name": "Sri Lanka LIVE 3rd Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "England vs Sri Lanka LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs Ireland 1st ODI",
+      "title": "Ireland vs Namibia LIVE 1st ODI",
       "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Ireland 1st ODI",
+        "name": "Ireland",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Namibia vs Ireland 1st ODI",
+      "team2": {
+        "name": "Namibia LIVE 1st ODI",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Ireland vs Namibia LIVE 1st ODI",
       "status": "Match Details"
     },
     {
@@ -186,6 +186,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Nigeria vs Mozambique 7th Match",
+      "team1": {
+        "name": "Nigeria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mozambique 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nigeria vs Mozambique 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zambia vs Lesotho 8th Match",
+      "team1": {
+        "name": "Zambia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lesotho 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Zambia vs Lesotho 8th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Northern Cape vs South Western Districts Pool A",
       "team1": {
         "name": "Northern Cape",
@@ -235,32 +261,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Mpumalanga Rhinos vs South Africa Emerging Players Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Assam vs Tripura Elite Group B",
-      "team1": {
-        "name": "Assam",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Tripura Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Assam vs Tripura Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kerala vs Odisha Elite Group C",
-      "team1": {
-        "name": "Kerala",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Odisha Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kerala vs Odisha Elite Group C",
       "status": "Match Details"
     },
     {
@@ -446,6 +446,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Kerala vs Odisha Elite Group C",
+      "team1": {
+        "name": "Kerala",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Odisha Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kerala vs Odisha Elite Group C",
+      "status": "Match Details"
+    },
+    {
       "title": "Kenya vs Denmark 31st Match",
       "team1": {
         "name": "Kenya",
@@ -459,29 +472,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Papua New Guinea vs Jersey 32nd Match",
+      "title": "Jersey vs Papua New Guinea 32nd Match",
       "team1": {
-        "name": "Papua New Guinea",
+        "name": "Jersey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Jersey 32nd Match",
+        "name": "Papua New Guinea 32nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Papua New Guinea vs Jersey 32nd Match",
+      "score": "Jersey vs Papua New Guinea 32nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Qatar vs Kuwait 33rd Match",
+      "title": "Kuwait vs Qatar 33rd Match",
       "team1": {
-        "name": "Qatar",
+        "name": "Kuwait",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kuwait 33rd Match",
+        "name": "Qatar 33rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Qatar vs Kuwait 33rd Match",
+      "score": "Kuwait vs Qatar 33rd Match",
       "status": "Match Details"
     },
     {
@@ -511,42 +524,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs Western Australia LIVE 6th Match",
+      "title": "New South Wales vs Western Australia 6th Match",
       "team1": {
         "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Australia LIVE 6th Match",
+        "name": "Western Australia 6th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "New South Wales vs Western Australia LIVE 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Meghalaya vs Manipur Plate",
-      "team1": {
-        "name": "Meghalaya",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Manipur Plate",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Meghalaya vs Manipur Plate",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mizoram vs Nagaland Plate",
-      "team1": {
-        "name": "Mizoram",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nagaland Plate",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mizoram vs Nagaland Plate",
+      "score": "New South Wales vs Western Australia 6th Match",
       "status": "Match Details"
     },
     {
@@ -563,42 +550,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sydney Sixers Women vs Perth Scorchers Women Final",
+      "title": "India Women vs Zimbabwe Women 1st ODI",
       "team1": {
-        "name": "Sydney Sixers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India Women",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Perth Scorchers Women Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Zimbabwe Women 1st ODI",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Sydney Sixers Women vs Perth Scorchers Women Final",
+      "score": "India Women vs Zimbabwe Women 1st ODI",
       "status": "Match Details"
     },
     {
-      "title": "Australia Women vs New Zealand Women 3rd T20I",
+      "title": "New Zealand Women vs Australia Women 3rd T20I",
       "team1": {
-        "name": "Australia Women",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "New Zealand Women 3rd T20I",
+        "name": "New Zealand Women",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "Australia Women vs New Zealand Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Hobart, Bellerive Oval Tasmania TAS 241 & 236 Victoria VIC 207 & 266 Tasmania won by 4 runs",
-      "team1": {
-        "name": "4th Match • Hobart, Bellerive Oval Tasmania TAS 241 & 236 Victoria VIC 207 & 266 Tasmania won by 4 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Australia Women 3rd T20I",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "4th Match • Hobart, Bellerive Oval Tasmania TAS 241 & 236 Victoria VIC 207 & 266 Tasmania won by 4 runs",
+      "score": "New Zealand Women vs Australia Women 3rd T20I",
       "status": "Match Details"
     }
   ]
