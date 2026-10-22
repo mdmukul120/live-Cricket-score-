@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-22 00:44:22 UTC",
-  "total_matches": 50,
+  "last_updated": "2026-10-22 05:28:08 UTC",
+  "total_matches": 46,
   "matches": [
     {
       "title": "NZ vs IND - Preview",
@@ -14,19 +14,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "NZ vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "BAN vs AFG - AFG won",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "BAN vs AFG - AFG won",
       "status": "Match Details"
     },
     {
@@ -69,6 +56,19 @@
       "status": "Match Details"
     },
     {
+      "title": "AUSW vs NZW - Preview",
+      "team1": {
+        "name": "AUSW",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "NZW",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "AUSW vs NZW - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "New Zealand vs India 1st T20I",
       "team1": {
         "name": "New Zealand",
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh Cricket Board XI vs West Indies Warm-up Match",
+      "title": "Bangladesh Cricket Board XI vs West Indies LIVE Warm-up Match",
       "team1": {
         "name": "Bangladesh Cricket Board XI",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "West Indies Warm",
+        "name": "West Indies LIVE Warm",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Bangladesh Cricket Board XI vs West Indies Warm-up Match",
+      "score": "Bangladesh Cricket Board XI vs West Indies LIVE Warm-up Match",
       "status": "Match Details"
     },
     {
@@ -251,71 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Karnataka vs Saurashtra Elite Group B",
-      "team1": {
-        "name": "Karnataka",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saurashtra Elite Group B",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Karnataka vs Saurashtra Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Punjab vs Chhattisgarh Elite Group B",
-      "team1": {
-        "name": "Punjab",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chhattisgarh Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Punjab vs Chhattisgarh Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jharkhand vs Maharashtra Elite Group C",
-      "team1": {
-        "name": "Jharkhand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Maharashtra Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jharkhand vs Maharashtra Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Delhi vs Gujarat Elite Group C",
-      "team1": {
-        "name": "Delhi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Gujarat Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Delhi vs Gujarat Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Services Elite Group C",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Services Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Services Elite Group C",
-      "status": "Match Details"
-    },
-    {
       "title": "Kerala vs Odisha Elite Group C",
       "team1": {
         "name": "Kerala",
@@ -446,6 +381,71 @@
       "status": "Match Details"
     },
     {
+      "title": "Karnataka vs Saurashtra Elite Group B",
+      "team1": {
+        "name": "Karnataka",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Saurashtra Elite Group B",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Karnataka vs Saurashtra Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Punjab vs Chhattisgarh Elite Group B",
+      "team1": {
+        "name": "Punjab",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chhattisgarh Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Punjab vs Chhattisgarh Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jharkhand vs Maharashtra Elite Group C",
+      "team1": {
+        "name": "Jharkhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Maharashtra Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jharkhand vs Maharashtra Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Delhi vs Gujarat Elite Group C",
+      "team1": {
+        "name": "Delhi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gujarat Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Delhi vs Gujarat Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bengal vs Services Elite Group C",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Services Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Services Elite Group C",
+      "status": "Match Details"
+    },
+    {
       "title": "Kenya vs Denmark 31st Match",
       "team1": {
         "name": "Kenya",
@@ -485,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs Victoria LIVE 4th Match",
+      "title": "Tasmania vs Victoria 4th Match",
       "team1": {
         "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Victoria LIVE 4th Match",
+        "name": "Victoria 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs Victoria LIVE 4th Match",
+      "score": "Tasmania vs Victoria 4th Match",
       "status": "Match Details"
     },
     {
@@ -511,16 +511,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs Western Australia 6th Match",
+      "title": "New South Wales vs Western Australia LIVE 6th Match",
       "team1": {
         "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Australia 6th Match",
+        "name": "Western Australia LIVE 6th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "New South Wales vs Western Australia 6th Match",
+      "score": "New South Wales vs Western Australia LIVE 6th Match",
       "status": "Match Details"
     },
     {
@@ -589,68 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Abuja, Nigeria Cricket Federation Oval 1 Zambia ZMB 142-9 (20) Nigeria NGA 146-1 (14.5) Nigeria won by 9 wkts",
+      "title": "4th Match • Hobart, Bellerive Oval Tasmania TAS 241 & 236 Victoria VIC 207 & 266 Tasmania won by 4 runs",
       "team1": {
-        "name": "6th Match • Abuja, Nigeria Cricket Federation Oval 1 Zambia ZMB 142",
+        "name": "4th Match • Hobart, Bellerive Oval Tasmania TAS 241 & 236 Victoria VIC 207 & 266 Tasmania won by 4 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) Nigeria NGA 146",
+        "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "6th Match • Abuja, Nigeria Cricket Federation Oval 1 Zambia ZMB 142-9 (20) Nigeria NGA 146-1 (14.5) Nigeria won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 87 (19.3) Uganda UGA 89-5 (12.3) Uganda won by 5 wkts",
-      "team1": {
-        "name": "5th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 87 (19.3) Uganda UGA 89",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (12.3) Uganda won by 5 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 87 (19.3) Uganda UGA 89-5 (12.3) Uganda won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 148-6 (20) Gambia GM 120-8 (20) Mozambique won by 28 runs",
-      "team1": {
-        "name": "4th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 148",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Gambia GM 120",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 148-6 (20) Gambia GM 120-8 (20) Mozambique won by 28 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool A • Potchefstroom, Senwes Park Limpopo LIMPO 147-6 (20) North West - Eastvaal Renault Dragons NWEST 148-5 (17.5) North West  -  Eastvaal Renault Dragons won by 5 wkts",
-      "team1": {
-        "name": "Pool A • Potchefstroom, Senwes Park Limpopo LIMPO 147",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool A • Potchefstroom, Senwes Park Limpopo LIMPO 147-6 (20) North West - Eastvaal Renault Dragons NWEST 148-5 (17.5) North West  -  Eastvaal Renault Dragons won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool A • Kimberley, Diamond Oval Northern Cape NCAPE 126-6 (20) South Western Districts SWD 127-4 (19.3) South Western Districts won by 6 wkts",
-      "team1": {
-        "name": "Pool A • Kimberley, Diamond Oval Northern Cape NCAPE 126",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) South Western Districts SWD 127",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool A • Kimberley, Diamond Oval Northern Cape NCAPE 126-6 (20) South Western Districts SWD 127-4 (19.3) South Western Districts won by 6 wkts",
+      "score": "4th Match • Hobart, Bellerive Oval Tasmania TAS 241 & 236 Victoria VIC 207 & 266 Tasmania won by 4 runs",
       "status": "Match Details"
     }
   ]
