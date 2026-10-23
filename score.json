@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-22 22:42:32 UTC",
-  "total_matches": 26,
+  "last_updated": "2026-10-23 00:59:45 UTC",
+  "total_matches": 27,
   "matches": [
     {
       "title": "ENG vs SL - SL won",
@@ -134,6 +134,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Afghanistan vs Zimbabwe Final",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Zimbabwe Final",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Afghanistan vs Zimbabwe Final",
+      "status": "Match Details"
+    },
+    {
       "title": "Nigeria vs Mozambique 7th Match",
       "team1": {
         "name": "Nigeria",
@@ -170,19 +183,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Gambia vs Uganda 9th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Afghanistan vs Zimbabwe Final",
-      "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Final",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "Afghanistan vs Zimbabwe Final",
       "status": "Match Details"
     },
     {
@@ -300,6 +300,19 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "New South Wales vs Western Australia 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tasmania vs Victoria 11th Match",
+      "team1": {
+        "name": "Tasmania",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Victoria 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tasmania vs Victoria 11th Match",
       "status": "Match Details"
     },
     {
