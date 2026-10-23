@@ -1,8 +1,34 @@
 {
   "status": "success",
-  "last_updated": "2026-10-23 19:44:32 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-10-23 22:40:08 UTC",
+  "total_matches": 29,
   "matches": [
+    {
+      "title": "INDA vs NZA - NZA opt to bowl",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - NZA opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZ vs IND - Preview",
+      "team1": {
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZ vs IND - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "ZIM vs AFG - AFG won",
       "team1": {
@@ -27,32 +53,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "ZIMW vs INDW - INDW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZ vs IND - Preview",
-      "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "NZ vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZA vs INDA - Preview",
-      "team1": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "NZA vs INDA - Preview",
       "status": "Match Details"
     },
     {
@@ -160,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Lesotho vs Nigeria 12th Match",
-      "team1": {
-        "name": "Lesotho",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nigeria 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lesotho vs Nigeria 12th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Gambia vs Zambia 11th Match",
       "team1": {
         "name": "Gambia",
@@ -183,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Gambia vs Zambia 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lesotho vs Nigeria 12th Match",
+      "team1": {
+        "name": "Lesotho",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nigeria 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lesotho vs Nigeria 12th Match",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand A vs India A 1st Unofficial Test",
+      "title": "India A vs New Zealand A LIVE 1st Unofficial Test",
       "team1": {
-        "name": "New Zealand A",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "India A 1st Unofficial Test",
+        "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand A vs India A 1st Unofficial Test",
+      "team2": {
+        "name": "New Zealand A LIVE 1st Unofficial Test",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "India A vs New Zealand A LIVE 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -368,7 +368,7 @@
       "status": "Match Details"
     },
     {
-      "title": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wkts, 8 ovs game due to rain, DLS target 56",
+      "title": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wkts, 8 overs game due to rain, DLS target 56",
       "team1": {
         "name": "Pool A • Durban, Kingsmead South Western Districts SWD 51",
         "flag": "https://flagcdn.com/w80/bd.png"
@@ -377,20 +377,7 @@
         "name": "4 (8) Dolphins DOL 56",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wkts, 8 ovs game due to rain, DLS target 56",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st ODI • Vadodara, BCA Stadium, Kotambi Zimbabwe Women ZIMW 197 (49.5) India Women INDW 200-1 (27.1) India Women won by 9 wkts",
-      "team1": {
-        "name": "1st ODI • Vadodara, BCA Stadium, Kotambi Zimbabwe Women ZIMW 197 (49.5) India Women INDW 200",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "1 (27.1) India Women won by 9 wkts",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "1st ODI • Vadodara, BCA Stadium, Kotambi Zimbabwe Women ZIMW 197 (49.5) India Women INDW 200-1 (27.1) India Women won by 9 wkts",
+      "score": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wkts, 8 overs game due to rain, DLS target 56",
       "status": "Match Details"
     }
   ]
