@@ -1,8 +1,60 @@
 {
   "status": "success",
-  "last_updated": "2026-10-23 05:57:30 UTC",
-  "total_matches": 26,
+  "last_updated": "2026-10-23 11:27:24 UTC",
+  "total_matches": 30,
   "matches": [
+    {
+      "title": "ZIMW vs INDW - ZIMW opt to bat",
+      "team1": {
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "ZIMW vs INDW - ZIMW opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs AFG - ZIM opt to bat",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "ZIM vs AFG - ZIM opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZ vs IND - Preview",
+      "team1": {
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZ vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZA vs INDA - Preview",
+      "team1": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZA vs INDA - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "ENG vs SL - SL won",
       "team1": {
@@ -17,68 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "RSA vs AUS - RSA won",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "RSA vs AUS - RSA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZ vs IND - IND won",
-      "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "NZ vs IND - IND won",
-      "status": "Match Details"
-    },
-    {
-      "title": "IRE vs NAM - IRE won",
-      "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "IRE vs NAM - IRE won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDW vs ZIMW - Preview",
-      "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "INDW vs ZIMW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "New Zealand vs India 1st T20I",
+      "title": "New Zealand vs India 2nd T20I",
       "team1": {
         "name": "New Zealand",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "India 1st T20I",
+        "name": "India 2nd T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand vs India 1st T20I",
+      "score": "New Zealand vs India 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh Cricket Board XI vs West Indies Warm-up Match",
+      "title": "Bangladesh Cricket Board XI vs West Indies 2-Day Warm-Up Match",
       "team1": {
         "name": "Bangladesh Cricket Board XI",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "West Indies Warm",
+        "name": "West Indies 2",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Bangladesh Cricket Board XI vs West Indies Warm-up Match",
+      "score": "Bangladesh Cricket Board XI vs West Indies 2-Day Warm-Up Match",
       "status": "Match Details"
     },
     {
@@ -134,42 +134,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Zimbabwe Final",
+      "title": "Namibia vs Ireland 2nd ODI",
       "team1": {
-        "name": "Afghanistan",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "Namibia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Zimbabwe Final",
+        "name": "Ireland 2nd ODI",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Namibia vs Ireland 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe vs Afghanistan Final",
+      "team1": {
+        "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Afghanistan vs Zimbabwe Final",
+      "team2": {
+        "name": "Afghanistan Final",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Zimbabwe vs Afghanistan Final",
       "status": "Match Details"
     },
     {
-      "title": "Nigeria vs Mozambique 7th Match",
+      "title": "Mozambique vs Nigeria 7th Match",
       "team1": {
-        "name": "Nigeria",
+        "name": "Mozambique",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mozambique 7th Match",
+        "name": "Nigeria 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nigeria vs Mozambique 7th Match",
+      "score": "Mozambique vs Nigeria 7th Match",
       "status": "Match Details"
     },
     {
-      "title": "Zambia vs Lesotho 8th Match",
+      "title": "Lesotho vs Zambia 8th Match",
       "team1": {
-        "name": "Zambia",
+        "name": "Lesotho",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Lesotho 8th Match",
+        "name": "Zambia 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zambia vs Lesotho 8th Match",
+      "score": "Lesotho vs Zambia 8th Match",
       "status": "Match Details"
     },
     {
@@ -183,6 +196,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Gambia vs Uganda 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda vs Mozambique 10th Match",
+      "team1": {
+        "name": "Uganda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mozambique 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda vs Mozambique 10th Match",
       "status": "Match Details"
     },
     {
@@ -225,6 +251,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Lions vs Limpopo Pool A",
+      "team1": {
+        "name": "Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Limpopo Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lions vs Limpopo Pool A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Border vs Warriors Pool A",
+      "team1": {
+        "name": "Border",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warriors Pool A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Border vs Warriors Pool A",
+      "status": "Match Details"
+    },
+    {
       "title": "New Zealand A vs India A 1st Unofficial Test",
       "team1": {
         "name": "New Zealand A",
@@ -264,42 +316,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs Victoria 4th Match",
+      "title": "Denmark vs Kuwait 34th Match",
       "team1": {
-        "name": "Tasmania",
+        "name": "Denmark",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Victoria 4th Match",
+        "name": "Kuwait 34th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs Victoria 4th Match",
+      "score": "Denmark vs Kuwait 34th Match",
       "status": "Match Details"
     },
     {
-      "title": "South Australia vs Queensland 5th Match",
+      "title": "Qatar vs Kenya 35th Match",
       "team1": {
-        "name": "South Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Queensland 5th Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "South Australia vs Queensland 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "New South Wales vs Western Australia 6th Match",
-      "team1": {
-        "name": "New South Wales",
+        "name": "Qatar",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Australia 6th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Kenya 35th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New South Wales vs Western Australia 6th Match",
+      "score": "Qatar vs Kenya 35th Match",
       "status": "Match Details"
     },
     {
@@ -316,16 +355,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Zimbabwe Women 1st ODI",
+      "title": "Western Australia vs New South Wales 12th Match",
       "team1": {
-        "name": "India Women",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Western Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Zimbabwe Women 1st ODI",
+        "name": "New South Wales 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Australia vs New South Wales 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe Women vs India Women LIVE 1st ODI",
+      "team1": {
+        "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "India Women vs Zimbabwe Women 1st ODI",
+      "team2": {
+        "name": "India Women LIVE 1st ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Zimbabwe Women vs India Women LIVE 1st ODI",
       "status": "Match Details"
     },
     {
