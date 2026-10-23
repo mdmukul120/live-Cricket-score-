@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-23 11:27:24 UTC",
+  "last_updated": "2026-10-23 15:51:56 UTC",
   "total_matches": 30,
   "matches": [
     {
-      "title": "ZIMW vs INDW - ZIMW opt to bat",
-      "team1": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "ZIMW vs INDW - ZIMW opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs AFG - ZIM opt to bat",
+      "title": "ZIM vs AFG - Need 141 to win",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -26,7 +13,20 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "ZIM vs AFG - ZIM opt to bat",
+      "score": "ZIM vs AFG - Need 141 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIMW vs INDW - INDW won",
+      "team1": {
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "ZIMW vs INDW - INDW won",
       "status": "Match Details"
     },
     {
@@ -82,19 +82,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia 2nd Test",
-      "team1": {
-        "name": "South Africa",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Australia 2nd Test",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "South Africa vs Australia 2nd Test",
-      "status": "Match Details"
-    },
-    {
       "title": "England vs Sri Lanka 3rd Match",
       "team1": {
         "name": "England",
@@ -121,19 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland vs Namibia 1st ODI",
-      "team1": {
-        "name": "Ireland",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Namibia 1st ODI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Ireland vs Namibia 1st ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Namibia vs Ireland 2nd ODI",
       "team1": {
         "name": "Namibia",
@@ -144,19 +118,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Namibia vs Ireland 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zimbabwe vs Afghanistan Final",
-      "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "Afghanistan Final",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "Zimbabwe vs Afghanistan Final",
       "status": "Match Details"
     },
     {
@@ -212,16 +173,42 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa Emerging Players vs Mpumalanga Rhinos Pool B",
+      "title": "Gambia vs Zambia 11th Match",
       "team1": {
-        "name": "South Africa Emerging Players",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Mpumalanga Rhinos Pool B",
+        "name": "Gambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Africa Emerging Players vs Mpumalanga Rhinos Pool B",
+      "team2": {
+        "name": "Zambia 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gambia vs Zambia 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lesotho vs Nigeria 12th Match",
+      "team1": {
+        "name": "Lesotho",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nigeria 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lesotho vs Nigeria 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe vs Afghanistan LIVE Final",
+      "team1": {
+        "name": "Zimbabwe",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "Afghanistan LIVE Final",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Zimbabwe vs Afghanistan LIVE Final",
       "status": "Match Details"
     },
     {
@@ -290,29 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jersey vs Papua New Guinea 32nd Match",
+      "title": "Qatar vs Kenya 35th Match",
       "team1": {
-        "name": "Jersey",
+        "name": "Qatar",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Papua New Guinea 32nd Match",
+        "name": "Kenya 35th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jersey vs Papua New Guinea 32nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kuwait vs Qatar 33rd Match",
-      "team1": {
-        "name": "Kuwait",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 33rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kuwait vs Qatar 33rd Match",
+      "score": "Qatar vs Kenya 35th Match",
       "status": "Match Details"
     },
     {
@@ -326,19 +300,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Denmark vs Kuwait 34th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qatar vs Kenya 35th Match",
-      "team1": {
-        "name": "Qatar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kenya 35th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qatar vs Kenya 35th Match",
       "status": "Match Details"
     },
     {
@@ -368,29 +329,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs India Women LIVE 1st ODI",
+      "title": "Zimbabwe Women vs India Women 1st ODI",
       "team1": {
         "name": "Zimbabwe Women",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "India Women LIVE 1st ODI",
+        "name": "India Women 1st ODI",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Zimbabwe Women vs India Women LIVE 1st ODI",
+      "score": "Zimbabwe Women vs India Women 1st ODI",
       "status": "Match Details"
     },
     {
-      "title": "New Zealand Women vs Australia Women 3rd T20I",
+      "title": "Mexico Women vs Argentina Women 1st T20I",
       "team1": {
-        "name": "New Zealand Women",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "Mexico Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Australia Women 3rd T20I",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "Argentina Women 1st T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "New Zealand Women vs Australia Women 3rd T20I",
+      "score": "Mexico Women vs Argentina Women 1st T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "7th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 93 (19.4) Nigeria NGA 94-3 (8.3) Nigeria won by 7 wkts",
+      "team1": {
+        "name": "7th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 93 (19.4) Nigeria NGA 94",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (8.3) Nigeria won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "7th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 93 (19.4) Nigeria NGA 94-3 (8.3) Nigeria won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "8th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 58 (13.4) Zambia ZMB 61-3 (7.4) Zambia won by 7 wkts",
+      "team1": {
+        "name": "8th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 58 (13.4) Zambia ZMB 61",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (7.4) Zambia won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "8th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 58 (13.4) Zambia ZMB 61-3 (7.4) Zambia won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st ODI • Vadodara, BCA Stadium, Kotambi Zimbabwe Women ZIMW 197 (49.5) India Women INDW 200-1 (27.1) India Women won by 9 wkts",
+      "team1": {
+        "name": "1st ODI • Vadodara, BCA Stadium, Kotambi Zimbabwe Women ZIMW 197 (49.5) India Women INDW 200",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "1 (27.1) India Women won by 9 wkts",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "1st ODI • Vadodara, BCA Stadium, Kotambi Zimbabwe Women ZIMW 197 (49.5) India Women INDW 200-1 (27.1) India Women won by 9 wkts",
       "status": "Match Details"
     }
   ]
