@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-23 15:51:56 UTC",
+  "last_updated": "2026-10-23 19:44:32 UTC",
   "total_matches": 30,
   "matches": [
     {
-      "title": "ZIM vs AFG - Need 141 to win",
+      "title": "ZIM vs AFG - AFG won",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -13,7 +13,7 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "ZIM vs AFG - Need 141 to win",
+      "score": "ZIM vs AFG - AFG won",
       "status": "Match Details"
     },
     {
@@ -79,19 +79,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "New Zealand vs India 2nd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "England vs Sri Lanka 3rd Match",
-      "team1": {
-        "name": "England",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Sri Lanka 3rd Match",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "England vs Sri Lanka 3rd Match",
       "status": "Match Details"
     },
     {
@@ -173,19 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Gambia vs Zambia 11th Match",
-      "team1": {
-        "name": "Gambia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Zambia 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gambia vs Zambia 11th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Lesotho vs Nigeria 12th Match",
       "team1": {
         "name": "Lesotho",
@@ -199,42 +173,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Afghanistan LIVE Final",
+      "title": "Gambia vs Zambia 11th Match",
+      "team1": {
+        "name": "Gambia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Zambia 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gambia vs Zambia 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe vs Afghanistan Final",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Afghanistan LIVE Final",
+        "name": "Afghanistan Final",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Zimbabwe vs Afghanistan LIVE Final",
+      "score": "Zimbabwe vs Afghanistan Final",
       "status": "Match Details"
     },
     {
-      "title": "Eastern Storm vs KwaZulu-Natal Inland Tuskers Pool B",
+      "title": "South Western Districts vs Dolphins Pool A",
       "team1": {
-        "name": "Eastern Storm",
+        "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "KwaZulu",
+        "name": "Dolphins Pool A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Eastern Storm vs KwaZulu-Natal Inland Tuskers Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Dolphins vs South Western Districts Pool A",
-      "team1": {
-        "name": "Dolphins",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Western Districts Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Dolphins vs South Western Districts Pool A",
+      "score": "South Western Districts vs Dolphins Pool A",
       "status": "Match Details"
     },
     {
@@ -264,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Knights vs Mpumalanga Rhinos Pool B",
+      "team1": {
+        "name": "Knights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mpumalanga Rhinos Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Knights vs Mpumalanga Rhinos Pool B",
+      "status": "Match Details"
+    },
+    {
       "title": "New Zealand A vs India A 1st Unofficial Test",
       "team1": {
         "name": "New Zealand A",
@@ -277,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Qatar vs Kenya 35th Match",
-      "team1": {
-        "name": "Qatar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kenya 35th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qatar vs Kenya 35th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Denmark vs Kuwait 34th Match",
       "team1": {
         "name": "Denmark",
@@ -300,6 +274,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Denmark vs Kuwait 34th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Qatar vs Kenya 35th Match",
+      "team1": {
+        "name": "Qatar",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kenya 35th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Qatar vs Kenya 35th Match",
       "status": "Match Details"
     },
     {
@@ -355,29 +342,42 @@
       "status": "Match Details"
     },
     {
-      "title": "7th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 93 (19.4) Nigeria NGA 94-3 (8.3) Nigeria won by 7 wkts",
+      "title": "Mexico Women vs Argentina Women 2nd T20I",
       "team1": {
-        "name": "7th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 93 (19.4) Nigeria NGA 94",
+        "name": "Mexico Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (8.3) Nigeria won by 7 wkts",
+        "name": "Argentina Women 2nd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "7th Match • Abuja, Nigeria Cricket Federation Oval 1 Mozambique MOZ 93 (19.4) Nigeria NGA 94-3 (8.3) Nigeria won by 7 wkts",
+      "score": "Mexico Women vs Argentina Women 2nd T20I",
       "status": "Match Details"
     },
     {
-      "title": "8th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 58 (13.4) Zambia ZMB 61-3 (7.4) Zambia won by 7 wkts",
+      "title": "Final • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 169 (43.3) Afghanistan AFG 170-3 (34.3) Afghanistan won by 7 wkts",
       "team1": {
-        "name": "8th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 58 (13.4) Zambia ZMB 61",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Final • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 169 (43.3) Afghanistan AFG 170",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "3 (7.4) Zambia won by 7 wkts",
+        "name": "3 (34.3) Afghanistan won by 7 wkts",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Final • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 169 (43.3) Afghanistan AFG 170-3 (34.3) Afghanistan won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wkts, 8 ovs game due to rain, DLS target 56",
+      "team1": {
+        "name": "Pool A • Durban, Kingsmead South Western Districts SWD 51",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "4 (8) Dolphins DOL 56",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "8th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 58 (13.4) Zambia ZMB 61-3 (7.4) Zambia won by 7 wkts",
+      "score": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wkts, 8 ovs game due to rain, DLS target 56",
       "status": "Match Details"
     },
     {
