@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-10-24 01:08:32 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-10-24 05:53:59 UTC",
+  "total_matches": 29,
   "matches": [
-    {
-      "title": "INDA vs NZA - NZA opt to bowl",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - NZA opt to bowl",
-      "status": "Match Details"
-    },
     {
       "title": "NZ vs IND - Preview",
       "team1": {
@@ -27,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "NZ vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs NZA - Stumps",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - Stumps",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A LIVE 1st Unofficial Test",
+      "title": "India A vs New Zealand A 1st Unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand A LIVE 1st Unofficial Test",
+        "name": "New Zealand A 1st Unofficial Test",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "India A vs New Zealand A LIVE 1st Unofficial Test",
+      "score": "India A vs New Zealand A 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -290,29 +290,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs Tasmania LIVE 11th Match",
+      "title": "Victoria vs Tasmania 11th Match",
       "team1": {
         "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Tasmania LIVE 11th Match",
+        "name": "Tasmania 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Victoria vs Tasmania LIVE 11th Match",
+      "score": "Victoria vs Tasmania 11th Match",
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs New South Wales 12th Match",
+      "title": "New South Wales vs Western Australia 12th Match",
       "team1": {
-        "name": "Western Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "New South Wales 12th Match",
+        "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Australia vs New South Wales 12th Match",
+      "team2": {
+        "name": "Western Australia 12th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "New South Wales vs Western Australia 12th Match",
       "status": "Match Details"
     },
     {
@@ -355,7 +355,20 @@
       "status": "Match Details"
     },
     {
-      "title": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wkts, 8 overs game due to rain, DLS target 56",
+      "title": "9th Match • Abuja, Nigeria Cricket Federation Oval 2 Gambia GM 27 (8.2) Uganda UGA 28-0 (1.4) Uganda won by 10 wkts",
+      "team1": {
+        "name": "9th Match • Abuja, Nigeria Cricket Federation Oval 2 Gambia GM 27 (8.2) Uganda UGA 28",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "0 (1.4) Uganda won by 10 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "9th Match • Abuja, Nigeria Cricket Federation Oval 2 Gambia GM 27 (8.2) Uganda UGA 28-0 (1.4) Uganda won by 10 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wickets (DLS method)",
       "team1": {
         "name": "Pool A • Durban, Kingsmead South Western Districts SWD 51",
         "flag": "https://flagcdn.com/w80/bd.png"
@@ -364,7 +377,7 @@
         "name": "4 (8) Dolphins DOL 56",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wkts, 8 overs game due to rain, DLS target 56",
+      "score": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wickets (DLS method)",
       "status": "Match Details"
     }
   ]
