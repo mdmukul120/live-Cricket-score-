@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-23 22:40:08 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-10-24 01:08:32 UTC",
+  "total_matches": 28,
   "matches": [
     {
       "title": "INDA vs NZA - NZA opt to bowl",
@@ -30,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "NAM vs IRE - Preview",
+      "team1": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "NAM vs IRE - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "ZIM vs AFG - AFG won",
       "team1": {
         "name": "ZIM",
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "ZIMW vs INDW - INDW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENG vs SL - SL won",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "ENG vs SL - SL won",
       "status": "Match Details"
     },
     {
@@ -290,16 +290,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs Victoria 11th Match",
+      "title": "Victoria vs Tasmania LIVE 11th Match",
       "team1": {
-        "name": "Tasmania",
+        "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Victoria 11th Match",
+        "name": "Tasmania LIVE 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs Victoria 11th Match",
+      "score": "Victoria vs Tasmania LIVE 11th Match",
       "status": "Match Details"
     },
     {
@@ -352,19 +352,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mexico Women vs Argentina Women 2nd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "Final • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 169 (43.3) Afghanistan AFG 170-3 (34.3) Afghanistan won by 7 wkts",
-      "team1": {
-        "name": "Final • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 169 (43.3) Afghanistan AFG 170",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "3 (34.3) Afghanistan won by 7 wkts",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "Final • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 169 (43.3) Afghanistan AFG 170-3 (34.3) Afghanistan won by 7 wkts",
       "status": "Match Details"
     },
     {
