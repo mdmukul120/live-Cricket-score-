@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-24 05:53:59 UTC",
-  "total_matches": 29,
+  "last_updated": "2026-10-24 10:26:56 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "NZ vs IND - Preview",
+      "title": "NZ vs IND - Need 40 off 17b",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,20 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Preview",
+      "score": "NZ vs IND - Need 40 off 17b",
+      "status": "Match Details"
+    },
+    {
+      "title": "NAM vs IRE - IRE opt to bowl",
+      "team1": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "NAM vs IRE - IRE opt to bowl",
       "status": "Match Details"
     },
     {
@@ -27,19 +40,6 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "INDA vs NZA - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "NAM vs IRE - Preview",
-      "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "NAM vs IRE - Preview",
       "status": "Match Details"
     },
     {
@@ -69,16 +69,29 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand vs India 2nd T20I",
+      "title": "New Zealand vs India LIVE 2nd T20I",
       "team1": {
         "name": "New Zealand",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "India 2nd T20I",
+        "name": "India LIVE 2nd T20I",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand vs India 2nd T20I",
+      "score": "New Zealand vs India LIVE 2nd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan vs England 4th Match",
+      "team1": {
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "England 4th Match",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Pakistan vs England 4th Match",
       "status": "Match Details"
     },
     {
@@ -95,16 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs Ireland 2nd ODI",
+      "title": "Namibia vs Ireland LIVE 2nd ODI",
       "team1": {
         "name": "Namibia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ireland 2nd ODI",
+        "name": "Ireland LIVE 2nd ODI",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Namibia vs Ireland 2nd ODI",
+      "score": "Namibia vs Ireland LIVE 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe vs Afghanistan Final",
+      "team1": {
+        "name": "Zimbabwe",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "Afghanistan Final",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Zimbabwe vs Afghanistan Final",
       "status": "Match Details"
     },
     {
@@ -147,16 +173,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda vs Mozambique 10th Match",
+      "title": "Mozambique vs Uganda 10th Match",
       "team1": {
-        "name": "Uganda",
+        "name": "Mozambique",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mozambique 10th Match",
+        "name": "Uganda 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda vs Mozambique 10th Match",
+      "score": "Mozambique vs Uganda 10th Match",
       "status": "Match Details"
     },
     {
@@ -186,16 +212,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Afghanistan Final",
+      "title": "Gambia vs Lesotho 13th Match",
       "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "Gambia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Afghanistan Final",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "Lesotho 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zimbabwe vs Afghanistan Final",
+      "score": "Gambia vs Lesotho 13th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mozambique vs Zambia 14th Match",
+      "team1": {
+        "name": "Mozambique",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Zambia 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mozambique vs Zambia 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "United Arab Emirates vs Netherlands 140th Match",
+      "team1": {
+        "name": "United Arab Emirates",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Netherlands 140th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United Arab Emirates vs Netherlands 140th Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +316,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Denmark vs Kuwait 34th Match",
+      "title": "Denmark vs Kuwait LIVE 34th Match",
       "team1": {
         "name": "Denmark",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kuwait 34th Match",
+        "name": "Kuwait LIVE 34th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Denmark vs Kuwait 34th Match",
+      "score": "Denmark vs Kuwait LIVE 34th Match",
       "status": "Match Details"
     },
     {
@@ -290,6 +342,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Jersey vs Kenya 36th Match",
+      "team1": {
+        "name": "Jersey",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Kenya 36th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jersey vs Kenya 36th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Denmark vs Papua New Guinea 37th Match",
+      "team1": {
+        "name": "Denmark",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Papua New Guinea 37th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Denmark vs Papua New Guinea 37th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Victoria vs Tasmania 11th Match",
       "team1": {
         "name": "Victoria",
@@ -303,16 +381,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs Western Australia 12th Match",
+      "title": "New South Wales vs Western Australia LIVE 12th Match",
       "team1": {
         "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Australia 12th Match",
+        "name": "Western Australia LIVE 12th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "New South Wales vs Western Australia 12th Match",
+      "score": "New South Wales vs Western Australia LIVE 12th Match",
       "status": "Match Details"
     },
     {
@@ -326,6 +404,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Zimbabwe Women vs India Women 1st ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "India Women vs Zimbabwe Women 2nd ODI",
+      "team1": {
+        "name": "India Women",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Zimbabwe Women 2nd ODI",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "India Women vs Zimbabwe Women 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -355,29 +446,29 @@
       "status": "Match Details"
     },
     {
-      "title": "9th Match • Abuja, Nigeria Cricket Federation Oval 2 Gambia GM 27 (8.2) Uganda UGA 28-0 (1.4) Uganda won by 10 wkts",
+      "title": "10th Match • Abuja, Nigeria Cricket Federation Oval 2 Mozambique MOZ 19 (7.2) Uganda UGA 23-0 (0.5) Uganda won by 10 wkts",
       "team1": {
-        "name": "9th Match • Abuja, Nigeria Cricket Federation Oval 2 Gambia GM 27 (8.2) Uganda UGA 28",
+        "name": "10th Match • Abuja, Nigeria Cricket Federation Oval 2 Mozambique MOZ 19 (7.2) Uganda UGA 23",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "0 (1.4) Uganda won by 10 wkts",
+        "name": "0 (0.5) Uganda won by 10 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "9th Match • Abuja, Nigeria Cricket Federation Oval 2 Gambia GM 27 (8.2) Uganda UGA 28-0 (1.4) Uganda won by 10 wkts",
+      "score": "10th Match • Abuja, Nigeria Cricket Federation Oval 2 Mozambique MOZ 19 (7.2) Uganda UGA 23-0 (0.5) Uganda won by 10 wkts",
       "status": "Match Details"
     },
     {
-      "title": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wickets (DLS method)",
+      "title": "11th Match • Hobart, Bellerive Oval Victoria VIC 304-7 (50) Tasmania TAS 137 (25.2) Victoria won by 138 runs - DLS Method - 2nd Innings reduced 35 overs due to rain, Target 276",
       "team1": {
-        "name": "Pool A • Durban, Kingsmead South Western Districts SWD 51",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "4 (8) Dolphins DOL 56",
+        "name": "11th Match • Hobart, Bellerive Oval Victoria VIC 304",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pool A • Durban, Kingsmead South Western Districts SWD 51-4 (8) Dolphins DOL 56-0 (3.5) Dolphins won by 10 wickets (DLS method)",
+      "team2": {
+        "name": "7 (50) Tasmania TAS 137 (25.2) Victoria won by 138 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Hobart, Bellerive Oval Victoria VIC 304-7 (50) Tasmania TAS 137 (25.2) Victoria won by 138 runs - DLS Method - 2nd Innings reduced 35 overs due to rain, Target 276",
       "status": "Match Details"
     }
   ]
