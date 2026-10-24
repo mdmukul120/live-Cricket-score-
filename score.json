@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-10-24 19:40:44 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-10-24 21:56:24 UTC",
+  "total_matches": 39,
   "matches": [
+    {
+      "title": "INDA vs NZA - Stumps",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - Stumps",
+      "status": "Match Details"
+    },
     {
       "title": "NZ vs IND - IND won",
       "team1": {
@@ -27,19 +40,6 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "NAM vs IRE - NAM won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs NZA - Stumps",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - Stumps",
       "status": "Match Details"
     },
     {
@@ -238,19 +238,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Boland vs Titans Pool B",
-      "team1": {
-        "name": "Boland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Boland vs Titans Pool B",
-      "status": "Match Details"
-    },
-    {
       "title": "North West - Eastvaal Renault Dragons vs Northern Cape Pool A",
       "team1": {
         "name": "North West",
@@ -287,6 +274,19 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Eastern Storm vs South Africa Emerging Players Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Boland vs Titans Pool B",
+      "team1": {
+        "name": "Boland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Titans Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Boland vs Titans Pool B",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mexico Women vs Argentina Women 2nd T20I",
+      "title": "Argentina Women vs Mexico Women LIVE 2nd T20I",
       "team1": {
-        "name": "Mexico Women",
+        "name": "Argentina Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Argentina Women 2nd T20I",
+        "name": "Mexico Women LIVE 2nd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mexico Women vs Argentina Women 2nd T20I",
+      "score": "Argentina Women vs Mexico Women LIVE 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -433,19 +433,6 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd ODI •  Windhoek, Namibia Cricket Ground Namibia NAM 321-6 (50) Ireland IRE 290 (47.3) Namibia won by 31 runs",
-      "team1": {
-        "name": "2nd ODI •  Windhoek, Namibia Cricket Ground Namibia NAM 321",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (50) Ireland IRE 290 (47.3) Namibia won by 31 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "2nd ODI •  Windhoek, Namibia Cricket Ground Namibia NAM 321-6 (50) Ireland IRE 290 (47.3) Namibia won by 31 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "11th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 93-9 (20) Zambia ZMB 97-2 (11.4) Zambia won by 8 wkts",
       "team1": {
         "name": "11th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 93",
@@ -456,6 +443,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "11th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 93-9 (20) Zambia ZMB 97-2 (11.4) Zambia won by 8 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 62 (12.5) Nigeria NGA 65-3 (7.4) Nigeria won by 7 wkts",
+      "team1": {
+        "name": "12th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 62 (12.5) Nigeria NGA 65",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (7.4) Nigeria won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "12th Match • Abuja, Nigeria Cricket Federation Oval 2 Lesotho LSO 62 (12.5) Nigeria NGA 65-3 (7.4) Nigeria won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool B • Bloemfontein, Mangaung Oval Knights KNG 126-6 (20) Mpumalanga Rhinos MPR 92 (18) Knights won by 34 runs",
+      "team1": {
+        "name": "Pool B • Bloemfontein, Mangaung Oval Knights KNG 126",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Mpumalanga Rhinos MPR 92 (18) Knights won by 34 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Bloemfontein, Mangaung Oval Knights KNG 126-6 (20) Mpumalanga Rhinos MPR 92 (18) Knights won by 34 runs",
       "status": "Match Details"
     },
     {
@@ -472,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "35th Match • Nairobi, Ruaraka Sports Club Ground Qatar QAT 283 (49.1) Kenya KEN 279 (48.5) Qatar won by 4 runs",
+      "title": "Pool A • East London, Buffalo Park Warriors WAR 136-8 (20) Border BOR 139-3 (18.1) Border won by 7 wkts",
       "team1": {
-        "name": "35th Match • Nairobi, Ruaraka Sports Club Ground Qatar QAT 283 (49.1) Kenya KEN 279 (48.5) Qatar won by 4 runs",
+        "name": "Pool A • East London, Buffalo Park Warriors WAR 136",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Team 2",
+        "name": "8 (20) Border BOR 139",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "35th Match • Nairobi, Ruaraka Sports Club Ground Qatar QAT 283 (49.1) Kenya KEN 279 (48.5) Qatar won by 4 runs",
+      "score": "Pool A • East London, Buffalo Park Warriors WAR 136-8 (20) Border BOR 139-3 (18.1) Border won by 7 wkts",
       "status": "Match Details"
     },
     {
