@@ -1,23 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-25 13:53:13 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-10-25 17:24:31 UTC",
+  "total_matches": 53,
   "matches": [
     {
-      "title": "INDW vs ZIMW - Need 223 to win",
-      "team1": {
-        "name": "INDW",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "ZIMW",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "INDW vs ZIMW - Need 223 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENG vs PAK - Need 142 to win",
+      "title": "ENG vs PAK - PAK won",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -26,20 +13,20 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "ENG vs PAK - Need 142 to win",
+      "score": "ENG vs PAK - PAK won",
       "status": "Match Details"
     },
     {
-      "title": "UAE vs NED - NED won",
+      "title": "INDW vs ZIMW - INDW won",
       "team1": {
-        "name": "UAE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "NED",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "ZIMW",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "UAE vs NED - NED won",
+      "score": "INDW vs ZIMW - INDW won",
       "status": "Match Details"
     },
     {
@@ -56,68 +43,42 @@
       "status": "Match Details"
     },
     {
-      "title": "NZ vs IND - IND won",
+      "title": "MUM vs HAR - Preview",
       "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "MUM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "HAR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "NZ vs IND - IND won",
+      "score": "MUM vs HAR - Preview",
       "status": "Match Details"
     },
     {
-      "title": "England vs Pakistan LIVE 4th Match",
+      "title": "UAE vs NED - NED won",
+      "team1": {
+        "name": "UAE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "NED",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "UAE vs NED - NED won",
+      "status": "Match Details"
+    },
+    {
+      "title": "England vs Pakistan 4th Match",
       "team1": {
         "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 4th Match",
+        "name": "Pakistan 4th Match",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "England vs Pakistan LIVE 4th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Namibia vs Ireland 2nd ODI",
-      "team1": {
-        "name": "Namibia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Ireland 2nd ODI",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Namibia vs Ireland 2nd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Lesotho vs Nigeria 12th Match",
-      "team1": {
-        "name": "Lesotho",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nigeria 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lesotho vs Nigeria 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gambia vs Zambia 11th Match",
-      "team1": {
-        "name": "Gambia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Zambia 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gambia vs Zambia 11th Match",
+      "score": "England vs Pakistan 4th Match",
       "status": "Match Details"
     },
     {
@@ -170,32 +131,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United Arab Emirates vs Netherlands 140th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Limpopo vs Lions Pool A",
-      "team1": {
-        "name": "Limpopo",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lions Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Limpopo vs Lions Pool A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Warriors vs Border Pool A",
-      "team1": {
-        "name": "Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Border Pool A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warriors vs Border Pool A",
       "status": "Match Details"
     },
     {
@@ -290,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Jharkhand vs Delhi Elite Group C",
+      "team1": {
+        "name": "Jharkhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Delhi Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jharkhand vs Delhi Elite Group C",
+      "status": "Match Details"
+    },
+    {
       "title": "Odisha vs Services Elite Group C",
       "team1": {
         "name": "Odisha",
@@ -303,16 +251,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Jharkhand vs Delhi Elite Group C",
+      "title": "Karnataka vs Tripura Elite Group B",
       "team1": {
-        "name": "Jharkhand",
+        "name": "Karnataka",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Delhi Elite Group C",
+        "name": "Tripura Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jharkhand vs Delhi Elite Group C",
+      "score": "Karnataka vs Tripura Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Saurashtra vs Assam Elite Group B",
+      "team1": {
+        "name": "Saurashtra",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Assam Elite Group B",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Saurashtra vs Assam Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chhattisgarh vs Andhra Elite Group B",
+      "team1": {
+        "name": "Chhattisgarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Andhra Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chhattisgarh vs Andhra Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Maharashtra vs Gujarat Elite Group C",
+      "team1": {
+        "name": "Maharashtra",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gujarat Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Maharashtra vs Gujarat Elite Group C",
       "status": "Match Details"
     },
     {
@@ -446,84 +433,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Karnataka vs Tripura Elite Group B",
-      "team1": {
-        "name": "Karnataka",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tripura Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Karnataka vs Tripura Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Saurashtra vs Assam Elite Group B",
-      "team1": {
-        "name": "Saurashtra",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Assam Elite Group B",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Saurashtra vs Assam Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chhattisgarh vs Andhra Elite Group B",
-      "team1": {
-        "name": "Chhattisgarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Andhra Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chhattisgarh vs Andhra Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Maharashtra vs Gujarat Elite Group C",
-      "team1": {
-        "name": "Maharashtra",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Gujarat Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Maharashtra vs Gujarat Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Denmark vs Kuwait 34th Match",
-      "team1": {
-        "name": "Denmark",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kuwait 34th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Denmark vs Kuwait 34th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qatar vs Kenya 35th Match",
-      "team1": {
-        "name": "Qatar",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kenya 35th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qatar vs Kenya 35th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Jersey vs Kenya 36th Match",
       "team1": {
         "name": "Jersey",
@@ -537,29 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Denmark vs Papua New Guinea LIVE 37th Match",
+      "title": "Denmark vs Papua New Guinea 37th Match",
       "team1": {
         "name": "Denmark",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Papua New Guinea LIVE 37th Match",
+        "name": "Papua New Guinea 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Denmark vs Papua New Guinea LIVE 37th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "New South Wales vs Western Australia 12th Match",
-      "team1": {
-        "name": "New South Wales",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Western Australia 12th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "New South Wales vs Western Australia 12th Match",
+      "score": "Denmark vs Papua New Guinea 37th Match",
       "status": "Match Details"
     },
     {
@@ -602,16 +498,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women vs Zimbabwe Women LIVE 2nd ODI",
+      "title": "India Women vs Zimbabwe Women 2nd ODI",
       "team1": {
         "name": "India Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Zimbabwe Women LIVE 2nd ODI",
+        "name": "Zimbabwe Women 2nd ODI",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "India Women vs Zimbabwe Women LIVE 2nd ODI",
+      "score": "India Women vs Zimbabwe Women 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -654,16 +550,29 @@
       "status": "Match Details"
     },
     {
-      "title": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109-9 (20) Mozambique MOZ 110-7 (19) Mozambique won by 3 wkts",
+      "title": "4th Match • Lahore, Gaddafi Stadium England ENG 241 (46.4) Pakistan PAK 243-9 (47.1) Pakistan won by 1 wkt",
       "team1": {
-        "name": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109",
+        "name": "4th Match • Lahore, Gaddafi Stadium England ENG 241 (46.4) Pakistan PAK 243",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "9 (47.1) Pakistan won by 1 wkt",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "4th Match • Lahore, Gaddafi Stadium England ENG 241 (46.4) Pakistan PAK 243-9 (47.1) Pakistan won by 1 wkt",
+      "status": "Match Details"
+    },
+    {
+      "title": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147-9 (20) Nigeria won by 1 run",
+      "team1": {
+        "name": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) Mozambique MOZ 110",
+        "name": "9 (20) Nigeria won by 1 run",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109-9 (20) Mozambique MOZ 110-7 (19) Mozambique won by 3 wkts",
+      "score": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147-9 (20) Nigeria won by 1 run",
       "status": "Match Details"
     },
     {
@@ -680,6 +589,19 @@
       "status": "Match Details"
     },
     {
+      "title": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109-9 (20) Mozambique MOZ 110-7 (19) Mozambique won by 3 wkts",
+      "team1": {
+        "name": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Mozambique MOZ 110",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109-9 (20) Mozambique MOZ 110-7 (19) Mozambique won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "140th Match • Dubai, ICC Academy Ground United Arab Emirates UAE 244-8 (50) Netherlands NED 245-7 (43.5) Netherlands won by 3 wkts",
       "team1": {
         "name": "140th Match • Dubai, ICC Academy Ground United Arab Emirates UAE 244",
@@ -693,6 +615,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145-8 (20) Eastern Storm ESTORM 146-6 (16) Eastern Storm won by 4 wkts",
+      "team1": {
+        "name": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "8 (20) Eastern Storm ESTORM 146",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145-8 (20) Eastern Storm ESTORM 146-6 (16) Eastern Storm won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool B • Pietermaritzburg, City Oval KwaZulu-Natal Inland Tuskers KZNIN 164-3 (17) Western Province WPR 117-5 (12) Western Province won by 5 wkts (2nd innings reduced to 12 overs due to rain, DLS target 116)",
+      "team1": {
+        "name": "Pool B • Pietermaritzburg, City Oval KwaZulu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Natal Inland Tuskers KZNIN 164",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Pietermaritzburg, City Oval KwaZulu-Natal Inland Tuskers KZNIN 164-3 (17) Western Province WPR 117-5 (12) Western Province won by 5 wkts (2nd innings reduced to 12 overs due to rain, DLS target 116)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pool B • Paarl, Boland Park Titans TIT 137-8 (20) Boland BOL 137-9 (20) Match tied and Super Over tied (Boland won the 2nd Super Over)",
+      "team1": {
+        "name": "Pool B • Paarl, Boland Park Titans TIT 137",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) Boland BOL 137",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pool B • Paarl, Boland Park Titans TIT 137-8 (20) Boland BOL 137-9 (20) Match tied and Super Over tied (Boland won the 2nd Super Over)",
+      "status": "Match Details"
+    },
+    {
       "title": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320-9 (50) Kenya KEN 197 (42) Jersey won by 123 runs",
       "team1": {
         "name": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320",
@@ -703,6 +664,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320-9 (50) Kenya KEN 197 (42) Jersey won by 123 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "37th Match • Nairobi, Ruaraka Sports Club Ground Denmark DEN 304-6 (50) Papua New Guinea PNG 307-6 (49.1) Papua New Guinea won by 4 wkts",
+      "team1": {
+        "name": "37th Match • Nairobi, Ruaraka Sports Club Ground Denmark DEN 304",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (50) Papua New Guinea PNG 307",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "37th Match • Nairobi, Ruaraka Sports Club Ground Denmark DEN 304-6 (50) Papua New Guinea PNG 307-6 (49.1) Papua New Guinea won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd ODI • Vadodara, BCA Stadium, Kotambi India Women INDW 328-6 (50) Zimbabwe Women ZIMW 207 (48.5) India Women won by 121 runs",
+      "team1": {
+        "name": "2nd ODI • Vadodara, BCA Stadium, Kotambi India Women INDW 328",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "6 (50) Zimbabwe Women ZIMW 207 (48.5) India Women won by 121 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "2nd ODI • Vadodara, BCA Stadium, Kotambi India Women INDW 328-6 (50) Zimbabwe Women ZIMW 207 (48.5) India Women won by 121 runs",
       "status": "Match Details"
     }
   ]
