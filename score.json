@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-25 17:24:31 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-10-25 19:52:44 UTC",
+  "total_matches": 47,
   "matches": [
     {
       "title": "ENG vs PAK - PAK won",
@@ -82,19 +82,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Gambia vs Lesotho 13th Match",
-      "team1": {
-        "name": "Gambia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lesotho 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gambia vs Lesotho 13th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Zambia vs Mozambique 14th Match",
       "team1": {
         "name": "Zambia",
@@ -105,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Zambia vs Mozambique 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gambia vs Lesotho 13th Match",
+      "team1": {
+        "name": "Gambia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lesotho 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gambia vs Lesotho 13th Match",
       "status": "Match Details"
     },
     {
@@ -131,19 +131,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "United Arab Emirates vs Netherlands 140th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Knights vs Mpumalanga Rhinos Pool B",
-      "team1": {
-        "name": "Knights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mpumalanga Rhinos Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Knights vs Mpumalanga Rhinos Pool B",
       "status": "Match Details"
     },
     {
@@ -248,6 +235,71 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Odisha vs Services Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Baroda vs Jammu and Kashmir Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jammu and Kashmir Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Jammu and Kashmir Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Madhya Pradesh vs Bihar Elite Group A",
+      "team1": {
+        "name": "Madhya Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Madhya Pradesh vs Bihar Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Vidarbha vs Goa Elite Group A",
+      "team1": {
+        "name": "Vidarbha",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Goa Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vidarbha vs Goa Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Puducherry vs Uttar Pradesh Elite Group A",
+      "team1": {
+        "name": "Puducherry",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttar Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Puducherry vs Uttar Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Hyderabad vs Punjab Elite Group B",
+      "team1": {
+        "name": "Hyderabad",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Punjab Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hyderabad vs Punjab Elite Group B",
       "status": "Match Details"
     },
     {
@@ -368,71 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Baroda vs Jammu and Kashmir Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jammu and Kashmir Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Jammu and Kashmir Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Madhya Pradesh vs Bihar Elite Group A",
-      "team1": {
-        "name": "Madhya Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bihar Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Madhya Pradesh vs Bihar Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Vidarbha vs Goa Elite Group A",
-      "team1": {
-        "name": "Vidarbha",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Goa Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Vidarbha vs Goa Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Puducherry vs Uttar Pradesh Elite Group A",
-      "team1": {
-        "name": "Puducherry",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttar Pradesh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Puducherry vs Uttar Pradesh Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Hyderabad vs Punjab Elite Group B",
-      "team1": {
-        "name": "Hyderabad",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Punjab Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Hyderabad vs Punjab Elite Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Jersey vs Kenya 36th Match",
       "team1": {
         "name": "Jersey",
@@ -511,19 +498,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Argentina Women vs Mexico Women 1st T20I",
-      "team1": {
-        "name": "Argentina Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mexico Women 1st T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Argentina Women vs Mexico Women 1st T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Argentina Women vs Mexico Women 2nd T20I",
       "team1": {
         "name": "Argentina Women",
@@ -576,45 +550,6 @@
       "status": "Match Details"
     },
     {
-      "title": "13th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 112-9 (20) Lesotho LSO 109 (19.5) Gambia won by 3 runs",
-      "team1": {
-        "name": "13th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 112",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Lesotho LSO 109 (19.5) Gambia won by 3 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "13th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 112-9 (20) Lesotho LSO 109 (19.5) Gambia won by 3 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109-9 (20) Mozambique MOZ 110-7 (19) Mozambique won by 3 wkts",
-      "team1": {
-        "name": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Mozambique MOZ 110",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109-9 (20) Mozambique MOZ 110-7 (19) Mozambique won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "140th Match • Dubai, ICC Academy Ground United Arab Emirates UAE 244-8 (50) Netherlands NED 245-7 (43.5) Netherlands won by 3 wkts",
-      "team1": {
-        "name": "140th Match • Dubai, ICC Academy Ground United Arab Emirates UAE 244",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (50) Netherlands NED 245",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "140th Match • Dubai, ICC Academy Ground United Arab Emirates UAE 244-8 (50) Netherlands NED 245-7 (43.5) Netherlands won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145-8 (20) Eastern Storm ESTORM 146-6 (16) Eastern Storm won by 4 wkts",
       "team1": {
         "name": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145",
@@ -625,19 +560,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145-8 (20) Eastern Storm ESTORM 146-6 (16) Eastern Storm won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Pietermaritzburg, City Oval KwaZulu-Natal Inland Tuskers KZNIN 164-3 (17) Western Province WPR 117-5 (12) Western Province won by 5 wkts (2nd innings reduced to 12 overs due to rain, DLS target 116)",
-      "team1": {
-        "name": "Pool B • Pietermaritzburg, City Oval KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Natal Inland Tuskers KZNIN 164",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool B • Pietermaritzburg, City Oval KwaZulu-Natal Inland Tuskers KZNIN 164-3 (17) Western Province WPR 117-5 (12) Western Province won by 5 wkts (2nd innings reduced to 12 overs due to rain, DLS target 116)",
       "status": "Match Details"
     },
     {
@@ -654,16 +576,16 @@
       "status": "Match Details"
     },
     {
-      "title": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320-9 (50) Kenya KEN 197 (42) Jersey won by 123 runs",
+      "title": "Pool B • Pietermaritzburg, City Oval KwaZulu-Natal Inland Tuskers KZNIN 164-3 (17) Western Province WPR 117-5 (12) Western Province won by 5 wkts (2nd innings reduced to 12 overs due to rain, DLS target 116)",
       "team1": {
-        "name": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320",
+        "name": "Pool B • Pietermaritzburg, City Oval KwaZulu",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (50) Kenya KEN 197 (42) Jersey won by 123 runs",
+        "name": "Natal Inland Tuskers KZNIN 164",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320-9 (50) Kenya KEN 197 (42) Jersey won by 123 runs",
+      "score": "Pool B • Pietermaritzburg, City Oval KwaZulu-Natal Inland Tuskers KZNIN 164-3 (17) Western Province WPR 117-5 (12) Western Province won by 5 wkts (2nd innings reduced to 12 overs due to rain, DLS target 116)",
       "status": "Match Details"
     },
     {
