@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-25 09:27:25 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-10-25 13:53:13 UTC",
+  "total_matches": 54,
   "matches": [
     {
-      "title": "INDW vs ZIMW - INDW opt to bat",
+      "title": "INDW vs ZIMW - Need 223 to win",
       "team1": {
         "name": "INDW",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,11 +13,11 @@
         "name": "ZIMW",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "INDW vs ZIMW - INDW opt to bat",
+      "score": "INDW vs ZIMW - Need 223 to win",
       "status": "Match Details"
     },
     {
-      "title": "ENG vs PAK - PAK opt to bowl",
+      "title": "ENG vs PAK - Need 142 to win",
       "team1": {
         "name": "ENG",
         "flag": "https://flagcdn.com/w80/gb.png"
@@ -26,11 +26,11 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "ENG vs PAK - PAK opt to bowl",
+      "score": "ENG vs PAK - Need 142 to win",
       "status": "Match Details"
     },
     {
-      "title": "UAE vs NED - Innings Break",
+      "title": "UAE vs NED - NED won",
       "team1": {
         "name": "UAE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "NED",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE vs NED - Innings Break",
+      "score": "UAE vs NED - NED won",
       "status": "Match Details"
     },
     {
@@ -69,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand vs India 2nd T20I",
-      "team1": {
-        "name": "New Zealand",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "India 2nd T20I",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "New Zealand vs India 2nd T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "England vs Pakistan LIVE 4th Match",
       "team1": {
         "name": "England",
@@ -108,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mozambique vs Uganda 10th Match",
+      "title": "Lesotho vs Nigeria 12th Match",
       "team1": {
-        "name": "Mozambique",
+        "name": "Lesotho",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Uganda 10th Match",
+        "name": "Nigeria 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mozambique vs Uganda 10th Match",
+      "score": "Lesotho vs Nigeria 12th Match",
       "status": "Match Details"
     },
     {
@@ -134,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Lesotho vs Nigeria 12th Match",
-      "team1": {
-        "name": "Lesotho",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Nigeria 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Lesotho vs Nigeria 12th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Gambia vs Lesotho 13th Match",
       "team1": {
         "name": "Gambia",
@@ -160,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Mozambique vs Zambia 14th Match",
+      "title": "Zambia vs Mozambique 14th Match",
       "team1": {
-        "name": "Mozambique",
+        "name": "Zambia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Zambia 14th Match",
+        "name": "Mozambique 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mozambique vs Zambia 14th Match",
+      "score": "Zambia vs Mozambique 14th Match",
       "status": "Match Details"
     },
     {
@@ -238,29 +212,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Boland vs Titans Pool B",
+      "title": "Titans vs Boland Pool B",
       "team1": {
-        "name": "Boland",
+        "name": "Titans",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Titans Pool B",
+        "name": "Boland Pool B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Boland vs Titans Pool B",
+      "score": "Titans vs Boland Pool B",
       "status": "Match Details"
     },
     {
-      "title": "North West - Eastvaal Renault Dragons vs Northern Cape Pool A",
+      "title": "Northern Cape vs North West - Eastvaal Renault Dragons Pool A",
       "team1": {
-        "name": "North West",
+        "name": "Northern Cape",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Eastvaal Renault Dragons",
+        "name": "North West",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "North West - Eastvaal Renault Dragons vs Northern Cape Pool A",
+      "score": "Northern Cape vs North West - Eastvaal Renault Dragons Pool A",
       "status": "Match Details"
     },
     {
@@ -277,16 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Eastern Storm vs South Africa Emerging Players Pool B",
+      "title": "South Africa Emerging Players vs Eastern Storm Pool B",
       "team1": {
-        "name": "Eastern Storm",
+        "name": "South Africa Emerging Players",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Eastern Storm Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Africa Emerging Players vs Eastern Storm Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC Super Eights",
+      "team1": {
+        "name": "TBC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Africa Emerging Players Pool B",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "TBC Super Eights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Eastern Storm vs South Africa Emerging Players Pool B",
+      "score": "TBC vs TBC Super Eights",
       "status": "Match Details"
     },
     {
@@ -303,6 +290,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Odisha vs Services Elite Group C",
+      "team1": {
+        "name": "Odisha",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Services Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Odisha vs Services Elite Group C",
+      "status": "Match Details"
+    },
+    {
       "title": "Jharkhand vs Delhi Elite Group C",
       "team1": {
         "name": "Jharkhand",
@@ -316,16 +316,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Odisha vs Services Elite Group C",
+      "title": "Kerala vs Bengal Elite Group C",
       "team1": {
-        "name": "Odisha",
+        "name": "Kerala",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Services Elite Group C",
+        "name": "Bengal Elite Group C",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Kerala vs Bengal Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mumbai vs Haryana Elite Group D",
+      "team1": {
+        "name": "Mumbai",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Odisha vs Services Elite Group C",
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mumbai vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttarakhand vs Rajasthan Elite Group D",
+      "team1": {
+        "name": "Uttarakhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rajasthan Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttarakhand vs Rajasthan Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tamil Nadu vs Railways Elite Group D",
+      "team1": {
+        "name": "Tamil Nadu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Railways Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tamil Nadu vs Railways Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Himachal Pradesh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
       "status": "Match Details"
     },
     {
@@ -446,71 +498,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Kerala vs Bengal Elite Group C",
-      "team1": {
-        "name": "Kerala",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bengal Elite Group C",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "Kerala vs Bengal Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mumbai vs Haryana Elite Group D",
-      "team1": {
-        "name": "Mumbai",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mumbai vs Haryana Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttarakhand vs Rajasthan Elite Group D",
-      "team1": {
-        "name": "Uttarakhand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Rajasthan Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttarakhand vs Rajasthan Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Tamil Nadu vs Railways Elite Group D",
-      "team1": {
-        "name": "Tamil Nadu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Railways Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tamil Nadu vs Railways Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Himachal Pradesh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
-      "status": "Match Details"
-    },
-    {
       "title": "Denmark vs Kuwait 34th Match",
       "team1": {
         "name": "Denmark",
@@ -550,16 +537,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Denmark vs Papua New Guinea 37th Match",
+      "title": "Denmark vs Papua New Guinea LIVE 37th Match",
       "team1": {
         "name": "Denmark",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Papua New Guinea 37th Match",
+        "name": "Papua New Guinea LIVE 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Denmark vs Papua New Guinea 37th Match",
+      "score": "Denmark vs Papua New Guinea LIVE 37th Match",
       "status": "Match Details"
     },
     {
@@ -664,6 +651,58 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mexico Women vs Argentina Women 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109-9 (20) Mozambique MOZ 110-7 (19) Mozambique won by 3 wkts",
+      "team1": {
+        "name": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Mozambique MOZ 110",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "14th Match • Abuja, Nigeria Cricket Federation Oval 2 Zambia ZMB 109-9 (20) Mozambique MOZ 110-7 (19) Mozambique won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "13th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 112-9 (20) Lesotho LSO 109 (19.5) Gambia won by 3 runs",
+      "team1": {
+        "name": "13th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 112",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Lesotho LSO 109 (19.5) Gambia won by 3 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "13th Match • Abuja, Nigeria Cricket Federation Oval 1 Gambia GM 112-9 (20) Lesotho LSO 109 (19.5) Gambia won by 3 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "140th Match • Dubai, ICC Academy Ground United Arab Emirates UAE 244-8 (50) Netherlands NED 245-7 (43.5) Netherlands won by 3 wkts",
+      "team1": {
+        "name": "140th Match • Dubai, ICC Academy Ground United Arab Emirates UAE 244",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (50) Netherlands NED 245",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "140th Match • Dubai, ICC Academy Ground United Arab Emirates UAE 244-8 (50) Netherlands NED 245-7 (43.5) Netherlands won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320-9 (50) Kenya KEN 197 (42) Jersey won by 123 runs",
+      "team1": {
+        "name": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (50) Kenya KEN 197 (42) Jersey won by 123 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "36th Match • Nairobi, Gymkhana Club Ground Jersey JER 320-9 (50) Kenya KEN 197 (42) Jersey won by 123 runs",
       "status": "Match Details"
     }
   ]
