@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-24 21:56:24 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-10-25 00:11:10 UTC",
+  "total_matches": 40,
   "matches": [
     {
-      "title": "INDA vs NZA - Stumps",
+      "title": "INDA vs NZA - Lunch",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "NZA",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "INDA vs NZA - Stumps",
+      "score": "INDA vs NZA - Lunch",
       "status": "Match Details"
     },
     {
@@ -238,6 +238,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Boland vs Titans Pool B",
+      "team1": {
+        "name": "Boland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Titans Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Boland vs Titans Pool B",
+      "status": "Match Details"
+    },
+    {
       "title": "North West - Eastvaal Renault Dragons vs Northern Cape Pool A",
       "team1": {
         "name": "North West",
@@ -274,19 +287,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Eastern Storm vs South Africa Emerging Players Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Boland vs Titans Pool B",
-      "team1": {
-        "name": "Boland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Titans Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Boland vs Titans Pool B",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Argentina Women vs Mexico Women LIVE 2nd T20I",
+      "title": "Argentina Women vs Mexico Women 2nd T20I",
       "team1": {
         "name": "Argentina Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mexico Women LIVE 2nd T20I",
+        "name": "Mexico Women 2nd T20I",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Argentina Women vs Mexico Women LIVE 2nd T20I",
+      "score": "Argentina Women vs Mexico Women 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -495,6 +495,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Pool A • East London, Buffalo Park Warriors WAR 136-8 (20) Border BOR 139-3 (18.1) Border won by 7 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20I • Texcoco de Mora, Complejo Municipal de Beisbol de Texcoco Argentina Women ARGW 188-5 (20) Mexico Women MEXW 23 (9.3) Argentina Women won by 165 runs",
+      "team1": {
+        "name": "2nd T20I • Texcoco de Mora, Complejo Municipal de Beisbol de Texcoco Argentina Women ARGW 188",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Mexico Women MEXW 23 (9.3) Argentina Women won by 165 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd T20I • Texcoco de Mora, Complejo Municipal de Beisbol de Texcoco Argentina Women ARGW 188-5 (20) Mexico Women MEXW 23 (9.3) Argentina Women won by 165 runs",
       "status": "Match Details"
     },
     {
