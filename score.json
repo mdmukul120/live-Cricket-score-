@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-10-25 19:52:44 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-10-25 22:17:03 UTC",
+  "total_matches": 41,
   "matches": [
+    {
+      "title": "INDA vs NZA - Trail by 87",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - Trail by 87",
+      "status": "Match Details"
+    },
     {
       "title": "ENG vs PAK - PAK won",
       "team1": {
@@ -27,19 +40,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "INDW vs ZIMW - INDW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs NZA - Stumps",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - Stumps",
       "status": "Match Details"
     },
     {
@@ -82,19 +82,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Zambia vs Mozambique 14th Match",
-      "team1": {
-        "name": "Zambia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mozambique 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Zambia vs Mozambique 14th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Gambia vs Lesotho 13th Match",
       "team1": {
         "name": "Gambia",
@@ -105,6 +92,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Gambia vs Lesotho 13th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zambia vs Mozambique 14th Match",
+      "team1": {
+        "name": "Zambia",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Mozambique 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Zambia vs Mozambique 14th Match",
       "status": "Match Details"
     },
     {
@@ -134,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Titans vs Boland Pool B",
-      "team1": {
-        "name": "Titans",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Boland Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Titans vs Boland Pool B",
-      "status": "Match Details"
-    },
-    {
       "title": "Northern Cape vs North West - Eastvaal Renault Dragons Pool A",
       "team1": {
         "name": "Northern Cape",
@@ -170,6 +157,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "KwaZulu-Natal Inland Tuskers vs Western Province Pool B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Titans vs Boland Pool B",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Boland Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Titans vs Boland Pool B",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A 1st Unofficial Test",
+      "title": "India A vs New Zealand A LIVE 1st Unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand A 1st Unofficial Test",
+        "name": "New Zealand A LIVE 1st Unofficial Test",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "India A vs New Zealand A 1st Unofficial Test",
+      "score": "India A vs New Zealand A LIVE 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -524,19 +524,6 @@
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Lahore, Gaddafi Stadium England ENG 241 (46.4) Pakistan PAK 243-9 (47.1) Pakistan won by 1 wkt",
-      "team1": {
-        "name": "4th Match • Lahore, Gaddafi Stadium England ENG 241 (46.4) Pakistan PAK 243",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "9 (47.1) Pakistan won by 1 wkt",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "4th Match • Lahore, Gaddafi Stadium England ENG 241 (46.4) Pakistan PAK 243-9 (47.1) Pakistan won by 1 wkt",
-      "status": "Match Details"
-    },
-    {
       "title": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147-9 (20) Nigeria won by 1 run",
       "team1": {
         "name": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147",
@@ -547,71 +534,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147-9 (20) Nigeria won by 1 run",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145-8 (20) Eastern Storm ESTORM 146-6 (16) Eastern Storm won by 4 wkts",
-      "team1": {
-        "name": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "8 (20) Eastern Storm ESTORM 146",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool B • Benoni, Willowmoore Park South Africa Emerging Players SAEP 145-8 (20) Eastern Storm ESTORM 146-6 (16) Eastern Storm won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Paarl, Boland Park Titans TIT 137-8 (20) Boland BOL 137-9 (20) Match tied and Super Over tied (Boland won the 2nd Super Over)",
-      "team1": {
-        "name": "Pool B • Paarl, Boland Park Titans TIT 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Boland BOL 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool B • Paarl, Boland Park Titans TIT 137-8 (20) Boland BOL 137-9 (20) Match tied and Super Over tied (Boland won the 2nd Super Over)",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pool B • Pietermaritzburg, City Oval KwaZulu-Natal Inland Tuskers KZNIN 164-3 (17) Western Province WPR 117-5 (12) Western Province won by 5 wkts (2nd innings reduced to 12 overs due to rain, DLS target 116)",
-      "team1": {
-        "name": "Pool B • Pietermaritzburg, City Oval KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Natal Inland Tuskers KZNIN 164",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pool B • Pietermaritzburg, City Oval KwaZulu-Natal Inland Tuskers KZNIN 164-3 (17) Western Province WPR 117-5 (12) Western Province won by 5 wkts (2nd innings reduced to 12 overs due to rain, DLS target 116)",
-      "status": "Match Details"
-    },
-    {
-      "title": "37th Match • Nairobi, Ruaraka Sports Club Ground Denmark DEN 304-6 (50) Papua New Guinea PNG 307-6 (49.1) Papua New Guinea won by 4 wkts",
-      "team1": {
-        "name": "37th Match • Nairobi, Ruaraka Sports Club Ground Denmark DEN 304",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (50) Papua New Guinea PNG 307",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "37th Match • Nairobi, Ruaraka Sports Club Ground Denmark DEN 304-6 (50) Papua New Guinea PNG 307-6 (49.1) Papua New Guinea won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd ODI • Vadodara, BCA Stadium, Kotambi India Women INDW 328-6 (50) Zimbabwe Women ZIMW 207 (48.5) India Women won by 121 runs",
-      "team1": {
-        "name": "2nd ODI • Vadodara, BCA Stadium, Kotambi India Women INDW 328",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "6 (50) Zimbabwe Women ZIMW 207 (48.5) India Women won by 121 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "2nd ODI • Vadodara, BCA Stadium, Kotambi India Women INDW 328-6 (50) Zimbabwe Women ZIMW 207 (48.5) India Women won by 121 runs",
       "status": "Match Details"
     }
   ]
