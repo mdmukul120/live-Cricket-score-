@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-25 22:17:03 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-10-26 00:28:39 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "INDA vs NZA - Trail by 87",
+      "title": "INDA vs NZA - Lunch",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "NZA",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "INDA vs NZA - Trail by 87",
+      "score": "INDA vs NZA - Lunch",
       "status": "Match Details"
     },
     {
@@ -134,6 +134,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Titans vs Boland Pool B",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Boland Pool B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Titans vs Boland Pool B",
+      "status": "Match Details"
+    },
+    {
       "title": "Northern Cape vs North West - Eastvaal Renault Dragons Pool A",
       "team1": {
         "name": "Northern Cape",
@@ -157,19 +170,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "KwaZulu-Natal Inland Tuskers vs Western Province Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Titans vs Boland Pool B",
-      "team1": {
-        "name": "Titans",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Boland Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Titans vs Boland Pool B",
       "status": "Match Details"
     },
     {
@@ -199,16 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A LIVE 1st Unofficial Test",
+      "title": "India A vs New Zealand A 1st Unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand A LIVE 1st Unofficial Test",
+        "name": "New Zealand A 1st Unofficial Test",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "India A vs New Zealand A LIVE 1st Unofficial Test",
+      "score": "India A vs New Zealand A 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -498,19 +498,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Argentina Women vs Mexico Women 2nd T20I",
-      "team1": {
-        "name": "Argentina Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mexico Women 2nd T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Argentina Women vs Mexico Women 2nd T20I",
-      "status": "Match Details"
-    },
-    {
       "title": "Mexico Women vs Argentina Women 3rd T20I",
       "team1": {
         "name": "Mexico Women",
@@ -521,19 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Mexico Women vs Argentina Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147-9 (20) Nigeria won by 1 run",
-      "team1": {
-        "name": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Nigeria won by 1 run",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "15th Match • Abuja, Nigeria Cricket Federation Oval 1 Nigeria NGA 148 (19.4) Uganda UGA 147-9 (20) Nigeria won by 1 run",
       "status": "Match Details"
     }
   ]
