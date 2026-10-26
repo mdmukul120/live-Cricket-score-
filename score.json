@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-26 11:12:13 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-10-26 17:25:05 UTC",
+  "total_matches": 34,
   "matches": [
     {
       "title": "INDA vs NZA - Stumps",
@@ -27,19 +27,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "NZ vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "BRD vs JK - BRD opt to bat",
-      "team1": {
-        "name": "BRD",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "JK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BRD vs JK - BRD opt to bat",
       "status": "Match Details"
     },
     {
@@ -69,6 +56,19 @@
       "status": "Match Details"
     },
     {
+      "title": "BRD vs JK - Stumps",
+      "team1": {
+        "name": "BRD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "JK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "BRD vs JK - Stumps",
+      "status": "Match Details"
+    },
+    {
       "title": "New Zealand vs India 3rd T20I",
       "team1": {
         "name": "New Zealand",
@@ -95,19 +95,6 @@
       "status": "Match Details"
     },
     {
-      "title": "England vs Pakistan 4th Match",
-      "team1": {
-        "name": "England",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Pakistan 4th Match",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "England vs Pakistan 4th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Pakistan vs Sri Lanka 5th Match",
       "team1": {
         "name": "Pakistan",
@@ -118,6 +105,19 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Pakistan vs Sri Lanka 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan vs Zimbabwe 1st T20I",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Zimbabwe 1st T20I",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Afghanistan vs Zimbabwe 1st T20I",
       "status": "Match Details"
     },
     {
@@ -134,58 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Gambia vs Lesotho 13th Match",
-      "team1": {
-        "name": "Gambia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lesotho 13th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gambia vs Lesotho 13th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zambia vs Mozambique 14th Match",
-      "team1": {
-        "name": "Zambia",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mozambique 14th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Zambia vs Mozambique 14th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nigeria vs Uganda 15th Match",
-      "team1": {
-        "name": "Nigeria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda 15th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nigeria vs Uganda 15th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Arab Emirates vs Netherlands 140th Match",
-      "team1": {
-        "name": "United Arab Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Netherlands 140th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Arab Emirates vs Netherlands 140th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Netherlands vs Oman 141st Match",
       "team1": {
         "name": "Netherlands",
@@ -196,58 +144,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Netherlands vs Oman 141st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "KwaZulu-Natal Inland Tuskers vs Western Province Pool B",
-      "team1": {
-        "name": "KwaZulu",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Natal Inland Tuskers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "KwaZulu-Natal Inland Tuskers vs Western Province Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Titans vs Boland Pool B",
-      "team1": {
-        "name": "Titans",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Boland Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Titans vs Boland Pool B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northern Cape vs North West - Eastvaal Renault Dragons Pool A",
-      "team1": {
-        "name": "Northern Cape",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "North West",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northern Cape vs North West - Eastvaal Renault Dragons Pool A",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa Emerging Players vs Eastern Storm Pool B",
-      "team1": {
-        "name": "South Africa Emerging Players",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Eastern Storm Pool B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Africa Emerging Players vs Eastern Storm Pool B",
       "status": "Match Details"
     },
     {
@@ -290,94 +186,81 @@
       "status": "Match Details"
     },
     {
-      "title": "Baroda vs Jammu and Kashmir LIVE Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jammu and Kashmir LIVE Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Jammu and Kashmir LIVE Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bihar vs Madhya Pradesh LIVE Elite Group A",
+      "title": "Bihar vs Madhya Pradesh Elite Group A",
       "team1": {
         "name": "Bihar",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Madhya Pradesh LIVE Elite Group A",
+        "name": "Madhya Pradesh Elite Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bihar vs Madhya Pradesh LIVE Elite Group A",
+      "score": "Bihar vs Madhya Pradesh Elite Group A",
       "status": "Match Details"
     },
     {
-      "title": "Goa vs Vidarbha LIVE Elite Group A",
+      "title": "Goa vs Vidarbha Elite Group A",
       "team1": {
         "name": "Goa",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Vidarbha LIVE Elite Group A",
+        "name": "Vidarbha Elite Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Goa vs Vidarbha LIVE Elite Group A",
+      "score": "Goa vs Vidarbha Elite Group A",
       "status": "Match Details"
     },
     {
-      "title": "Uttar Pradesh vs Puducherry LIVE Elite Group A",
+      "title": "Uttar Pradesh vs Puducherry Elite Group A",
       "team1": {
         "name": "Uttar Pradesh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Puducherry LIVE Elite Group A",
+        "name": "Puducherry Elite Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uttar Pradesh vs Puducherry LIVE Elite Group A",
+      "score": "Uttar Pradesh vs Puducherry Elite Group A",
       "status": "Match Details"
     },
     {
-      "title": "Punjab vs Hyderabad LIVE Elite Group B",
+      "title": "Punjab vs Hyderabad Elite Group B",
       "team1": {
         "name": "Punjab",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Hyderabad LIVE Elite Group B",
+        "name": "Hyderabad Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Punjab vs Hyderabad LIVE Elite Group B",
+      "score": "Punjab vs Hyderabad Elite Group B",
       "status": "Match Details"
     },
     {
-      "title": "Tripura vs Karnataka LIVE Elite Group B",
+      "title": "Tripura vs Karnataka Elite Group B",
       "team1": {
         "name": "Tripura",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Karnataka LIVE Elite Group B",
+        "name": "Karnataka Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tripura vs Karnataka LIVE Elite Group B",
+      "score": "Tripura vs Karnataka Elite Group B",
       "status": "Match Details"
     },
     {
-      "title": "Assam vs Saurashtra LIVE Elite Group B",
+      "title": "Assam vs Saurashtra Elite Group B",
       "team1": {
         "name": "Assam",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Saurashtra LIVE Elite Group B",
+        "name": "Saurashtra Elite Group B",
         "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Assam vs Saurashtra LIVE Elite Group B",
+      "score": "Assam vs Saurashtra Elite Group B",
       "status": "Match Details"
     },
     {
@@ -394,42 +277,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Gujarat vs Maharashtra LIVE Elite Group C",
+      "title": "Gujarat vs Maharashtra Elite Group C",
       "team1": {
         "name": "Gujarat",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Maharashtra LIVE Elite Group C",
+        "name": "Maharashtra Elite Group C",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gujarat vs Maharashtra LIVE Elite Group C",
+      "score": "Gujarat vs Maharashtra Elite Group C",
       "status": "Match Details"
     },
     {
-      "title": "Bengal vs Kerala LIVE Elite Group C",
+      "title": "Bengal vs Kerala Elite Group C",
       "team1": {
         "name": "Bengal",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Kerala LIVE Elite Group C",
+        "name": "Kerala Elite Group C",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bengal vs Kerala LIVE Elite Group C",
+      "score": "Bengal vs Kerala Elite Group C",
       "status": "Match Details"
     },
     {
-      "title": "Mumbai vs Haryana LIVE Elite Group D",
+      "title": "Mumbai vs Haryana Elite Group D",
       "team1": {
         "name": "Mumbai",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Haryana LIVE Elite Group D",
+        "name": "Haryana Elite Group D",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mumbai vs Haryana LIVE Elite Group D",
+      "score": "Mumbai vs Haryana Elite Group D",
       "status": "Match Details"
     },
     {
@@ -446,55 +329,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Railways vs Tamil Nadu LIVE Elite Group D",
+      "title": "Railways vs Tamil Nadu Elite Group D",
       "team1": {
         "name": "Railways",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Tamil Nadu LIVE Elite Group D",
+        "name": "Tamil Nadu Elite Group D",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Railways vs Tamil Nadu LIVE Elite Group D",
+      "score": "Railways vs Tamil Nadu Elite Group D",
       "status": "Match Details"
     },
     {
-      "title": "Chandigarh vs Himachal Pradesh LIVE Elite Group D",
+      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
       "team1": {
         "name": "Chandigarh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Himachal Pradesh LIVE Elite Group D",
+        "name": "Himachal Pradesh Elite Group D",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chandigarh vs Himachal Pradesh LIVE Elite Group D",
+      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
       "status": "Match Details"
     },
     {
-      "title": "Jersey vs Kenya 36th Match",
+      "title": "Baroda vs Jammu and Kashmir Elite Group A",
       "team1": {
-        "name": "Jersey",
+        "name": "Baroda",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kenya 36th Match",
+        "name": "Jammu and Kashmir Elite Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jersey vs Kenya 36th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Denmark vs Papua New Guinea 37th Match",
-      "team1": {
-        "name": "Denmark",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Papua New Guinea 37th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Denmark vs Papua New Guinea 37th Match",
+      "score": "Baroda vs Jammu and Kashmir Elite Group A",
       "status": "Match Details"
     },
     {
@@ -537,42 +407,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Arunachal Pradesh vs Manipur LIVE Plate",
+      "title": "Arunachal Pradesh vs Manipur Plate",
       "team1": {
         "name": "Arunachal Pradesh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Manipur LIVE Plate",
+        "name": "Manipur Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Arunachal Pradesh vs Manipur LIVE Plate",
+      "score": "Arunachal Pradesh vs Manipur Plate",
       "status": "Match Details"
     },
     {
-      "title": "Meghalaya vs Mizoram LIVE Plate",
+      "title": "Meghalaya vs Mizoram Plate",
       "team1": {
         "name": "Meghalaya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mizoram LIVE Plate",
+        "name": "Mizoram Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Meghalaya vs Mizoram LIVE Plate",
-      "status": "Match Details"
-    },
-    {
-      "title": "India Women vs Zimbabwe Women 2nd ODI",
-      "team1": {
-        "name": "India Women",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Zimbabwe Women 2nd ODI",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "India Women vs Zimbabwe Women 2nd ODI",
+      "score": "Meghalaya vs Mizoram Plate",
       "status": "Match Details"
     },
     {
@@ -586,19 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Argentina Women vs Mexico Women 3rd T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd T20I • Texcoco de Mora, Complejo Municipal de Beisbol de Texcoco Argentina Women ARGW 186-7 (20) Mexico Women MEXW 51 (12.5) Argentina Women won by 135 runs",
-      "team1": {
-        "name": "3rd T20I • Texcoco de Mora, Complejo Municipal de Beisbol de Texcoco Argentina Women ARGW 186",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Mexico Women MEXW 51 (12.5) Argentina Women won by 135 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd T20I • Texcoco de Mora, Complejo Municipal de Beisbol de Texcoco Argentina Women ARGW 186-7 (20) Mexico Women MEXW 51 (12.5) Argentina Women won by 135 runs",
       "status": "Match Details"
     }
   ]
