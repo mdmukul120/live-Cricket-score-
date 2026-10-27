@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-26 21:46:43 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-10-27 00:55:17 UTC",
+  "total_matches": 37,
   "matches": [
     {
-      "title": "INDA vs NZA - Stumps",
+      "title": "INDA vs NZA - Rain",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "NZA",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "INDA vs NZA - Stumps",
+      "score": "INDA vs NZA - Rain",
       "status": "Match Details"
     },
     {
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Punjab vs Hyderabad Elite Group B",
-      "team1": {
-        "name": "Punjab",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Punjab vs Hyderabad Elite Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Tripura vs Karnataka Elite Group B",
       "team1": {
         "name": "Tripura",
@@ -368,6 +355,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Punjab vs Hyderabad Elite Group B",
+      "team1": {
+        "name": "Punjab",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hyderabad Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Punjab vs Hyderabad Elite Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Qatar vs Papua New Guinea 38th Match",
       "team1": {
         "name": "Qatar",
@@ -469,6 +469,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Wellington vs Otago 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Australia vs Western Australia 7th Match",
+      "team1": {
+        "name": "South Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Western Australia 7th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "South Australia vs Western Australia 7th Match",
       "status": "Match Details"
     }
   ]
