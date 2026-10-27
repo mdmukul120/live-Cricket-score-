@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-10-27 12:04:29 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-10-27 17:57:06 UTC",
+  "total_matches": 44,
   "matches": [
     {
-      "title": "RSA vs AUS - AUS opt to bowl",
+      "title": "AFG vs ZIM - Need 46 off 10b",
+      "team1": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "AFG vs ZIM - Need 46 off 10b",
+      "status": "Match Details"
+    },
+    {
+      "title": "RSA vs AUS - Stumps",
       "team1": {
         "name": "RSA",
         "flag": "https://flagcdn.com/w80/za.png"
@@ -13,7 +26,7 @@
         "name": "AUS",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "RSA vs AUS - AUS opt to bowl",
+      "score": "RSA vs AUS - Stumps",
       "status": "Match Details"
     },
     {
@@ -30,20 +43,20 @@
       "status": "Match Details"
     },
     {
-      "title": "PAK vs SL - Need 5 to win",
+      "title": "BAN vs WI - Preview",
       "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
-      "score": "PAK vs SL - Need 5 to win",
+      "score": "BAN vs WI - Preview",
       "status": "Match Details"
     },
     {
-      "title": "NAM vs IRE - Need 274 to win",
+      "title": "NAM vs IRE - NAM won",
       "team1": {
         "name": "NAM",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +65,7 @@
         "name": "IRE",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "NAM vs IRE - Need 274 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs NZA - Draw",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - Draw",
+      "score": "NAM vs IRE - NAM won",
       "status": "Match Details"
     },
     {
@@ -82,29 +82,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia LIVE 3rd Test",
+      "title": "South Africa vs Australia 3rd Test",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia LIVE 3rd Test",
+        "name": "Australia 3rd Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia LIVE 3rd Test",
+      "score": "South Africa vs Australia 3rd Test",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs Sri Lanka LIVE 5th Match",
+      "title": "Pakistan vs Sri Lanka 5th Match",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 5th Match",
+        "name": "Sri Lanka 5th Match",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan vs Sri Lanka LIVE 5th Match",
+      "score": "Pakistan vs Sri Lanka 5th Match",
       "status": "Match Details"
     },
     {
@@ -121,42 +121,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Namibia vs Ireland LIVE 3rd ODI",
+      "title": "Namibia vs Ireland 3rd ODI",
       "team1": {
         "name": "Namibia",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ireland LIVE 3rd ODI",
+        "name": "Ireland 3rd ODI",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Namibia vs Ireland LIVE 3rd ODI",
+      "score": "Namibia vs Ireland 3rd ODI",
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Zimbabwe 1st T20I",
+      "title": "Afghanistan vs Zimbabwe LIVE 1st T20I",
       "team1": {
         "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Zimbabwe 1st T20I",
+        "name": "Zimbabwe LIVE 1st T20I",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Afghanistan vs Zimbabwe 1st T20I",
+      "score": "Afghanistan vs Zimbabwe LIVE 1st T20I",
       "status": "Match Details"
     },
     {
-      "title": "Netherlands vs Oman LIVE 141st Match",
+      "title": "Netherlands vs Oman 141st Match",
       "team1": {
         "name": "Netherlands",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Oman LIVE 141st Match",
+        "name": "Oman 141st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Netherlands vs Oman LIVE 141st Match",
+      "score": "Netherlands vs Oman 141st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Lions vs Eastern Storm Super Eights",
+      "team1": {
+        "name": "Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Eastern Storm Super Eights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Lions vs Eastern Storm Super Eights",
       "status": "Match Details"
     },
     {
@@ -196,110 +209,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Odisha vs Services Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Assam vs Saurashtra Elite Group B",
-      "team1": {
-        "name": "Assam",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Saurashtra Elite Group B",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Assam vs Saurashtra Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Andhra vs Chhattisgarh Elite Group B",
-      "team1": {
-        "name": "Andhra",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Chhattisgarh Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Andhra vs Chhattisgarh Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Gujarat vs Maharashtra Elite Group C",
-      "team1": {
-        "name": "Gujarat",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Maharashtra Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Gujarat vs Maharashtra Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Kerala LIVE Elite Group C",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Kerala LIVE Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Kerala LIVE Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mumbai vs Haryana Elite Group D",
-      "team1": {
-        "name": "Mumbai",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mumbai vs Haryana Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Railways vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Himachal Pradesh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
       "status": "Match Details"
     },
     {
@@ -381,6 +290,110 @@
       "status": "Match Details"
     },
     {
+      "title": "Assam vs Saurashtra Elite Group B",
+      "team1": {
+        "name": "Assam",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Saurashtra Elite Group B",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Assam vs Saurashtra Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Andhra vs Chhattisgarh Elite Group B",
+      "team1": {
+        "name": "Andhra",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chhattisgarh Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Andhra vs Chhattisgarh Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Gujarat vs Maharashtra Elite Group C",
+      "team1": {
+        "name": "Gujarat",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Maharashtra Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gujarat vs Maharashtra Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bengal vs Kerala Elite Group C",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Kerala Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Kerala Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mumbai vs Haryana Elite Group D",
+      "team1": {
+        "name": "Mumbai",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mumbai vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Railways vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Himachal Pradesh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "Papua New Guinea vs Qatar 38th Match",
       "team1": {
         "name": "Papua New Guinea",
@@ -394,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Jersey vs Kuwait LIVE 39th Match",
+      "title": "Jersey vs Kuwait 39th Match",
       "team1": {
         "name": "Jersey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kuwait LIVE 39th Match",
+        "name": "Kuwait 39th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jersey vs Kuwait LIVE 39th Match",
+      "score": "Jersey vs Kuwait 39th Match",
       "status": "Match Details"
     },
     {
@@ -459,19 +472,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Arunachal Pradesh vs Manipur Plate",
-      "team1": {
-        "name": "Arunachal Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Manipur Plate",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Arunachal Pradesh vs Manipur Plate",
-      "status": "Match Details"
-    },
-    {
       "title": "Meghalaya vs Mizoram Plate",
       "team1": {
         "name": "Meghalaya",
@@ -482,6 +482,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Meghalaya vs Mizoram Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Arunachal Pradesh vs Manipur Plate",
+      "team1": {
+        "name": "Arunachal Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manipur Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Arunachal Pradesh vs Manipur Plate",
       "status": "Match Details"
     },
     {
@@ -524,42 +537,42 @@
       "status": "Match Details"
     },
     {
-      "title": "3rd T20I • Wellington, Hnry Stadium New Zealand NZ 198-3 (20) India IND 199-4 (13.2) India won by 6 wkts",
+      "title": "3rd ODI • Windhoek, High Performance Oval Namibia NAM 316-7 (50) Ireland IRE 253 (44.5) Namibia won by 63 runs",
       "team1": {
-        "name": "3rd T20I • Wellington, Hnry Stadium New Zealand NZ 198",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "3 (20) India IND 199",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "3rd T20I • Wellington, Hnry Stadium New Zealand NZ 198-3 (20) India IND 199-4 (13.2) India won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group A • Indore, Holkar Stadium Bihar BIH 99 & 134 Madhya Pradesh MP 407-8 d Madhya Pradesh won by an innings and 174 runs",
-      "team1": {
-        "name": "Elite Group A • Indore, Holkar Stadium Bihar BIH 99 & 134 Madhya Pradesh MP 407",
+        "name": "3rd ODI • Windhoek, High Performance Oval Namibia NAM 316",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "8 d Madhya Pradesh won by an innings and 174 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7 (50) Ireland IRE 253 (44.5) Namibia won by 63 runs",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Elite Group A • Indore, Holkar Stadium Bihar BIH 99 & 134 Madhya Pradesh MP 407-8 d Madhya Pradesh won by an innings and 174 runs",
+      "score": "3rd ODI • Windhoek, High Performance Oval Namibia NAM 316-7 (50) Ireland IRE 253 (44.5) Namibia won by 63 runs",
       "status": "Match Details"
     },
     {
-      "title": "38th Match • Nairobi, Gymkhana Club Ground Papua New Guinea PNG 155 (36.3) Qatar QAT 157-1 (14.5) Qatar won by 9 wkts",
+      "title": "141st Match • Dubai, ICC Academy Ground Netherlands NED 371-5 (50) Oman OMAN 265 (49.3) Netherlands won by 106 runs",
       "team1": {
-        "name": "38th Match • Nairobi, Gymkhana Club Ground Papua New Guinea PNG 155 (36.3) Qatar QAT 157",
+        "name": "141st Match • Dubai, ICC Academy Ground Netherlands NED 371",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "1 (14.5) Qatar won by 9 wkts",
+        "name": "5 (50) Oman OMAN 265 (49.3) Netherlands won by 106 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "38th Match • Nairobi, Gymkhana Club Ground Papua New Guinea PNG 155 (36.3) Qatar QAT 157-1 (14.5) Qatar won by 9 wkts",
+      "score": "141st Match • Dubai, ICC Academy Ground Netherlands NED 371-5 (50) Oman OMAN 265 (49.3) Netherlands won by 106 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "39th Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 224 (50) Kuwait KUW 225-3 (33.4) Kuwait won by 7 wkts",
+      "team1": {
+        "name": "39th Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 224 (50) Kuwait KUW 225",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (33.4) Kuwait won by 7 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "39th Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 224 (50) Kuwait KUW 225-3 (33.4) Kuwait won by 7 wkts",
       "status": "Match Details"
     }
   ]
