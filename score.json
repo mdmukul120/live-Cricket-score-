@@ -1,19 +1,32 @@
 {
   "status": "success",
-  "last_updated": "2026-10-28 01:17:34 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-10-28 06:55:32 UTC",
+  "total_matches": 45,
   "matches": [
     {
-      "title": "AFG vs ZIM - AFG won",
+      "title": "BAN vs WI - BAN opt to bat",
       "team1": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "ZIM",
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "score": "BAN vs WI - BAN opt to bat",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDW vs ZIMW - Preview",
+      "team1": {
+        "name": "INDW",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "ZIMW",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "AFG vs ZIM - AFG won",
+      "score": "INDW vs ZIMW - Preview",
       "status": "Match Details"
     },
     {
@@ -30,6 +43,19 @@
       "status": "Match Details"
     },
     {
+      "title": "MUM vs HAR - Lunch",
+      "team1": {
+        "name": "MUM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "HAR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MUM vs HAR - Lunch",
+      "status": "Match Details"
+    },
+    {
       "title": "NZ vs IND - IND won",
       "team1": {
         "name": "NZ",
@@ -40,32 +66,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "NZ vs IND - IND won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BAN vs WI - Preview",
-      "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "score": "BAN vs WI - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "NAM vs IRE - NAM won",
-      "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "NAM vs IRE - NAM won",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh vs West Indies 1st Test",
+      "title": "Bangladesh vs West Indies LIVE 1st Test",
       "team1": {
         "name": "Bangladesh",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "West Indies 1st Test",
+        "name": "West Indies LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Bangladesh vs West Indies 1st Test",
+      "score": "Bangladesh vs West Indies LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -160,6 +160,19 @@
       "status": "Match Details"
     },
     {
+      "title": "United Arab Emirates vs Oman 142nd Match",
+      "team1": {
+        "name": "United Arab Emirates",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Oman 142nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United Arab Emirates vs Oman 142nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Lions vs Eastern Storm Super Eights",
       "team1": {
         "name": "Lions",
@@ -170,19 +183,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Lions vs Eastern Storm Super Eights",
-      "status": "Match Details"
-    },
-    {
-      "title": "India A vs New Zealand A 1st Unofficial Test",
-      "team1": {
-        "name": "India A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "New Zealand A 1st Unofficial Test",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "India A vs New Zealand A 1st Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -209,6 +209,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Odisha vs Services Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Railways vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Himachal Pradesh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
       "status": "Match Details"
     },
     {
@@ -355,45 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Rajasthan vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Railways vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Himachal Pradesh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
-      "status": "Match Details"
-    },
-    {
       "title": "Papua New Guinea vs Qatar 38th Match",
       "team1": {
         "name": "Papua New Guinea",
@@ -459,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Nagaland vs Sikkim Plate",
+      "title": "Nagaland vs Sikkim LIVE Plate",
       "team1": {
         "name": "Nagaland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sikkim Plate",
+        "name": "Sikkim LIVE Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Nagaland vs Sikkim Plate",
+      "score": "Nagaland vs Sikkim LIVE Plate",
       "status": "Match Details"
     },
     {
@@ -547,6 +547,45 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "India Women vs Zimbabwe Women 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Melbourne Renegades Women vs Sydney Thunder Women 1st Match",
+      "team1": {
+        "name": "Melbourne Renegades Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sydney Thunder Women 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Melbourne Renegades Women vs Sydney Thunder Women 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "1st Match • Auckland, Eden Park Outer Oval Auckland AKL 361-5 (50) Canterbury CNTBRY 311 (44.1) Auckland won by 33 runs (DLS Method)  -  2nd innings reduced to 46 overs due to rain, target 345",
+      "team1": {
+        "name": "1st Match • Auckland, Eden Park Outer Oval Auckland AKL 361",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (50) Canterbury CNTBRY 311 (44.1) Auckland won by 33 runs (DLS Method)",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "1st Match • Auckland, Eden Park Outer Oval Auckland AKL 361-5 (50) Canterbury CNTBRY 311 (44.1) Auckland won by 33 runs (DLS Method)  -  2nd innings reduced to 46 overs due to rain, target 345",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Nelson, Saxton Oval Northern Districts ND 403-6 (50) Central Stags CEN 341 (44.2) Northern Districts won by 62 runs",
+      "team1": {
+        "name": "2nd Match • Nelson, Saxton Oval Northern Districts ND 403",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "6 (50) Central Stags CEN 341 (44.2) Northern Districts won by 62 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Nelson, Saxton Oval Northern Districts ND 403-6 (50) Central Stags CEN 341 (44.2) Northern Districts won by 62 runs",
       "status": "Match Details"
     }
   ]
