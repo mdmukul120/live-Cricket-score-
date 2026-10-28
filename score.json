@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-27 22:05:12 UTC",
-  "total_matches": 43,
+  "last_updated": "2026-10-28 01:17:34 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "AFG vs ZIM - AFG won",
@@ -186,19 +186,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Odisha vs Services Elite Group C",
-      "team1": {
-        "name": "Odisha",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Services Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Odisha vs Services Elite Group C",
-      "status": "Match Details"
-    },
-    {
       "title": "Delhi vs Jharkhand Elite Group C",
       "team1": {
         "name": "Delhi",
@@ -212,81 +199,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Gujarat vs Maharashtra Elite Group C",
+      "title": "Odisha vs Services Elite Group C",
       "team1": {
-        "name": "Gujarat",
+        "name": "Odisha",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Maharashtra Elite Group C",
+        "name": "Services Elite Group C",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Gujarat vs Maharashtra Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Kerala Elite Group C",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Kerala Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Kerala Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mumbai vs Haryana Elite Group D",
-      "team1": {
-        "name": "Mumbai",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mumbai vs Haryana Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Railways vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Himachal Pradesh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "score": "Odisha vs Services Elite Group C",
       "status": "Match Details"
     },
     {
@@ -394,6 +316,84 @@
       "status": "Match Details"
     },
     {
+      "title": "Gujarat vs Maharashtra Elite Group C",
+      "team1": {
+        "name": "Gujarat",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Maharashtra Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Gujarat vs Maharashtra Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bengal vs Kerala Elite Group C",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Kerala Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Kerala Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mumbai vs Haryana Elite Group D",
+      "team1": {
+        "name": "Mumbai",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mumbai vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Railways vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Himachal Pradesh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "Papua New Guinea vs Qatar 38th Match",
       "team1": {
         "name": "Papua New Guinea",
@@ -446,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Australia vs Western Australia 7th Match",
+      "title": "Western Australia vs South Australia LIVE 7th Match",
       "team1": {
-        "name": "South Australia",
+        "name": "Western Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Western Australia 7th Match",
+        "name": "South Australia LIVE 7th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Australia vs Western Australia 7th Match",
+      "score": "Western Australia vs South Australia LIVE 7th Match",
       "status": "Match Details"
     },
     {
@@ -498,29 +498,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Auckland vs Canterbury LIVE 1st Match",
+      "title": "Auckland vs Canterbury 1st Match",
       "team1": {
         "name": "Auckland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canterbury LIVE 1st Match",
+        "name": "Canterbury 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Auckland vs Canterbury LIVE 1st Match",
+      "score": "Auckland vs Canterbury 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Northern Districts vs Central Stags LIVE 2nd Match",
+      "title": "Northern Districts vs Central Stags 2nd Match",
       "team1": {
         "name": "Northern Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Stags LIVE 2nd Match",
+        "name": "Central Stags 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northern Districts vs Central Stags LIVE 2nd Match",
+      "score": "Northern Districts vs Central Stags 2nd Match",
       "status": "Match Details"
     },
     {
@@ -547,19 +547,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "India Women vs Zimbabwe Women 3rd ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 177 (19.5) Zimbabwe ZIM 140 (19.1) Afghanistan won by 37 runs",
-      "team1": {
-        "name": "1st T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 177 (19.5) Zimbabwe ZIM 140 (19.1) Afghanistan won by 37 runs",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 177 (19.5) Zimbabwe ZIM 140 (19.1) Afghanistan won by 37 runs",
       "status": "Match Details"
     }
   ]
