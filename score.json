@@ -1,36 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-29 15:57:56 UTC",
-  "total_matches": 56,
+  "last_updated": "2026-10-29 21:00:20 UTC",
+  "total_matches": 51,
   "matches": [
     {
-      "title": "RSA vs AUS - Lead by 31",
-      "team1": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "RSA vs AUS - Lead by 31",
-      "status": "Match Details"
-    },
-    {
-      "title": "ENG vs SL - Need 62 off 36b",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "ENG vs SL - Need 62 off 36b",
-      "status": "Match Details"
-    },
-    {
-      "title": "AFG vs ZIM - ZIM opt to bowl",
+      "title": "AFG vs ZIM - AFG won",
       "team1": {
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
@@ -39,20 +13,33 @@
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "AFG vs ZIM - ZIM opt to bowl",
+      "score": "AFG vs ZIM - AFG won",
       "status": "Match Details"
     },
     {
-      "title": "NZ vs IND - Preview",
+      "title": "RSA vs AUS - Stumps",
       "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "NZ vs IND - Preview",
+      "score": "RSA vs AUS - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs SL - ENG won",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "ENG vs SL - ENG won",
       "status": "Match Details"
     },
     {
@@ -69,6 +56,19 @@
       "status": "Match Details"
     },
     {
+      "title": "NAM vs IRE - Preview",
+      "team1": {
+        "name": "NAM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "IRE",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "NAM vs IRE - Preview",
+      "status": "Match Details"
+    },
+    {
       "title": "New Zealand vs India 4th T20I",
       "team1": {
         "name": "New Zealand",
@@ -82,29 +82,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Africa vs Australia LIVE 3rd Test",
+      "title": "South Africa vs Australia 3rd Test",
       "team1": {
         "name": "South Africa",
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Australia LIVE 3rd Test",
+        "name": "Australia 3rd Test",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "South Africa vs Australia LIVE 3rd Test",
+      "score": "South Africa vs Australia 3rd Test",
       "status": "Match Details"
     },
     {
-      "title": "England vs Sri Lanka LIVE 6th Match",
+      "title": "England vs Sri Lanka 6th Match",
       "team1": {
         "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 6th Match",
+        "name": "Sri Lanka 6th Match",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "England vs Sri Lanka LIVE 6th Match",
+      "score": "England vs Sri Lanka 6th Match",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan vs Zimbabwe LIVE 2nd T20I",
+      "title": "Afghanistan vs Zimbabwe 2nd T20I",
       "team1": {
         "name": "Afghanistan",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Zimbabwe LIVE 2nd T20I",
+        "name": "Zimbabwe 2nd T20I",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Afghanistan vs Zimbabwe LIVE 2nd T20I",
+      "score": "Afghanistan vs Zimbabwe 2nd T20I",
       "status": "Match Details"
     },
     {
@@ -277,19 +277,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Eastern Storm vs Lions Super Eights",
-      "team1": {
-        "name": "Eastern Storm",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lions Super Eights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Eastern Storm vs Lions Super Eights",
-      "status": "Match Details"
-    },
-    {
       "title": "Titans vs South Western Districts Super Eights",
       "team1": {
         "name": "Titans",
@@ -300,19 +287,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Titans vs South Western Districts Super Eights",
-      "status": "Match Details"
-    },
-    {
-      "title": "Odisha vs Services Elite Group C",
-      "team1": {
-        "name": "Odisha",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Services Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Odisha vs Services Elite Group C",
       "status": "Match Details"
     },
     {
@@ -329,68 +303,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bengal vs Kerala Elite Group C",
+      "title": "Odisha vs Services Elite Group C",
       "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Kerala Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Kerala Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mumbai vs Haryana Elite Group D",
-      "team1": {
-        "name": "Mumbai",
+        "name": "Odisha",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Haryana Elite Group D",
+        "name": "Services Elite Group C",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Mumbai vs Haryana Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Railways vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Himachal Pradesh Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "score": "Odisha vs Services Elite Group C",
       "status": "Match Details"
     },
     {
@@ -511,6 +433,71 @@
       "status": "Match Details"
     },
     {
+      "title": "Bengal vs Kerala Elite Group C",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Kerala Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Kerala Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Mumbai vs Haryana Elite Group D",
+      "team1": {
+        "name": "Mumbai",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Mumbai vs Haryana Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Uttarakhand Elite Group D",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttarakhand Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Uttarakhand Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Railways vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Himachal Pradesh Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Himachal Pradesh Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "Papua New Guinea vs Kuwait 42nd Match",
       "team1": {
         "name": "Papua New Guinea",
@@ -615,19 +602,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe Women vs India Women 3rd ODI",
-      "team1": {
-        "name": "Zimbabwe Women",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "India Women 3rd ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Zimbabwe Women vs India Women 3rd ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Melbourne Renegades Women vs Sydney Thunder Women 1st Match",
       "team1": {
         "name": "Melbourne Renegades Women",
@@ -667,68 +641,29 @@
       "status": "Match Details"
     },
     {
-      "title": "142nd Match • Dubai, ICC Academy Ground Oman OMAN 196 (45.1) United Arab Emirates UAE 199-6 (47.3) United Arab Emirates won by 4 wkts",
+      "title": "6th Match • Lahore, Gaddafi Stadium England ENG 386-5 (50) Sri Lanka SL 331 (45.1) England won by 55 runs",
       "team1": {
-        "name": "142nd Match • Dubai, ICC Academy Ground Oman OMAN 196 (45.1) United Arab Emirates UAE 199",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "6th Match • Lahore, Gaddafi Stadium England ENG 386",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "6 (47.3) United Arab Emirates won by 4 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "5 (50) Sri Lanka SL 331 (45.1) England won by 55 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "142nd Match • Dubai, ICC Academy Ground Oman OMAN 196 (45.1) United Arab Emirates UAE 199-6 (47.3) United Arab Emirates won by 4 wkts",
+      "score": "6th Match • Lahore, Gaddafi Stadium England ENG 386-5 (50) Sri Lanka SL 331 (45.1) England won by 55 runs",
       "status": "Match Details"
     },
     {
-      "title": "Super Eights • Oudtshoorn, Recreation Ground Titans TIT 157-6 (20) South Western Districts SWD 158-7 (18.3) South Western Districts won by 3 wkts",
+      "title": "2nd T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 221-7 (20) Zimbabwe ZIM 202-5 (20) Afghanistan won by 19 runs",
       "team1": {
-        "name": "Super Eights • Oudtshoorn, Recreation Ground Titans TIT 157",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "2nd T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 221",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "6 (20) South Western Districts SWD 158",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7 (20) Zimbabwe ZIM 202",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Super Eights • Oudtshoorn, Recreation Ground Titans TIT 157-6 (20) South Western Districts SWD 158-7 (18.3) South Western Districts won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group B • Vijayawada, Devineni Venkata Ramana Praneetha Ground, Mulapadu Andhra AP 231 & 184-3 d Chhattisgarh CG 237 & 182-5 Chhattisgarh won by 5 wkts",
-      "team1": {
-        "name": "Elite Group B • Vijayawada, Devineni Venkata Ramana Praneetha Ground, Mulapadu Andhra AP 231 & 184",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 d Chhattisgarh CG 237 & 182",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group B • Vijayawada, Devineni Venkata Ramana Praneetha Ground, Mulapadu Andhra AP 231 & 184-3 d Chhattisgarh CG 237 & 182-5 Chhattisgarh won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group D • Mumbai, Sharad Pawar Cricket Academy BKC Mumbai MUM 430 & 97-0 Haryana HAR 270 & 256 (f/o) Mumbai won by 10 wkts",
-      "team1": {
-        "name": "Elite Group D • Mumbai, Sharad Pawar Cricket Academy BKC Mumbai MUM 430 & 97",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "0 Haryana HAR 270 & 256 (f/o) Mumbai won by 10 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group D • Mumbai, Sharad Pawar Cricket Academy BKC Mumbai MUM 430 & 97-0 Haryana HAR 270 & 256 (f/o) Mumbai won by 10 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Melbourne, Junction Oval Melbourne Stars Women MLSW 192-4 (20) Hobart Hurricanes Women HBHW 174-8 (20) Melbourne Stars Women won by 18 runs",
-      "team1": {
-        "name": "2nd Match • Melbourne, Junction Oval Melbourne Stars Women MLSW 192",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (20) Hobart Hurricanes Women HBHW 174",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Melbourne, Junction Oval Melbourne Stars Women MLSW 192-4 (20) Hobart Hurricanes Women HBHW 174-8 (20) Melbourne Stars Women won by 18 runs",
+      "score": "2nd T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 221-7 (20) Zimbabwe ZIM 202-5 (20) Afghanistan won by 19 runs",
       "status": "Match Details"
     }
   ]
