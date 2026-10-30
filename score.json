@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-10-30 18:51:34 UTC",
-  "total_matches": 46,
+  "last_updated": "2026-10-30 22:44:45 UTC",
+  "total_matches": 45,
   "matches": [
+    {
+      "title": "INDA vs NZA - NZA opt to bowl",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - NZA opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "RSA vs AUS - Stumps",
       "team1": {
@@ -14,32 +27,6 @@
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "score": "RSA vs AUS - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZ vs IND - NZ won",
-      "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "NZ vs IND - NZ won",
-      "status": "Match Details"
-    },
-    {
-      "title": "IRE vs NAM - IRE won",
-      "team1": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "IRE vs NAM - IRE won",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "NZA vs INDA - Preview",
+      "title": "OMAN vs AFG - Preview",
       "team1": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "OMAN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "NZA vs INDA - Preview",
+      "score": "OMAN vs AFG - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs SL - Preview",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAK vs SL - Preview",
       "status": "Match Details"
     },
     {
@@ -407,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand A vs India A 2nd Unofficial Test",
+      "title": "India A vs New Zealand A LIVE 2nd Unofficial Test",
       "team1": {
-        "name": "New Zealand A",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "India A 2nd Unofficial Test",
+        "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand A vs India A 2nd Unofficial Test",
+      "team2": {
+        "name": "New Zealand A LIVE 2nd Unofficial Test",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "India A vs New Zealand A LIVE 2nd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -511,29 +511,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Northern Districts vs Auckland 4th Match",
+      "title": "Northern Districts vs Auckland LIVE 4th Match",
       "team1": {
         "name": "Northern Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Auckland 4th Match",
+        "name": "Auckland LIVE 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northern Districts vs Auckland 4th Match",
+      "score": "Northern Districts vs Auckland LIVE 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "Wellington vs Canterbury 5th Match",
+      "title": "Canterbury vs Wellington LIVE 5th Match",
       "team1": {
-        "name": "Wellington",
+        "name": "Canterbury",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canterbury 5th Match",
+        "name": "Wellington LIVE 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Wellington vs Canterbury 5th Match",
+      "score": "Canterbury vs Wellington LIVE 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Otago vs Central Stags 6th Match",
+      "team1": {
+        "name": "Otago",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Central Stags 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Otago vs Central Stags 6th Match",
       "status": "Match Details"
     },
     {
@@ -573,32 +586,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Perth Scorchers Women vs Melbourne Renegades Women 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th ODI • Windhoek, High Performance Oval Ireland IRE 298-8 (50) Namibia NAM 168 (41) Ireland won by 130 runs",
-      "team1": {
-        "name": "4th ODI • Windhoek, High Performance Oval Ireland IRE 298",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (50) Namibia NAM 168 (41) Ireland won by 130 runs",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "4th ODI • Windhoek, High Performance Oval Ireland IRE 298-8 (50) Namibia NAM 168 (41) Ireland won by 130 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "43rd Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 312-8 (50) Denmark DEN 240 (47.5) Jersey won by 72 runs",
-      "team1": {
-        "name": "43rd Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 312",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (50) Denmark DEN 240 (47.5) Jersey won by 72 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "43rd Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 312-8 (50) Denmark DEN 240 (47.5) Jersey won by 72 runs",
       "status": "Match Details"
     }
   ]
