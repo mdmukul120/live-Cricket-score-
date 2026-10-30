@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-10-29 21:00:20 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-10-30 00:49:58 UTC",
+  "total_matches": 55,
   "matches": [
+    {
+      "title": "AUS vs HKC - HKC opt to bowl",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "HKC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "AUS vs HKC - HKC opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "AFG vs ZIM - AFG won",
       "team1": {
@@ -14,6 +27,19 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "AFG vs ZIM - AFG won",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZ vs IND - Preview",
+      "team1": {
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZ vs IND - Preview",
       "status": "Match Details"
     },
     {
@@ -30,19 +56,6 @@
       "status": "Match Details"
     },
     {
-      "title": "ENG vs SL - ENG won",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "ENG vs SL - ENG won",
-      "status": "Match Details"
-    },
-    {
       "title": "BAN vs WI - Stumps",
       "team1": {
         "name": "BAN",
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/jm.png"
       },
       "score": "BAN vs WI - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "NAM vs IRE - Preview",
-      "team1": {
-        "name": "NAM",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "IRE",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "NAM vs IRE - Preview",
       "status": "Match Details"
     },
     {
@@ -160,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Australia vs Hong Kong, China Group A",
+      "title": "Australia vs Hong Kong, China LIVE Group A",
       "team1": {
         "name": "Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Hong Kong, China Group A",
+        "name": "Hong Kong, China LIVE Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Australia vs Hong Kong, China Group A",
+      "score": "Australia vs Hong Kong, China LIVE Group A",
       "status": "Match Details"
     },
     {
@@ -277,6 +277,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Oman vs Afghanistan Group D",
+      "team1": {
+        "name": "Oman",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Afghanistan Group D",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Oman vs Afghanistan Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "Titans vs South Western Districts Super Eights",
       "team1": {
         "name": "Titans",
@@ -287,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Titans vs South Western Districts Super Eights",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Zealand A vs India A 2nd Unofficial Test",
+      "team1": {
+        "name": "New Zealand A",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "India A 2nd Unofficial Test",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "New Zealand A vs India A 2nd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -524,29 +550,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs South Australia 7th Match",
+      "title": "Western Australia vs South Australia LIVE 7th Match",
       "team1": {
         "name": "Western Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "South Australia 7th Match",
+        "name": "South Australia LIVE 7th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Western Australia vs South Australia 7th Match",
+      "score": "Western Australia vs South Australia LIVE 7th Match",
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs New South Wales 8th Match",
+      "title": "Tasmania vs New South Wales LIVE 8th Match",
       "team1": {
         "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New South Wales 8th Match",
+        "name": "New South Wales LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs New South Wales 8th Match",
+      "score": "Tasmania vs New South Wales LIVE 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Queensland vs Victoria 9th Match",
+      "team1": {
+        "name": "Queensland",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Victoria 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Queensland vs Victoria 9th Match",
       "status": "Match Details"
     },
     {
@@ -602,6 +641,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Northern Districts vs Auckland 4th Match",
+      "team1": {
+        "name": "Northern Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Auckland 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Districts vs Auckland 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Wellington vs Canterbury 5th Match",
+      "team1": {
+        "name": "Wellington",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canterbury 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Wellington vs Canterbury 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Otago vs Central Stags 6th Match",
+      "team1": {
+        "name": "Otago",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Central Stags 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Otago vs Central Stags 6th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Melbourne Renegades Women vs Sydney Thunder Women 1st Match",
       "team1": {
         "name": "Melbourne Renegades Women",
@@ -638,32 +716,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Brisbane Heat Women vs Sydney Sixers Women 3rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Lahore, Gaddafi Stadium England ENG 386-5 (50) Sri Lanka SL 331 (45.1) England won by 55 runs",
-      "team1": {
-        "name": "6th Match • Lahore, Gaddafi Stadium England ENG 386",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "5 (50) Sri Lanka SL 331 (45.1) England won by 55 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "6th Match • Lahore, Gaddafi Stadium England ENG 386-5 (50) Sri Lanka SL 331 (45.1) England won by 55 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 221-7 (20) Zimbabwe ZIM 202-5 (20) Afghanistan won by 19 runs",
-      "team1": {
-        "name": "2nd T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 221",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "7 (20) Zimbabwe ZIM 202",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "2nd T20I • Sharjah, Sharjah Cricket Stadium Afghanistan AFG 221-7 (20) Zimbabwe ZIM 202-5 (20) Afghanistan won by 19 runs",
       "status": "Match Details"
     }
   ]
