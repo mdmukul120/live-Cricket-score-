@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-10-30 22:44:45 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-10-31 01:53:15 UTC",
+  "total_matches": 47,
   "matches": [
     {
       "title": "INDA vs NZA - NZA opt to bowl",
@@ -43,7 +43,7 @@
       "status": "Match Details"
     },
     {
-      "title": "OMAN vs AFG - Preview",
+      "title": "OMAN vs AFG - AFG won",
       "team1": {
         "name": "OMAN",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,7 +52,7 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "OMAN vs AFG - Preview",
+      "score": "OMAN vs AFG - AFG won",
       "status": "Match Details"
     },
     {
@@ -277,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Scotland vs Sri Lanka Group B",
+      "title": "Scotland vs Sri Lanka LIVE Group B",
       "team1": {
         "name": "Scotland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sri Lanka Group B",
+        "name": "Sri Lanka LIVE Group B",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Scotland vs Sri Lanka Group B",
+      "score": "Scotland vs Sri Lanka LIVE Group B",
       "status": "Match Details"
     },
     {
@@ -303,81 +303,94 @@
       "status": "Match Details"
     },
     {
-      "title": "B3 vs D3 Bowl, Semi Final 1",
+      "title": "Bangladesh vs South Africa Bowl, Semi Final 1",
       "team1": {
-        "name": "B3",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Bangladesh",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "D3 Bowl, Semi Final 1",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Africa Bowl, Semi Final 1",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "B3 vs D3 Bowl, Semi Final 1",
+      "score": "Bangladesh vs South Africa Bowl, Semi Final 1",
       "status": "Match Details"
     },
     {
-      "title": "A3 vs C3 Bowl, Semi Final 2",
+      "title": "England vs C3 Bowl, Semi Final 2",
       "team1": {
-        "name": "A3",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
         "name": "C3 Bowl, Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "A3 vs C3 Bowl, Semi Final 2",
+      "score": "England vs C3 Bowl, Semi Final 2",
       "status": "Match Details"
     },
     {
-      "title": "B2 vs D2 Plate, Semi Final 1",
+      "title": "B2 vs Oman Plate, Semi Final 1",
       "team1": {
         "name": "B2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "D2 Plate, Semi Final 1",
+        "name": "Oman Plate, Semi Final 1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "B2 vs D2 Plate, Semi Final 1",
+      "score": "B2 vs Oman Plate, Semi Final 1",
       "status": "Match Details"
     },
     {
-      "title": "A2 vs C2 Plate, Semi Final 2",
+      "title": "Hong Kong, China vs C2 Plate, Semi Final 2",
       "team1": {
-        "name": "A2",
+        "name": "Hong Kong, China",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "C2 Plate, Semi Final 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "A2 vs C2 Plate, Semi Final 2",
+      "score": "Hong Kong, China vs C2 Plate, Semi Final 2",
       "status": "Match Details"
     },
     {
-      "title": "A1 vs C1 Cup, Semi Final 1",
+      "title": "Australia vs C1 Cup, Semi Final 1",
       "team1": {
-        "name": "A1",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
         "name": "C1 Cup, Semi Final 1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "A1 vs C1 Cup, Semi Final 1",
+      "score": "Australia vs C1 Cup, Semi Final 1",
       "status": "Match Details"
     },
     {
-      "title": "B1 vs D1 Cup, Semi Final 2",
+      "title": "B1 vs Afghanistan Cup, Semi Final 2",
       "team1": {
         "name": "B1",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "D1 Cup, Semi Final 2",
+        "name": "Afghanistan Cup, Semi Final 2",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "B1 vs Afghanistan Cup, Semi Final 2",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC 11th/12th Place Play-off",
+      "team1": {
+        "name": "TBC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "B1 vs D1 Cup, Semi Final 2",
+      "team2": {
+        "name": "TBC 11th/12th Place Play",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC 11th/12th Place Play-off",
       "status": "Match Details"
     },
     {
@@ -472,68 +485,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs South Australia 7th Match",
+      "title": "Western Australia vs South Australia LIVE 7th Match",
       "team1": {
         "name": "Western Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "South Australia 7th Match",
+        "name": "South Australia LIVE 7th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Western Australia vs South Australia 7th Match",
+      "score": "Western Australia vs South Australia LIVE 7th Match",
       "status": "Match Details"
     },
     {
-      "title": "Tasmania vs New South Wales 8th Match",
+      "title": "Tasmania vs New South Wales LIVE 8th Match",
       "team1": {
         "name": "Tasmania",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "New South Wales 8th Match",
+        "name": "New South Wales LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tasmania vs New South Wales 8th Match",
+      "score": "Tasmania vs New South Wales LIVE 8th Match",
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs Victoria 9th Match",
+      "title": "Victoria vs Queensland LIVE 9th Match",
       "team1": {
-        "name": "Queensland",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "Victoria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Victoria 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Queensland LIVE 9th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Queensland vs Victoria 9th Match",
+      "score": "Victoria vs Queensland LIVE 9th Match",
       "status": "Match Details"
     },
     {
-      "title": "Northern Districts vs Auckland LIVE 4th Match",
+      "title": "Northern Districts vs Auckland 4th Match",
       "team1": {
         "name": "Northern Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Auckland LIVE 4th Match",
+        "name": "Auckland 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northern Districts vs Auckland LIVE 4th Match",
+      "score": "Northern Districts vs Auckland 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "Canterbury vs Wellington LIVE 5th Match",
+      "title": "Canterbury vs Wellington 5th Match",
       "team1": {
         "name": "Canterbury",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Wellington LIVE 5th Match",
+        "name": "Wellington 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Canterbury vs Wellington LIVE 5th Match",
+      "score": "Canterbury vs Wellington 5th Match",
       "status": "Match Details"
     },
     {
@@ -586,6 +599,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Perth Scorchers Women vs Melbourne Renegades Women 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Group D • Mong Kok, Mission Road Ground Oman OMAN 120-4 (6) Afghanistan AFG 125-2 (5.2) Afghanistan won by 4 wkts",
+      "team1": {
+        "name": "Group D • Mong Kok, Mission Road Ground Oman OMAN 120",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (6) Afghanistan AFG 125",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Group D • Mong Kok, Mission Road Ground Oman OMAN 120-4 (6) Afghanistan AFG 125-2 (5.2) Afghanistan won by 4 wkts",
       "status": "Match Details"
     }
   ]
