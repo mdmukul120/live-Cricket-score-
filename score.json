@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-10-31 14:28:43 UTC",
-  "total_matches": 60,
+  "last_updated": "2026-10-31 18:42:28 UTC",
+  "total_matches": 54,
   "matches": [
     {
-      "title": "SL vs PAK - Need 181 to win",
+      "title": "SL vs PAK - PAK won",
       "team1": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -13,7 +13,7 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "SL vs PAK - Need 181 to win",
+      "score": "SL vs PAK - PAK won",
       "status": "Match Details"
     },
     {
@@ -95,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs Pakistan LIVE Final",
+      "title": "Sri Lanka vs Pakistan Final",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Pakistan LIVE Final",
+        "name": "Pakistan Final",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Sri Lanka vs Pakistan LIVE Final",
+      "score": "Sri Lanka vs Pakistan Final",
       "status": "Match Details"
     },
     {
@@ -121,19 +121,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland vs Namibia 4th ODI",
-      "team1": {
-        "name": "Ireland",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Namibia 4th ODI",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Ireland vs Namibia 4th ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Namibia vs Ireland 5th ODI",
       "team1": {
         "name": "Namibia",
@@ -144,6 +131,19 @@
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "score": "Namibia vs Ireland 5th ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan vs Zimbabwe 3rd T20I",
+      "team1": {
+        "name": "Afghanistan",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "Zimbabwe 3rd T20I",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Afghanistan vs Zimbabwe 3rd T20I",
       "status": "Match Details"
     },
     {
@@ -394,29 +394,29 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Eastern Storm Super Eights",
+      "title": "Eastern Storm vs South Western Districts Super Eights",
       "team1": {
-        "name": "South Western Districts",
+        "name": "Eastern Storm",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Eastern Storm Super Eights",
+        "name": "South Western Districts Super Eights",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Western Districts vs Eastern Storm Super Eights",
+      "score": "Eastern Storm vs South Western Districts Super Eights",
       "status": "Match Details"
     },
     {
-      "title": "Warriors vs Western Province Super Eights",
+      "title": "Western Province vs Warriors Super Eights",
       "team1": {
-        "name": "Warriors",
+        "name": "Western Province",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Province Super Eights",
+        "name": "Warriors Super Eights",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Warriors vs Western Province Super Eights",
+      "score": "Western Province vs Warriors Super Eights",
       "status": "Match Details"
     },
     {
@@ -459,55 +459,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Papua New Guinea vs Kuwait 42nd Match",
+      "title": "West Indies A vs England Lions 1st T20",
       "team1": {
-        "name": "Papua New Guinea",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "West Indies A",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Kuwait 42nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England Lions 1st T20",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Papua New Guinea vs Kuwait 42nd Match",
+      "score": "West Indies A vs England Lions 1st T20",
       "status": "Match Details"
     },
     {
-      "title": "Jersey vs Denmark 43rd Match",
-      "team1": {
-        "name": "Jersey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Denmark 43rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jersey vs Denmark 43rd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kenya vs Papua New Guinea LIVE 44th Match",
+      "title": "Kenya vs Papua New Guinea 44th Match",
       "team1": {
         "name": "Kenya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Papua New Guinea LIVE 44th Match",
+        "name": "Papua New Guinea 44th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kenya vs Papua New Guinea LIVE 44th Match",
+      "score": "Kenya vs Papua New Guinea 44th Match",
       "status": "Match Details"
     },
     {
-      "title": "Jersey vs Qatar LIVE 45th Match",
+      "title": "Jersey vs Qatar 45th Match",
       "team1": {
         "name": "Jersey",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Qatar LIVE 45th Match",
+        "name": "Qatar 45th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jersey vs Qatar LIVE 45th Match",
+      "score": "Jersey vs Qatar 45th Match",
       "status": "Match Details"
     },
     {
@@ -654,16 +641,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Test • Dhaka, Shere Bangla National Stadium Bangladesh BAN 272 & 142 West Indies WI 245 & 170-2 West Indies won by 8 wkts",
+      "title": "Final • Lahore, Gaddafi Stadium Sri Lanka SL 325-8 (50) Pakistan PAK 331-7 (48.3) Pakistan won by 3 wkts",
       "team1": {
-        "name": "1st Test • Dhaka, Shere Bangla National Stadium Bangladesh BAN 272 & 142 West Indies WI 245 & 170",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "Final • Lahore, Gaddafi Stadium Sri Lanka SL 325",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "2 West Indies won by 8 wkts",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "8 (50) Pakistan PAK 331",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "1st Test • Dhaka, Shere Bangla National Stadium Bangladesh BAN 272 & 142 West Indies WI 245 & 170-2 West Indies won by 8 wkts",
+      "score": "Final • Lahore, Gaddafi Stadium Sri Lanka SL 325-8 (50) Pakistan PAK 331-7 (48.3) Pakistan won by 3 wkts",
       "status": "Match Details"
     },
     {
@@ -680,107 +667,42 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 186-7 (20) Karnali Yaks KAY 187-6 (19.5) Karnali Yaks won by 4 wkts",
+      "title": "8th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 105-2 (5) Sudur Paschim Royals SPR 70-3 (5) Biratnagar Kings won by 35 runs (5 overs game due to wet outfield)",
       "team1": {
-        "name": "6th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 186",
+        "name": "8th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 105",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) Karnali Yaks KAY 187",
+        "name": "2 (5) Sudur Paschim Royals SPR 70",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "6th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 186-7 (20) Karnali Yaks KAY 187-6 (19.5) Karnali Yaks won by 4 wkts",
+      "score": "8th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 105-2 (5) Sudur Paschim Royals SPR 70-3 (5) Biratnagar Kings won by 35 runs (5 overs game due to wet outfield)",
       "status": "Match Details"
     },
     {
-      "title": "5th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 115 (19.3) Janakpur Bolts JAB 116-2 (17.2) Janakpur Bolts won by 8 wkts",
+      "title": "44th Match • Nairobi, Gymkhana Club Ground Kenya KEN 230-7 (38) Papua New Guinea PNG 142 (30.1) Kenya won by 88 runs  -  Match reduced to 38 overs due to rain",
       "team1": {
-        "name": "5th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 115 (19.3) Janakpur Bolts JAB 116",
+        "name": "44th Match • Nairobi, Gymkhana Club Ground Kenya KEN 230",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "2 (17.2) Janakpur Bolts won by 8 wkts",
+        "name": "7 (38) Papua New Guinea PNG 142 (30.1) Kenya won by 88 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "5th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 115 (19.3) Janakpur Bolts JAB 116-2 (17.2) Janakpur Bolts won by 8 wkts",
+      "score": "44th Match • Nairobi, Gymkhana Club Ground Kenya KEN 230-7 (38) Papua New Guinea PNG 142 (30.1) Kenya won by 88 runs  -  Match reduced to 38 overs due to rain",
       "status": "Match Details"
     },
     {
-      "title": "4th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 145-7 (20) Sudur Paschim Royals SPR 148-4 (16.5) Sudur Paschim Royals won by 6 wkts",
+      "title": "45th Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 194-8 (24) Qatar QAT 160 (22.2) Jersey won by 34 runs  -  Match reduced to 24 overs due to rain",
       "team1": {
-        "name": "4th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 145",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "7 (20) Sudur Paschim Royals SPR 148",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 145-7 (20) Sudur Paschim Royals SPR 148-4 (16.5) Sudur Paschim Royals won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Kirtipur, Tribhuvan University International Cricket Ground Karnali Yaks KAY 132-9 (20) Janakpur Bolts JAB 113 (19.3) Karnali Yaks won by 19 runs",
-      "team1": {
-        "name": "3rd Match • Kirtipur, Tribhuvan University International Cricket Ground Karnali Yaks KAY 132",
+        "name": "45th Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 194",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) Janakpur Bolts JAB 113 (19.3) Karnali Yaks won by 19 runs",
+        "name": "8 (24) Qatar QAT 160 (22.2) Jersey won by 34 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd Match • Kirtipur, Tribhuvan University International Cricket Ground Karnali Yaks KAY 132-9 (20) Janakpur Bolts JAB 113 (19.3) Karnali Yaks won by 19 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 157-3 (20) Biratnagar Kings BIK 149 (19.3) Chitwan Rhinos won by 8 runs",
-      "team1": {
-        "name": "2nd Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 157",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (20) Biratnagar Kings BIK 149 (19.3) Chitwan Rhinos won by 8 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 157-3 (20) Biratnagar Kings BIK 149 (19.3) Chitwan Rhinos won by 8 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 87 (17.2) Lumbini Lions LUL 88-3 (9.5) Lumbini Lions won by 7 wkts",
-      "team1": {
-        "name": "1st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 87 (17.2) Lumbini Lions LUL 88",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (9.5) Lumbini Lions won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 87 (17.2) Lumbini Lions LUL 88-3 (9.5) Lumbini Lions won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Cup, Semi Final 2 • Mong Kok, Mission Road Ground Afghanistan AFG 121-4 (6) Scotland SCO 100-3 (6) Afghanistan won by 21 runs",
-      "team1": {
-        "name": "Cup, Semi Final 2 • Mong Kok, Mission Road Ground Afghanistan AFG 121",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "4 (6) Scotland SCO 100",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Cup, Semi Final 2 • Mong Kok, Mission Road Ground Afghanistan AFG 121-4 (6) Scotland SCO 100-3 (6) Afghanistan won by 21 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Perth, W.A.C.A. Ground Melbourne Renegades Women MLRW 136-6 (20) Perth Scorchers Women PRSW 138-1 (13.3) Perth Scorchers Women won by 9 wkts",
-      "team1": {
-        "name": "5th Match • Perth, W.A.C.A. Ground Melbourne Renegades Women MLRW 136",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Perth Scorchers Women PRSW 138",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Perth, W.A.C.A. Ground Melbourne Renegades Women MLRW 136-6 (20) Perth Scorchers Women PRSW 138-1 (13.3) Perth Scorchers Women won by 9 wkts",
+      "score": "45th Match • Nairobi, Ruaraka Sports Club Ground Jersey JER 194-8 (24) Qatar QAT 160 (22.2) Jersey won by 34 runs  -  Match reduced to 24 overs due to rain",
       "status": "Match Details"
     }
   ]
