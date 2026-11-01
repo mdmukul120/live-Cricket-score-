@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-11-01 18:55:14 UTC",
-  "total_matches": 51,
+  "last_updated": "2026-11-01 22:38:02 UTC",
+  "total_matches": 48,
   "matches": [
+    {
+      "title": "INDA vs NZA - Trail by 113",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - Trail by 113",
+      "status": "Match Details"
+    },
     {
       "title": "ZIM vs AFG - AFG won",
       "team1": {
@@ -40,19 +53,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "IRE vs NAM - NAM won",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs NZA - Stumps",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - Stumps",
       "status": "Match Details"
     },
     {
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs Warriors Super Eights",
-      "team1": {
-        "name": "Western Province",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warriors Super Eights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Western Province vs Warriors Super Eights",
-      "status": "Match Details"
-    },
-    {
       "title": "Dolphins vs Boland Super Eights",
       "team1": {
         "name": "Dolphins",
@@ -290,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A 2nd Unofficial Test",
+      "title": "India A vs New Zealand A LIVE 2nd Unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand A 2nd Unofficial Test",
+        "name": "New Zealand A LIVE 2nd Unofficial Test",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "India A vs New Zealand A 2nd Unofficial Test",
+      "score": "India A vs New Zealand A LIVE 2nd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -339,6 +326,84 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Odisha vs Jharkhand Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chandigarh vs Tamil Nadu Elite Group D",
+      "team1": {
+        "name": "Chandigarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chandigarh vs Tamil Nadu Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttar Pradesh vs Baroda Elite Group A",
+      "team1": {
+        "name": "Uttar Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Baroda Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttar Pradesh vs Baroda Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Goa vs Bihar Elite Group A",
+      "team1": {
+        "name": "Goa",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Goa vs Bihar Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Vidarbha vs Madhya Pradesh Elite Group A",
+      "team1": {
+        "name": "Vidarbha",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Madhya Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vidarbha vs Madhya Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jammu and Kashmir vs Puducherry Elite Group A",
+      "team1": {
+        "name": "Jammu and Kashmir",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Puducherry Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jammu and Kashmir vs Puducherry Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chhattisgarh vs Hyderabad Elite Group B",
+      "team1": {
+        "name": "Chhattisgarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hyderabad Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chhattisgarh vs Hyderabad Elite Group B",
       "status": "Match Details"
     },
     {
@@ -430,84 +495,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Railways vs Mumbai Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chandigarh vs Tamil Nadu Elite Group D",
-      "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Tamil Nadu Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chandigarh vs Tamil Nadu Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttar Pradesh vs Baroda Elite Group A",
-      "team1": {
-        "name": "Uttar Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Baroda Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttar Pradesh vs Baroda Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Goa vs Bihar Elite Group A",
-      "team1": {
-        "name": "Goa",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bihar Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Goa vs Bihar Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Vidarbha vs Madhya Pradesh Elite Group A",
-      "team1": {
-        "name": "Vidarbha",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Madhya Pradesh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Vidarbha vs Madhya Pradesh Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jammu and Kashmir vs Puducherry Elite Group A",
-      "team1": {
-        "name": "Jammu and Kashmir",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Puducherry Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jammu and Kashmir vs Puducherry Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chhattisgarh vs Hyderabad Elite Group B",
-      "team1": {
-        "name": "Chhattisgarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chhattisgarh vs Hyderabad Elite Group B",
       "status": "Match Details"
     },
     {
@@ -638,32 +625,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Melbourne Stars Women vs Perth Scorchers Women 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd T20I • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 79 (14.3) Afghanistan AFG 81-3 (8.1) Afghanistan won by 7 wkts",
-      "team1": {
-        "name": "3rd T20I • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 79 (14.3) Afghanistan AFG 81",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "3 (8.1) Afghanistan won by 7 wkts",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "3rd T20I • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 79 (14.3) Afghanistan AFG 81-3 (8.1) Afghanistan won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "9th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 147-7 (20) Pokhara Avengers POA 138-9 (20) Janakpur Bolts won by 9 runs",
-      "team1": {
-        "name": "9th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 147",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Pokhara Avengers POA 138",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "9th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 147-7 (20) Pokhara Avengers POA 138-9 (20) Janakpur Bolts won by 9 runs",
       "status": "Match Details"
     }
   ]
