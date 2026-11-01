@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-11-01 14:07:36 UTC",
-  "total_matches": 60,
+  "last_updated": "2026-11-01 18:55:14 UTC",
+  "total_matches": 51,
   "matches": [
+    {
+      "title": "ZIM vs AFG - AFG won",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "ZIM vs AFG - AFG won",
+      "status": "Match Details"
+    },
     {
       "title": "IND vs NZ - NZ won",
       "team1": {
@@ -14,19 +27,6 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "IND vs NZ - NZ won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs AFG - AFG opt to bowl",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "ZIM vs AFG - AFG opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,7 +56,7 @@
       "status": "Match Details"
     },
     {
-      "title": "JAB vs POA - Need 76 off 52b",
+      "title": "JAB vs POA - JAB won",
       "team1": {
         "name": "JAB",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -65,7 +65,7 @@
         "name": "POA",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "JAB vs POA - Need 76 off 52b",
+      "score": "JAB vs POA - JAB won",
       "status": "Match Details"
     },
     {
@@ -79,32 +79,6 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "India vs New Zealand 5th T20I",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Africa vs Australia 3rd Test",
-      "team1": {
-        "name": "South Africa",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "Australia 3rd Test",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "South Africa vs Australia 3rd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sri Lanka vs Pakistan Final",
-      "team1": {
-        "name": "Sri Lanka",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Pakistan Final",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Sri Lanka vs Pakistan Final",
       "status": "Match Details"
     },
     {
@@ -238,29 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Biratnagar Kings vs Sudur Paschim Royals 8th Match",
-      "team1": {
-        "name": "Biratnagar Kings",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sudur Paschim Royals 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Biratnagar Kings vs Sudur Paschim Royals 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Janakpur Bolts vs Pokhara Avengers LIVE 9th Match",
+      "title": "Janakpur Bolts vs Pokhara Avengers 9th Match",
       "team1": {
         "name": "Janakpur Bolts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Pokhara Avengers LIVE 9th Match",
+        "name": "Pokhara Avengers 9th Match",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Janakpur Bolts vs Pokhara Avengers LIVE 9th Match",
+      "score": "Janakpur Bolts vs Pokhara Avengers 9th Match",
       "status": "Match Details"
     },
     {
@@ -287,19 +248,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Chitwan Rhinos vs Sudur Paschim Royals 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Eastern Storm vs South Western Districts Super Eights",
-      "team1": {
-        "name": "Eastern Storm",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Western Districts Super Eights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Eastern Storm vs South Western Districts Super Eights",
       "status": "Match Details"
     },
     {
@@ -391,71 +339,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Odisha vs Jharkhand Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttar Pradesh vs Baroda Elite Group A",
-      "team1": {
-        "name": "Uttar Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Baroda Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttar Pradesh vs Baroda Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Goa vs Bihar Elite Group A",
-      "team1": {
-        "name": "Goa",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bihar Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Goa vs Bihar Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Vidarbha vs Madhya Pradesh Elite Group A",
-      "team1": {
-        "name": "Vidarbha",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Madhya Pradesh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Vidarbha vs Madhya Pradesh Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jammu and Kashmir vs Puducherry Elite Group A",
-      "team1": {
-        "name": "Jammu and Kashmir",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Puducherry Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jammu and Kashmir vs Puducherry Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chhattisgarh vs Hyderabad Elite Group B",
-      "team1": {
-        "name": "Chhattisgarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chhattisgarh vs Hyderabad Elite Group B",
       "status": "Match Details"
     },
     {
@@ -563,6 +446,71 @@
       "status": "Match Details"
     },
     {
+      "title": "Uttar Pradesh vs Baroda Elite Group A",
+      "team1": {
+        "name": "Uttar Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Baroda Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttar Pradesh vs Baroda Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Goa vs Bihar Elite Group A",
+      "team1": {
+        "name": "Goa",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Goa vs Bihar Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Vidarbha vs Madhya Pradesh Elite Group A",
+      "team1": {
+        "name": "Vidarbha",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Madhya Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vidarbha vs Madhya Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jammu and Kashmir vs Puducherry Elite Group A",
+      "team1": {
+        "name": "Jammu and Kashmir",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Puducherry Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jammu and Kashmir vs Puducherry Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chhattisgarh vs Hyderabad Elite Group B",
+      "team1": {
+        "name": "Chhattisgarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hyderabad Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chhattisgarh vs Hyderabad Elite Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "West Indies A vs England Lions 1st T20",
       "team1": {
         "name": "West Indies A",
@@ -573,32 +521,6 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "West Indies A vs England Lions 1st T20",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kenya vs Papua New Guinea 44th Match",
-      "team1": {
-        "name": "Kenya",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Papua New Guinea 44th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kenya vs Papua New Guinea 44th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jersey vs Qatar 45th Match",
-      "team1": {
-        "name": "Jersey",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Qatar 45th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jersey vs Qatar 45th Match",
       "status": "Match Details"
     },
     {
@@ -719,68 +641,29 @@
       "status": "Match Details"
     },
     {
-      "title": "5th T20I • Hamilton, Seddon Park India IND 191-8 (20) New Zealand NZ 195-3 (18) New Zealand won by 7 wkts",
+      "title": "3rd T20I • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 79 (14.3) Afghanistan AFG 81-3 (8.1) Afghanistan won by 7 wkts",
       "team1": {
-        "name": "5th T20I • Hamilton, Seddon Park India IND 191",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (20) New Zealand NZ 195",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "5th T20I • Hamilton, Seddon Park India IND 191-8 (20) New Zealand NZ 195-3 (18) New Zealand won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th ODI •  Windhoek, Namibia Cricket Ground Ireland IRE 129 (33.1) Namibia NAM 131-5 (21.2) Namibia won by 5 wkts",
-      "team1": {
-        "name": "5th ODI •  Windhoek, Namibia Cricket Ground Ireland IRE 129 (33.1) Namibia NAM 131",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "5 (21.2) Namibia won by 5 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th ODI •  Windhoek, Namibia Cricket Ground Ireland IRE 129 (33.1) Namibia NAM 131-5 (21.2) Namibia won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Cup, Final • Mong Kok, Mission Road Ground Australia AUS 115-4 (6) Afghanistan AFG 119-2 (5.1) Afghanistan won by 4 wkts",
-      "team1": {
-        "name": "Cup, Final • Mong Kok, Mission Road Ground Australia AUS 115",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "4 (6) Afghanistan AFG 119",
+        "name": "3rd T20I • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 79 (14.3) Afghanistan AFG 81",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Cup, Final • Mong Kok, Mission Road Ground Australia AUS 115-4 (6) Afghanistan AFG 119-2 (5.1) Afghanistan won by 4 wkts",
+      "team2": {
+        "name": "3 (8.1) Afghanistan won by 7 wkts",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "3rd T20I • Sharjah, Sharjah Cricket Stadium Zimbabwe ZIM 79 (14.3) Afghanistan AFG 81-3 (8.1) Afghanistan won by 7 wkts",
       "status": "Match Details"
     },
     {
-      "title": "Super Eights • Durban, Kingsmead Dolphins DOL 174-4 (20) Boland BOL 178-3 (19.3) Boland won by 7 wkts",
+      "title": "9th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 147-7 (20) Pokhara Avengers POA 138-9 (20) Janakpur Bolts won by 9 runs",
       "team1": {
-        "name": "Super Eights • Durban, Kingsmead Dolphins DOL 174",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "4 (20) Boland BOL 178",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Super Eights • Durban, Kingsmead Dolphins DOL 174-4 (20) Boland BOL 178-3 (19.3) Boland won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match • Sydney, Drummoyne Oval Sydney Sixers Women SYSW 196-8 (20) Hobart Hurricanes Women HBHW 109 (17.4) Sydney Sixers Women won by 87 runs",
-      "team1": {
-        "name": "7th Match • Sydney, Drummoyne Oval Sydney Sixers Women SYSW 196",
+        "name": "9th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 147",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) Hobart Hurricanes Women HBHW 109 (17.4) Sydney Sixers Women won by 87 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "7 (20) Pokhara Avengers POA 138",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "7th Match • Sydney, Drummoyne Oval Sydney Sixers Women SYSW 196-8 (20) Hobart Hurricanes Women HBHW 109 (17.4) Sydney Sixers Women won by 87 runs",
+      "score": "9th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 147-7 (20) Pokhara Avengers POA 138-9 (20) Janakpur Bolts won by 9 runs",
       "status": "Match Details"
     }
   ]
