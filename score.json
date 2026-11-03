@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-02 18:49:54 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-11-03 01:24:17 UTC",
+  "total_matches": 38,
   "matches": [
     {
-      "title": "INDA vs NZA - Stumps",
+      "title": "INDA vs NZA - Lead by 85",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "NZA",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "INDA vs NZA - Stumps",
+      "score": "INDA vs NZA - Lead by 85",
       "status": "Match Details"
     },
     {
@@ -147,16 +147,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A 2nd Unofficial Test",
+      "title": "India A vs New Zealand A LIVE 2nd Unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand A 2nd Unofficial Test",
+        "name": "New Zealand A LIVE 2nd Unofficial Test",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "India A vs New Zealand A 2nd Unofficial Test",
+      "score": "India A vs New Zealand A LIVE 2nd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -196,6 +196,71 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Jharkhand vs Odisha Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Baroda vs Uttar Pradesh Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttar Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Uttar Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Goa vs Bihar Elite Group A",
+      "team1": {
+        "name": "Goa",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Goa vs Bihar Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Madhya Pradesh vs Vidarbha Elite Group A",
+      "team1": {
+        "name": "Madhya Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Vidarbha Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Madhya Pradesh vs Vidarbha Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Puducherry vs Jammu and Kashmir Elite Group A",
+      "team1": {
+        "name": "Puducherry",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jammu and Kashmir Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Puducherry vs Jammu and Kashmir Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chhattisgarh vs Hyderabad Elite Group B",
+      "team1": {
+        "name": "Chhattisgarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hyderabad Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chhattisgarh vs Hyderabad Elite Group B",
       "status": "Match Details"
     },
     {
@@ -303,84 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Baroda vs Uttar Pradesh Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttar Pradesh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Uttar Pradesh Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Goa vs Bihar Elite Group A",
-      "team1": {
-        "name": "Goa",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bihar Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Goa vs Bihar Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Madhya Pradesh vs Vidarbha Elite Group A",
-      "team1": {
-        "name": "Madhya Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Vidarbha Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Madhya Pradesh vs Vidarbha Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Puducherry vs Jammu and Kashmir Elite Group A",
-      "team1": {
-        "name": "Puducherry",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jammu and Kashmir Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Puducherry vs Jammu and Kashmir Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chhattisgarh vs Hyderabad Elite Group B",
-      "team1": {
-        "name": "Chhattisgarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chhattisgarh vs Hyderabad Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "West Indies A vs England Lions 1st T20",
-      "team1": {
-        "name": "West Indies A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "England Lions 1st T20",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "West Indies A vs England Lions 1st T20",
-      "status": "Match Details"
-    },
-    {
       "title": "West Indies A vs England Lions 2nd T20",
       "team1": {
         "name": "West Indies A",
@@ -433,6 +420,45 @@
       "status": "Match Details"
     },
     {
+      "title": "Central Stags vs Auckland 7th Match",
+      "team1": {
+        "name": "Central Stags",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Auckland 7th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Stags vs Auckland 7th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Wellington vs Northern Districts 8th Match",
+      "team1": {
+        "name": "Wellington",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Districts 8th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Wellington vs Northern Districts 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Otago vs Canterbury 9th Match",
+      "team1": {
+        "name": "Otago",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canterbury 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Otago vs Canterbury 9th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Tasmania vs New South Wales 8th Match",
       "team1": {
         "name": "Tasmania",
@@ -469,19 +495,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Perth Scorchers Women vs Melbourne Stars Women 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "11th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 129-6 (20) Sudur Paschim Royals SPR 131-5 (16.4) Sudur Paschim Royals won by 5 wkts",
-      "team1": {
-        "name": "11th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 129",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Sudur Paschim Royals SPR 131",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "11th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 129-6 (20) Sudur Paschim Royals SPR 131-5 (16.4) Sudur Paschim Royals won by 5 wkts",
       "status": "Match Details"
     }
   ]
