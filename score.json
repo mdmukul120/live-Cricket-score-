@@ -1,6 +1,6 @@
 {
   "status": "success",
-  "last_updated": "2026-11-03 16:24:32 UTC",
+  "last_updated": "2026-11-03 21:53:28 UTC",
   "total_matches": 38,
   "matches": [
     {
@@ -199,19 +199,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Baroda vs Uttar Pradesh Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttar Pradesh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Uttar Pradesh Elite Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Goa vs Bihar Elite Group A",
       "team1": {
         "name": "Goa",
@@ -368,6 +355,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Baroda vs Uttar Pradesh Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttar Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Uttar Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "West Indies A vs England Lions 2nd T20",
       "team1": {
         "name": "West Indies A",
@@ -378,6 +378,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "West Indies A vs England Lions 2nd T20",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Indies A vs England Lions 3rd T20",
+      "team1": {
+        "name": "West Indies A",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "England Lions 3rd T20",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "West Indies A vs England Lions 3rd T20",
       "status": "Match Details"
     },
     {
@@ -482,19 +495,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hobart Hurricanes Women vs Melbourne Renegades Women 9th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "13th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 97-9 (20) Lumbini Lions LUL 98-2 (11.4) Lumbini Lions won by 8 wkts",
-      "team1": {
-        "name": "13th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 97",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "9 (20) Lumbini Lions LUL 98",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "13th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 97-9 (20) Lumbini Lions LUL 98-2 (11.4) Lumbini Lions won by 8 wkts",
       "status": "Match Details"
     }
   ]
