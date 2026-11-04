@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-03 21:53:28 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-11-04 01:55:15 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "NZ vs IND - Preview",
+      "title": "NZ vs IND - Delay",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,7 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Preview",
+      "score": "NZ vs IND - Delay",
       "status": "Match Details"
     },
     {
@@ -199,6 +199,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Baroda vs Uttar Pradesh Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Uttar Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Uttar Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Goa vs Bihar Elite Group A",
       "team1": {
         "name": "Goa",
@@ -355,29 +368,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Baroda vs Uttar Pradesh Elite Group A",
+      "title": "England Lions vs West Indies A 2nd T20",
       "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttar Pradesh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Uttar Pradesh Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "West Indies A vs England Lions 2nd T20",
-      "team1": {
-        "name": "West Indies A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "England Lions 2nd T20",
+        "name": "England Lions",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "West Indies A vs England Lions 2nd T20",
+      "team2": {
+        "name": "West Indies A 2nd T20",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "England Lions vs West Indies A 2nd T20",
       "status": "Match Details"
     },
     {
@@ -433,42 +433,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Stags vs Auckland 7th Match",
+      "title": "Auckland vs Central Stags LIVE 7th Match",
       "team1": {
-        "name": "Central Stags",
+        "name": "Auckland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Auckland 7th Match",
+        "name": "Central Stags LIVE 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Stags vs Auckland 7th Match",
+      "score": "Auckland vs Central Stags LIVE 7th Match",
       "status": "Match Details"
     },
     {
-      "title": "Wellington vs Northern Districts 8th Match",
+      "title": "Wellington vs Northern Districts LIVE 8th Match",
       "team1": {
         "name": "Wellington",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Districts 8th Match",
+        "name": "Northern Districts LIVE 8th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Wellington vs Northern Districts 8th Match",
+      "score": "Wellington vs Northern Districts LIVE 8th Match",
       "status": "Match Details"
     },
     {
-      "title": "Otago vs Canterbury 9th Match",
+      "title": "Canterbury vs Otago LIVE 9th Match",
       "team1": {
-        "name": "Otago",
+        "name": "Canterbury",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canterbury 9th Match",
+        "name": "Otago LIVE 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Otago vs Canterbury 9th Match",
+      "score": "Canterbury vs Otago LIVE 9th Match",
       "status": "Match Details"
     },
     {
@@ -495,6 +495,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hobart Hurricanes Women vs Melbourne Renegades Women 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd T20 • Basseterre, St Kitts, Conaree Sports Club England Lions ENGA 151 (18.5) West Indies A WIA 134-7 (20) England Lions won by 17 runs",
+      "team1": {
+        "name": "2nd T20 • Basseterre, St Kitts, Conaree Sports Club England Lions ENGA 151 (18.5) West Indies A WIA 134",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (20) England Lions won by 17 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "2nd T20 • Basseterre, St Kitts, Conaree Sports Club England Lions ENGA 151 (18.5) West Indies A WIA 134-7 (20) England Lions won by 17 runs",
       "status": "Match Details"
     }
   ]
