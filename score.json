@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-11-04 22:14:14 UTC",
+  "last_updated": "2026-11-05 02:33:35 UTC",
   "total_matches": 42,
   "matches": [
-    {
-      "title": "NZ vs IND - IND won",
-      "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "NZ vs IND - IND won",
-      "status": "Match Details"
-    },
     {
       "title": "BAN vs WI - Preview",
       "team1": {
@@ -43,29 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "HBHW vs MLRW - MLRW won",
+      "title": "CG vs HYD - Stumps",
       "team1": {
-        "name": "HBHW",
+        "name": "CG",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MLRW",
+        "name": "HYD",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "HBHW vs MLRW - MLRW won",
+      "score": "CG vs HYD - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "UAE vs OMAN - UAE won",
+      "title": "NZ vs IND - IND won",
       "team1": {
-        "name": "UAE",
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZ vs IND - IND won",
+      "status": "Match Details"
+    },
+    {
+      "title": "ADSW vs BRHW - Preview",
+      "team1": {
+        "name": "ADSW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "OMAN",
+        "name": "BRHW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE vs OMAN - UAE won",
+      "score": "ADSW vs BRHW - Preview",
       "status": "Match Details"
     },
     {
@@ -209,19 +209,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Jharkhand vs Odisha Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Maharashtra Elite Group C",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Maharashtra Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Maharashtra Elite Group C",
       "status": "Match Details"
     },
     {
@@ -378,6 +365,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Services vs Delhi Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bengal vs Maharashtra Elite Group C",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Maharashtra Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Maharashtra Elite Group C",
       "status": "Match Details"
     },
     {
