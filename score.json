@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-05 17:43:26 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-11-05 22:55:21 UTC",
+  "total_matches": 44,
   "matches": [
     {
       "title": "ZIM vs AFG - Stumps",
@@ -183,6 +183,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Eastern Storm vs Dolphins Super Eights",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Zealand A vs India A 3rd Unofficial Test",
+      "team1": {
+        "name": "New Zealand A",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "India A 3rd Unofficial Test",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "New Zealand A vs India A 3rd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -394,19 +407,6 @@
       "status": "Match Details"
     },
     {
-      "title": "England Lions vs West Indies A 3rd T20",
-      "team1": {
-        "name": "England Lions",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "West Indies A 3rd T20",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "England Lions vs West Indies A 3rd T20",
-      "status": "Match Details"
-    },
-    {
       "title": "Malaysia U19 vs Sri Lanka U19 1st Match, Group B",
       "team1": {
         "name": "Malaysia U19",
@@ -573,19 +573,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Rwanda Women vs United States of America Women 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "15th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 83 (18.3) Kathmandu Gorkhas KAG 86-1 (9.4) Kathmandu Gorkhas won by 9 wkts",
-      "team1": {
-        "name": "15th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 83 (18.3) Kathmandu Gorkhas KAG 86",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "1 (9.4) Kathmandu Gorkhas won by 9 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "15th Match • Kirtipur, Tribhuvan University International Cricket Ground Biratnagar Kings BIK 83 (18.3) Kathmandu Gorkhas KAG 86-1 (9.4) Kathmandu Gorkhas won by 9 wkts",
       "status": "Match Details"
     }
   ]
