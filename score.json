@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-11-05 22:55:21 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-11-06 03:18:02 UTC",
+  "total_matches": 45,
   "matches": [
-    {
-      "title": "ZIM vs AFG - Stumps",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "ZIM vs AFG - Stumps",
-      "status": "Match Details"
-    },
     {
       "title": "WI vs BAN - Stumps",
       "team1": {
@@ -30,29 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "PRSW vs SYTW - PRSW won",
+      "title": "ZIM vs AFG - Stumps",
       "team1": {
-        "name": "PRSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "SYTW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "PRSW vs SYTW - PRSW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "BIK vs KAG - KAG won",
-      "team1": {
-        "name": "BIK",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "KAG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BIK vs KAG - KAG won",
+      "score": "ZIM vs AFG - Stumps",
       "status": "Match Details"
     },
     {
@@ -66,6 +40,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "INDU19 vs NPLU19 - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZ vs IND - Preview",
+      "team1": {
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZ vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZA vs INDA - Preview",
+      "team1": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZA vs INDA - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Zealand vs India 2nd ODI",
+      "team1": {
+        "name": "New Zealand",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "India 2nd ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "New Zealand vs India 2nd ODI",
       "status": "Match Details"
     },
     {
