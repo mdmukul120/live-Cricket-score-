@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-06 18:02:15 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-11-06 23:02:18 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "NZ vs IND - Preview",
@@ -14,6 +14,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "NZ vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs NZA - NZA opt to bowl",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - NZA opt to bowl",
       "status": "Match Details"
     },
     {
@@ -40,19 +53,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "WI vs BAN - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZA vs INDA - Preview",
-      "team1": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "NZA vs INDA - Preview",
       "status": "Match Details"
     },
     {
@@ -212,19 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Boland vs Warriors Super Eights",
-      "team1": {
-        "name": "Boland",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warriors Super Eights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Boland vs Warriors Super Eights",
-      "status": "Match Details"
-    },
-    {
       "title": "Eastern Storm vs Dolphins Super Eights",
       "team1": {
         "name": "Eastern Storm",
@@ -264,16 +251,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand A vs India A 3rd Unofficial Test",
+      "title": "India A vs New Zealand A LIVE 3rd Unofficial Test",
       "team1": {
-        "name": "New Zealand A",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "India A 3rd Unofficial Test",
+        "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand A vs India A 3rd Unofficial Test",
+      "team2": {
+        "name": "New Zealand A LIVE 3rd Unofficial Test",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "India A vs New Zealand A LIVE 3rd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -352,6 +339,45 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "Ireland A vs Zimbabwe A 1st unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northern Districts vs Otago 10th Match",
+      "team1": {
+        "name": "Northern Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Otago 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Districts vs Otago 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Wellington vs Auckland 11th Match",
+      "team1": {
+        "name": "Wellington",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Auckland 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Wellington vs Auckland 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Stags vs Canterbury 12th Match",
+      "team1": {
+        "name": "Central Stags",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canterbury 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Stags vs Canterbury 12th Match",
       "status": "Match Details"
     },
     {
@@ -446,29 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "17th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 151-6 (20) Pokhara Avengers POA 121 (19) Chitwan Rhinos won by 30 runs",
+      "title": "3-Day Warm-up Match • Islamabad, Islamabad Club Cricket Oval Sri Lanka SL 223-7 d & 181 Pakistan Cricket Board Patrons XI PCBPXI 151-8 d & 111 Sri Lanka won by 142 runs",
       "team1": {
-        "name": "17th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 151",
+        "name": "3",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) Pokhara Avengers POA 121 (19) Chitwan Rhinos won by 30 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "17th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 151-6 (20) Pokhara Avengers POA 121 (19) Chitwan Rhinos won by 30 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 100-8 (20) United States of America Women USAW 86 (19.2) Rwanda Women won by 14 runs",
-      "team1": {
-        "name": "2nd Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 100",
+        "name": "Day Warm",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "8 (20) United States of America Women USAW 86 (19.2) Rwanda Women won by 14 runs",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "2nd Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 100-8 (20) United States of America Women USAW 86 (19.2) Rwanda Women won by 14 runs",
+      "score": "3-Day Warm-up Match • Islamabad, Islamabad Club Cricket Oval Sri Lanka SL 223-7 d & 181 Pakistan Cricket Board Patrons XI PCBPXI 151-8 d & 111 Sri Lanka won by 142 runs",
       "status": "Match Details"
     }
   ]
