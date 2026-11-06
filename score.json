@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-11-06 11:11:56 UTC",
+  "last_updated": "2026-11-06 18:02:15 UTC",
   "total_matches": 36,
   "matches": [
     {
-      "title": "ZIM vs AFG - Trail by 490",
+      "title": "NZ vs IND - Preview",
+      "team1": {
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZ vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs AFG - Stumps",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -13,7 +26,7 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "ZIM vs AFG - Trail by 490",
+      "score": "ZIM vs AFG - Stumps",
       "status": "Match Details"
     },
     {
@@ -30,42 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "NZ vs IND - Preview",
+      "title": "NZA vs INDA - Preview",
       "team1": {
-        "name": "NZ",
+        "name": "NZA",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "IND",
+        "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Preview",
+      "score": "NZA vs INDA - Preview",
       "status": "Match Details"
     },
     {
-      "title": "NPLU19 vs INDU19 - INDU19 won",
+      "title": "UBL vs YL - Preview",
       "team1": {
-        "name": "NPLU19",
+        "name": "UBL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "NPLU19 vs INDU19 - INDU19 won",
-      "status": "Match Details"
-    },
-    {
-      "title": "SYSW vs MLSW - Need 8 off 6b",
-      "team1": {
-        "name": "SYSW",
+        "name": "YL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "team2": {
-        "name": "MLSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SYSW vs MLSW - Need 8 off 6b",
+      "score": "UBL vs YL - Preview",
       "status": "Match Details"
     },
     {
@@ -108,16 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Afghanistan LIVE 1st Test",
+      "title": "Zimbabwe vs Afghanistan 1st Test",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Afghanistan LIVE 1st Test",
+        "name": "Afghanistan 1st Test",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Zimbabwe vs Afghanistan LIVE 1st Test",
+      "score": "Zimbabwe vs Afghanistan 1st Test",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Biratnagar Kings vs Kathmandu Gorkhas 15th Match",
+      "title": "UAE Bulls vs Yas Lions 1st Match",
       "team1": {
-        "name": "Biratnagar Kings",
+        "name": "UAE Bulls",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Kathmandu Gorkhas 15th Match",
+        "name": "Yas Lions 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Biratnagar Kings vs Kathmandu Gorkhas 15th Match",
+      "score": "UAE Bulls vs Yas Lions 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Royal Desert Champions vs Emirates Eagles 2nd Match",
+      "team1": {
+        "name": "Royal Desert Champions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Emirates Eagles 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Royal Desert Champions vs Emirates Eagles 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "United Tigers vs Arabian Aces 3rd Match",
+      "team1": {
+        "name": "United Tigers",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Arabian Aces 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United Tigers vs Arabian Aces 3rd Match",
       "status": "Match Details"
     },
     {
@@ -170,6 +196,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "Chitwan Rhinos vs Pokhara Avengers 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kathmandu Gorkhas vs Lumbini Lions 18th Match",
+      "team1": {
+        "name": "Kathmandu Gorkhas",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lumbini Lions 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kathmandu Gorkhas vs Lumbini Lions 18th Match",
       "status": "Match Details"
     },
     {
@@ -212,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Western Province vs Lions Super Eights",
+      "team1": {
+        "name": "Western Province",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lions Super Eights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Province vs Lions Super Eights",
+      "status": "Match Details"
+    },
+    {
       "title": "New Zealand A vs India A 3rd Unofficial Test",
       "team1": {
         "name": "New Zealand A",
@@ -225,42 +277,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia U19 vs Sri Lanka U19 1st Match, Group B",
+      "title": "West Indies A vs England Lions 1st Unofficial ODI",
       "team1": {
-        "name": "Malaysia U19",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "West Indies A",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka U19 1st Match, Group B",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "England Lions 1st Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Malaysia U19 vs Sri Lanka U19 1st Match, Group B",
+      "score": "West Indies A vs England Lions 1st Unofficial ODI",
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan U19 vs Bangladesh U19 2nd Match, Group B",
-      "team1": {
-        "name": "Afghanistan U19",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Bangladesh U19 2nd Match, Group B",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "Afghanistan U19 vs Bangladesh U19 2nd Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Arab Emirates U19 vs Pakistan U19 LIVE 3rd Match, Group A",
+      "title": "United Arab Emirates U19 vs Pakistan U19 3rd Match, Group A",
       "team1": {
         "name": "United Arab Emirates U19",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Pakistan U19 LIVE 3rd Match, Group A",
+        "name": "Pakistan U19 3rd Match, Group A",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "United Arab Emirates U19 vs Pakistan U19 LIVE 3rd Match, Group A",
+      "score": "United Arab Emirates U19 vs Pakistan U19 3rd Match, Group A",
       "status": "Match Details"
     },
     {
@@ -303,42 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland A vs Zimbabwe A LIVE 1st unofficial Test",
+      "title": "Ireland A vs Zimbabwe A 1st unofficial Test",
       "team1": {
         "name": "Ireland A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Zimbabwe A LIVE 1st unofficial Test",
+        "name": "Zimbabwe A 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Ireland A vs Zimbabwe A LIVE 1st unofficial Test",
+      "score": "Ireland A vs Zimbabwe A 1st unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "Perth Scorchers Women vs Sydney Thunder Women 11th Match",
-      "team1": {
-        "name": "Perth Scorchers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sydney Thunder Women 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Perth Scorchers Women vs Sydney Thunder Women 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sydney Sixers Women vs Melbourne Stars Women LIVE 12th Match",
+      "title": "Sydney Sixers Women vs Melbourne Stars Women 12th Match",
       "team1": {
         "name": "Sydney Sixers Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Melbourne Stars Women LIVE 12th Match",
+        "name": "Melbourne Stars Women 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sydney Sixers Women vs Melbourne Stars Women LIVE 12th Match",
+      "score": "Sydney Sixers Women vs Melbourne Stars Women 12th Match",
       "status": "Match Details"
     },
     {
@@ -420,55 +446,29 @@
       "status": "Match Details"
     },
     {
-      "title": "16th Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 176-6 (20) Karnali Yaks KAY 137-7 (20) Sudur Paschim Royals won by 39 runs",
+      "title": "17th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 151-6 (20) Pokhara Avengers POA 121 (19) Chitwan Rhinos won by 30 runs",
       "team1": {
-        "name": "16th Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 176",
+        "name": "17th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 151",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) Karnali Yaks KAY 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "6 (20) Pokhara Avengers POA 121 (19) Chitwan Rhinos won by 30 runs",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "16th Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 176-6 (20) Karnali Yaks KAY 137-7 (20) Sudur Paschim Royals won by 39 runs",
+      "score": "17th Match • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 151-6 (20) Pokhara Avengers POA 121 (19) Chitwan Rhinos won by 30 runs",
       "status": "Match Details"
     },
     {
-      "title": "Super Eights • Gqeberha, St George's Park Boland BOL 138-5 (20) Warriors WAR 138-7 (20) Match tied (Boland won the Super Over)",
+      "title": "2nd Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 100-8 (20) United States of America Women USAW 86 (19.2) Rwanda Women won by 14 runs",
       "team1": {
-        "name": "Super Eights • Gqeberha, St George's Park Boland BOL 138",
+        "name": "2nd Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 100",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (20) Warriors WAR 138",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "8 (20) United States of America Women USAW 86 (19.2) Rwanda Women won by 14 runs",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "Super Eights • Gqeberha, St George's Park Boland BOL 138-5 (20) Warriors WAR 138-7 (20) Match tied (Boland won the Super Over)",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal U19 NPLU19 128 (42.3) India U19 INDU19 129-0 (19.1) India U19 won by 10 wkts",
-      "team1": {
-        "name": "4th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal U19 NPLU19 128 (42.3) India U19 INDU19 129",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "0 (19.1) India U19 won by 10 wkts",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "4th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal U19 NPLU19 128 (42.3) India U19 INDU19 129-0 (19.1) India U19 won by 10 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 73-9 (20) Uganda Women UGAW 74-6 (19.3) Uganda Women won by 4 wkts",
-      "team1": {
-        "name": "1st Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 73",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Uganda Women UGAW 74",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "1st Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 73-9 (20) Uganda Women UGAW 74-6 (19.3) Uganda Women won by 4 wkts",
+      "score": "2nd Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 100-8 (20) United States of America Women USAW 86 (19.2) Rwanda Women won by 14 runs",
       "status": "Match Details"
     }
   ]
