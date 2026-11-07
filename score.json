@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-07 15:46:38 UTC",
-  "total_matches": 44,
+  "last_updated": "2026-11-07 19:41:00 UTC",
+  "total_matches": 42,
   "matches": [
     {
       "title": "NZ vs IND - IND won",
@@ -30,7 +30,20 @@
       "status": "Match Details"
     },
     {
-      "title": "EE vs RDC - Need 33 off 9b",
+      "title": "UT vs ARA - UT won",
+      "team1": {
+        "name": "UT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ARA",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "UT vs ARA - UT won",
+      "status": "Match Details"
+    },
+    {
+      "title": "EE vs RDC - EE won",
       "team1": {
         "name": "EE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +52,7 @@
         "name": "RDC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EE vs RDC - Need 33 off 9b",
+      "score": "EE vs RDC - EE won",
       "status": "Match Details"
     },
     {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "YL vs UBL - UBL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "UT vs ARA - Preview",
-      "team1": {
-        "name": "UT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ARA",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "UT vs ARA - Preview",
       "status": "Match Details"
     },
     {
@@ -134,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Emirates Eagles vs Royal Desert Champions LIVE 2nd Match",
+      "title": "Emirates Eagles vs Royal Desert Champions 2nd Match",
       "team1": {
         "name": "Emirates Eagles",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Royal Desert Champions LIVE 2nd Match",
+        "name": "Royal Desert Champions 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Emirates Eagles vs Royal Desert Champions LIVE 2nd Match",
+      "score": "Emirates Eagles vs Royal Desert Champions 2nd Match",
       "status": "Match Details"
     },
     {
@@ -186,6 +186,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Arabian Aces vs Royal Desert Champions 6th Match",
+      "team1": {
+        "name": "Arabian Aces",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Royal Desert Champions 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Arabian Aces vs Royal Desert Champions 6th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Kathmandu Gorkhas vs Lumbini Lions 18th Match",
       "team1": {
         "name": "Kathmandu Gorkhas",
@@ -196,19 +209,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kathmandu Gorkhas vs Lumbini Lions 18th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Eastern Storm vs Dolphins Super Eights",
-      "team1": {
-        "name": "Eastern Storm",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Dolphins Super Eights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Eastern Storm vs Dolphins Super Eights",
       "status": "Match Details"
     },
     {
@@ -498,16 +498,29 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 120-3 (10) UAE Bulls UBL 121-3 (9.4) UAE Bulls won by 7 wkts",
+      "title": "3rd Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 140-6 (10) Arabian Aces ARA 89-9 (10) United Tigers won by 51 runs",
       "team1": {
-        "name": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 120",
+        "name": "3rd Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 140",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (10) UAE Bulls UBL 121",
+        "name": "6 (10) Arabian Aces ARA 89",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 120-3 (10) UAE Bulls UBL 121-3 (9.4) UAE Bulls won by 7 wkts",
+      "score": "3rd Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 140-6 (10) Arabian Aces ARA 89-9 (10) United Tigers won by 51 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 125-2 (10) Royal Desert Champions RDC 109-7 (10) Emirates Eagles won by 16 runs",
+      "team1": {
+        "name": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 125",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (10) Royal Desert Champions RDC 109",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 125-2 (10) Royal Desert Champions RDC 109-7 (10) Emirates Eagles won by 16 runs",
       "status": "Match Details"
     },
     {
@@ -524,32 +537,6 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Bangladesh U19 BANU19 245 (49.4) Sri Lanka U19 SLU19 200 (46.1) Bangladesh U19 won by 45 runs",
-      "team1": {
-        "name": "6th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Bangladesh U19 BANU19 245 (49.4) Sri Lanka U19 SLU19 200 (46.1) Bangladesh U19 won by 45 runs",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Bangladesh U19 BANU19 245 (49.4) Sri Lanka U19 SLU19 200 (46.1) Bangladesh U19 won by 45 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "14th Match • Brisbane, Allan Border Field Hobart Hurricanes Women HBHW 116-9 (20) Brisbane Heat Women BRHW 119-6 (18.2) Brisbane Heat Women won by 4 wkts",
-      "team1": {
-        "name": "14th Match • Brisbane, Allan Border Field Hobart Hurricanes Women HBHW 116",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "9 (20) Brisbane Heat Women BRHW 119",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "14th Match • Brisbane, Allan Border Field Hobart Hurricanes Women HBHW 116-9 (20) Brisbane Heat Women BRHW 119-6 (18.2) Brisbane Heat Women won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
       "title": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99-6 (20) Rwanda Women RWAW 93-8 (20) Uganda Women won by 6 runs",
       "team1": {
         "name": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99",
@@ -560,19 +547,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99-6 (20) Rwanda Women RWAW 93-8 (20) Uganda Women won by 6 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 116-8 (20) United States of America Women USAW 108-9 (20) Namibia Women won by 8 runs",
-      "team1": {
-        "name": "3rd Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 116",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) United States of America Women USAW 108",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "3rd Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 116-8 (20) United States of America Women USAW 108-9 (20) Namibia Women won by 8 runs",
       "status": "Match Details"
     }
   ]
