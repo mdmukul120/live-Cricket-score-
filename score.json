@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-07 09:17:39 UTC",
-  "total_matches": 45,
+  "last_updated": "2026-11-07 15:46:38 UTC",
+  "total_matches": 44,
   "matches": [
     {
-      "title": "NZ vs IND - Rain",
+      "title": "NZ vs IND - IND won",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,24 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Rain",
+      "score": "NZ vs IND - IND won",
       "status": "Match Details"
     },
     {
-      "title": "WI vs BAN - Trail by 16",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "WI vs BAN - Trail by 16",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs AFG - Trail by 258",
+      "title": "ZIM vs AFG - Stumps",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -39,33 +26,46 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "ZIM vs AFG - Trail by 258",
+      "score": "ZIM vs AFG - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "INDA vs NZA - Stumps",
+      "title": "EE vs RDC - Need 33 off 9b",
       "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "UBL vs YL - Preview",
-      "team1": {
-        "name": "UBL",
+        "name": "EE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
+        "name": "RDC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "EE vs RDC - Need 33 off 9b",
+      "status": "Match Details"
+    },
+    {
+      "title": "YL vs UBL - UBL won",
+      "team1": {
         "name": "YL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UBL vs YL - Preview",
+      "team2": {
+        "name": "UBL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "YL vs UBL - UBL won",
+      "status": "Match Details"
+    },
+    {
+      "title": "UT vs ARA - Preview",
+      "team1": {
+        "name": "UT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ARA",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "UT vs ARA - Preview",
       "status": "Match Details"
     },
     {
@@ -82,81 +82,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs Pakistan Cricket Board Patrons XI 3-Day Warm-up Match",
-      "team1": {
-        "name": "Sri Lanka",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Pakistan Cricket Board Patrons XI 3",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "Sri Lanka vs Pakistan Cricket Board Patrons XI 3-Day Warm-up Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "England vs Western Australia LIVE Tour Match",
+      "title": "England vs Western Australia Tour Match",
       "team1": {
         "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Western Australia LIVE Tour Match",
+        "name": "Western Australia Tour Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "England vs Western Australia LIVE Tour Match",
+      "score": "England vs Western Australia Tour Match",
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Afghanistan LIVE 1st Test",
+      "title": "Zimbabwe vs Afghanistan 1st Test",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Afghanistan LIVE 1st Test",
+        "name": "Afghanistan 1st Test",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Zimbabwe vs Afghanistan LIVE 1st Test",
+      "score": "Zimbabwe vs Afghanistan 1st Test",
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Bangladesh LIVE 2nd Test",
+      "title": "West Indies vs Bangladesh 2nd Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Bangladesh LIVE 2nd Test",
+        "name": "Bangladesh 2nd Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "West Indies vs Bangladesh LIVE 2nd Test",
+      "score": "West Indies vs Bangladesh 2nd Test",
       "status": "Match Details"
     },
     {
-      "title": "UAE Bulls vs Yas Lions 1st Match",
+      "title": "Yas Lions vs UAE Bulls 1st Match",
       "team1": {
-        "name": "UAE Bulls",
+        "name": "Yas Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Yas Lions 1st Match",
+        "name": "UAE Bulls 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE Bulls vs Yas Lions 1st Match",
+      "score": "Yas Lions vs UAE Bulls 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Royal Desert Champions vs Emirates Eagles 2nd Match",
+      "title": "Emirates Eagles vs Royal Desert Champions LIVE 2nd Match",
       "team1": {
-        "name": "Royal Desert Champions",
+        "name": "Emirates Eagles",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Emirates Eagles 2nd Match",
+        "name": "Royal Desert Champions LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Royal Desert Champions vs Emirates Eagles 2nd Match",
+      "score": "Emirates Eagles vs Royal Desert Champions LIVE 2nd Match",
       "status": "Match Details"
     },
     {
@@ -173,29 +160,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Sudur Paschim Royals vs Karnali Yaks 16th Match",
+      "title": "Yas Lions vs Emirates Eagles 4th Match",
       "team1": {
-        "name": "Sudur Paschim Royals",
+        "name": "Yas Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Karnali Yaks 16th Match",
+        "name": "Emirates Eagles 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sudur Paschim Royals vs Karnali Yaks 16th Match",
+      "score": "Yas Lions vs Emirates Eagles 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "Chitwan Rhinos vs Pokhara Avengers 17th Match",
+      "title": "United Tigers vs UAE Bulls 5th Match",
       "team1": {
-        "name": "Chitwan Rhinos",
+        "name": "United Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Pokhara Avengers 17th Match",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "UAE Bulls 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chitwan Rhinos vs Pokhara Avengers 17th Match",
+      "score": "United Tigers vs UAE Bulls 5th Match",
       "status": "Match Details"
     },
     {
@@ -225,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Boland vs South Western Districts Super Eights",
+      "title": "South Western Districts vs Boland Super Eights",
       "team1": {
-        "name": "Boland",
+        "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Western Districts Super Eights",
+        "name": "Boland Super Eights",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Boland vs South Western Districts Super Eights",
+      "score": "South Western Districts vs Boland Super Eights",
       "status": "Match Details"
     },
     {
@@ -264,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Titans vs Dolphins Super Eights",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Dolphins Super Eights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Titans vs Dolphins Super Eights",
+      "status": "Match Details"
+    },
+    {
       "title": "India A vs New Zealand A 3rd Unofficial Test",
       "team1": {
         "name": "India A",
@@ -287,32 +287,6 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "West Indies A vs England Lions 1st Unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Arab Emirates U19 vs Pakistan U19 3rd Match, Group A",
-      "team1": {
-        "name": "United Arab Emirates U19",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Pakistan U19 3rd Match, Group A",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "United Arab Emirates U19 vs Pakistan U19 3rd Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Nepal U19 vs India U19 4th Match, Group A",
-      "team1": {
-        "name": "Nepal U19",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "India U19 4th Match, Group A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "Nepal U19 vs India U19 4th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -368,16 +342,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland A vs Zimbabwe A LIVE 1st unofficial Test",
+      "title": "Ireland A vs Zimbabwe A 1st unofficial Test",
       "team1": {
         "name": "Ireland A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Zimbabwe A LIVE 1st unofficial Test",
+        "name": "Zimbabwe A 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Ireland A vs Zimbabwe A LIVE 1st unofficial Test",
+      "score": "Ireland A vs Zimbabwe A 1st unofficial Test",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northern Districts vs Otago 10th Match",
+      "team1": {
+        "name": "Northern Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Otago 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Districts vs Otago 10th Match",
       "status": "Match Details"
     },
     {
@@ -407,32 +394,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Northern Districts vs Otago 10th Match",
-      "team1": {
-        "name": "Northern Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Otago 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northern Districts vs Otago 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sydney Sixers Women vs Melbourne Stars Women 12th Match",
-      "team1": {
-        "name": "Sydney Sixers Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Melbourne Stars Women 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sydney Sixers Women vs Melbourne Stars Women 12th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Melbourne Renegades Women vs Adelaide Strikers Women 13th Match",
       "team1": {
         "name": "Melbourne Renegades Women",
@@ -446,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Hobart Hurricanes Women vs Brisbane Heat Women LIVE 14th Match",
+      "title": "Hobart Hurricanes Women vs Brisbane Heat Women 14th Match",
       "team1": {
         "name": "Hobart Hurricanes Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Brisbane Heat Women LIVE 14th Match",
+        "name": "Brisbane Heat Women 14th Match",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Hobart Hurricanes Women vs Brisbane Heat Women LIVE 14th Match",
+      "score": "Hobart Hurricanes Women vs Brisbane Heat Women 14th Match",
       "status": "Match Details"
     },
     {
@@ -482,32 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Perth Scorchers Women vs Melbourne Stars Women 16th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Namibia Women vs Uganda Women 1st Match",
-      "team1": {
-        "name": "Namibia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda Women 1st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Namibia Women vs Uganda Women 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rwanda Women vs United States of America Women 2nd Match",
-      "team1": {
-        "name": "Rwanda Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United States of America Women 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rwanda Women vs United States of America Women 2nd Match",
       "status": "Match Details"
     },
     {
@@ -550,42 +485,94 @@
       "status": "Match Details"
     },
     {
-      "title": "Super Eights • Benoni, Willowmoore Park Eastern Storm ESTORM 162-2 (20) Dolphins DOL 118-5 (16.1) Easterns won by 8 runs (DLS method)",
+      "title": "Uganda Women vs United States of America Women 6th Match",
       "team1": {
-        "name": "Super Eights • Benoni, Willowmoore Park Eastern Storm ESTORM 162",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "2 (20) Dolphins DOL 118",
+        "name": "Uganda Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Super Eights • Benoni, Willowmoore Park Eastern Storm ESTORM 162-2 (20) Dolphins DOL 118-5 (16.1) Easterns won by 8 runs (DLS method)",
+      "team2": {
+        "name": "United States of America Women 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda Women vs United States of America Women 6th Match",
       "status": "Match Details"
     },
     {
-      "title": "5th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Malaysia U19 MLYU19 42 (22.3) Afghanistan U19 AFGU19 47-0 (3) Afghanistan U19 won by 10 wkts",
+      "title": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 120-3 (10) UAE Bulls UBL 121-3 (9.4) UAE Bulls won by 7 wkts",
       "team1": {
-        "name": "5th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Malaysia U19 MLYU19 42 (22.3) Afghanistan U19 AFGU19 47",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 120",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "0 (3) Afghanistan U19 won by 10 wkts",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "3 (10) UAE Bulls UBL 121",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "5th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Malaysia U19 MLYU19 42 (22.3) Afghanistan U19 AFGU19 47-0 (3) Afghanistan U19 won by 10 wkts",
+      "score": "1st Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 120-3 (10) UAE Bulls UBL 121-3 (9.4) UAE Bulls won by 7 wkts",
       "status": "Match Details"
     },
     {
-      "title": "13th Match • Melbourne, Junction Oval Melbourne Renegades Women MLRW 188-3 (20) Adelaide Strikers Women ADSW 152-8 (20) Melbourne Renegades Women won by 36 runs",
+      "title": "18th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 160-8 (20) Lumbini Lions LUL 124 (19.3) Kathmandu Gorkhas won by 36 runs",
       "team1": {
-        "name": "13th Match • Melbourne, Junction Oval Melbourne Renegades Women MLRW 188",
+        "name": "18th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 160",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (20) Adelaide Strikers Women ADSW 152",
+        "name": "8 (20) Lumbini Lions LUL 124 (19.3) Kathmandu Gorkhas won by 36 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "13th Match • Melbourne, Junction Oval Melbourne Renegades Women MLRW 188-3 (20) Adelaide Strikers Women ADSW 152-8 (20) Melbourne Renegades Women won by 36 runs",
+      "score": "18th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 160-8 (20) Lumbini Lions LUL 124 (19.3) Kathmandu Gorkhas won by 36 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "6th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Bangladesh U19 BANU19 245 (49.4) Sri Lanka U19 SLU19 200 (46.1) Bangladesh U19 won by 45 runs",
+      "team1": {
+        "name": "6th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Bangladesh U19 BANU19 245 (49.4) Sri Lanka U19 SLU19 200 (46.1) Bangladesh U19 won by 45 runs",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Bangladesh U19 BANU19 245 (49.4) Sri Lanka U19 SLU19 200 (46.1) Bangladesh U19 won by 45 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "14th Match • Brisbane, Allan Border Field Hobart Hurricanes Women HBHW 116-9 (20) Brisbane Heat Women BRHW 119-6 (18.2) Brisbane Heat Women won by 4 wkts",
+      "team1": {
+        "name": "14th Match • Brisbane, Allan Border Field Hobart Hurricanes Women HBHW 116",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "9 (20) Brisbane Heat Women BRHW 119",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "14th Match • Brisbane, Allan Border Field Hobart Hurricanes Women HBHW 116-9 (20) Brisbane Heat Women BRHW 119-6 (18.2) Brisbane Heat Women won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99-6 (20) Rwanda Women RWAW 93-8 (20) Uganda Women won by 6 runs",
+      "team1": {
+        "name": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (20) Rwanda Women RWAW 93",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99-6 (20) Rwanda Women RWAW 93-8 (20) Uganda Women won by 6 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "3rd Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 116-8 (20) United States of America Women USAW 108-9 (20) Namibia Women won by 8 runs",
+      "team1": {
+        "name": "3rd Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 116",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (20) United States of America Women USAW 108",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "3rd Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 116-8 (20) United States of America Women USAW 108-9 (20) Namibia Women won by 8 runs",
       "status": "Match Details"
     }
   ]
