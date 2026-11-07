@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-06 23:02:18 UTC",
-  "total_matches": 37,
+  "last_updated": "2026-11-07 02:44:22 UTC",
+  "total_matches": 38,
   "matches": [
     {
-      "title": "NZ vs IND - Preview",
+      "title": "NZ vs IND - Delay",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,7 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Preview",
+      "score": "NZ vs IND - Delay",
       "status": "Match Details"
     },
     {
@@ -417,6 +417,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Brisbane Heat Women vs Hobart Hurricanes Women 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Sixers Women vs Sydney Thunder Women 15th Match",
+      "team1": {
+        "name": "Sydney Sixers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sydney Thunder Women 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sydney Sixers Women vs Sydney Thunder Women 15th Match",
       "status": "Match Details"
     },
     {
