@@ -1,8 +1,21 @@
 {
   "status": "success",
-  "last_updated": "2026-11-07 19:41:00 UTC",
-  "total_matches": 42,
+  "last_updated": "2026-11-07 23:05:17 UTC",
+  "total_matches": 39,
   "matches": [
+    {
+      "title": "INDA vs NZA - NZA opt to bowl",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - NZA opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "NZ vs IND - IND won",
       "team1": {
@@ -53,19 +66,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "EE vs RDC - EE won",
-      "status": "Match Details"
-    },
-    {
-      "title": "YL vs UBL - UBL won",
-      "team1": {
-        "name": "YL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UBL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "YL vs UBL - UBL won",
       "status": "Match Details"
     },
     {
@@ -264,16 +264,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A 3rd Unofficial Test",
+      "title": "India A vs New Zealand A LIVE 3rd Unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand A 3rd Unofficial Test",
+        "name": "New Zealand A LIVE 3rd Unofficial Test",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "India A vs New Zealand A 3rd Unofficial Test",
+      "score": "India A vs New Zealand A LIVE 3rd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -355,42 +355,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Northern Districts vs Otago 10th Match",
+      "title": "Otago vs Northern Districts LIVE 10th Match",
       "team1": {
-        "name": "Northern Districts",
+        "name": "Otago",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Otago 10th Match",
+        "name": "Northern Districts LIVE 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northern Districts vs Otago 10th Match",
+      "score": "Otago vs Northern Districts LIVE 10th Match",
       "status": "Match Details"
     },
     {
-      "title": "Wellington vs Auckland 11th Match",
+      "title": "Wellington vs Auckland LIVE 11th Match",
       "team1": {
         "name": "Wellington",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Auckland 11th Match",
+        "name": "Auckland LIVE 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Wellington vs Auckland 11th Match",
+      "score": "Wellington vs Auckland LIVE 11th Match",
       "status": "Match Details"
     },
     {
-      "title": "Central Stags vs Canterbury 12th Match",
+      "title": "Central Stags vs Canterbury LIVE 12th Match",
       "team1": {
         "name": "Central Stags",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Canterbury 12th Match",
+        "name": "Canterbury LIVE 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Stags vs Canterbury 12th Match",
+      "score": "Central Stags vs Canterbury LIVE 12th Match",
       "status": "Match Details"
     },
     {
@@ -508,45 +508,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "3rd Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 140-6 (10) Arabian Aces ARA 89-9 (10) United Tigers won by 51 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 125-2 (10) Royal Desert Champions RDC 109-7 (10) Emirates Eagles won by 16 runs",
-      "team1": {
-        "name": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 125",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (10) Royal Desert Champions RDC 109",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 125-2 (10) Royal Desert Champions RDC 109-7 (10) Emirates Eagles won by 16 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "18th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 160-8 (20) Lumbini Lions LUL 124 (19.3) Kathmandu Gorkhas won by 36 runs",
-      "team1": {
-        "name": "18th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 160",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Lumbini Lions LUL 124 (19.3) Kathmandu Gorkhas won by 36 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "18th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 160-8 (20) Lumbini Lions LUL 124 (19.3) Kathmandu Gorkhas won by 36 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99-6 (20) Rwanda Women RWAW 93-8 (20) Uganda Women won by 6 runs",
-      "team1": {
-        "name": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Rwanda Women RWAW 93",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Entebbe, Entebbe Cricket Oval Uganda Women UGAW 99-6 (20) Rwanda Women RWAW 93-8 (20) Uganda Women won by 6 runs",
       "status": "Match Details"
     }
   ]
