@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-07 02:44:22 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-11-07 09:17:39 UTC",
+  "total_matches": 45,
   "matches": [
     {
-      "title": "NZ vs IND - Delay",
+      "title": "NZ vs IND - Rain",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,37 +13,11 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Delay",
+      "score": "NZ vs IND - Rain",
       "status": "Match Details"
     },
     {
-      "title": "INDA vs NZA - NZA opt to bowl",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - NZA opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs AFG - Stumps",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "ZIM vs AFG - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "WI vs BAN - Stumps",
+      "title": "WI vs BAN - Trail by 16",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -52,7 +26,33 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "WI vs BAN - Stumps",
+      "score": "WI vs BAN - Trail by 16",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs AFG - Trail by 258",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "ZIM vs AFG - Trail by 258",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs NZA - Stumps",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - Stumps",
       "status": "Match Details"
     },
     {
@@ -95,42 +95,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs England Tour Match",
+      "title": "England vs Western Australia LIVE Tour Match",
       "team1": {
-        "name": "Western Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "England Tour Match",
+        "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Western Australia vs England Tour Match",
+      "team2": {
+        "name": "Western Australia LIVE Tour Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "England vs Western Australia LIVE Tour Match",
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Afghanistan 1st Test",
+      "title": "Zimbabwe vs Afghanistan LIVE 1st Test",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Afghanistan 1st Test",
+        "name": "Afghanistan LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Zimbabwe vs Afghanistan 1st Test",
+      "score": "Zimbabwe vs Afghanistan LIVE 1st Test",
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Bangladesh 2nd Test",
+      "title": "West Indies vs Bangladesh LIVE 2nd Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Bangladesh 2nd Test",
+        "name": "Bangladesh LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "West Indies vs Bangladesh 2nd Test",
+      "score": "West Indies vs Bangladesh LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -251,16 +251,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A LIVE 3rd Unofficial Test",
+      "title": "Eastern Storm vs Warriors Super Eights",
+      "team1": {
+        "name": "Eastern Storm",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warriors Super Eights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Eastern Storm vs Warriors Super Eights",
+      "status": "Match Details"
+    },
+    {
+      "title": "India A vs New Zealand A 3rd Unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand A LIVE 3rd Unofficial Test",
+        "name": "New Zealand A 3rd Unofficial Test",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "India A vs New Zealand A LIVE 3rd Unofficial Test",
+      "score": "India A vs New Zealand A 3rd Unofficial Test",
       "status": "Match Details"
     },
     {
@@ -303,55 +316,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan U19 vs Malaysia U19 5th Match, Group B",
+      "title": "Malaysia U19 vs Afghanistan U19 5th Match, Group B",
       "team1": {
-        "name": "Afghanistan U19",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Malaysia U19 5th Match, Group B",
+        "name": "Malaysia U19",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Afghanistan U19 vs Malaysia U19 5th Match, Group B",
+      "team2": {
+        "name": "Afghanistan U19 5th Match, Group B",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Malaysia U19 vs Afghanistan U19 5th Match, Group B",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka U19 vs Bangladesh U19 6th Match, Group B",
+      "title": "Bangladesh U19 vs Sri Lanka U19 6th Match, Group B",
       "team1": {
-        "name": "Sri Lanka U19",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Bangladesh U19 6th Match, Group B",
+        "name": "Bangladesh U19",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Sri Lanka U19 vs Bangladesh U19 6th Match, Group B",
+      "team2": {
+        "name": "Sri Lanka U19 6th Match, Group B",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Bangladesh U19 vs Sri Lanka U19 6th Match, Group B",
       "status": "Match Details"
     },
     {
-      "title": "Ireland A vs Zimbabwe A 1st unofficial Test",
+      "title": "United Arab Emirates U19 vs Nepal U19 7th Match, Group A",
+      "team1": {
+        "name": "United Arab Emirates U19",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Nepal U19 7th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "United Arab Emirates U19 vs Nepal U19 7th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "India U19 vs Pakistan U19 8th Match, Group A",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "Pakistan U19 8th Match, Group A",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "India U19 vs Pakistan U19 8th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Ireland A vs Zimbabwe A LIVE 1st unofficial Test",
       "team1": {
         "name": "Ireland A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Zimbabwe A 1st unofficial Test",
+        "name": "Zimbabwe A LIVE 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Ireland A vs Zimbabwe A 1st unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Northern Districts vs Otago 10th Match",
-      "team1": {
-        "name": "Northern Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Otago 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Northern Districts vs Otago 10th Match",
+      "score": "Ireland A vs Zimbabwe A LIVE 1st unofficial Test",
       "status": "Match Details"
     },
     {
@@ -381,6 +407,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Northern Districts vs Otago 10th Match",
+      "team1": {
+        "name": "Northern Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Otago 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Districts vs Otago 10th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sydney Sixers Women vs Melbourne Stars Women 12th Match",
       "team1": {
         "name": "Sydney Sixers Women",
@@ -407,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Brisbane Heat Women vs Hobart Hurricanes Women 14th Match",
+      "title": "Hobart Hurricanes Women vs Brisbane Heat Women LIVE 14th Match",
       "team1": {
-        "name": "Brisbane Heat Women",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "Hobart Hurricanes Women 14th Match",
+        "name": "Hobart Hurricanes Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Brisbane Heat Women vs Hobart Hurricanes Women 14th Match",
+      "team2": {
+        "name": "Brisbane Heat Women LIVE 14th Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Hobart Hurricanes Women vs Brisbane Heat Women LIVE 14th Match",
       "status": "Match Details"
     },
     {
@@ -430,6 +469,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Sydney Sixers Women vs Sydney Thunder Women 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Perth Scorchers Women vs Melbourne Stars Women 16th Match",
+      "team1": {
+        "name": "Perth Scorchers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Melbourne Stars Women 16th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Perth Scorchers Women vs Melbourne Stars Women 16th Match",
       "status": "Match Details"
     },
     {
@@ -485,16 +537,55 @@
       "status": "Match Details"
     },
     {
-      "title": "3-Day Warm-up Match • Islamabad, Islamabad Club Cricket Oval Sri Lanka SL 223-7 d & 181 Pakistan Cricket Board Patrons XI PCBPXI 151-8 d & 111 Sri Lanka won by 142 runs",
+      "title": "Namibia Women vs Rwanda Women 5th Match",
       "team1": {
-        "name": "3",
+        "name": "Namibia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Day Warm",
+        "name": "Rwanda Women 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3-Day Warm-up Match • Islamabad, Islamabad Club Cricket Oval Sri Lanka SL 223-7 d & 181 Pakistan Cricket Board Patrons XI PCBPXI 151-8 d & 111 Sri Lanka won by 142 runs",
+      "score": "Namibia Women vs Rwanda Women 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Super Eights • Benoni, Willowmoore Park Eastern Storm ESTORM 162-2 (20) Dolphins DOL 118-5 (16.1) Easterns won by 8 runs (DLS method)",
+      "team1": {
+        "name": "Super Eights • Benoni, Willowmoore Park Eastern Storm ESTORM 162",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "2 (20) Dolphins DOL 118",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Super Eights • Benoni, Willowmoore Park Eastern Storm ESTORM 162-2 (20) Dolphins DOL 118-5 (16.1) Easterns won by 8 runs (DLS method)",
+      "status": "Match Details"
+    },
+    {
+      "title": "5th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Malaysia U19 MLYU19 42 (22.3) Afghanistan U19 AFGU19 47-0 (3) Afghanistan U19 won by 10 wkts",
+      "team1": {
+        "name": "5th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Malaysia U19 MLYU19 42 (22.3) Afghanistan U19 AFGU19 47",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "0 (3) Afghanistan U19 won by 10 wkts",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "5th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Malaysia U19 MLYU19 42 (22.3) Afghanistan U19 AFGU19 47-0 (3) Afghanistan U19 won by 10 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "13th Match • Melbourne, Junction Oval Melbourne Renegades Women MLRW 188-3 (20) Adelaide Strikers Women ADSW 152-8 (20) Melbourne Renegades Women won by 36 runs",
+      "team1": {
+        "name": "13th Match • Melbourne, Junction Oval Melbourne Renegades Women MLRW 188",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "3 (20) Adelaide Strikers Women ADSW 152",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "13th Match • Melbourne, Junction Oval Melbourne Renegades Women MLRW 188-3 (20) Adelaide Strikers Women ADSW 152-8 (20) Melbourne Renegades Women won by 36 runs",
       "status": "Match Details"
     }
   ]
