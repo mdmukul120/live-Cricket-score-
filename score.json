@@ -1,23 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-11-08 02:24:06 UTC",
-  "total_matches": 38,
+  "last_updated": "2026-11-08 09:21:02 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "INDA vs NZA - NZA opt to bowl",
+      "title": "INDU19 vs PAKU19 - Need 209 to win",
       "team1": {
-        "name": "INDA",
+        "name": "INDU19",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "PAKU19",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "INDA vs NZA - NZA opt to bowl",
+      "score": "INDU19 vs PAKU19 - Need 209 to win",
       "status": "Match Details"
     },
     {
-      "title": "WI vs BAN - Stumps",
+      "title": "WI vs BAN - Lead by 257",
       "team1": {
         "name": "WI",
         "flag": "https://flagcdn.com/w80/jm.png"
@@ -26,11 +26,11 @@
         "name": "BAN",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "WI vs BAN - Stumps",
+      "score": "WI vs BAN - Lead by 257",
       "status": "Match Details"
     },
     {
-      "title": "ZIM vs AFG - Stumps",
+      "title": "ZIM vs AFG - Trail by 16",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -39,7 +39,20 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "ZIM vs AFG - Stumps",
+      "score": "ZIM vs AFG - Trail by 16",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs NZA - Stumps",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - Stumps",
       "status": "Match Details"
     },
     {
@@ -56,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "SYSW vs SYTW - SYTW opt to bowl",
-      "team1": {
-        "name": "SYSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SYTW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SYSW vs SYTW - SYTW opt to bowl",
-      "status": "Match Details"
-    },
-    {
       "title": "New Zealand vs India 2nd ODI",
       "team1": {
         "name": "New Zealand",
@@ -79,6 +79,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "New Zealand vs India 2nd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan vs Sri Lanka 1st Test",
+      "team1": {
+        "name": "Pakistan",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Sri Lanka 1st Test",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Pakistan vs Sri Lanka 1st Test",
       "status": "Match Details"
     },
     {
@@ -95,29 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Afghanistan 1st Test",
+      "title": "Zimbabwe vs Afghanistan LIVE 1st Test",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Afghanistan 1st Test",
+        "name": "Afghanistan LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Zimbabwe vs Afghanistan 1st Test",
+      "score": "Zimbabwe vs Afghanistan LIVE 1st Test",
       "status": "Match Details"
     },
     {
-      "title": "West Indies vs Bangladesh 2nd Test",
+      "title": "West Indies vs Bangladesh LIVE 2nd Test",
       "team1": {
         "name": "West Indies",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Bangladesh 2nd Test",
+        "name": "Bangladesh LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "West Indies vs Bangladesh 2nd Test",
+      "score": "West Indies vs Bangladesh LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -212,6 +225,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Karnali Yaks vs Pokhara Avengers 19th Match",
+      "team1": {
+        "name": "Karnali Yaks",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Pokhara Avengers 19th Match",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Karnali Yaks vs Pokhara Avengers 19th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "South Western Districts vs Boland Super Eights",
       "team1": {
         "name": "South Western Districts",
@@ -264,29 +290,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A LIVE 3rd Unofficial Test",
+      "title": "India A vs New Zealand A 3rd Unofficial Test",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "New Zealand A LIVE 3rd Unofficial Test",
+        "name": "New Zealand A 3rd Unofficial Test",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "India A vs New Zealand A LIVE 3rd Unofficial Test",
+      "score": "India A vs New Zealand A 3rd Unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "West Indies A vs England Lions 1st Unofficial ODI",
+      "title": "West Indies A vs England Lions LIVE 1st Unofficial ODI",
       "team1": {
         "name": "West Indies A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "England Lions 1st Unofficial ODI",
+        "name": "England Lions LIVE 1st Unofficial ODI",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "West Indies A vs England Lions 1st Unofficial ODI",
+      "score": "West Indies A vs England Lions LIVE 1st Unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -316,94 +342,107 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates U19 vs Nepal U19 7th Match, Group A",
+      "title": "Nepal U19 vs United Arab Emirates U19 LIVE 7th Match, Group A",
       "team1": {
-        "name": "United Arab Emirates U19",
+        "name": "Nepal U19",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nepal U19 7th Match, Group A",
+        "name": "United Arab Emirates U19 LIVE 7th Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United Arab Emirates U19 vs Nepal U19 7th Match, Group A",
+      "score": "Nepal U19 vs United Arab Emirates U19 LIVE 7th Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "India U19 vs Pakistan U19 8th Match, Group A",
+      "title": "India U19 vs Pakistan U19 LIVE 8th Match, Group A",
       "team1": {
         "name": "India U19",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Pakistan U19 8th Match, Group A",
+        "name": "Pakistan U19 LIVE 8th Match, Group A",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "India U19 vs Pakistan U19 8th Match, Group A",
+      "score": "India U19 vs Pakistan U19 LIVE 8th Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Ireland A vs Zimbabwe A 1st unofficial Test",
+      "title": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
+      "team1": {
+        "name": "Bangladesh U19",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "Malaysia U19 9th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
+      "team1": {
+        "name": "Sri Lanka U19",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Afghanistan U19 10th Match, Group B",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Ireland A vs Zimbabwe A LIVE 1st unofficial Test",
       "team1": {
         "name": "Ireland A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
       "team2": {
-        "name": "Zimbabwe A 1st unofficial Test",
+        "name": "Zimbabwe A LIVE 1st unofficial Test",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
-      "score": "Ireland A vs Zimbabwe A 1st unofficial Test",
+      "score": "Ireland A vs Zimbabwe A LIVE 1st unofficial Test",
       "status": "Match Details"
     },
     {
-      "title": "Wellington vs Auckland LIVE 11th Match",
-      "team1": {
-        "name": "Wellington",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Auckland LIVE 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Wellington vs Auckland LIVE 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Central Stags vs Canterbury LIVE 12th Match",
-      "team1": {
-        "name": "Central Stags",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canterbury LIVE 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Central Stags vs Canterbury LIVE 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Otago vs Northern Districts LIVE 10th Match",
+      "title": "Otago vs Northern Districts 10th Match",
       "team1": {
         "name": "Otago",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Districts LIVE 10th Match",
+        "name": "Northern Districts 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Otago vs Northern Districts LIVE 10th Match",
+      "score": "Otago vs Northern Districts 10th Match",
       "status": "Match Details"
     },
     {
-      "title": "Melbourne Renegades Women vs Adelaide Strikers Women 13th Match",
+      "title": "Wellington vs Auckland 11th Match",
       "team1": {
-        "name": "Melbourne Renegades Women",
+        "name": "Wellington",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Adelaide Strikers Women 13th Match",
+        "name": "Auckland 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Melbourne Renegades Women vs Adelaide Strikers Women 13th Match",
+      "score": "Wellington vs Auckland 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Stags vs Canterbury 12th Match",
+      "team1": {
+        "name": "Central Stags",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canterbury 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Stags vs Canterbury 12th Match",
       "status": "Match Details"
     },
     {
@@ -433,16 +472,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Perth Scorchers Women vs Melbourne Stars Women 16th Match",
+      "title": "Melbourne Stars Women vs Perth Scorchers Women LIVE 16th Match",
       "team1": {
-        "name": "Perth Scorchers Women",
+        "name": "Melbourne Stars Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Melbourne Stars Women 16th Match",
+        "name": "Perth Scorchers Women LIVE 16th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Perth Scorchers Women vs Melbourne Stars Women 16th Match",
+      "score": "Melbourne Stars Women vs Perth Scorchers Women LIVE 16th Match",
       "status": "Match Details"
     },
     {
@@ -495,6 +534,84 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uganda Women vs United States of America Women 6th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Super Eights • Cape Town, Newlands Western Province WPR 178-9 (20) Lions LIONS 169-6 (20) Western Province won by 9 runs",
+      "team1": {
+        "name": "Super Eights • Cape Town, Newlands Western Province WPR 178",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Lions LIONS 169",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Super Eights • Cape Town, Newlands Western Province WPR 178-9 (20) Lions LIONS 169-6 (20) Western Province won by 9 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "Super Eights • Paarl, Boland Park South Western Districts SWD 169-5 (20) Boland BOL 150-7 (20) South Western Districts won by 19 runs",
+      "team1": {
+        "name": "Super Eights • Paarl, Boland Park South Western Districts SWD 169",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Boland BOL 150",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Super Eights • Paarl, Boland Park South Western Districts SWD 169-5 (20) Boland BOL 150-7 (20) South Western Districts won by 19 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Wellington, Basin Reserve Wellington WEL 205 (44.3) Auckland AKL 177 (43.4) Wellington won by 28 runs",
+      "team1": {
+        "name": "11th Match • Wellington, Basin Reserve Wellington WEL 205 (44.3) Auckland AKL 177 (43.4) Wellington won by 28 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Wellington, Basin Reserve Wellington WEL 205 (44.3) Auckland AKL 177 (43.4) Wellington won by 28 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match • Napier, McLean Park Central Stags CEN 129 (41.2) Canterbury CNTBRY 130-8 (33.2) Canterbury won by 2 wkts",
+      "team1": {
+        "name": "12th Match • Napier, McLean Park Central Stags CEN 129 (41.2) Canterbury CNTBRY 130",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "8 (33.2) Canterbury won by 2 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "12th Match • Napier, McLean Park Central Stags CEN 129 (41.2) Canterbury CNTBRY 130-8 (33.2) Canterbury won by 2 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Whangarei, Cobham Oval Otago OTG 258-9 (50) Northern Districts ND 259-7 (50) Northern Districts won by 3 wkts",
+      "team1": {
+        "name": "10th Match • Whangarei, Cobham Oval Otago OTG 258",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (50) Northern Districts ND 259",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "10th Match • Whangarei, Cobham Oval Otago OTG 258-9 (50) Northern Districts ND 259-7 (50) Northern Districts won by 3 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "15th Match • Sydney, North Sydney Oval Sydney Sixers Women SYSW 162-2 (16) Sydney Thunder Women SYTW 158 (15.3) Sydney Sixers Women won by 9 runs (16 Overs game due to rain, DLS target 168)",
+      "team1": {
+        "name": "15th Match • Sydney, North Sydney Oval Sydney Sixers Women SYSW 162",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "2 (16) Sydney Thunder Women SYTW 158 (15.3) Sydney Sixers Women won by 9 runs (16 Overs game due to rain, DLS target 168)",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "15th Match • Sydney, North Sydney Oval Sydney Sixers Women SYSW 162-2 (16) Sydney Thunder Women SYTW 158 (15.3) Sydney Sixers Women won by 9 runs (16 Overs game due to rain, DLS target 168)",
       "status": "Match Details"
     }
   ]
