@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-08 20:28:31 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-11-08 23:57:39 UTC",
+  "total_matches": 33,
   "matches": [
     {
-      "title": "INDA vs NZA - Stumps",
+      "title": "INDA vs NZA - Lunch",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -13,7 +13,7 @@
         "name": "NZA",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "INDA vs NZA - Stumps",
+      "score": "INDA vs NZA - Lunch",
       "status": "Match Details"
     },
     {
@@ -264,19 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Nepal U19 vs United Arab Emirates U19 7th Match, Group A",
-      "team1": {
-        "name": "Nepal U19",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Arab Emirates U19 7th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Nepal U19 vs United Arab Emirates U19 7th Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "India U19 vs Pakistan U19 8th Match, Group A",
       "team1": {
         "name": "India U19",
@@ -290,16 +277,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
+      "title": "Nepal U19 vs United Arab Emirates U19 7th Match, Group A",
       "team1": {
-        "name": "Sri Lanka U19",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "Nepal U19",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Afghanistan U19 10th Match, Group B",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "United Arab Emirates U19 7th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
+      "score": "Nepal U19 vs United Arab Emirates U19 7th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -313,6 +300,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
+      "team1": {
+        "name": "Sri Lanka U19",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Afghanistan U19 10th Match, Group B",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -420,32 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Abu Dhabi, Sheikh Zayed Stadium Royal Desert Champions RDC 112-6 (10) Arabian Aces ARA 114-1 (9) Arabian Aces won by 9 wkts",
-      "team1": {
-        "name": "6th Match • Abu Dhabi, Sheikh Zayed Stadium Royal Desert Champions RDC 112",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (10) Arabian Aces ARA 114",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Abu Dhabi, Sheikh Zayed Stadium Royal Desert Champions RDC 112-6 (10) Arabian Aces ARA 114-1 (9) Arabian Aces won by 9 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "5th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 126-6 (10) UAE Bulls UBL 101-4 (10) United Tigers won by 25 runs",
-      "team1": {
-        "name": "5th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 126",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (10) UAE Bulls UBL 101",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "5th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 126-6 (10) UAE Bulls UBL 101-4 (10) United Tigers won by 25 runs",
-      "status": "Match Details"
-    },
-    {
       "title": "1st unofficial Test • Harare, Harare Sports Club Ireland A IREA 424 & 306-6 d Zimbabwe A ZIMA 261 & 257 Ireland A won by 216 runs",
       "team1": {
         "name": "1st unofficial Test • Harare, Harare Sports Club Ireland A IREA 424 & 306",
@@ -456,19 +430,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "1st unofficial Test • Harare, Harare Sports Club Ireland A IREA 424 & 306-6 d Zimbabwe A ZIMA 261 & 257 Ireland A won by 216 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match • Entebbe, Entebbe Cricket Oval United States of America Women USAW 93-7 (20) Uganda Women UGAW 94-3 (15.2) Uganda Women won by 7 wkts",
-      "team1": {
-        "name": "6th Match • Entebbe, Entebbe Cricket Oval United States of America Women USAW 93",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "7 (20) Uganda Women UGAW 94",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "6th Match • Entebbe, Entebbe Cricket Oval United States of America Women USAW 93-7 (20) Uganda Women UGAW 94-3 (15.2) Uganda Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
