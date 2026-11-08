@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-07 23:05:17 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-11-08 02:24:06 UTC",
+  "total_matches": 38,
   "matches": [
     {
       "title": "INDA vs NZA - NZA opt to bowl",
@@ -17,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "NZ vs IND - IND won",
+      "title": "WI vs BAN - Stumps",
       "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "NZ vs IND - IND won",
+      "score": "WI vs BAN - Stumps",
       "status": "Match Details"
     },
     {
@@ -43,29 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "UT vs ARA - UT won",
+      "title": "NZ vs IND - IND won",
       "team1": {
-        "name": "UT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "ARA",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "UT vs ARA - UT won",
+      "score": "NZ vs IND - IND won",
       "status": "Match Details"
     },
     {
-      "title": "EE vs RDC - EE won",
+      "title": "SYSW vs SYTW - SYTW opt to bowl",
       "team1": {
-        "name": "EE",
+        "name": "SYSW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "RDC",
+        "name": "SYTW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EE vs RDC - EE won",
+      "score": "SYSW vs SYTW - SYTW opt to bowl",
       "status": "Match Details"
     },
     {
@@ -355,19 +355,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Otago vs Northern Districts LIVE 10th Match",
-      "team1": {
-        "name": "Otago",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northern Districts LIVE 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Otago vs Northern Districts LIVE 10th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Wellington vs Auckland LIVE 11th Match",
       "team1": {
         "name": "Wellington",
@@ -391,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Central Stags vs Canterbury LIVE 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Otago vs Northern Districts LIVE 10th Match",
+      "team1": {
+        "name": "Otago",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Districts LIVE 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Otago vs Northern Districts LIVE 10th Match",
       "status": "Match Details"
     },
     {
@@ -495,19 +495,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uganda Women vs United States of America Women 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 140-6 (10) Arabian Aces ARA 89-9 (10) United Tigers won by 51 runs",
-      "team1": {
-        "name": "3rd Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 140",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (10) Arabian Aces ARA 89",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "3rd Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 140-6 (10) Arabian Aces ARA 89-9 (10) United Tigers won by 51 runs",
       "status": "Match Details"
     }
   ]
