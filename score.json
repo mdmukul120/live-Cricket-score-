@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-11-08 16:08:00 UTC",
-  "total_matches": 41,
+  "last_updated": "2026-11-08 20:28:31 UTC",
+  "total_matches": 36,
   "matches": [
-    {
-      "title": "RDC vs ARA - ARA opt to bowl",
-      "team1": {
-        "name": "RDC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ARA",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "RDC vs ARA - ARA opt to bowl",
-      "status": "Match Details"
-    },
     {
       "title": "INDA vs NZA - Stumps",
       "team1": {
@@ -30,16 +17,16 @@
       "status": "Match Details"
     },
     {
-      "title": "INDU19 vs PAKU19 - PAKU19 won",
+      "title": "RDC vs ARA - ARA won",
       "team1": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "RDC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "PAKU19",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "ARA",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "INDU19 vs PAKU19 - PAKU19 won",
+      "score": "RDC vs ARA - ARA won",
       "status": "Match Details"
     },
     {
@@ -56,16 +43,29 @@
       "status": "Match Details"
     },
     {
-      "title": "ZIM vs AFG - Stumps",
+      "title": "PAK vs SL - Preview",
       "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "ZIM vs AFG - Stumps",
+      "score": "PAK vs SL - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDU19 vs PAKU19 - PAKU19 won",
+      "team1": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "PAKU19",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "INDU19 vs PAKU19 - PAKU19 won",
       "status": "Match Details"
     },
     {
@@ -108,32 +108,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Emirates Eagles vs Royal Desert Champions 2nd Match",
-      "team1": {
-        "name": "Emirates Eagles",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Royal Desert Champions 2nd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Emirates Eagles vs Royal Desert Champions 2nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Tigers vs Arabian Aces 3rd Match",
-      "team1": {
-        "name": "United Tigers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Arabian Aces 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Tigers vs Arabian Aces 3rd Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Emirates Eagles vs Yas Lions 4th Match",
       "team1": {
         "name": "Emirates Eagles",
@@ -160,16 +134,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Royal Desert Champions vs Arabian Aces LIVE 6th Match",
+      "title": "Royal Desert Champions vs Arabian Aces 6th Match",
       "team1": {
         "name": "Royal Desert Champions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Arabian Aces LIVE 6th Match",
+        "name": "Arabian Aces 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Royal Desert Champions vs Arabian Aces LIVE 6th Match",
+      "score": "Royal Desert Champions vs Arabian Aces 6th Match",
       "status": "Match Details"
     },
     {
@@ -225,19 +199,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs Lions Super Eights",
-      "team1": {
-        "name": "Western Province",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lions Super Eights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Western Province vs Lions Super Eights",
-      "status": "Match Details"
-    },
-    {
       "title": "Warriors vs Eastern Storm Super Eights",
       "team1": {
         "name": "Warriors",
@@ -251,16 +212,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Titans vs Dolphins Super Eights",
+      "title": "Dolphins vs Titans Super Eights",
       "team1": {
-        "name": "Titans",
+        "name": "Dolphins",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Dolphins Super Eights",
+        "name": "Titans Super Eights",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Titans vs Dolphins Super Eights",
+      "score": "Dolphins vs Titans Super Eights",
       "status": "Match Details"
     },
     {
@@ -290,6 +251,19 @@
       "status": "Match Details"
     },
     {
+      "title": "West Indies A vs England Lions 2nd Unofficial ODI",
+      "team1": {
+        "name": "West Indies A",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "England Lions 2nd Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "West Indies A vs England Lions 2nd Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
       "title": "Nepal U19 vs United Arab Emirates U19 7th Match, Group A",
       "team1": {
         "name": "Nepal U19",
@@ -316,19 +290,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
-      "team1": {
-        "name": "Bangladesh U19",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "Malaysia U19 9th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
       "team1": {
         "name": "Sri Lanka U19",
@@ -339,6 +300,19 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
+      "team1": {
+        "name": "Bangladesh U19",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "team2": {
+        "name": "Malaysia U19 9th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -446,6 +420,19 @@
       "status": "Match Details"
     },
     {
+      "title": "6th Match • Abu Dhabi, Sheikh Zayed Stadium Royal Desert Champions RDC 112-6 (10) Arabian Aces ARA 114-1 (9) Arabian Aces won by 9 wkts",
+      "team1": {
+        "name": "6th Match • Abu Dhabi, Sheikh Zayed Stadium Royal Desert Champions RDC 112",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (10) Arabian Aces ARA 114",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Abu Dhabi, Sheikh Zayed Stadium Royal Desert Champions RDC 112-6 (10) Arabian Aces ARA 114-1 (9) Arabian Aces won by 9 wkts",
+      "status": "Match Details"
+    },
+    {
       "title": "5th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 126-6 (10) UAE Bulls UBL 101-4 (10) United Tigers won by 25 runs",
       "team1": {
         "name": "5th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 126",
@@ -456,58 +443,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "5th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 126-6 (10) UAE Bulls UBL 101-4 (10) United Tigers won by 25 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "4th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 115-4 (10) Yas Lions YL 117-4 (8.4) Yas Lions won by 6 wkts",
-      "team1": {
-        "name": "4th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 115",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (10) Yas Lions YL 117",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "4th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 115-4 (10) Yas Lions YL 117-4 (8.4) Yas Lions won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Unofficial ODI • Basseterre, St Kitts, Warner Park West Indies A WIA 212-8 (40) England Lions ENGA 240-6 (33.5) England Lions won by 4 wkts (DLS Method due to rain)",
-      "team1": {
-        "name": "1st Unofficial ODI • Basseterre, St Kitts, Warner Park West Indies A WIA 212",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (40) England Lions ENGA 240",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "1st Unofficial ODI • Basseterre, St Kitts, Warner Park West Indies A WIA 212-8 (40) England Lions ENGA 240-6 (33.5) England Lions won by 4 wkts (DLS Method due to rain)",
-      "status": "Match Details"
-    },
-    {
-      "title": "8th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 208 (46.3) Pakistan U19 PAKU19 209-7 (48.1) Pakistan U19 won by 3 wkts",
-      "team1": {
-        "name": "8th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 208 (46.3) Pakistan U19 PAKU19 209",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (48.1) Pakistan U19 won by 3 wkts",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "8th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 208 (46.3) Pakistan U19 PAKU19 209-7 (48.1) Pakistan U19 won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal U19 NPLU19 152 (41) United Arab Emirates U19 UAEU19 158-3 (34.4) United Arab Emirates U19 won by 7 wkts",
-      "team1": {
-        "name": "7th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal U19 NPLU19 152 (41) United Arab Emirates U19 UAEU19 158",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (34.4) United Arab Emirates U19 won by 7 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Nepal U19 NPLU19 152 (41) United Arab Emirates U19 UAEU19 158-3 (34.4) United Arab Emirates U19 won by 7 wkts",
       "status": "Match Details"
     },
     {
@@ -524,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "5th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 98-8 (20) Rwanda Women RWAW 59 (17.5) Namibia Women won by 39 runs",
+      "title": "6th Match • Entebbe, Entebbe Cricket Oval United States of America Women USAW 93-7 (20) Uganda Women UGAW 94-3 (15.2) Uganda Women won by 7 wkts",
       "team1": {
-        "name": "5th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 98",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "6th Match • Entebbe, Entebbe Cricket Oval United States of America Women USAW 93",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "8 (20) Rwanda Women RWAW 59 (17.5) Namibia Women won by 39 runs",
+        "name": "7 (20) Uganda Women UGAW 94",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "5th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 98-8 (20) Rwanda Women RWAW 59 (17.5) Namibia Women won by 39 runs",
+      "score": "6th Match • Entebbe, Entebbe Cricket Oval United States of America Women USAW 93-7 (20) Uganda Women UGAW 94-3 (15.2) Uganda Women won by 7 wkts",
       "status": "Match Details"
     }
   ]
