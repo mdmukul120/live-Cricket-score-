@@ -1,49 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-08 23:57:39 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-11-09 05:59:57 UTC",
+  "total_matches": 32,
   "matches": [
     {
-      "title": "INDA vs NZA - Lunch",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - Lunch",
-      "status": "Match Details"
-    },
-    {
-      "title": "RDC vs ARA - ARA won",
-      "team1": {
-        "name": "RDC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ARA",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "RDC vs ARA - ARA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "WI vs BAN - Stumps",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "WI vs BAN - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs SL - Preview",
+      "title": "PAK vs SL - SL opt to bowl",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -52,33 +13,85 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAK vs SL - Preview",
+      "score": "PAK vs SL - SL opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "INDU19 vs PAKU19 - PAKU19 won",
+      "title": "WI vs BAN - Lunch",
       "team1": {
-        "name": "INDU19",
+        "name": "WI",
+        "flag": "https://flagcdn.com/w80/jm.png"
+      },
+      "team2": {
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "WI vs BAN - Lunch",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs AFG - Stumps",
+      "team1": {
+        "name": "ZIM",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "AFG",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "score": "ZIM vs AFG - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs NZA - Stumps",
+      "team1": {
+        "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "PAKU19",
-        "flag": "https://flagcdn.com/w80/pk.png"
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "INDU19 vs PAKU19 - PAKU19 won",
+      "score": "INDA vs NZA - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs Sri Lanka 1st Test",
+      "title": "NZ vs IND - Preview",
+      "team1": {
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "NZ vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Zealand vs India 3rd ODI",
+      "team1": {
+        "name": "New Zealand",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "India 3rd ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "New Zealand vs India 3rd ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan vs Sri Lanka LIVE 1st Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka 1st Test",
+        "name": "Sri Lanka LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan vs Sri Lanka 1st Test",
+      "score": "Pakistan vs Sri Lanka LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -238,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies A vs England Lions 1st Unofficial ODI",
-      "team1": {
-        "name": "West Indies A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "England Lions 1st Unofficial ODI",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "West Indies A vs England Lions 1st Unofficial ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "West Indies A vs England Lions 2nd Unofficial ODI",
       "team1": {
         "name": "West Indies A",
@@ -290,29 +290,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
+      "title": "Bangladesh U19 vs Malaysia U19 LIVE 9th Match, Group B",
       "team1": {
         "name": "Bangladesh U19",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "Malaysia U19 9th Match, Group B",
+        "name": "Malaysia U19 LIVE 9th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
+      "score": "Bangladesh U19 vs Malaysia U19 LIVE 9th Match, Group B",
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
+      "title": "Afghanistan U19 vs Sri Lanka U19 LIVE 10th Match, Group B",
       "team1": {
-        "name": "Sri Lanka U19",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Afghanistan U19 10th Match, Group B",
+        "name": "Afghanistan U19",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Sri Lanka U19 vs Afghanistan U19 10th Match, Group B",
+      "team2": {
+        "name": "Sri Lanka U19 LIVE 10th Match, Group B",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Afghanistan U19 vs Sri Lanka U19 LIVE 10th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "India U19 vs United Arab Emirates U19 11th Match, Group A",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "United Arab Emirates U19 11th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "India U19 vs United Arab Emirates U19 11th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan U19 vs Nepal U19 12th Match, Group A",
+      "team1": {
+        "name": "Pakistan U19",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Nepal U19 12th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pakistan U19 vs Nepal U19 12th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -326,45 +352,6 @@
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "score": "Ireland A vs Zimbabwe A 1st unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Otago vs Northern Districts 10th Match",
-      "team1": {
-        "name": "Otago",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Northern Districts 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Otago vs Northern Districts 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Wellington vs Auckland 11th Match",
-      "team1": {
-        "name": "Wellington",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Auckland 11th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Wellington vs Auckland 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Central Stags vs Canterbury 12th Match",
-      "team1": {
-        "name": "Central Stags",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Canterbury 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Central Stags vs Canterbury 12th Match",
       "status": "Match Details"
     },
     {
@@ -420,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "1st unofficial Test • Harare, Harare Sports Club Ireland A IREA 424 & 306-6 d Zimbabwe A ZIMA 261 & 257 Ireland A won by 216 runs",
+      "title": "Super Eights • Benoni, Willowmoore Park Warriors WAR 206-4 (20) Eastern Storm ESTORM 186-7 (20) Warriors won by 20 runs",
       "team1": {
-        "name": "1st unofficial Test • Harare, Harare Sports Club Ireland A IREA 424 & 306",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Super Eights • Benoni, Willowmoore Park Warriors WAR 206",
+        "flag": "https://flagcdn.com/w80/jm.png"
       },
       "team2": {
-        "name": "6 d Zimbabwe A ZIMA 261 & 257 Ireland A won by 216 runs",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "4 (20) Eastern Storm ESTORM 186",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st unofficial Test • Harare, Harare Sports Club Ireland A IREA 424 & 306-6 d Zimbabwe A ZIMA 261 & 257 Ireland A won by 216 runs",
+      "score": "Super Eights • Benoni, Willowmoore Park Warriors WAR 206-4 (20) Eastern Storm ESTORM 186-7 (20) Warriors won by 20 runs",
       "status": "Match Details"
     }
   ]
