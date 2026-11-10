@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-10 15:43:12 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-11-10 21:26:51 UTC",
+  "total_matches": 31,
   "matches": [
     {
       "title": "PAK vs SL - Stumps",
@@ -27,6 +27,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "INDU19 vs UAEU19 - INDU19 won",
+      "status": "Match Details"
+    },
+    {
+      "title": "EE vs UBL - EE won",
+      "team1": {
+        "name": "EE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UBL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "EE vs UBL - EE won",
       "status": "Match Details"
     },
     {
@@ -56,19 +69,6 @@
       "status": "Match Details"
     },
     {
-      "title": "HBHW vs ADSW - ADSW won",
-      "team1": {
-        "name": "HBHW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ADSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "HBHW vs ADSW - ADSW won",
-      "status": "Match Details"
-    },
-    {
       "title": "New Zealand vs India 3rd ODI",
       "team1": {
         "name": "New Zealand",
@@ -92,32 +92,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Pakistan vs Sri Lanka 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Emirates Eagles vs Arabian Aces 7th Match",
-      "team1": {
-        "name": "Emirates Eagles",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Arabian Aces 7th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Emirates Eagles vs Arabian Aces 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Royal Desert Champions vs United Tigers 8th Match",
-      "team1": {
-        "name": "Royal Desert Champions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Tigers 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Royal Desert Champions vs United Tigers 8th Match",
       "status": "Match Details"
     },
     {
@@ -160,6 +134,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Arabian Aces vs Yas Lions 12th Match",
+      "team1": {
+        "name": "Arabian Aces",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yas Lions 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Arabian Aces vs Yas Lions 12th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sudur Paschim Royals vs Janakpur Bolts 21st Match",
       "team1": {
         "name": "Sudur Paschim Royals",
@@ -173,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Western Province vs South Western Districts Super Eights",
+      "title": "South Western Districts vs Western Province Super Eights",
       "team1": {
-        "name": "Western Province",
+        "name": "South Western Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Western Districts Super Eights",
+        "name": "Western Province Super Eights",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Province vs South Western Districts Super Eights",
+      "score": "South Western Districts vs Western Province Super Eights",
       "status": "Match Details"
     },
     {
@@ -196,6 +183,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Boland vs Lions Super Eights",
+      "status": "Match Details"
+    },
+    {
+      "title": "Titans vs Warriors Super Eights",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warriors Super Eights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Titans vs Warriors Super Eights",
       "status": "Match Details"
     },
     {
@@ -381,94 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "9th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 115-5 (10) United Tigers UT 102-5 (10) Yas Lions won by 13 runs",
+      "title": "10th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 137-7 (10) UAE Bulls UBL 112-7 (10) Emirates Eagles won by 25 runs",
       "team1": {
-        "name": "9th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 115",
+        "name": "10th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 137",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (10) United Tigers UT 102",
+        "name": "7 (10) UAE Bulls UBL 112",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "9th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 115-5 (10) United Tigers UT 102-5 (10) Yas Lions won by 13 runs",
+      "score": "10th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 137-7 (10) UAE Bulls UBL 112-7 (10) Emirates Eagles won by 25 runs",
       "status": "Match Details"
     },
     {
-      "title": "21st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 120-9 (20) Janakpur Bolts JAB 93 (19.5) Sudur Paschim Royals won by 27 runs",
+      "title": "Super Eights • Cape Town, Newlands South Western Districts SWD 99 (19.3) Western Province WPR 105-5 (14.3) Western Province won by 5 wkts",
       "team1": {
-        "name": "21st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 120",
+        "name": "Super Eights • Cape Town, Newlands South Western Districts SWD 99 (19.3) Western Province WPR 105",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "9 (20) Janakpur Bolts JAB 93 (19.5) Sudur Paschim Royals won by 27 runs",
+        "name": "5 (14.3) Western Province won by 5 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "21st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 120-9 (20) Janakpur Bolts JAB 93 (19.5) Sudur Paschim Royals won by 27 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "11th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 309-7 (50) United Arab Emirates U19 UAEU19 239 (50) India U19 won by 70 runs",
-      "team1": {
-        "name": "11th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 309",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (50) United Arab Emirates U19 UAEU19 239 (50) India U19 won by 70 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "11th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 309-7 (50) United Arab Emirates U19 UAEU19 239 (50) India U19 won by 70 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "12th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Pakistan U19 PAKU19 275-7 (50) Nepal U19 NPLU19 174 (43.4) Pakistan U19 won by 101 runs",
-      "team1": {
-        "name": "12th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Pakistan U19 PAKU19 275",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "7 (50) Nepal U19 NPLU19 174 (43.4) Pakistan U19 won by 101 runs",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "score": "12th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Pakistan U19 PAKU19 275-7 (50) Nepal U19 NPLU19 174 (43.4) Pakistan U19 won by 101 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "17th Match • Hobart, Bellerive Oval Hobart Hurricanes Women HBHW 138-5 (20) Adelaide Strikers Women ADSW 139-6 (20) Adelaide Strikers Women won by 4 wkts",
-      "team1": {
-        "name": "17th Match • Hobart, Bellerive Oval Hobart Hurricanes Women HBHW 138",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Adelaide Strikers Women ADSW 139",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "17th Match • Hobart, Bellerive Oval Hobart Hurricanes Women HBHW 138-5 (20) Adelaide Strikers Women ADSW 139-6 (20) Adelaide Strikers Women won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "8th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 81 (19) Uganda Women UGAW 77 (20) Namibia Women won by 4 runs",
-      "team1": {
-        "name": "8th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 81 (19) Uganda Women UGAW 77 (20) Namibia Women won by 4 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "8th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 81 (19) Uganda Women UGAW 77 (20) Namibia Women won by 4 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 107-5 (20) United States of America Women USAW 105-4 (20) Rwanda Women won by 2 runs",
-      "team1": {
-        "name": "7th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 107",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) United States of America Women USAW 105",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "7th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 107-5 (20) United States of America Women USAW 105-4 (20) Rwanda Women won by 2 runs",
+      "score": "Super Eights • Cape Town, Newlands South Western Districts SWD 99 (19.3) Western Province WPR 105-5 (14.3) Western Province won by 5 wkts",
       "status": "Match Details"
     }
   ]
