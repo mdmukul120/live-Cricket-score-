@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-10 07:24:42 UTC",
-  "total_matches": 30,
+  "last_updated": "2026-11-10 15:43:12 UTC",
+  "total_matches": 36,
   "matches": [
     {
-      "title": "PAK vs SL - SL opt to bowl",
+      "title": "PAK vs SL - Stumps",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,11 +13,11 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAK vs SL - SL opt to bowl",
+      "score": "PAK vs SL - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "INDU19 vs UAEU19 - UAEU19 opt to bowl",
+      "title": "INDU19 vs UAEU19 - INDU19 won",
       "team1": {
         "name": "INDU19",
         "flag": "https://flagcdn.com/w80/in.png"
@@ -26,7 +26,7 @@
         "name": "UAEU19",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "INDU19 vs UAEU19 - UAEU19 opt to bowl",
+      "score": "INDU19 vs UAEU19 - INDU19 won",
       "status": "Match Details"
     },
     {
@@ -43,7 +43,20 @@
       "status": "Match Details"
     },
     {
-      "title": "HBHW vs ADSW - Preview",
+      "title": "YL vs UT - YL won",
+      "team1": {
+        "name": "YL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "YL vs UT - YL won",
+      "status": "Match Details"
+    },
+    {
+      "title": "HBHW vs ADSW - ADSW won",
       "team1": {
         "name": "HBHW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -52,20 +65,7 @@
         "name": "ADSW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "HBHW vs ADSW - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "INDA vs NZA - Draw",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "INDA vs NZA - Draw",
+      "score": "HBHW vs ADSW - ADSW won",
       "status": "Match Details"
     },
     {
@@ -92,32 +92,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "Pakistan vs Sri Lanka 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zimbabwe vs Afghanistan 1st Test",
-      "team1": {
-        "name": "Zimbabwe",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "Afghanistan 1st Test",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "Zimbabwe vs Afghanistan 1st Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "West Indies vs Bangladesh 2nd Test",
-      "team1": {
-        "name": "West Indies",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Bangladesh 2nd Test",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "West Indies vs Bangladesh 2nd Test",
       "status": "Match Details"
     },
     {
@@ -160,55 +134,42 @@
       "status": "Match Details"
     },
     {
-      "title": "UAE Bulls vs Emirates Eagles 10th Match",
+      "title": "Emirates Eagles vs UAE Bulls 10th Match",
       "team1": {
-        "name": "UAE Bulls",
+        "name": "Emirates Eagles",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Emirates Eagles 10th Match",
+        "name": "UAE Bulls 10th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE Bulls vs Emirates Eagles 10th Match",
+      "score": "Emirates Eagles vs UAE Bulls 10th Match",
       "status": "Match Details"
     },
     {
-      "title": "Pokhara Avengers vs Karnali Yaks 19th Match",
+      "title": "Royal Desert Champions vs UAE Bulls 11th Match",
       "team1": {
-        "name": "Pokhara Avengers",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Karnali Yaks 19th Match",
+        "name": "Royal Desert Champions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pokhara Avengers vs Karnali Yaks 19th Match",
+      "team2": {
+        "name": "UAE Bulls 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Royal Desert Champions vs UAE Bulls 11th Match",
       "status": "Match Details"
     },
     {
-      "title": "Kathmandu Gorkhas vs Chitwan Rhinos 20th Match",
+      "title": "Sudur Paschim Royals vs Janakpur Bolts 21st Match",
       "team1": {
-        "name": "Kathmandu Gorkhas",
+        "name": "Sudur Paschim Royals",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Chitwan Rhinos 20th Match",
+        "name": "Janakpur Bolts 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Kathmandu Gorkhas vs Chitwan Rhinos 20th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Janakpur Bolts vs Sudur Paschim Royals 21st Match",
-      "team1": {
-        "name": "Janakpur Bolts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sudur Paschim Royals 21st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Janakpur Bolts vs Sudur Paschim Royals 21st Match",
+      "score": "Sudur Paschim Royals vs Janakpur Bolts 21st Match",
       "status": "Match Details"
     },
     {
@@ -222,6 +183,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Western Province vs South Western Districts Super Eights",
+      "status": "Match Details"
+    },
+    {
+      "title": "Boland vs Lions Super Eights",
+      "team1": {
+        "name": "Boland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lions Super Eights",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Boland vs Lions Super Eights",
       "status": "Match Details"
     },
     {
@@ -248,6 +222,45 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "England Lions vs West Indies A 2nd Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Indies A vs England Lions 3rd Unofficial ODI",
+      "team1": {
+        "name": "West Indies A",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "England Lions 3rd Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "West Indies A vs England Lions 3rd Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "India U19 vs United Arab Emirates U19 11th Match, Group A",
+      "team1": {
+        "name": "India U19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "United Arab Emirates U19 11th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "India U19 vs United Arab Emirates U19 11th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan U19 vs Nepal U19 12th Match, Group A",
+      "team1": {
+        "name": "Pakistan U19",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Nepal U19 12th Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Pakistan U19 vs Nepal U19 12th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -290,58 +303,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
-      "team1": {
-        "name": "Bangladesh U19",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "Malaysia U19 9th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Afghanistan U19 vs Sri Lanka U19 10th Match, Group B",
-      "team1": {
-        "name": "Afghanistan U19",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "team2": {
-        "name": "Sri Lanka U19 10th Match, Group B",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Afghanistan U19 vs Sri Lanka U19 10th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "India U19 vs United Arab Emirates U19 LIVE 11th Match, Group A",
-      "team1": {
-        "name": "India U19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "United Arab Emirates U19 LIVE 11th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "India U19 vs United Arab Emirates U19 LIVE 11th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan U19 vs Nepal U19 LIVE 12th Match, Group A",
-      "team1": {
-        "name": "Pakistan U19",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Nepal U19 LIVE 12th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pakistan U19 vs Nepal U19 LIVE 12th Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Hobart Hurricanes Women vs Adelaide Strikers Women 17th Match",
       "team1": {
         "name": "Hobart Hurricanes Women",
@@ -352,6 +313,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Hobart Hurricanes Women vs Adelaide Strikers Women 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Perth Scorchers Women vs Sydney Thunder Women 18th Match",
+      "team1": {
+        "name": "Perth Scorchers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sydney Thunder Women 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Perth Scorchers Women vs Sydney Thunder Women 18th Match",
       "status": "Match Details"
     },
     {
@@ -391,6 +365,110 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uganda Women vs Rwanda Women 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Namibia Women vs United States of America Women 10th Match",
+      "team1": {
+        "name": "Namibia Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United States of America Women 10th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Namibia Women vs United States of America Women 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "9th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 115-5 (10) United Tigers UT 102-5 (10) Yas Lions won by 13 runs",
+      "team1": {
+        "name": "9th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 115",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (10) United Tigers UT 102",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "9th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 115-5 (10) United Tigers UT 102-5 (10) Yas Lions won by 13 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "21st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 120-9 (20) Janakpur Bolts JAB 93 (19.5) Sudur Paschim Royals won by 27 runs",
+      "team1": {
+        "name": "21st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 120",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) Janakpur Bolts JAB 93 (19.5) Sudur Paschim Royals won by 27 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "21st Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 120-9 (20) Janakpur Bolts JAB 93 (19.5) Sudur Paschim Royals won by 27 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 309-7 (50) United Arab Emirates U19 UAEU19 239 (50) India U19 won by 70 runs",
+      "team1": {
+        "name": "11th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 309",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "7 (50) United Arab Emirates U19 UAEU19 239 (50) India U19 won by 70 runs",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "11th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) India U19 INDU19 309-7 (50) United Arab Emirates U19 UAEU19 239 (50) India U19 won by 70 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "12th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Pakistan U19 PAKU19 275-7 (50) Nepal U19 NPLU19 174 (43.4) Pakistan U19 won by 101 runs",
+      "team1": {
+        "name": "12th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Pakistan U19 PAKU19 275",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "7 (50) Nepal U19 NPLU19 174 (43.4) Pakistan U19 won by 101 runs",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "score": "12th Match, Group A • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Pakistan U19 PAKU19 275-7 (50) Nepal U19 NPLU19 174 (43.4) Pakistan U19 won by 101 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "17th Match • Hobart, Bellerive Oval Hobart Hurricanes Women HBHW 138-5 (20) Adelaide Strikers Women ADSW 139-6 (20) Adelaide Strikers Women won by 4 wkts",
+      "team1": {
+        "name": "17th Match • Hobart, Bellerive Oval Hobart Hurricanes Women HBHW 138",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Adelaide Strikers Women ADSW 139",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "17th Match • Hobart, Bellerive Oval Hobart Hurricanes Women HBHW 138-5 (20) Adelaide Strikers Women ADSW 139-6 (20) Adelaide Strikers Women won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "8th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 81 (19) Uganda Women UGAW 77 (20) Namibia Women won by 4 runs",
+      "team1": {
+        "name": "8th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 81 (19) Uganda Women UGAW 77 (20) Namibia Women won by 4 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Team 2",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "8th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 81 (19) Uganda Women UGAW 77 (20) Namibia Women won by 4 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "7th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 107-5 (20) United States of America Women USAW 105-4 (20) Rwanda Women won by 2 runs",
+      "team1": {
+        "name": "7th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 107",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) United States of America Women USAW 105",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "7th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 107-5 (20) United States of America Women USAW 105-4 (20) Rwanda Women won by 2 runs",
       "status": "Match Details"
     }
   ]
