@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-09 16:01:19 UTC",
-  "total_matches": 33,
+  "last_updated": "2026-11-10 00:11:22 UTC",
+  "total_matches": 28,
   "matches": [
     {
       "title": "NZ vs IND - Preview",
@@ -14,6 +14,32 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "NZ vs IND - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs NZA - Draw",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "INDA vs NZA - Draw",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs SL - Stumps",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAK vs SL - Stumps",
       "status": "Match Details"
     },
     {
@@ -40,32 +66,6 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "ZIM vs AFG - Draw",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs SL - Stumps",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "PAK vs SL - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "RDC vs UT - UT opt to bowl",
-      "team1": {
-        "name": "RDC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "RDC vs UT - UT opt to bowl",
       "status": "Match Details"
     },
     {
@@ -118,32 +118,6 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "West Indies vs Bangladesh 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Tigers vs UAE Bulls 5th Match",
-      "team1": {
-        "name": "United Tigers",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UAE Bulls 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "United Tigers vs UAE Bulls 5th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Royal Desert Champions vs Arabian Aces 6th Match",
-      "team1": {
-        "name": "Royal Desert Champions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Arabian Aces 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Royal Desert Champions vs Arabian Aces 6th Match",
       "status": "Match Details"
     },
     {
@@ -264,16 +238,42 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies A vs England Lions 2nd Unofficial ODI",
+      "title": "England Lions vs West Indies A 2nd Unofficial ODI",
       "team1": {
-        "name": "West Indies A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "England Lions 2nd Unofficial ODI",
+        "name": "England Lions",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "West Indies A vs England Lions 2nd Unofficial ODI",
+      "team2": {
+        "name": "West Indies A 2nd Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "England Lions vs West Indies A 2nd Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "New South Wales vs South Australia 10th Match",
+      "team1": {
+        "name": "New South Wales",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Australia 10th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "New South Wales vs South Australia 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Victoria vs Western Australia 11th Match",
+      "team1": {
+        "name": "Victoria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Western Australia 11th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Victoria vs Western Australia 11th Match",
       "status": "Match Details"
     },
     {
@@ -365,71 +365,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Namibia Women vs Uganda Women 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 108-5 (10) Arabian Aces ARA 110-0 (6.5) Arabian Aces won by 10 wkts",
-      "team1": {
-        "name": "7th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 108",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (10) Arabian Aces ARA 110",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 108-5 (10) Arabian Aces ARA 110-0 (6.5) Arabian Aces won by 10 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "20th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 180-8 (20) Chitwan Rhinos CHR 170-7 (20) Kathmandu Gorkhas won by 10 runs",
-      "team1": {
-        "name": "20th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 180",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Chitwan Rhinos CHR 170",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "20th Match • Kirtipur, Tribhuvan University International Cricket Ground Kathmandu Gorkhas KAG 180-8 (20) Chitwan Rhinos CHR 170-7 (20) Kathmandu Gorkhas won by 10 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "19th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 217-3 (20) Karnali Yaks KAY 154 (18.3) Pokhara Avengers won by 63 runs",
-      "team1": {
-        "name": "19th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 217",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "3 (20) Karnali Yaks KAY 154 (18.3) Pokhara Avengers won by 63 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "19th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 217-3 (20) Karnali Yaks KAY 154 (18.3) Pokhara Avengers won by 63 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "9th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Bangladesh U19 BANU19 303-8 (50) Malaysia U19 MLYU19 98 (30.5) Bangladesh U19 won by 205 runs",
-      "team1": {
-        "name": "9th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Bangladesh U19 BANU19 303",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "8 (50) Malaysia U19 MLYU19 98 (30.5) Bangladesh U19 won by 205 runs",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "9th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 2) Bangladesh U19 BANU19 303-8 (50) Malaysia U19 MLYU19 98 (30.5) Bangladesh U19 won by 205 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Afghanistan U19 AFGU19 275 (49.5) Sri Lanka U19 SLU19 169 (34.1) Afghanistan U19 won by 106 runs",
-      "team1": {
-        "name": "10th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Afghanistan U19 AFGU19 275 (49.5) Sri Lanka U19 SLU19 169 (34.1) Afghanistan U19 won by 106 runs",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Team 2",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "10th Match, Group B • Al Amerat, Al Amerat Cricket Ground (Ministry Turf 1) Afghanistan U19 AFGU19 275 (49.5) Sri Lanka U19 SLU19 169 (34.1) Afghanistan U19 won by 106 runs",
       "status": "Match Details"
     }
   ]
