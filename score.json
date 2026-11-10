@@ -1,10 +1,36 @@
 {
   "status": "success",
-  "last_updated": "2026-11-10 00:11:22 UTC",
-  "total_matches": 28,
+  "last_updated": "2026-11-10 07:24:42 UTC",
+  "total_matches": 30,
   "matches": [
     {
-      "title": "NZ vs IND - Preview",
+      "title": "PAK vs SL - SL opt to bowl",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAK vs SL - SL opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDU19 vs UAEU19 - UAEU19 opt to bowl",
+      "team1": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "UAEU19",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "INDU19 vs UAEU19 - UAEU19 opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZ vs IND - Abandon",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +39,20 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Preview",
+      "score": "NZ vs IND - Abandon",
+      "status": "Match Details"
+    },
+    {
+      "title": "HBHW vs ADSW - Preview",
+      "team1": {
+        "name": "HBHW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ADSW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "HBHW vs ADSW - Preview",
       "status": "Match Details"
     },
     {
@@ -27,45 +66,6 @@
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "score": "INDA vs NZA - Draw",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAK vs SL - Stumps",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "PAK vs SL - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "WI vs BAN - Draw",
-      "team1": {
-        "name": "WI",
-        "flag": "https://flagcdn.com/w80/jm.png"
-      },
-      "team2": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "WI vs BAN - Draw",
-      "status": "Match Details"
-    },
-    {
-      "title": "ZIM vs AFG - Draw",
-      "team1": {
-        "name": "ZIM",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "AFG",
-        "flag": "https://flagcdn.com/w80/af.png"
-      },
-      "score": "ZIM vs AFG - Draw",
       "status": "Match Details"
     },
     {
@@ -277,6 +277,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Queensland vs Tasmania 12th Match",
+      "team1": {
+        "name": "Queensland",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Tasmania 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Queensland vs Tasmania 12th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Bangladesh U19 vs Malaysia U19 9th Match, Group B",
       "team1": {
         "name": "Bangladesh U19",
@@ -303,29 +316,29 @@
       "status": "Match Details"
     },
     {
-      "title": "India U19 vs United Arab Emirates U19 11th Match, Group A",
+      "title": "India U19 vs United Arab Emirates U19 LIVE 11th Match, Group A",
       "team1": {
         "name": "India U19",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "United Arab Emirates U19 11th Match, Group A",
+        "name": "United Arab Emirates U19 LIVE 11th Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "India U19 vs United Arab Emirates U19 11th Match, Group A",
+      "score": "India U19 vs United Arab Emirates U19 LIVE 11th Match, Group A",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan U19 vs Nepal U19 12th Match, Group A",
+      "title": "Pakistan U19 vs Nepal U19 LIVE 12th Match, Group A",
       "team1": {
         "name": "Pakistan U19",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Nepal U19 12th Match, Group A",
+        "name": "Nepal U19 LIVE 12th Match, Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Pakistan U19 vs Nepal U19 12th Match, Group A",
+      "score": "Pakistan U19 vs Nepal U19 LIVE 12th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -365,6 +378,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Namibia Women vs Uganda Women 8th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda Women vs Rwanda Women 9th Match",
+      "team1": {
+        "name": "Uganda Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rwanda Women 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda Women vs Rwanda Women 9th Match",
       "status": "Match Details"
     }
   ]
