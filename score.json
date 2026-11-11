@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-11 01:25:45 UTC",
-  "total_matches": 32,
+  "last_updated": "2026-11-11 08:12:38 UTC",
+  "total_matches": 39,
   "matches": [
     {
-      "title": "PAK vs SL - Stumps",
+      "title": "PAK vs SL - Trail by 197",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,7 +13,7 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAK vs SL - Stumps",
+      "score": "PAK vs SL - Trail by 197",
       "status": "Match Details"
     },
     {
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "PRSW vs SYTW - Preview",
+      "title": "SYTW vs PRSW - SYTW opt to bat",
       "team1": {
-        "name": "PRSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SYTW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PRSW vs SYTW - Preview",
+      "team2": {
+        "name": "PRSW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SYTW vs PRSW - SYTW opt to bat",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "INDA vs NZA - Draw",
+      "title": "AFGU19 vs INDU19 - Preview",
       "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "AFGU19",
+        "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "NZA",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "INDA vs NZA - Draw",
+      "score": "AFGU19 vs INDU19 - Preview",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs Sri Lanka 1st Test",
+      "title": "Pakistan vs Sri Lanka LIVE 1st Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka 1st Test",
+        "name": "Sri Lanka LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan vs Sri Lanka 1st Test",
+      "score": "Pakistan vs Sri Lanka LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -160,6 +160,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Biratnagar Kings vs Pokhara Avengers 22nd Match",
+      "team1": {
+        "name": "Biratnagar Kings",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Pokhara Avengers 22nd Match",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Biratnagar Kings vs Pokhara Avengers 22nd Match",
+      "status": "Match Details"
+    },
+    {
       "title": "South Western Districts vs Western Province Super Eights",
       "team1": {
         "name": "South Western Districts",
@@ -199,32 +212,6 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs New Zealand A 3rd Unofficial Test",
-      "team1": {
-        "name": "India A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "New Zealand A 3rd Unofficial Test",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "score": "India A vs New Zealand A 3rd Unofficial Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "England Lions vs West Indies A 2nd Unofficial ODI",
-      "team1": {
-        "name": "England Lions",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "West Indies A 2nd Unofficial ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "England Lions vs West Indies A 2nd Unofficial ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "West Indies A vs England Lions 3rd Unofficial ODI",
       "team1": {
         "name": "West Indies A",
@@ -235,6 +222,45 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "West Indies A vs England Lions 3rd Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "New South Wales vs South Australia 10th Match",
+      "team1": {
+        "name": "New South Wales",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "South Australia 10th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "New South Wales vs South Australia 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Victoria vs Western Australia 11th Match",
+      "team1": {
+        "name": "Victoria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Western Australia 11th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Victoria vs Western Australia 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Queensland vs Tasmania 12th Match",
+      "team1": {
+        "name": "Queensland",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Tasmania 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Queensland vs Tasmania 12th Match",
       "status": "Match Details"
     },
     {
@@ -261,6 +287,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Pakistan U19 vs Nepal U19 12th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan U19 vs Bangladesh U19 Semi Final 1 (A1 v B2)",
+      "team1": {
+        "name": "Pakistan U19",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Bangladesh U19 Semi Final 1 (A1 v B2)",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Pakistan U19 vs Bangladesh U19 Semi Final 1 (A1 v B2)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Afghanistan U19 vs India U19 Semi Final 2 (B1 v A2)",
+      "team1": {
+        "name": "Afghanistan U19",
+        "flag": "https://flagcdn.com/w80/af.png"
+      },
+      "team2": {
+        "name": "India U19 Semi Final 2 (B1 v A2)",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Afghanistan U19 vs India U19 Semi Final 2 (B1 v A2)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe A vs Ireland A 2nd unofficial Test",
+      "team1": {
+        "name": "Zimbabwe A",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "team2": {
+        "name": "Ireland A 2nd unofficial Test",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Zimbabwe A vs Ireland A 2nd unofficial Test",
       "status": "Match Details"
     },
     {
@@ -303,45 +368,6 @@
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs South Australia LIVE 10th Match",
-      "team1": {
-        "name": "New South Wales",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Australia LIVE 10th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "New South Wales vs South Australia LIVE 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Victoria vs Western Australia LIVE 11th Match",
-      "team1": {
-        "name": "Victoria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Western Australia LIVE 11th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Victoria vs Western Australia LIVE 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Queensland vs Tasmania LIVE 12th Match",
-      "team1": {
-        "name": "Queensland",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Tasmania LIVE 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Queensland vs Tasmania LIVE 12th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Hobart Hurricanes Women vs Adelaide Strikers Women 17th Match",
       "team1": {
         "name": "Hobart Hurricanes Women",
@@ -355,16 +381,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Perth Scorchers Women vs Sydney Thunder Women 18th Match",
+      "title": "Sydney Thunder Women vs Perth Scorchers Women LIVE 18th Match",
       "team1": {
-        "name": "Perth Scorchers Women",
+        "name": "Sydney Thunder Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sydney Thunder Women 18th Match",
+        "name": "Perth Scorchers Women LIVE 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Perth Scorchers Women vs Sydney Thunder Women 18th Match",
+      "score": "Sydney Thunder Women vs Perth Scorchers Women LIVE 18th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Melbourne Stars Women vs Brisbane Heat Women 19th Match",
+      "team1": {
+        "name": "Melbourne Stars Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Brisbane Heat Women 19th Match",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Melbourne Stars Women vs Brisbane Heat Women 19th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Melbourne Renegades Women vs Sydney Sixers Women 20th Match",
+      "team1": {
+        "name": "Melbourne Renegades Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sydney Sixers Women 20th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Melbourne Renegades Women vs Sydney Sixers Women 20th Match",
       "status": "Match Details"
     },
     {
@@ -394,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Uganda Women vs Rwanda Women 9th Match",
+      "title": "Rwanda Women vs Uganda Women 9th Match",
       "team1": {
-        "name": "Uganda Women",
+        "name": "Rwanda Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Rwanda Women 9th Match",
+        "name": "Uganda Women 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uganda Women vs Rwanda Women 9th Match",
+      "score": "Rwanda Women vs Uganda Women 9th Match",
       "status": "Match Details"
     },
     {
@@ -417,6 +469,45 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Namibia Women vs United States of America Women 10th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uganda Women vs United States of America Women 11th Match",
+      "team1": {
+        "name": "Uganda Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "United States of America Women 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uganda Women vs United States of America Women 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sri Lanka Women vs Ireland Women 1st Match, Group A",
+      "team1": {
+        "name": "Sri Lanka Women",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Ireland Women 1st Match, Group A",
+        "flag": "https://flagcdn.com/w80/ie.png"
+      },
+      "score": "Sri Lanka Women vs Ireland Women 1st Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Papua New Guinea Women vs Scotland Women 2nd Match, Group A",
+      "team1": {
+        "name": "Papua New Guinea Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Scotland Women 2nd Match, Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Papua New Guinea Women vs Scotland Women 2nd Match, Group A",
       "status": "Match Details"
     }
   ]
