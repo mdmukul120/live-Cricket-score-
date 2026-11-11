@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-10 21:26:51 UTC",
-  "total_matches": 31,
+  "last_updated": "2026-11-11 01:25:45 UTC",
+  "total_matches": 32,
   "matches": [
     {
       "title": "PAK vs SL - Stumps",
@@ -30,42 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "EE vs UBL - EE won",
+      "title": "PRSW vs SYTW - Preview",
       "team1": {
-        "name": "EE",
+        "name": "PRSW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SYTW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "PRSW vs SYTW - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "RDC vs UBL - Preview",
+      "team1": {
+        "name": "RDC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "UBL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EE vs UBL - EE won",
+      "score": "RDC vs UBL - Preview",
       "status": "Match Details"
     },
     {
-      "title": "NZ vs IND - Abandon",
+      "title": "INDA vs NZA - Draw",
       "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "IND",
+        "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Abandon",
-      "status": "Match Details"
-    },
-    {
-      "title": "YL vs UT - YL won",
-      "team1": {
-        "name": "YL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
       "team2": {
-        "name": "UT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "NZA",
+        "flag": "https://flagcdn.com/w80/nz.png"
       },
-      "score": "YL vs UT - YL won",
+      "score": "INDA vs NZA - Draw",
       "status": "Match Details"
     },
     {
@@ -264,42 +264,81 @@
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs South Australia 10th Match",
+      "title": "Auckland vs Otago 13th Match",
+      "team1": {
+        "name": "Auckland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Otago 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Auckland vs Otago 13th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Stags vs Wellington 14th Match",
+      "team1": {
+        "name": "Central Stags",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Wellington 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Stags vs Wellington 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Canterbury vs Northern Districts 15th Match",
+      "team1": {
+        "name": "Canterbury",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Districts 15th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Canterbury vs Northern Districts 15th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "New South Wales vs South Australia LIVE 10th Match",
       "team1": {
         "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "South Australia 10th Match",
+        "name": "South Australia LIVE 10th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "New South Wales vs South Australia 10th Match",
+      "score": "New South Wales vs South Australia LIVE 10th Match",
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs Western Australia 11th Match",
+      "title": "Victoria vs Western Australia LIVE 11th Match",
       "team1": {
         "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Australia 11th Match",
+        "name": "Western Australia LIVE 11th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Victoria vs Western Australia 11th Match",
+      "score": "Victoria vs Western Australia LIVE 11th Match",
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs Tasmania 12th Match",
+      "title": "Queensland vs Tasmania LIVE 12th Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Tasmania 12th Match",
+        "name": "Tasmania LIVE 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Queensland vs Tasmania 12th Match",
+      "score": "Queensland vs Tasmania LIVE 12th Match",
       "status": "Match Details"
     },
     {
@@ -378,32 +417,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Namibia Women vs United States of America Women 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "10th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 137-7 (10) UAE Bulls UBL 112-7 (10) Emirates Eagles won by 25 runs",
-      "team1": {
-        "name": "10th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (10) UAE Bulls UBL 112",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "10th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 137-7 (10) UAE Bulls UBL 112-7 (10) Emirates Eagles won by 25 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Super Eights • Cape Town, Newlands South Western Districts SWD 99 (19.3) Western Province WPR 105-5 (14.3) Western Province won by 5 wkts",
-      "team1": {
-        "name": "Super Eights • Cape Town, Newlands South Western Districts SWD 99 (19.3) Western Province WPR 105",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (14.3) Western Province won by 5 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Super Eights • Cape Town, Newlands South Western Districts SWD 99 (19.3) Western Province WPR 105-5 (14.3) Western Province won by 5 wkts",
       "status": "Match Details"
     }
   ]
