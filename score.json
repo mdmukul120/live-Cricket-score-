@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-11 16:16:09 UTC",
-  "total_matches": 39,
+  "last_updated": "2026-11-11 22:49:43 UTC",
+  "total_matches": 37,
   "matches": [
     {
       "title": "PAK vs SL - Stumps",
@@ -14,32 +14,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "PAK vs SL - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "YL vs ARA - ARA opt to bowl",
-      "team1": {
-        "name": "YL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ARA",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "YL vs ARA - ARA opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "UBL vs RDC - RDC won",
-      "team1": {
-        "name": "UBL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "RDC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "UBL vs RDC - RDC won",
       "status": "Match Details"
     },
     {
@@ -56,6 +30,19 @@
       "status": "Match Details"
     },
     {
+      "title": "YL vs ARA - YL won",
+      "team1": {
+        "name": "YL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ARA",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "YL vs ARA - YL won",
+      "status": "Match Details"
+    },
+    {
       "title": "PAKU19 vs BANU19 - Preview",
       "team1": {
         "name": "PAKU19",
@@ -66,6 +53,19 @@
         "flag": "https://flagcdn.com/w80/bd.png"
       },
       "score": "PAKU19 vs BANU19 - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "MLSW vs BRHW - Preview",
+      "team1": {
+        "name": "MLSW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "BRHW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MLSW vs BRHW - Preview",
       "status": "Match Details"
     },
     {
@@ -82,32 +82,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Yas Lions vs United Tigers 9th Match",
-      "team1": {
-        "name": "Yas Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United Tigers 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yas Lions vs United Tigers 9th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Emirates Eagles vs UAE Bulls 10th Match",
-      "team1": {
-        "name": "Emirates Eagles",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UAE Bulls 10th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Emirates Eagles vs UAE Bulls 10th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "UAE Bulls vs Royal Desert Champions 11th Match",
       "team1": {
         "name": "UAE Bulls",
@@ -121,16 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Yas Lions vs Arabian Aces LIVE 12th Match",
+      "title": "Yas Lions vs Arabian Aces 12th Match",
       "team1": {
         "name": "Yas Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Arabian Aces LIVE 12th Match",
+        "name": "Arabian Aces 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Yas Lions vs Arabian Aces LIVE 12th Match",
+      "score": "Yas Lions vs Arabian Aces 12th Match",
       "status": "Match Details"
     },
     {
@@ -160,19 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Western Province Super Eights",
-      "team1": {
-        "name": "South Western Districts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Western Province Super Eights",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Western Districts vs Western Province Super Eights",
-      "status": "Match Details"
-    },
-    {
       "title": "Boland vs Lions Super Eights",
       "team1": {
         "name": "Boland",
@@ -199,16 +160,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies A vs England Lions 3rd Unofficial ODI",
+      "title": "West Indies A vs England Lions LIVE 3rd Unofficial ODI",
       "team1": {
         "name": "West Indies A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "England Lions 3rd Unofficial ODI",
+        "name": "England Lions LIVE 3rd Unofficial ODI",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "West Indies A vs England Lions 3rd Unofficial ODI",
+      "score": "West Indies A vs England Lions LIVE 3rd Unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -251,42 +212,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Auckland vs Otago 13th Match",
+      "title": "Auckland vs Otago LIVE 13th Match",
       "team1": {
         "name": "Auckland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Otago 13th Match",
+        "name": "Otago LIVE 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Auckland vs Otago 13th Match",
+      "score": "Auckland vs Otago LIVE 13th Match",
       "status": "Match Details"
     },
     {
-      "title": "Central Stags vs Wellington 14th Match",
+      "title": "Wellington vs Central Stags LIVE 14th Match",
       "team1": {
-        "name": "Central Stags",
+        "name": "Wellington",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Wellington 14th Match",
+        "name": "Central Stags LIVE 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Stags vs Wellington 14th Match",
+      "score": "Wellington vs Central Stags LIVE 14th Match",
       "status": "Match Details"
     },
     {
-      "title": "Canterbury vs Northern Districts 15th Match",
+      "title": "Northern Districts vs Canterbury LIVE 15th Match",
       "team1": {
-        "name": "Canterbury",
+        "name": "Northern Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Districts 15th Match",
+        "name": "Canterbury LIVE 15th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Canterbury vs Northern Districts 15th Match",
+      "score": "Northern Districts vs Canterbury LIVE 15th Match",
       "status": "Match Details"
     },
     {
@@ -472,42 +433,55 @@
       "status": "Match Details"
     },
     {
-      "title": "11th Match • Abu Dhabi, Sheikh Zayed Stadium UAE Bulls UBL 123-7 (10) Royal Desert Champions RDC 124-4 (9.1) Royal Desert Champions won by 6 wkts",
+      "title": "12th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 132-5 (10) Arabian Aces ARA 103-7 (10) Yas Lions won by 29 runs",
       "team1": {
-        "name": "11th Match • Abu Dhabi, Sheikh Zayed Stadium UAE Bulls UBL 123",
+        "name": "12th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 132",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (10) Royal Desert Champions RDC 124",
+        "name": "5 (10) Arabian Aces ARA 103",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "11th Match • Abu Dhabi, Sheikh Zayed Stadium UAE Bulls UBL 123-7 (10) Royal Desert Champions RDC 124-4 (9.1) Royal Desert Champions won by 6 wkts",
+      "score": "12th Match • Abu Dhabi, Sheikh Zayed Stadium Yas Lions YL 132-5 (10) Arabian Aces ARA 103-7 (10) Yas Lions won by 29 runs",
       "status": "Match Details"
     },
     {
-      "title": "18th Match • Perth, W.A.C.A. Ground Sydney Thunder Women SYTW 159-5 (20) Perth Scorchers Women PRSW 160-6 (18.3) Perth Scorchers Women won by 4 wkts",
+      "title": "Super Eights • Centurion, SuperSport Park Titans TIT 180-9 (20) Warriors WAR 183-3 (18.4) Warriors won by 7 wkts",
       "team1": {
-        "name": "18th Match • Perth, W.A.C.A. Ground Sydney Thunder Women SYTW 159",
+        "name": "Super Eights • Centurion, SuperSport Park Titans TIT 180",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (20) Perth Scorchers Women PRSW 160",
+        "name": "9 (20) Warriors WAR 183",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "18th Match • Perth, W.A.C.A. Ground Sydney Thunder Women SYTW 159-5 (20) Perth Scorchers Women PRSW 160-6 (18.3) Perth Scorchers Women won by 4 wkts",
+      "score": "Super Eights • Centurion, SuperSport Park Titans TIT 180-9 (20) Warriors WAR 183-3 (18.4) Warriors won by 7 wkts",
       "status": "Match Details"
     },
     {
-      "title": "9th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 92-5 (18) Uganda Women UGAW 74-6 (18) Rwanda Women won by 18 runs   -  Match reduced to 18 overs due to rain",
+      "title": "Super Eights • Paarl, Boland Park Boland BOL 134-8 (20) Lions LIONS 135-5 (19.4) Lions won by 5 wkts",
       "team1": {
-        "name": "9th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 92",
+        "name": "Super Eights • Paarl, Boland Park Boland BOL 134",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (18) Uganda Women UGAW 74",
+        "name": "8 (20) Lions LIONS 135",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "9th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 92-5 (18) Uganda Women UGAW 74-6 (18) Rwanda Women won by 18 runs   -  Match reduced to 18 overs due to rain",
+      "score": "Super Eights • Paarl, Boland Park Boland BOL 134-8 (20) Lions LIONS 135-5 (19.4) Lions won by 5 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 96-9 (20) United States of America Women USAW 97-9 (19.5) United States of America Women won by 1 wkt",
+      "team1": {
+        "name": "10th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 96",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 (20) United States of America Women USAW 97",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "10th Match • Entebbe, Entebbe Cricket Oval Namibia Women NAMW 96-9 (20) United States of America Women USAW 97-9 (19.5) United States of America Women won by 1 wkt",
       "status": "Match Details"
     }
   ]
