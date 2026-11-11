@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-11 08:12:38 UTC",
+  "last_updated": "2026-11-11 16:16:09 UTC",
   "total_matches": 39,
   "matches": [
     {
-      "title": "PAK vs SL - Trail by 197",
+      "title": "PAK vs SL - Stumps",
       "team1": {
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
@@ -13,46 +13,33 @@
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "PAK vs SL - Trail by 197",
+      "score": "PAK vs SL - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "INDU19 vs UAEU19 - INDU19 won",
+      "title": "YL vs ARA - ARA opt to bowl",
       "team1": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "UAEU19",
+        "name": "YL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "INDU19 vs UAEU19 - INDU19 won",
+      "team2": {
+        "name": "ARA",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "YL vs ARA - ARA opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "SYTW vs PRSW - SYTW opt to bat",
+      "title": "UBL vs RDC - RDC won",
       "team1": {
-        "name": "SYTW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "PRSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "SYTW vs PRSW - SYTW opt to bat",
-      "status": "Match Details"
-    },
-    {
-      "title": "RDC vs UBL - Preview",
-      "team1": {
-        "name": "RDC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "UBL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RDC vs UBL - Preview",
+      "team2": {
+        "name": "RDC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "UBL vs RDC - RDC won",
       "status": "Match Details"
     },
     {
@@ -69,29 +56,29 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand vs India 3rd ODI",
+      "title": "PAKU19 vs BANU19 - Preview",
       "team1": {
-        "name": "New Zealand",
-        "flag": "https://flagcdn.com/w80/nz.png"
+        "name": "PAKU19",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "India 3rd ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "BANU19",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "New Zealand vs India 3rd ODI",
+      "score": "PAKU19 vs BANU19 - Preview",
       "status": "Match Details"
     },
     {
-      "title": "Pakistan vs Sri Lanka LIVE 1st Test",
+      "title": "Pakistan vs Sri Lanka 1st Test",
       "team1": {
         "name": "Pakistan",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "Sri Lanka LIVE 1st Test",
+        "name": "Sri Lanka 1st Test",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "Pakistan vs Sri Lanka LIVE 1st Test",
+      "score": "Pakistan vs Sri Lanka 1st Test",
       "status": "Match Details"
     },
     {
@@ -121,42 +108,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Royal Desert Champions vs UAE Bulls 11th Match",
+      "title": "UAE Bulls vs Royal Desert Champions 11th Match",
       "team1": {
-        "name": "Royal Desert Champions",
+        "name": "UAE Bulls",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "UAE Bulls 11th Match",
+        "name": "Royal Desert Champions 11th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Royal Desert Champions vs UAE Bulls 11th Match",
+      "score": "UAE Bulls vs Royal Desert Champions 11th Match",
       "status": "Match Details"
     },
     {
-      "title": "Arabian Aces vs Yas Lions 12th Match",
+      "title": "Yas Lions vs Arabian Aces LIVE 12th Match",
       "team1": {
-        "name": "Arabian Aces",
+        "name": "Yas Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Yas Lions 12th Match",
+        "name": "Arabian Aces LIVE 12th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Arabian Aces vs Yas Lions 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Sudur Paschim Royals vs Janakpur Bolts 21st Match",
-      "team1": {
-        "name": "Sudur Paschim Royals",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Janakpur Bolts 21st Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Sudur Paschim Royals vs Janakpur Bolts 21st Match",
+      "score": "Yas Lions vs Arabian Aces LIVE 12th Match",
       "status": "Match Details"
     },
     {
@@ -170,6 +144,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "Biratnagar Kings vs Pokhara Avengers 22nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Karnali Yaks vs Lumbini Lions 23rd Match",
+      "team1": {
+        "name": "Karnali Yaks",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Lumbini Lions 23rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Karnali Yaks vs Lumbini Lions 23rd Match",
       "status": "Match Details"
     },
     {
@@ -222,71 +209,6 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "West Indies A vs England Lions 3rd Unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "New South Wales vs South Australia 10th Match",
-      "team1": {
-        "name": "New South Wales",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Australia 10th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "New South Wales vs South Australia 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Victoria vs Western Australia 11th Match",
-      "team1": {
-        "name": "Victoria",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Western Australia 11th Match",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "Victoria vs Western Australia 11th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Queensland vs Tasmania 12th Match",
-      "team1": {
-        "name": "Queensland",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Tasmania 12th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Queensland vs Tasmania 12th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "India U19 vs United Arab Emirates U19 11th Match, Group A",
-      "team1": {
-        "name": "India U19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "United Arab Emirates U19 11th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "India U19 vs United Arab Emirates U19 11th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan U19 vs Nepal U19 12th Match, Group A",
-      "team1": {
-        "name": "Pakistan U19",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Nepal U19 12th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pakistan U19 vs Nepal U19 12th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -368,29 +290,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Hobart Hurricanes Women vs Adelaide Strikers Women 17th Match",
+      "title": "New South Wales vs South Australia 10th Match",
       "team1": {
-        "name": "Hobart Hurricanes Women",
+        "name": "New South Wales",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Adelaide Strikers Women 17th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "South Australia 10th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Hobart Hurricanes Women vs Adelaide Strikers Women 17th Match",
+      "score": "New South Wales vs South Australia 10th Match",
       "status": "Match Details"
     },
     {
-      "title": "Sydney Thunder Women vs Perth Scorchers Women LIVE 18th Match",
+      "title": "Victoria vs Western Australia 11th Match",
+      "team1": {
+        "name": "Victoria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Western Australia 11th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Victoria vs Western Australia 11th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Queensland vs Tasmania 12th Match",
+      "team1": {
+        "name": "Queensland",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Tasmania 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Queensland vs Tasmania 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Thunder Women vs Perth Scorchers Women 18th Match",
       "team1": {
         "name": "Sydney Thunder Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Perth Scorchers Women LIVE 18th Match",
+        "name": "Perth Scorchers Women 18th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sydney Thunder Women vs Perth Scorchers Women LIVE 18th Match",
+      "score": "Sydney Thunder Women vs Perth Scorchers Women 18th Match",
       "status": "Match Details"
     },
     {
@@ -417,32 +365,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Melbourne Renegades Women vs Sydney Sixers Women 20th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rwanda Women vs United States of America Women 7th Match",
-      "team1": {
-        "name": "Rwanda Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "United States of America Women 7th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rwanda Women vs United States of America Women 7th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Namibia Women vs Uganda Women 8th Match",
-      "team1": {
-        "name": "Namibia Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uganda Women 8th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Namibia Women vs Uganda Women 8th Match",
       "status": "Match Details"
     },
     {
@@ -485,6 +407,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Namibia Women vs Rwanda Women 12th Match",
+      "team1": {
+        "name": "Namibia Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Rwanda Women 12th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Namibia Women vs Rwanda Women 12th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Sri Lanka Women vs Ireland Women 1st Match, Group A",
       "team1": {
         "name": "Sri Lanka Women",
@@ -508,6 +443,71 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Papua New Guinea Women vs Scotland Women 2nd Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Pakistan Women vs Bangladesh Women 3rd Match, Group B",
+      "team1": {
+        "name": "Pakistan Women",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "Bangladesh Women 3rd Match, Group B",
+        "flag": "https://flagcdn.com/w80/bd.png"
+      },
+      "score": "Pakistan Women vs Bangladesh Women 3rd Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Netherlands Women vs Thailand Women 4th Match, Group B",
+      "team1": {
+        "name": "Netherlands Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Thailand Women 4th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Netherlands Women vs Thailand Women 4th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "11th Match • Abu Dhabi, Sheikh Zayed Stadium UAE Bulls UBL 123-7 (10) Royal Desert Champions RDC 124-4 (9.1) Royal Desert Champions won by 6 wkts",
+      "team1": {
+        "name": "11th Match • Abu Dhabi, Sheikh Zayed Stadium UAE Bulls UBL 123",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "7 (10) Royal Desert Champions RDC 124",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "11th Match • Abu Dhabi, Sheikh Zayed Stadium UAE Bulls UBL 123-7 (10) Royal Desert Champions RDC 124-4 (9.1) Royal Desert Champions won by 6 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "18th Match • Perth, W.A.C.A. Ground Sydney Thunder Women SYTW 159-5 (20) Perth Scorchers Women PRSW 160-6 (18.3) Perth Scorchers Women won by 4 wkts",
+      "team1": {
+        "name": "18th Match • Perth, W.A.C.A. Ground Sydney Thunder Women SYTW 159",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (20) Perth Scorchers Women PRSW 160",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "18th Match • Perth, W.A.C.A. Ground Sydney Thunder Women SYTW 159-5 (20) Perth Scorchers Women PRSW 160-6 (18.3) Perth Scorchers Women won by 4 wkts",
+      "status": "Match Details"
+    },
+    {
+      "title": "9th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 92-5 (18) Uganda Women UGAW 74-6 (18) Rwanda Women won by 18 runs   -  Match reduced to 18 overs due to rain",
+      "team1": {
+        "name": "9th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 92",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "5 (18) Uganda Women UGAW 74",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "9th Match • Entebbe, Entebbe Cricket Oval Rwanda Women RWAW 92-5 (18) Uganda Women UGAW 74-6 (18) Rwanda Women won by 18 runs   -  Match reduced to 18 overs due to rain",
       "status": "Match Details"
     }
   ]
