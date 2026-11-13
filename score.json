@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-11-13 15:28:37 UTC",
-  "total_matches": 56,
+  "last_updated": "2026-11-13 21:33:11 UTC",
+  "total_matches": 55,
   "matches": [
-    {
-      "title": "PAK vs SL - Draw",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "PAK vs SL - Draw",
-      "status": "Match Details"
-    },
     {
       "title": "NZ vs IND - NZ won",
       "team1": {
@@ -30,16 +17,29 @@
       "status": "Match Details"
     },
     {
-      "title": "RDC vs YL - Need 78 off 17b",
+      "title": "ARA vs UBL - ARA won",
       "team1": {
-        "name": "RDC",
+        "name": "ARA",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "YL",
+        "name": "UBL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "RDC vs YL - Need 78 off 17b",
+      "score": "ARA vs UBL - ARA won",
+      "status": "Match Details"
+    },
+    {
+      "title": "PAK vs SL - Draw",
+      "team1": {
+        "name": "PAK",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "SL",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "PAK vs SL - Draw",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "ENG vs AUS - AUS won",
+      "title": "PAKU19 vs INDU19 - Preview",
       "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "PAKU19",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
       "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "ENG vs AUS - AUS won",
+      "score": "PAKU19 vs INDU19 - Preview",
       "status": "Match Details"
     },
     {
@@ -342,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Royal Desert Champions vs Yas Lions LIVE 14th Match",
+      "title": "Royal Desert Champions vs Yas Lions 14th Match",
       "team1": {
         "name": "Royal Desert Champions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Yas Lions LIVE 14th Match",
+        "name": "Yas Lions 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Royal Desert Champions vs Yas Lions LIVE 14th Match",
+      "score": "Royal Desert Champions vs Yas Lions 14th Match",
       "status": "Match Details"
     },
     {
@@ -391,6 +391,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Arabian Aces vs Emirates Eagles 17th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Yas Lions vs UAE Bulls 18th Match",
+      "team1": {
+        "name": "Yas Lions",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UAE Bulls 18th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Yas Lions vs UAE Bulls 18th Match",
       "status": "Match Details"
     },
     {
@@ -495,6 +508,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Lions vs Western Province 2nd Semi-Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "TBC vs TBC Final",
+      "team1": {
+        "name": "TBC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "TBC Final",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "TBC vs TBC Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Indies A vs England Lions 4th Unofficial ODI",
+      "team1": {
+        "name": "West Indies A",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "England Lions 4th Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "West Indies A vs England Lions 4th Unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -667,68 +706,16 @@
       "status": "Match Details"
     },
     {
-      "title": "13th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 143-5 (10) Emirates Eagles EE 119-2 (10) United Tigers won by 24 runs",
+      "title": "15th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 92-8 (10) UAE Bulls UBL 84-7 (10) Arabian Aces won by 8 runs",
       "team1": {
-        "name": "13th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 143",
+        "name": "15th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 92",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (10) Emirates Eagles EE 119",
+        "name": "8 (10) UAE Bulls UBL 84",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "13th Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 143-5 (10) Emirates Eagles EE 119-2 (10) United Tigers won by 24 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "25th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 88-9 (20) Chitwan Rhinos CHR 92-6 (17.2) Chitwan Rhinos won by 4 wkts",
-      "team1": {
-        "name": "25th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 88",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Chitwan Rhinos CHR 92",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "25th Match • Kirtipur, Tribhuvan University International Cricket Ground Janakpur Bolts JAB 88-9 (20) Chitwan Rhinos CHR 92-6 (17.2) Chitwan Rhinos won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "24th Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 125-6 (20) Kathmandu Gorkhas KAG 118-7 (20) Sudur Paschim Royals won by 7 runs",
-      "team1": {
-        "name": "24th Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 125",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Kathmandu Gorkhas KAG 118",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "24th Match • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 125-6 (20) Kathmandu Gorkhas KAG 118-7 (20) Sudur Paschim Royals won by 7 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "7th Match, Group B • Ajman, Karwan Cricket Ground Pakistan Women PAKW 180-2 (20) Thailand Women THAIW 156-8 (20) Pakistan Women won by 24 runs",
-      "team1": {
-        "name": "7th Match, Group B • Ajman, Karwan Cricket Ground Pakistan Women PAKW 180",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "2 (20) Thailand Women THAIW 156",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "7th Match, Group B • Ajman, Karwan Cricket Ground Pakistan Women PAKW 180-2 (20) Thailand Women THAIW 156-8 (20) Pakistan Women won by 24 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "8th Match, Group B • Ajman, Seven Districts Ground Zimbabwe Women ZIMW 129-7 (20) Bangladesh Women BANW 131-1 (17.2) Bangladesh Women won by 9 wkts",
-      "team1": {
-        "name": "8th Match, Group B • Ajman, Seven Districts Ground Zimbabwe Women ZIMW 129",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "7 (20) Bangladesh Women BANW 131",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "8th Match, Group B • Ajman, Seven Districts Ground Zimbabwe Women ZIMW 129-7 (20) Bangladesh Women BANW 131-1 (17.2) Bangladesh Women won by 9 wkts",
+      "score": "15th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 92-8 (10) UAE Bulls UBL 84-7 (10) Arabian Aces won by 8 runs",
       "status": "Match Details"
     }
   ]
