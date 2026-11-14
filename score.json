@@ -1,8 +1,34 @@
 {
   "status": "success",
-  "last_updated": "2026-11-13 21:33:11 UTC",
-  "total_matches": 55,
+  "last_updated": "2026-11-14 01:43:30 UTC",
+  "total_matches": 56,
   "matches": [
+    {
+      "title": "PAKU19 vs INDU19 - Preview",
+      "team1": {
+        "name": "PAKU19",
+        "flag": "https://flagcdn.com/w80/pk.png"
+      },
+      "team2": {
+        "name": "INDU19",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "PAKU19 vs INDU19 - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "HYD vs MUM - Preview",
+      "team1": {
+        "name": "HYD",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MUM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "HYD vs MUM - Preview",
+      "status": "Match Details"
+    },
     {
       "title": "NZ vs IND - NZ won",
       "team1": {
@@ -30,19 +56,6 @@
       "status": "Match Details"
     },
     {
-      "title": "PAK vs SL - Draw",
-      "team1": {
-        "name": "PAK",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "SL",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "PAK vs SL - Draw",
-      "status": "Match Details"
-    },
-    {
       "title": "ZIM vs AFG - Stumps",
       "team1": {
         "name": "ZIM",
@@ -53,19 +66,6 @@
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "score": "ZIM vs AFG - Stumps",
-      "status": "Match Details"
-    },
-    {
-      "title": "PAKU19 vs INDU19 - Preview",
-      "team1": {
-        "name": "PAKU19",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "INDU19",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "PAKU19 vs INDU19 - Preview",
       "status": "Match Details"
     },
     {
@@ -550,16 +550,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Victoria vs Western Australia 11th Match",
+      "title": "Victoria vs Western Australia LIVE 11th Match",
       "team1": {
         "name": "Victoria",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Western Australia 11th Match",
+        "name": "Western Australia LIVE 11th Match",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "Victoria vs Western Australia 11th Match",
+      "score": "Victoria vs Western Australia LIVE 11th Match",
       "status": "Match Details"
     },
     {
@@ -625,6 +625,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Perth Scorchers Women vs Adelaide Strikers Women 22nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sydney Sixers Women vs Melbourne Renegades Women 23rd Match",
+      "team1": {
+        "name": "Sydney Sixers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Melbourne Renegades Women 23rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sydney Sixers Women vs Melbourne Renegades Women 23rd Match",
       "status": "Match Details"
     },
     {
@@ -706,16 +719,16 @@
       "status": "Match Details"
     },
     {
-      "title": "15th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 92-8 (10) UAE Bulls UBL 84-7 (10) Arabian Aces won by 8 runs",
+      "title": "12th Match • Brisbane, The Gabba Queensland QL 348 & 19-0 Tasmania TAS 133 & 233 (f/o) Queensland won by 10 wkts",
       "team1": {
-        "name": "15th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 92",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "12th Match • Brisbane, The Gabba Queensland QL 348 & 19",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "8 (10) UAE Bulls UBL 84",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "0 Tasmania TAS 133 & 233 (f/o) Queensland won by 10 wkts",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "15th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 92-8 (10) UAE Bulls UBL 84-7 (10) Arabian Aces won by 8 runs",
+      "score": "12th Match • Brisbane, The Gabba Queensland QL 348 & 19-0 Tasmania TAS 133 & 233 (f/o) Queensland won by 10 wkts",
       "status": "Match Details"
     }
   ]
