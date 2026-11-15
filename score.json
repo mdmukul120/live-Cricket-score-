@@ -1,8 +1,34 @@
 {
   "status": "success",
-  "last_updated": "2026-11-14 23:37:41 UTC",
-  "total_matches": 58,
+  "last_updated": "2026-11-15 03:05:39 UTC",
+  "total_matches": 64,
   "matches": [
+    {
+      "title": "IND vs NZ - NZ opt to bowl",
+      "team1": {
+        "name": "IND",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "NZ",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "IND vs NZ - NZ opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "ENG vs AUS - AUS opt to bowl",
+      "team1": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "ENG vs AUS - AUS opt to bowl",
+      "status": "Match Details"
+    },
     {
       "title": "PAKU19 vs INDU19 - INDU19 won",
       "team1": {
@@ -14,32 +40,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "PAKU19 vs INDU19 - INDU19 won",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZ vs IND - Preview",
-      "team1": {
-        "name": "NZ",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "IND",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "score": "NZ vs IND - Preview",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs ENG - Preview",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "AUS vs ENG - Preview",
       "status": "Match Details"
     },
     {
@@ -56,42 +56,42 @@
       "status": "Match Details"
     },
     {
-      "title": "UBL vs YL - UBL won",
+      "title": "SYSW vs MLRW - Need 17 off 12b",
       "team1": {
-        "name": "UBL",
+        "name": "SYSW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "YL",
+        "name": "MLRW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UBL vs YL - UBL won",
+      "score": "SYSW vs MLRW - Need 17 off 12b",
       "status": "Match Details"
     },
     {
-      "title": "New Zealand vs India 5th ODI",
+      "title": "India vs New Zealand LIVE 5th ODI",
       "team1": {
-        "name": "New Zealand",
-        "flag": "https://flagcdn.com/w80/nz.png"
-      },
-      "team2": {
-        "name": "India 5th ODI",
+        "name": "India",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand vs India 5th ODI",
+      "team2": {
+        "name": "New Zealand LIVE 5th ODI",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "score": "India vs New Zealand LIVE 5th ODI",
       "status": "Match Details"
     },
     {
-      "title": "Australia vs England 2nd ODI",
+      "title": "England vs Australia 2nd ODI",
       "team1": {
-        "name": "Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "England 2nd ODI",
+        "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "Australia vs England 2nd ODI",
+      "team2": {
+        "name": "Australia 2nd ODI",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "England vs Australia 2nd ODI",
       "status": "Match Details"
     },
     {
@@ -355,6 +355,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Vidarbha vs Odisha Elite Group D",
+      "team1": {
+        "name": "Vidarbha",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Odisha Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vidarbha vs Odisha Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "United Tigers vs Royal Desert Champions 16th Match",
       "team1": {
         "name": "United Tigers",
@@ -472,6 +485,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Sikkim vs Arunachal Pradesh Plate",
+      "team1": {
+        "name": "Sikkim",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Arunachal Pradesh Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sikkim vs Arunachal Pradesh Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Nagaland vs Manipur Plate",
+      "team1": {
+        "name": "Nagaland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manipur Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Nagaland vs Manipur Plate",
+      "status": "Match Details"
+    },
+    {
       "title": "Biratnagar Kings vs Lumbini Lions 26th Match",
       "team1": {
         "name": "Biratnagar Kings",
@@ -550,16 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "West Indies A vs England Lions 4th Unofficial ODI",
+      "title": "England Lions vs West Indies A 4th Unofficial ODI",
       "team1": {
-        "name": "West Indies A",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "England Lions 4th Unofficial ODI",
+        "name": "England Lions",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "West Indies A vs England Lions 4th Unofficial ODI",
+      "team2": {
+        "name": "West Indies A 4th Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "England Lions vs West Indies A 4th Unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -615,6 +654,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Queensland vs Tasmania 14th Match",
+      "team1": {
+        "name": "Queensland",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Tasmania 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Queensland vs Tasmania 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Victoria vs Western Australia 15th Match",
+      "team1": {
+        "name": "Victoria",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Western Australia 15th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Victoria vs Western Australia 15th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Pakistan U19 vs India U19 Final",
       "team1": {
         "name": "Pakistan U19",
@@ -667,16 +732,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sydney Sixers Women vs Melbourne Renegades Women 23rd Match",
+      "title": "Sydney Sixers Women vs Melbourne Renegades Women LIVE 23rd Match",
       "team1": {
         "name": "Sydney Sixers Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Melbourne Renegades Women 23rd Match",
+        "name": "Melbourne Renegades Women LIVE 23rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sydney Sixers Women vs Melbourne Renegades Women 23rd Match",
+      "score": "Sydney Sixers Women vs Melbourne Renegades Women LIVE 23rd Match",
       "status": "Match Details"
     },
     {
@@ -755,6 +820,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Sri Lanka Women vs Papua New Guinea Women 12th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Cape Town, Newlands Warriors WAR 219-4 (20) Lions LIONS 183-7 (20) Warriors won by 36 runs",
+      "team1": {
+        "name": "Final • Cape Town, Newlands Warriors WAR 219",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "4 (20) Lions LIONS 183",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Final • Cape Town, Newlands Warriors WAR 219-4 (20) Lions LIONS 183-7 (20) Warriors won by 36 runs",
       "status": "Match Details"
     }
   ]
