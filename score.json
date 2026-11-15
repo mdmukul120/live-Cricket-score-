@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-15 17:27:01 UTC",
-  "total_matches": 61,
+  "last_updated": "2026-11-15 22:00:58 UTC",
+  "total_matches": 56,
   "matches": [
     {
       "title": "BAN vs RSA - Stumps",
@@ -17,7 +17,7 @@
       "status": "Match Details"
     },
     {
-      "title": "UT vs YL - Need 13 off 32b",
+      "title": "UT vs YL - YL won",
       "team1": {
         "name": "UT",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -26,7 +26,7 @@
         "name": "YL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UT vs YL - Need 13 off 32b",
+      "score": "UT vs YL - YL won",
       "status": "Match Details"
     },
     {
@@ -290,6 +290,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Tripura vs Puducherry Elite Group C",
+      "team1": {
+        "name": "Tripura",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Puducherry Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tripura vs Puducherry Elite Group C",
+      "status": "Match Details"
+    },
+    {
       "title": "Mizoram vs Baroda Elite Group A",
       "team1": {
         "name": "Mizoram",
@@ -316,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Tripura vs Puducherry Elite Group C",
+      "title": "Chhattisgarh vs Hyderabad Elite Group D",
       "team1": {
-        "name": "Tripura",
+        "name": "Chhattisgarh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Puducherry Elite Group C",
+        "name": "Hyderabad Elite Group D",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Tripura vs Puducherry Elite Group C",
+      "score": "Chhattisgarh vs Hyderabad Elite Group D",
       "status": "Match Details"
     },
     {
@@ -368,32 +381,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Chhattisgarh vs Hyderabad Elite Group D",
-      "team1": {
-        "name": "Chhattisgarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chhattisgarh vs Hyderabad Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "UAE Bulls vs Yas Lions 18th Match",
-      "team1": {
-        "name": "UAE Bulls",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yas Lions 18th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "UAE Bulls vs Yas Lions 18th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Arabian Aces vs Royal Desert Champions 19th Match",
       "team1": {
         "name": "Arabian Aces",
@@ -420,16 +407,16 @@
       "status": "Match Details"
     },
     {
-      "title": "United Tigers vs Yas Lions LIVE 21st Match",
+      "title": "United Tigers vs Yas Lions 21st Match",
       "team1": {
         "name": "United Tigers",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Yas Lions LIVE 21st Match",
+        "name": "Yas Lions 21st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United Tigers vs Yas Lions LIVE 21st Match",
+      "score": "United Tigers vs Yas Lions 21st Match",
       "status": "Match Details"
     },
     {
@@ -524,19 +511,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Warriors vs Lions Final",
-      "team1": {
-        "name": "Warriors",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Lions Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Warriors vs Lions Final",
-      "status": "Match Details"
-    },
-    {
       "title": "England Lions vs West Indies A 4th Unofficial ODI",
       "team1": {
         "name": "England Lions",
@@ -547,6 +521,19 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "England Lions vs West Indies A 4th Unofficial ODI",
+      "status": "Match Details"
+    },
+    {
+      "title": "West Indies A vs England Lions 5th Unofficial ODI",
+      "team1": {
+        "name": "West Indies A",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "England Lions 5th Unofficial ODI",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "West Indies A vs England Lions 5th Unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -706,19 +693,6 @@
       "status": "Match Details"
     },
     {
-      "title": "United Arab Emirates Women vs Sri Lanka Women 16th Match, Group A",
-      "team1": {
-        "name": "United Arab Emirates Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sri Lanka Women 16th Match, Group A",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "United Arab Emirates Women vs Sri Lanka Women 16th Match, Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Ireland Women vs Papua New Guinea Women 15th Match, Group A",
       "team1": {
         "name": "Ireland Women",
@@ -732,68 +706,29 @@
       "status": "Match Details"
     },
     {
-      "title": "20th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 123-4 (10) UAE Bulls UBL 114-8 (10) Emirates Eagles won by 9 runs",
+      "title": "United Arab Emirates Women vs Sri Lanka Women 16th Match, Group A",
       "team1": {
-        "name": "20th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 123",
+        "name": "United Arab Emirates Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "4 (10) UAE Bulls UBL 114",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "20th Match • Abu Dhabi, Sheikh Zayed Stadium Emirates Eagles EE 123-4 (10) UAE Bulls UBL 114-8 (10) Emirates Eagles won by 9 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "19th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 124-3 (10) Royal Desert Champions RDC 113-4 (10) Arabian Aces won by 11 runs",
-      "team1": {
-        "name": "19th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 124",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "3 (10) Royal Desert Champions RDC 113",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "19th Match • Abu Dhabi, Sheikh Zayed Stadium Arabian Aces ARA 124-3 (10) Royal Desert Champions RDC 113-4 (10) Arabian Aces won by 11 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "28th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 224-3 (20) Kathmandu Gorkhas KAG 169 (19.5) Pokhara Avengers won by 55 runs",
-      "team1": {
-        "name": "28th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 224",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "3 (20) Kathmandu Gorkhas KAG 169 (19.5) Pokhara Avengers won by 55 runs",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "28th Match • Kirtipur, Tribhuvan University International Cricket Ground Pokhara Avengers POA 224-3 (20) Kathmandu Gorkhas KAG 169 (19.5) Pokhara Avengers won by 55 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "11th Match, Group A • Ajman, Karwan Cricket Ground United Arab Emirates Women UAEW 137-4 (20) Scotland Women SCOW 142-3 (18.1) Scotland Women won by 7 wkts",
-      "team1": {
-        "name": "11th Match, Group A • Ajman, Karwan Cricket Ground United Arab Emirates Women UAEW 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "4 (20) Scotland Women SCOW 142",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "11th Match, Group A • Ajman, Karwan Cricket Ground United Arab Emirates Women UAEW 137-4 (20) Scotland Women SCOW 142-3 (18.1) Scotland Women won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "12th Match, Group A • Ajman, Seven Districts Ground Sri Lanka Women SLW 150-5 (20) Papua New Guinea Women PNGW 83-9 (20) Sri Lanka Women won by 67 runs",
-      "team1": {
-        "name": "12th Match, Group A • Ajman, Seven Districts Ground Sri Lanka Women SLW 150",
+        "name": "Sri Lanka Women 16th Match, Group A",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "team2": {
-        "name": "5 (20) Papua New Guinea Women PNGW 83",
+      "score": "United Arab Emirates Women vs Sri Lanka Women 16th Match, Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "21st Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 88 (8.4) Yas Lions YL 90-2 (6) Yas Lions won by 8 wkts",
+      "team1": {
+        "name": "21st Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 88 (8.4) Yas Lions YL 90",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "12th Match, Group A • Ajman, Seven Districts Ground Sri Lanka Women SLW 150-5 (20) Papua New Guinea Women PNGW 83-9 (20) Sri Lanka Women won by 67 runs",
+      "team2": {
+        "name": "2 (6) Yas Lions won by 8 wkts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "21st Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 88 (8.4) Yas Lions YL 90-2 (6) Yas Lions won by 8 wkts",
       "status": "Match Details"
     }
   ]
