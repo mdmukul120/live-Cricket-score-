@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-15 22:00:58 UTC",
-  "total_matches": 56,
+  "last_updated": "2026-11-16 01:55:08 UTC",
+  "total_matches": 55,
   "matches": [
     {
       "title": "BAN vs RSA - Stumps",
@@ -121,16 +121,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Falkland Islands vs Costa Rica 1st T20I",
+      "title": "Costa Rica vs Falkland Islands 1st T20I",
       "team1": {
-        "name": "Falkland Islands",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Costa Rica 1st T20I",
+        "name": "Costa Rica",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Falkland Islands vs Costa Rica 1st T20I",
+      "team2": {
+        "name": "Falkland Islands 1st T20I",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "Costa Rica vs Falkland Islands 1st T20I",
       "status": "Match Details"
     },
     {
@@ -329,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Chhattisgarh vs Hyderabad Elite Group D",
-      "team1": {
-        "name": "Chhattisgarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chhattisgarh vs Hyderabad Elite Group D",
-      "status": "Match Details"
-    },
-    {
       "title": "Bengal vs Chandigarh Elite Group A",
       "team1": {
         "name": "Bengal",
@@ -378,6 +365,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Kerala vs Maharashtra Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Chhattisgarh vs Hyderabad Elite Group D",
+      "team1": {
+        "name": "Chhattisgarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hyderabad Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chhattisgarh vs Hyderabad Elite Group D",
       "status": "Match Details"
     },
     {
@@ -537,29 +537,29 @@
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs South Australia 13th Match",
+      "title": "South Australia vs New South Wales 13th Match",
       "team1": {
-        "name": "New South Wales",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "South Australia 13th Match",
+        "name": "South Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "New South Wales vs South Australia 13th Match",
+      "team2": {
+        "name": "New South Wales 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "South Australia vs New South Wales 13th Match",
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs Tasmania 14th Match",
+      "title": "Queensland vs Tasmania LIVE 14th Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Tasmania 14th Match",
+        "name": "Tasmania LIVE 14th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Queensland vs Tasmania 14th Match",
+      "score": "Queensland vs Tasmania LIVE 14th Match",
       "status": "Match Details"
     },
     {
@@ -716,19 +716,6 @@
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "score": "United Arab Emirates Women vs Sri Lanka Women 16th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "21st Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 88 (8.4) Yas Lions YL 90-2 (6) Yas Lions won by 8 wkts",
-      "team1": {
-        "name": "21st Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 88 (8.4) Yas Lions YL 90",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (6) Yas Lions won by 8 wkts",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "21st Match • Abu Dhabi, Sheikh Zayed Stadium United Tigers UT 88 (8.4) Yas Lions YL 90-2 (6) Yas Lions won by 8 wkts",
       "status": "Match Details"
     }
   ]
