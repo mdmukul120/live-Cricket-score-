@@ -1,23 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-11-17 11:11:07 UTC",
-  "total_matches": 56,
+  "last_updated": "2026-11-17 19:52:57 UTC",
+  "total_matches": 47,
   "matches": [
     {
-      "title": "BAN vs RSA - Rain",
+      "title": "AUS vs ENG - Preview",
       "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "BAN vs RSA - Rain",
+      "score": "AUS vs ENG - Preview",
       "status": "Match Details"
     },
     {
-      "title": "SL vs PAK - Lead by 4",
+      "title": "SL vs PAK - Stumps",
       "team1": {
         "name": "SL",
         "flag": "https://flagcdn.com/w80/lk.png"
@@ -26,11 +26,24 @@
         "name": "PAK",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "SL vs PAK - Lead by 4",
+      "score": "SL vs PAK - Stumps",
       "status": "Match Details"
     },
     {
-      "title": "ZIM vs AFG - Need 138 to win",
+      "title": "RDC vs UBL - UBL won",
+      "team1": {
+        "name": "RDC",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UBL",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "RDC vs UBL - UBL won",
+      "status": "Match Details"
+    },
+    {
+      "title": "ZIM vs AFG - ZIM won",
       "team1": {
         "name": "ZIM",
         "flag": "https://flagcdn.com/w80/zw.png"
@@ -39,33 +52,20 @@
         "name": "AFG",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "ZIM vs AFG - Need 138 to win",
+      "score": "ZIM vs AFG - ZIM won",
       "status": "Match Details"
     },
     {
-      "title": "ADSW vs SYSW - SYSW won",
+      "title": "BAN vs RSA - Stumps",
       "team1": {
-        "name": "ADSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "BAN",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "SYSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "RSA",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
-      "score": "ADSW vs SYSW - SYSW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "YL vs ARA - Preview",
-      "team1": {
-        "name": "YL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ARA",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "YL vs ARA - Preview",
+      "score": "BAN vs RSA - Stumps",
       "status": "Match Details"
     },
     {
@@ -95,29 +95,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sri Lanka vs Pakistan LIVE 2nd Test",
+      "title": "Sri Lanka vs Pakistan 2nd Test",
       "team1": {
         "name": "Sri Lanka",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "Pakistan LIVE 2nd Test",
+        "name": "Pakistan 2nd Test",
         "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "Sri Lanka vs Pakistan LIVE 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Costa Rica vs Falkland Islands 3rd T20I",
-      "team1": {
-        "name": "Costa Rica",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Falkland Islands 3rd T20I",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Costa Rica vs Falkland Islands 3rd T20I",
+      "score": "Sri Lanka vs Pakistan 2nd Test",
       "status": "Match Details"
     },
     {
@@ -147,94 +134,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe vs Afghanistan LIVE 2nd Test",
+      "title": "Falkland Islands vs Costa Rica 6th T20I",
+      "team1": {
+        "name": "Falkland Islands",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "team2": {
+        "name": "Costa Rica 6th T20I",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Falkland Islands vs Costa Rica 6th T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe vs Afghanistan 2nd Test",
       "team1": {
         "name": "Zimbabwe",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Afghanistan LIVE 2nd Test",
+        "name": "Afghanistan 2nd Test",
         "flag": "https://flagcdn.com/w80/af.png"
       },
-      "score": "Zimbabwe vs Afghanistan LIVE 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Mizoram vs Baroda Elite Group A",
-      "team1": {
-        "name": "Mizoram",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Baroda Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mizoram vs Baroda Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Haryana vs Saurashtra Elite Group B",
-      "team1": {
-        "name": "Haryana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saurashtra Elite Group B",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Haryana vs Saurashtra Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Chandigarh Elite Group A",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Chandigarh Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Chandigarh Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Delhi vs Punjab Elite Group B",
-      "team1": {
-        "name": "Delhi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Punjab Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Delhi vs Punjab Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Kerala vs Maharashtra Elite Group C",
-      "team1": {
-        "name": "Kerala",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Maharashtra Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Kerala vs Maharashtra Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chhattisgarh vs Hyderabad Elite Group D",
-      "team1": {
-        "name": "Chhattisgarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Hyderabad Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chhattisgarh vs Hyderabad Elite Group D",
+      "score": "Zimbabwe vs Afghanistan 2nd Test",
       "status": "Match Details"
     },
     {
@@ -446,55 +368,55 @@
       "status": "Match Details"
     },
     {
-      "title": "United Tigers vs Arabian Aces 22nd Match",
+      "title": "Arabian Aces vs Yas Lions 24th Match",
       "team1": {
-        "name": "United Tigers",
+        "name": "Arabian Aces",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Arabian Aces 22nd Match",
+        "name": "Yas Lions 24th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "United Tigers vs Arabian Aces 22nd Match",
+      "score": "Arabian Aces vs Yas Lions 24th Match",
       "status": "Match Details"
     },
     {
-      "title": "Royal Desert Champions vs Emirates Eagles 23rd Match",
+      "title": "Royal Desert Champions vs UAE Bulls 25th Match",
       "team1": {
         "name": "Royal Desert Champions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Emirates Eagles 23rd Match",
+        "name": "UAE Bulls 25th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Royal Desert Champions vs Emirates Eagles 23rd Match",
+      "score": "Royal Desert Champions vs UAE Bulls 25th Match",
       "status": "Match Details"
     },
     {
-      "title": "Yas Lions vs Arabian Aces 24th Match",
-      "team1": {
-        "name": "Yas Lions",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Arabian Aces 24th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Yas Lions vs Arabian Aces 24th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "UAE Bulls vs Royal Desert Champions 25th Match",
+      "title": "UAE Bulls vs United Tigers 26th Match",
       "team1": {
         "name": "UAE Bulls",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Royal Desert Champions 25th Match",
+        "name": "United Tigers 26th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UAE Bulls vs Royal Desert Champions 25th Match",
+      "score": "UAE Bulls vs United Tigers 26th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Emirates Eagles vs Yas Lions 27th Match",
+      "team1": {
+        "name": "Emirates Eagles",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Yas Lions 27th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Emirates Eagles vs Yas Lions 27th Match",
       "status": "Match Details"
     },
     {
@@ -550,6 +472,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Kathmandu Gorkhas vs Chitwan Rhinos Eliminator",
+      "team1": {
+        "name": "Kathmandu Gorkhas",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chitwan Rhinos Eliminator",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Kathmandu Gorkhas vs Chitwan Rhinos Eliminator",
+      "status": "Match Details"
+    },
+    {
       "title": "England Lions vs West Indies A 5th Unofficial ODI",
       "team1": {
         "name": "England Lions",
@@ -576,19 +511,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Melbourne Stars Women vs Sydney Thunder Women 24th Match",
-      "team1": {
-        "name": "Melbourne Stars Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sydney Thunder Women 24th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Melbourne Stars Women vs Sydney Thunder Women 24th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Adelaide Strikers Women vs Sydney Sixers Women 25th Match",
       "team1": {
         "name": "Adelaide Strikers Women",
@@ -599,32 +521,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Adelaide Strikers Women vs Sydney Sixers Women 25th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Ireland Women vs Papua New Guinea Women 15th Match, Group A",
-      "team1": {
-        "name": "Ireland Women",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Papua New Guinea Women 15th Match, Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Ireland Women vs Papua New Guinea Women 15th Match, Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "United Arab Emirates Women vs Sri Lanka Women 16th Match, Group A",
-      "team1": {
-        "name": "United Arab Emirates Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Sri Lanka Women 16th Match, Group A",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "United Arab Emirates Women vs Sri Lanka Women 16th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -680,55 +576,42 @@
       "status": "Match Details"
     },
     {
-      "title": "4th T20I • Stanley, Platinum Oval Falkland Islands FALK 108-7 (20) Costa Rica CRI 109-8 (17.1) Costa Rica won by 2 wkts",
+      "title": "25th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 131-1 (10) UAE Bulls UBL 137-4 (9.5) UAE Bulls won by 6 wkts",
       "team1": {
-        "name": "4th T20I • Stanley, Platinum Oval Falkland Islands FALK 108",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "7 (20) Costa Rica CRI 109",
+        "name": "25th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 131",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "4th T20I • Stanley, Platinum Oval Falkland Islands FALK 108-7 (20) Costa Rica CRI 109-8 (17.1) Costa Rica won by 2 wkts",
+      "team2": {
+        "name": "1 (10) UAE Bulls UBL 137",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "25th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 131-1 (10) UAE Bulls UBL 137-4 (9.5) UAE Bulls won by 6 wkts",
       "status": "Match Details"
     },
     {
-      "title": "3rd T20I • Stanley, Platinum Oval Costa Rica CRI 106-5 (20) Falkland Islands FALK 107-3 (17.2) Falkland Islands won by 7 wkts",
+      "title": "24th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 145-2 (10) Yas Lions YL 146-5 (9.4) Yas Lions won by 5 wkts",
       "team1": {
-        "name": "3rd T20I • Stanley, Platinum Oval Costa Rica CRI 106",
+        "name": "24th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 145",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "5 (20) Falkland Islands FALK 107",
-        "flag": "https://flagcdn.com/w80/lk.png"
+        "name": "2 (10) Yas Lions YL 146",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd T20I • Stanley, Platinum Oval Costa Rica CRI 106-5 (20) Falkland Islands FALK 107-3 (17.2) Falkland Islands won by 7 wkts",
+      "score": "24th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 145-2 (10) Yas Lions YL 146-5 (9.4) Yas Lions won by 5 wkts",
       "status": "Match Details"
     },
     {
-      "title": "5th Unofficial ODI • Basseterre, St Kitts, Warner Park England Lions ENGA 326 (50) West Indies A WIA 238 (44) England Lions won by 88 runs",
+      "title": "Qualifier 1 • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 105-8 (20) Lumbini Lions LUL 108-4 (16.4) Lumbini Lions won by 6 wkts",
       "team1": {
-        "name": "5th Unofficial ODI • Basseterre, St Kitts, Warner Park England Lions ENGA 326 (50) West Indies A WIA 238 (44) England Lions won by 88 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "Team 2",
+        "name": "Qualifier 1 • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 105",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "5th Unofficial ODI • Basseterre, St Kitts, Warner Park England Lions ENGA 326 (50) West Indies A WIA 238 (44) England Lions won by 88 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "25th Match • Adelaide, South Australia, Karen Rolton Oval Adelaide Strikers Women ADSW 124 (18.1) Sydney Sixers Women SYSW 126-1 (15) Sydney Sixers Women won by 9 wkts",
-      "team1": {
-        "name": "25th Match • Adelaide, South Australia, Karen Rolton Oval Adelaide Strikers Women ADSW 124 (18.1) Sydney Sixers Women SYSW 126",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
       "team2": {
-        "name": "1 (15) Sydney Sixers Women won by 9 wkts",
+        "name": "8 (20) Lumbini Lions LUL 108",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "25th Match • Adelaide, South Australia, Karen Rolton Oval Adelaide Strikers Women ADSW 124 (18.1) Sydney Sixers Women SYSW 126-1 (15) Sydney Sixers Women won by 9 wkts",
+      "score": "Qualifier 1 • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 105-8 (20) Lumbini Lions LUL 108-4 (16.4) Lumbini Lions won by 6 wkts",
       "status": "Match Details"
     }
   ]
