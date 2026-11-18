@@ -1,7 +1,7 @@
 {
   "status": "success",
-  "last_updated": "2026-11-17 19:52:57 UTC",
-  "total_matches": 47,
+  "last_updated": "2026-11-18 02:07:31 UTC",
+  "total_matches": 46,
   "matches": [
     {
       "title": "AUS vs ENG - Preview",
@@ -69,6 +69,19 @@
       "status": "Match Details"
     },
     {
+      "title": "New Zealand vs India 1st Test",
+      "team1": {
+        "name": "New Zealand",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "India 1st Test",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "New Zealand vs India 1st Test",
+      "status": "Match Details"
+    },
+    {
       "title": "Australia vs England 3rd ODI",
       "team1": {
         "name": "Australia",
@@ -105,19 +118,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "Sri Lanka vs Pakistan 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Falkland Islands vs Costa Rica 4th T20I",
-      "team1": {
-        "name": "Falkland Islands",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "Costa Rica 4th T20I",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Falkland Islands vs Costa Rica 4th T20I",
       "status": "Match Details"
     },
     {
@@ -485,16 +485,42 @@
       "status": "Match Details"
     },
     {
-      "title": "England Lions vs West Indies A 5th Unofficial ODI",
+      "title": "Northern Districts vs Auckland 1st Match",
       "team1": {
-        "name": "England Lions",
-        "flag": "https://flagcdn.com/w80/gb.png"
+        "name": "Northern Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "West Indies A 5th Unofficial ODI",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "Auckland 1st Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "England Lions vs West Indies A 5th Unofficial ODI",
+      "score": "Northern Districts vs Auckland 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Districts vs Wellington 2nd Match",
+      "team1": {
+        "name": "Central Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Wellington 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Central Districts vs Wellington 2nd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Otago vs Canterbury 3rd Match",
+      "team1": {
+        "name": "Otago",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canterbury 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Otago vs Canterbury 3rd Match",
       "status": "Match Details"
     },
     {
@@ -573,45 +599,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Bangladesh Women vs Thailand Women 20th Match, Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "25th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 131-1 (10) UAE Bulls UBL 137-4 (9.5) UAE Bulls won by 6 wkts",
-      "team1": {
-        "name": "25th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 131",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "1 (10) UAE Bulls UBL 137",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "25th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 131-1 (10) UAE Bulls UBL 137-4 (9.5) UAE Bulls won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "24th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 145-2 (10) Yas Lions YL 146-5 (9.4) Yas Lions won by 5 wkts",
-      "team1": {
-        "name": "24th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 145",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "2 (10) Yas Lions YL 146",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "24th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 145-2 (10) Yas Lions YL 146-5 (9.4) Yas Lions won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qualifier 1 • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 105-8 (20) Lumbini Lions LUL 108-4 (16.4) Lumbini Lions won by 6 wkts",
-      "team1": {
-        "name": "Qualifier 1 • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 105",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (20) Lumbini Lions LUL 108",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qualifier 1 • Kirtipur, Tribhuvan University International Cricket Ground Sudur Paschim Royals SPR 105-8 (20) Lumbini Lions LUL 108-4 (16.4) Lumbini Lions won by 6 wkts",
       "status": "Match Details"
     }
   ]
