@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-19 17:29:43 UTC",
-  "total_matches": 61,
+  "last_updated": "2026-11-19 23:45:32 UTC",
+  "total_matches": 54,
   "matches": [
     {
-      "title": "NZ vs IND - Stumps",
+      "title": "NZ vs IND - IND opt to bowl",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,7 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Stumps",
+      "score": "NZ vs IND - IND opt to bowl",
       "status": "Match Details"
     },
     {
@@ -43,19 +43,6 @@
       "status": "Match Details"
     },
     {
-      "title": "EE vs UT - Need 108 off 36b",
-      "team1": {
-        "name": "EE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UT",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "EE vs UT - Need 108 off 36b",
-      "status": "Match Details"
-    },
-    {
       "title": "INDA vs NEP - Preview",
       "team1": {
         "name": "INDA",
@@ -69,16 +56,29 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand vs India 1st Test",
+      "title": "EE vs UT - EE won",
+      "team1": {
+        "name": "EE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UT",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "EE vs UT - EE won",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Zealand vs India LIVE 1st Test",
       "team1": {
         "name": "New Zealand",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "India 1st Test",
+        "name": "India LIVE 1st Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand vs India 1st Test",
+      "score": "New Zealand vs India LIVE 1st Test",
       "status": "Match Details"
     },
     {
@@ -105,19 +105,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "Sri Lanka vs Pakistan 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Costa Rica vs Falkland Islands 8th T20I",
-      "team1": {
-        "name": "Costa Rica",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Falkland Islands 8th T20I",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "Costa Rica vs Falkland Islands 8th T20I",
       "status": "Match Details"
     },
     {
@@ -173,32 +160,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Karnataka vs Jharkhand Elite Group A",
-      "team1": {
-        "name": "Karnataka",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Jharkhand Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Karnataka vs Jharkhand Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jammu and Kashmir vs Bihar Elite Group B",
-      "team1": {
-        "name": "Jammu and Kashmir",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bihar Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jammu and Kashmir vs Bihar Elite Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Madhya Pradesh vs Andhra Elite Group C",
       "team1": {
         "name": "Madhya Pradesh",
@@ -222,6 +183,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Uttarakhand vs Odisha Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Karnataka vs Jharkhand Elite Group A",
+      "team1": {
+        "name": "Karnataka",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Jharkhand Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Karnataka vs Jharkhand Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Jammu and Kashmir vs Bihar Elite Group B",
+      "team1": {
+        "name": "Jammu and Kashmir",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Jammu and Kashmir vs Bihar Elite Group B",
       "status": "Match Details"
     },
     {
@@ -329,19 +316,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Emirates Eagles vs Yas Lions 27th Match",
-      "team1": {
-        "name": "Emirates Eagles",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Yas Lions 27th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Emirates Eagles vs Yas Lions 27th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Arabian Aces vs UAE Bulls 28th Match",
       "team1": {
         "name": "Arabian Aces",
@@ -368,42 +342,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Emirates Eagles vs United Tigers LIVE 30th Match",
+      "title": "Emirates Eagles vs United Tigers 30th Match",
       "team1": {
         "name": "Emirates Eagles",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "United Tigers LIVE 30th Match",
+        "name": "United Tigers 30th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Emirates Eagles vs United Tigers LIVE 30th Match",
+      "score": "Emirates Eagles vs United Tigers 30th Match",
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Qualifier (2v3)",
+      "title": "Arabian Aces vs UAE Bulls Qualifier (2v3)",
       "team1": {
-        "name": "TBC",
+        "name": "Arabian Aces",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "TBC Qualifier (2v3)",
+        "name": "UAE Bulls Qualifier (2v3)",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC Qualifier (2v3)",
+      "score": "Arabian Aces vs UAE Bulls Qualifier (2v3)",
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Final",
+      "title": "Yas Lions vs TBC Final",
       "team1": {
-        "name": "TBC",
+        "name": "Yas Lions",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
         "name": "TBC Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TBC vs TBC Final",
+      "score": "Yas Lions vs TBC Final",
       "status": "Match Details"
     },
     {
@@ -511,42 +485,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Auckland vs Northern Districts 1st Match",
+      "title": "Auckland vs Northern Districts LIVE 1st Match",
       "team1": {
         "name": "Auckland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Districts 1st Match",
+        "name": "Northern Districts LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Auckland vs Northern Districts 1st Match",
+      "score": "Auckland vs Northern Districts LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Wellington vs Central Districts 2nd Match",
+      "title": "Wellington vs Central Districts LIVE 2nd Match",
       "team1": {
         "name": "Wellington",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Districts 2nd Match",
+        "name": "Central Districts LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Wellington vs Central Districts 2nd Match",
+      "score": "Wellington vs Central Districts LIVE 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Canterbury vs Otago 3rd Match",
+      "title": "Canterbury vs Otago LIVE 3rd Match",
       "team1": {
         "name": "Canterbury",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Otago 3rd Match",
+        "name": "Otago LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Canterbury vs Otago 3rd Match",
+      "score": "Canterbury vs Otago LIVE 3rd Match",
       "status": "Match Details"
     },
     {
@@ -563,16 +537,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Knights vs Boland 11th Match",
+      "title": "Titans vs Warriors 9th Match",
       "team1": {
-        "name": "Knights",
+        "name": "Titans",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Boland 11th Match",
+        "name": "Warriors 9th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Knights vs Boland 11th Match",
+      "score": "Titans vs Warriors 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Boland vs Knights 11th Match",
+      "team1": {
+        "name": "Boland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Knights 11th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Boland vs Knights 11th Match",
       "status": "Match Details"
     },
     {
@@ -589,19 +576,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Titans vs Warriors 9th Match",
-      "team1": {
-        "name": "Titans",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warriors 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Titans vs Warriors 9th Match",
-      "status": "Match Details"
-    },
-    {
       "title": "Zimbabwe A vs Ireland A 2nd unofficial ODI",
       "team1": {
         "name": "Zimbabwe A",
@@ -615,16 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Western Districts vs Border 7th Match",
+      "title": "Border vs South Western Districts 7th Match",
       "team1": {
-        "name": "South Western Districts",
+        "name": "Border",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Border 7th Match",
+        "name": "South Western Districts 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Western Districts vs Border 7th Match",
+      "score": "Border vs South Western Districts 7th Match",
       "status": "Match Details"
     },
     {
@@ -729,71 +703,6 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Malaysia Women vs Indonesia Women 1st Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "29th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 110-6 (10) Yas Lions YL 91-6 (10) Royal Desert Champions won by 19 runs",
-      "team1": {
-        "name": "29th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 110",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (10) Yas Lions YL 91",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "29th Match • Abu Dhabi, Zayed Cricket Stadium Royal Desert Champions RDC 110-6 (10) Yas Lions YL 91-6 (10) Royal Desert Champions won by 19 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "28th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 96-6 (10) UAE Bulls UBL 99-3 (7) UAE Bulls won by 7 wkts",
-      "team1": {
-        "name": "28th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 96",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (10) UAE Bulls UBL 99",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "28th Match • Abu Dhabi, Zayed Cricket Stadium Arabian Aces ARA 96-6 (10) UAE Bulls UBL 99-3 (7) UAE Bulls won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Qualifier 2 • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 133-9 (20) Sudur Paschim Royals SPR 136-7 (19.5) Sudur Paschim Royals won by 3 wkts",
-      "team1": {
-        "name": "Qualifier 2 • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 133",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Sudur Paschim Royals SPR 136",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Qualifier 2 • Kirtipur, Tribhuvan University International Cricket Ground Chitwan Rhinos CHR 133-9 (20) Sudur Paschim Royals SPR 136-7 (19.5) Sudur Paschim Royals won by 3 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 139 (35.3) Sri Lanka A SLA 144-4 (21.4) Sri Lanka A won by 6 wkts",
-      "team1": {
-        "name": "2nd Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 139 (35.3) Sri Lanka A SLA 144",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "team2": {
-        "name": "4 (21.4) Sri Lanka A won by 6 wkts",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "2nd Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 139 (35.3) Sri Lanka A SLA 144-4 (21.4) Sri Lanka A won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "1st Match, Group A • Doha, University of Doha for Science and Technology Hong Kong, China HKC 219-8 (50) Bangladesh A BANA 220-2 (41) Bangladesh A won by 8 wkts",
-      "team1": {
-        "name": "1st Match, Group A • Doha, University of Doha for Science and Technology Hong Kong, China HKC 219",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "8 (50) Bangladesh A BANA 220",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "1st Match, Group A • Doha, University of Doha for Science and Technology Hong Kong, China HKC 219-8 (50) Bangladesh A BANA 220-2 (41) Bangladesh A won by 8 wkts",
       "status": "Match Details"
     }
   ]
