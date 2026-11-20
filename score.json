@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-19 23:45:32 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-11-20 04:23:32 UTC",
+  "total_matches": 56,
   "matches": [
     {
-      "title": "NZ vs IND - IND opt to bowl",
+      "title": "NZ vs IND - Trail by 266",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,7 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - IND opt to bowl",
+      "score": "NZ vs IND - Trail by 266",
       "status": "Match Details"
     },
     {
@@ -30,16 +30,16 @@
       "status": "Match Details"
     },
     {
-      "title": "BAN vs RSA - RSA won",
+      "title": "PUN vs TN - TN opt to bowl",
       "team1": {
-        "name": "BAN",
-        "flag": "https://flagcdn.com/w80/bd.png"
+        "name": "PUN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "RSA",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "TN",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BAN vs RSA - RSA won",
+      "score": "PUN vs TN - TN opt to bowl",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "EE vs UT - EE won",
+      "title": "ADSW vs MLRW - Preview",
       "team1": {
-        "name": "EE",
+        "name": "ADSW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "UT",
+        "name": "MLRW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "EE vs UT - EE won",
+      "score": "ADSW vs MLRW - Preview",
       "status": "Match Details"
     },
     {
@@ -121,68 +121,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Chandigarh vs Uttar Pradesh Elite Group A",
+      "title": "Assam vs Maharashtra LIVE Elite Group C",
       "team1": {
-        "name": "Chandigarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Assam",
+        "flag": "https://flagcdn.com/w80/za.png"
       },
       "team2": {
-        "name": "Uttar Pradesh Elite Group A",
+        "name": "Maharashtra LIVE Elite Group C",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Chandigarh vs Uttar Pradesh Elite Group A",
+      "score": "Assam vs Maharashtra LIVE Elite Group C",
       "status": "Match Details"
     },
     {
-      "title": "Punjab vs Tamil Nadu Elite Group B",
+      "title": "Uttar Pradesh vs Chandigarh LIVE Elite Group A",
+      "team1": {
+        "name": "Uttar Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Chandigarh LIVE Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttar Pradesh vs Chandigarh LIVE Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Punjab vs Tamil Nadu LIVE Elite Group B",
       "team1": {
         "name": "Punjab",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Tamil Nadu Elite Group B",
+        "name": "Tamil Nadu LIVE Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Punjab vs Tamil Nadu Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Maharashtra vs Assam Elite Group C",
-      "team1": {
-        "name": "Maharashtra",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Assam Elite Group C",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Maharashtra vs Assam Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Madhya Pradesh vs Andhra Elite Group C",
-      "team1": {
-        "name": "Madhya Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Andhra Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Madhya Pradesh vs Andhra Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Uttarakhand vs Odisha Elite Group D",
-      "team1": {
-        "name": "Uttarakhand",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Odisha Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Uttarakhand vs Odisha Elite Group D",
+      "score": "Punjab vs Tamil Nadu LIVE Elite Group B",
       "status": "Match Details"
     },
     {
@@ -209,6 +183,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Jammu and Kashmir vs Bihar Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Madhya Pradesh vs Andhra Elite Group C",
+      "team1": {
+        "name": "Madhya Pradesh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Andhra Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Madhya Pradesh vs Andhra Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Uttarakhand vs Odisha Elite Group D",
+      "team1": {
+        "name": "Uttarakhand",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Odisha Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Uttarakhand vs Odisha Elite Group D",
       "status": "Match Details"
     },
     {
@@ -264,32 +264,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Rajasthan vs Baroda Elite Group A",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Baroda Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Baroda Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Railways vs Haryana Elite Group B",
-      "team1": {
-        "name": "Railways",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Railways vs Haryana Elite Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Himachal Pradesh vs Puducherry Elite Group C",
       "team1": {
         "name": "Himachal Pradesh",
@@ -313,6 +287,32 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Vidarbha vs Mumbai Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Rajasthan vs Baroda Elite Group A",
+      "team1": {
+        "name": "Rajasthan",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Baroda Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Rajasthan vs Baroda Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Railways vs Haryana Elite Group B",
+      "team1": {
+        "name": "Railways",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Haryana Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Railways vs Haryana Elite Group B",
       "status": "Match Details"
     },
     {
@@ -381,29 +381,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Arunachal Pradesh vs Meghalaya Plate",
+      "title": "Meghalaya vs Arunachal Pradesh Plate",
       "team1": {
-        "name": "Arunachal Pradesh",
+        "name": "Meghalaya",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Meghalaya Plate",
+        "name": "Arunachal Pradesh Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Arunachal Pradesh vs Meghalaya Plate",
+      "score": "Meghalaya vs Arunachal Pradesh Plate",
       "status": "Match Details"
     },
     {
-      "title": "Services vs Nagaland Plate",
+      "title": "Nagaland vs Services Plate",
       "team1": {
-        "name": "Services",
+        "name": "Nagaland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Nagaland Plate",
+        "name": "Services Plate",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Services vs Nagaland Plate",
+      "score": "Nagaland vs Services Plate",
       "status": "Match Details"
     },
     {
@@ -654,6 +654,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Hobart Hurricanes Women vs Sydney Thunder Women 29th Match",
+      "team1": {
+        "name": "Hobart Hurricanes Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Sydney Thunder Women 29th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Hobart Hurricanes Women vs Sydney Thunder Women 29th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "Scotland Women vs Netherlands Women 21st Match, Super Six (A2 v B2)",
       "team1": {
         "name": "Scotland Women",
@@ -693,16 +706,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia Women vs Indonesia Women 1st Match",
+      "title": "Malaysia Women vs Indonesia Women LIVE 1st Match",
       "team1": {
         "name": "Malaysia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Indonesia Women 1st Match",
+        "name": "Indonesia Women LIVE 1st Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Malaysia Women vs Indonesia Women 1st Match",
+      "score": "Malaysia Women vs Indonesia Women LIVE 1st Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "China Women vs Indonesia Women 2nd Match",
+      "team1": {
+        "name": "China Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Indonesia Women 2nd Match",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "China Women vs Indonesia Women 2nd Match",
       "status": "Match Details"
     }
   ]
