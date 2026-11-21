@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-11-21 10:16:56 UTC",
-  "total_matches": 72,
+  "last_updated": "2026-11-21 17:38:55 UTC",
+  "total_matches": 64,
   "matches": [
-    {
-      "title": "ENG vs AUS - Need 172 to win",
-      "team1": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "score": "ENG vs AUS - Need 172 to win",
-      "status": "Match Details"
-    },
     {
       "title": "NZ vs IND - Stumps",
       "team1": {
@@ -30,42 +17,55 @@
       "status": "Match Details"
     },
     {
-      "title": "DV vs MIE - Preview",
+      "title": "MIE vs DV - Need 147 to win",
       "team1": {
-        "name": "DV",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "MIE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DV vs MIE - Preview",
+      "team2": {
+        "name": "DV",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MIE vs DV - Need 147 to win",
       "status": "Match Details"
     },
     {
-      "title": "PRSW vs SYSW - SYSW won",
+      "title": "ENG vs AUS - AUS won",
       "team1": {
-        "name": "PRSW",
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "ENG vs AUS - AUS won",
+      "status": "Match Details"
+    },
+    {
+      "title": "LUL vs SPR - SPR won",
+      "team1": {
+        "name": "LUL",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SYSW",
+        "name": "SPR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "PRSW vs SYSW - SYSW won",
+      "score": "LUL vs SPR - SPR won",
       "status": "Match Details"
     },
     {
-      "title": "INDA vs NEP - INDA won",
+      "title": "INDA vs PAKA - Preview",
       "team1": {
         "name": "INDA",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "NEP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "PAKA",
+        "flag": "https://flagcdn.com/w80/pk.png"
       },
-      "score": "INDA vs NEP - INDA won",
+      "score": "INDA vs PAKA - Preview",
       "status": "Match Details"
     },
     {
@@ -82,16 +82,16 @@
       "status": "Match Details"
     },
     {
-      "title": "England vs Australia LIVE 1st T20I",
+      "title": "England vs Australia 1st T20I",
       "team1": {
         "name": "England",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "Australia LIVE 1st T20I",
+        "name": "Australia 1st T20I",
         "flag": "https://flagcdn.com/w80/au.png"
       },
-      "score": "England vs Australia LIVE 1st T20I",
+      "score": "England vs Australia 1st T20I",
       "status": "Match Details"
     },
     {
@@ -105,110 +105,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "Sri Lanka vs Pakistan 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "Chhattisgarh vs Gujarat Elite Group D",
-      "team1": {
-        "name": "Chhattisgarh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Gujarat Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Chhattisgarh vs Gujarat Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Tripura vs Kerala Elite Group C",
-      "team1": {
-        "name": "Tripura",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Kerala Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Tripura vs Kerala Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Mizoram Elite Group A",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Mizoram Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Mizoram Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Delhi vs Saurashtra Elite Group B",
-      "team1": {
-        "name": "Delhi",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Saurashtra Elite Group B",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Delhi vs Saurashtra Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Rajasthan vs Baroda Elite Group A",
-      "team1": {
-        "name": "Rajasthan",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Baroda Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Rajasthan vs Baroda Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Haryana vs Railways Elite Group B",
-      "team1": {
-        "name": "Haryana",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Railways Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Haryana vs Railways Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Puducherry vs Himachal Pradesh Elite Group C",
-      "team1": {
-        "name": "Puducherry",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Himachal Pradesh Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Puducherry vs Himachal Pradesh Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Vidarbha vs Mumbai Elite Group D",
-      "team1": {
-        "name": "Vidarbha",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Mumbai Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Vidarbha vs Mumbai Elite Group D",
       "status": "Match Details"
     },
     {
@@ -368,16 +264,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Arabian Aces vs UAE Bulls Qualifier (2v3)",
+      "title": "Uttar Pradesh vs Jharkhand Elite Group A",
       "team1": {
-        "name": "Arabian Aces",
+        "name": "Uttar Pradesh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "UAE Bulls Qualifier (2v3)",
+        "name": "Jharkhand Elite Group A",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Arabian Aces vs UAE Bulls Qualifier (2v3)",
+      "score": "Uttar Pradesh vs Jharkhand Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Tamil Nadu vs Bihar Elite Group B",
+      "team1": {
+        "name": "Tamil Nadu",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Tamil Nadu vs Bihar Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Assam vs Andhra Elite Group C",
+      "team1": {
+        "name": "Assam",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "team2": {
+        "name": "Andhra Elite Group C",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Assam vs Andhra Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Goa vs Odisha Elite Group D",
+      "team1": {
+        "name": "Goa",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Odisha Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Goa vs Odisha Elite Group D",
       "status": "Match Details"
     },
     {
@@ -394,16 +329,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Desert Vipers vs MI Emirates 1st Match",
+      "title": "MI Emirates vs Desert Vipers LIVE 1st Match",
       "team1": {
-        "name": "Desert Vipers",
+        "name": "MI Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MI Emirates 1st Match",
+        "name": "Desert Vipers LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Desert Vipers vs MI Emirates 1st Match",
+      "score": "MI Emirates vs Desert Vipers LIVE 1st Match",
       "status": "Match Details"
     },
     {
@@ -420,16 +355,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Manipur vs Sikkim Plate",
+      "title": "Dubai Capitals vs Abu Dhabi Knight Riders 3rd Match",
       "team1": {
-        "name": "Manipur",
+        "name": "Dubai Capitals",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sikkim Plate",
+        "name": "Abu Dhabi Knight Riders 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Manipur vs Sikkim Plate",
+      "score": "Dubai Capitals vs Abu Dhabi Knight Riders 3rd Match",
       "status": "Match Details"
     },
     {
@@ -485,19 +420,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan A vs United Arab Emirates 3rd Match, Group B",
-      "team1": {
-        "name": "Pakistan A",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "United Arab Emirates 3rd Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pakistan A vs United Arab Emirates 3rd Match, Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "India A vs Nepal 4th Match, Group B",
       "team1": {
         "name": "India A",
@@ -524,16 +446,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Afghanistan A vs Bangladesh A LIVE 6th Match, Group A",
+      "title": "Afghanistan A vs Bangladesh A 6th Match, Group A",
       "team1": {
         "name": "Afghanistan A",
         "flag": "https://flagcdn.com/w80/af.png"
       },
       "team2": {
-        "name": "Bangladesh A LIVE 6th Match, Group A",
+        "name": "Bangladesh A 6th Match, Group A",
         "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "Afghanistan A vs Bangladesh A LIVE 6th Match, Group A",
+      "score": "Afghanistan A vs Bangladesh A 6th Match, Group A",
       "status": "Match Details"
     },
     {
@@ -706,19 +628,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Ireland A vs Zimbabwe A 2nd unofficial ODI",
-      "team1": {
-        "name": "Ireland A",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "team2": {
-        "name": "Zimbabwe A 2nd unofficial ODI",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "score": "Ireland A vs Zimbabwe A 2nd unofficial ODI",
-      "status": "Match Details"
-    },
-    {
       "title": "Zimbabwe A vs Ireland A 3rd unofficial ODI",
       "team1": {
         "name": "Zimbabwe A",
@@ -755,19 +664,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Limpopo vs KwaZulu-Natal Inland Tuskers 8th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Melbourne Renegades Women vs Adelaide Strikers Women 28th Match",
-      "team1": {
-        "name": "Melbourne Renegades Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Adelaide Strikers Women 28th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Melbourne Renegades Women vs Adelaide Strikers Women 28th Match",
       "status": "Match Details"
     },
     {
@@ -820,19 +716,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Melbourne Stars Women vs Melbourne Renegades Women 32nd Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Pakistan Women vs Ireland Women 23rd Match, Super Six (B1 v A3)",
-      "team1": {
-        "name": "Pakistan Women",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Ireland Women 23rd Match, Super Six (B1 v A3)",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Pakistan Women vs Ireland Women 23rd Match, Super Six (B1 v A3)",
       "status": "Match Details"
     },
     {
@@ -901,42 +784,55 @@
       "status": "Match Details"
     },
     {
-      "title": "1st Match • Hamilton, Seddon Park Auckland AKL 137 & 292 Northern Districts ND 292 & 138-3 Northern Districts won by 7 wkts",
+      "title": "Final • Kirtipur, Tribhuvan University International Cricket Ground Lumbini Lions LUL 155-6 (20) Sudur Paschim Royals SPR 158-0 (13.3) Sudur Paschim Royals won by 10 wkts",
       "team1": {
-        "name": "1st Match • Hamilton, Seddon Park Auckland AKL 137 & 292 Northern Districts ND 292 & 138",
+        "name": "Final • Kirtipur, Tribhuvan University International Cricket Ground Lumbini Lions LUL 155",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 Northern Districts won by 7 wkts",
+        "name": "6 (20) Sudur Paschim Royals SPR 158",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st Match • Hamilton, Seddon Park Auckland AKL 137 & 292 Northern Districts ND 292 & 138-3 Northern Districts won by 7 wkts",
+      "score": "Final • Kirtipur, Tribhuvan University International Cricket Ground Lumbini Lions LUL 155-6 (20) Sudur Paschim Royals SPR 158-0 (13.3) Sudur Paschim Royals won by 10 wkts",
       "status": "Match Details"
     },
     {
-      "title": "30th Match • Sydney, North Sydney Oval Perth Scorchers Women PRSW 142-7 (20) Sydney Sixers Women SYSW 120-6 (14.5) Sydney Sixers Women won by 4 wkts (DLS Method)",
+      "title": "6th Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 174 (45) Bangladesh A BANA 176-9 (45.5) Bangladesh A won by 1 wkt",
       "team1": {
-        "name": "30th Match • Sydney, North Sydney Oval Perth Scorchers Women PRSW 142",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "6th Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 174 (45) Bangladesh A BANA 176",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
-        "name": "7 (20) Sydney Sixers Women SYSW 120",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "9 (45.5) Bangladesh A won by 1 wkt",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
-      "score": "30th Match • Sydney, North Sydney Oval Perth Scorchers Women PRSW 142-7 (20) Sydney Sixers Women SYSW 120-6 (14.5) Sydney Sixers Women won by 4 wkts (DLS Method)",
+      "score": "6th Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 174 (45) Bangladesh A BANA 176-9 (45.5) Bangladesh A won by 1 wkt",
       "status": "Match Details"
     },
     {
-      "title": "2nd Match • Kuala Lumpur, Bayuemas Oval Indonesia Women IDNW 114-3 (20) China Women CHNW 111-9 (20) Indonesia Women won by 3 runs",
+      "title": "5th Match, Group A • Doha, University of Doha for Science and Technology Sri Lanka A SLA 284-9 (50) Hong Kong, China HKC 260-9 (50) Sri Lanka A won by 24 runs",
       "team1": {
-        "name": "2nd Match • Kuala Lumpur, Bayuemas Oval Indonesia Women IDNW 114",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "5th Match, Group A • Doha, University of Doha for Science and Technology Sri Lanka A SLA 284",
+        "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "3 (20) China Women CHNW 111",
+        "name": "9 (50) Hong Kong, China HKC 260",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "2nd Match • Kuala Lumpur, Bayuemas Oval Indonesia Women IDNW 114-3 (20) China Women CHNW 111-9 (20) Indonesia Women won by 3 runs",
+      "score": "5th Match, Group A • Doha, University of Doha for Science and Technology Sri Lanka A SLA 284-9 (50) Hong Kong, China HKC 260-9 (50) Sri Lanka A won by 24 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "7th Match • Oudtshoorn, Recreation Ground Border BOR 159 & 234 South Western Districts SWD 392-9 d & 5-0 South Western Districts won by 10 wkts",
+      "team1": {
+        "name": "7th Match • Oudtshoorn, Recreation Ground Border BOR 159 & 234 South Western Districts SWD 392",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "9 d & 5",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "7th Match • Oudtshoorn, Recreation Ground Border BOR 159 & 234 South Western Districts SWD 392-9 d & 5-0 South Western Districts won by 10 wkts",
       "status": "Match Details"
     }
   ]
