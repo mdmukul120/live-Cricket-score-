@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-20 21:27:31 UTC",
-  "total_matches": 54,
+  "last_updated": "2026-11-21 02:44:43 UTC",
+  "total_matches": 58,
   "matches": [
     {
-      "title": "NZ vs IND - Stumps",
+      "title": "NZ vs IND - Tea",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,33 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Stumps",
+      "score": "NZ vs IND - Tea",
+      "status": "Match Details"
+    },
+    {
+      "title": "SYTW vs HBHW - Need 148 to win",
+      "team1": {
+        "name": "SYTW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "HBHW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SYTW vs HBHW - Need 148 to win",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUS vs ENG - Preview",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "AUS vs ENG - Preview",
       "status": "Match Details"
     },
     {
@@ -30,42 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "UBL vs YL - UBL won",
+      "title": "DV vs MIE - Preview",
       "team1": {
-        "name": "UBL",
+        "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "YL",
+        "name": "MIE",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "UBL vs YL - UBL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "ARA vs UBL - UBL won",
-      "team1": {
-        "name": "ARA",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "UBL",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "ARA vs UBL - UBL won",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs ENG - Preview",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "AUS vs ENG - Preview",
+      "score": "DV vs MIE - Preview",
       "status": "Match Details"
     },
     {
@@ -316,6 +316,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Vidarbha vs Gujarat Elite Group D",
+      "team1": {
+        "name": "Vidarbha",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Gujarat Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Vidarbha vs Gujarat Elite Group D",
+      "status": "Match Details"
+    },
+    {
       "title": "Arabian Aces vs UAE Bulls Qualifier (2v3)",
       "team1": {
         "name": "Arabian Aces",
@@ -394,6 +407,32 @@
       "status": "Match Details"
     },
     {
+      "title": "Services vs Manipur Plate",
+      "team1": {
+        "name": "Services",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Manipur Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Services vs Manipur Plate",
+      "status": "Match Details"
+    },
+    {
+      "title": "Sikkim vs Meghalaya Plate",
+      "team1": {
+        "name": "Sikkim",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Meghalaya Plate",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Sikkim vs Meghalaya Plate",
+      "status": "Match Details"
+    },
+    {
       "title": "Lumbini Lions vs Sudur Paschim Royals Final",
       "team1": {
         "name": "Lumbini Lions",
@@ -459,42 +498,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Auckland vs Northern Districts 1st Match",
+      "title": "Auckland vs Northern Districts LIVE 1st Match",
       "team1": {
         "name": "Auckland",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Districts 1st Match",
+        "name": "Northern Districts LIVE 1st Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Auckland vs Northern Districts 1st Match",
+      "score": "Auckland vs Northern Districts LIVE 1st Match",
       "status": "Match Details"
     },
     {
-      "title": "Wellington vs Central Districts 2nd Match",
+      "title": "Wellington vs Central Districts LIVE 2nd Match",
       "team1": {
         "name": "Wellington",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Districts 2nd Match",
+        "name": "Central Districts LIVE 2nd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Wellington vs Central Districts 2nd Match",
+      "score": "Wellington vs Central Districts LIVE 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Canterbury vs Otago 3rd Match",
+      "title": "Canterbury vs Otago LIVE 3rd Match",
       "team1": {
         "name": "Canterbury",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Otago 3rd Match",
+        "name": "Otago LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Canterbury vs Otago 3rd Match",
+      "score": "Canterbury vs Otago LIVE 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "New South Wales vs Queensland 13th Match",
+      "team1": {
+        "name": "New South Wales",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Queensland 13th Match",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "New South Wales vs Queensland 13th Match",
       "status": "Match Details"
     },
     {
@@ -602,16 +654,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Hobart Hurricanes Women vs Sydney Thunder Women 29th Match",
+      "title": "Sydney Thunder Women vs Hobart Hurricanes Women LIVE 29th Match",
       "team1": {
-        "name": "Hobart Hurricanes Women",
+        "name": "Sydney Thunder Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sydney Thunder Women 29th Match",
+        "name": "Hobart Hurricanes Women LIVE 29th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Hobart Hurricanes Women vs Sydney Thunder Women 29th Match",
+      "score": "Sydney Thunder Women vs Hobart Hurricanes Women LIVE 29th Match",
       "status": "Match Details"
     },
     {
@@ -680,29 +732,29 @@
       "status": "Match Details"
     },
     {
-      "title": "China Women vs Indonesia Women 2nd Match",
+      "title": "Indonesia Women vs China Women 2nd Match",
       "team1": {
-        "name": "China Women",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Indonesia Women 2nd Match",
+        "name": "Indonesia Women",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "China Women vs Indonesia Women 2nd Match",
+      "team2": {
+        "name": "China Women 2nd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Indonesia Women vs China Women 2nd Match",
       "status": "Match Details"
     },
     {
-      "title": "Final • Abu Dhabi, Zayed Cricket Stadium UAE Bulls UBL 134-3 (10) Yas Lions YL 110-4 (10) UAE Bulls won by 24 runs",
+      "title": "Malaysia Women vs China Women 3rd Match",
       "team1": {
-        "name": "Final • Abu Dhabi, Zayed Cricket Stadium UAE Bulls UBL 134",
+        "name": "Malaysia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "3 (10) Yas Lions YL 110",
+        "name": "China Women 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Final • Abu Dhabi, Zayed Cricket Stadium UAE Bulls UBL 134-3 (10) Yas Lions YL 110-4 (10) UAE Bulls won by 24 runs",
+      "score": "Malaysia Women vs China Women 3rd Match",
       "status": "Match Details"
     }
   ]
