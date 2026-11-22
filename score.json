@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-21 22:25:11 UTC",
-  "total_matches": 60,
+  "last_updated": "2026-11-22 02:32:39 UTC",
+  "total_matches": 61,
   "matches": [
     {
-      "title": "NZ vs IND - Lead by 153",
+      "title": "NZ vs IND - Trail by 323",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,7 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Lead by 153",
+      "score": "NZ vs IND - Trail by 323",
       "status": "Match Details"
     },
     {
@@ -30,7 +30,7 @@
       "status": "Match Details"
     },
     {
-      "title": "VID vs GUJ - Preview",
+      "title": "VID vs GUJ - Delay",
       "team1": {
         "name": "VID",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -39,7 +39,7 @@
         "name": "GUJ",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "VID vs GUJ - Preview",
+      "score": "VID vs GUJ - Delay",
       "status": "Match Details"
     },
     {
@@ -524,29 +524,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Canterbury vs Otago 3rd Match",
+      "title": "Canterbury vs Otago LIVE 3rd Match",
       "team1": {
         "name": "Canterbury",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Otago 3rd Match",
+        "name": "Otago LIVE 3rd Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Canterbury vs Otago 3rd Match",
+      "score": "Canterbury vs Otago LIVE 3rd Match",
       "status": "Match Details"
     },
     {
-      "title": "New South Wales vs Queensland 13th Match",
+      "title": "Queensland vs New South Wales LIVE 13th Match",
       "team1": {
-        "name": "New South Wales",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Queensland 13th Match",
+        "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "New South Wales vs Queensland 13th Match",
+      "team2": {
+        "name": "New South Wales LIVE 13th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Queensland vs New South Wales LIVE 13th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Western Australia vs Tasmania 14th Match",
+      "team1": {
+        "name": "Western Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "Tasmania 14th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Western Australia vs Tasmania 14th Match",
       "status": "Match Details"
     },
     {
@@ -745,42 +758,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia Women vs China Women 3rd Match",
+      "title": "China Women vs Malaysia Women LIVE 3rd Match",
+      "team1": {
+        "name": "China Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Malaysia Women LIVE 3rd Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "China Women vs Malaysia Women LIVE 3rd Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Malaysia Women vs Indonesia Women 4th Match",
       "team1": {
         "name": "Malaysia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "China Women 3rd Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Indonesia Women 4th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Malaysia Women vs China Women 3rd Match",
+      "score": "Malaysia Women vs Indonesia Women 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "1st Match • Dubai, Dubai International Cricket Stadium MI Emirates MIE 174-8 (20) Desert Vipers DV 122 (19.1) MI Emirates won by 52 runs",
+      "title": "2nd Match • Palmerston North, Fitzherbert Park Wellington WEL 152 & 335 Central Districts CD 265 & 226-1 Central Districts won by 9 wkts",
       "team1": {
-        "name": "1st Match • Dubai, Dubai International Cricket Stadium MI Emirates MIE 174",
+        "name": "2nd Match • Palmerston North, Fitzherbert Park Wellington WEL 152 & 335 Central Districts CD 265 & 226",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "8 (20) Desert Vipers DV 122 (19.1) MI Emirates won by 52 runs",
+        "name": "1 Central Districts won by 9 wkts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "1st Match • Dubai, Dubai International Cricket Stadium MI Emirates MIE 174-8 (20) Desert Vipers DV 122 (19.1) MI Emirates won by 52 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "6th Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 174 (45) Bangladesh A BANA 176-9 (45.5) Bangladesh A won by 1 wkt",
-      "team1": {
-        "name": "6th Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 174 (45) Bangladesh A BANA 176",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "9 (45.5) Bangladesh A won by 1 wkt",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "score": "6th Match, Group A • Doha, West End Park International Cricket Stadium Afghanistan A AFGA 174 (45) Bangladesh A BANA 176-9 (45.5) Bangladesh A won by 1 wkt",
+      "score": "2nd Match • Palmerston North, Fitzherbert Park Wellington WEL 152 & 335 Central Districts CD 265 & 226-1 Central Districts won by 9 wkts",
       "status": "Match Details"
     }
   ]
