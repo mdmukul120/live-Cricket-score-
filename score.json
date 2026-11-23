@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-22 23:15:49 UTC",
-  "total_matches": 58,
+  "last_updated": "2026-11-23 03:48:00 UTC",
+  "total_matches": 64,
   "matches": [
     {
-      "title": "NZ vs IND - Trail by 213",
+      "title": "NZ vs IND - Trail by 125",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,7 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Trail by 213",
+      "score": "NZ vs IND - Trail by 125",
       "status": "Match Details"
     },
     {
@@ -56,16 +56,16 @@
       "status": "Match Details"
     },
     {
-      "title": "GG vs SW - GG won",
+      "title": "SW vs DV - Preview",
       "team1": {
-        "name": "GG",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
         "name": "SW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "GG vs SW - GG won",
+      "team2": {
+        "name": "DV",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SW vs DV - Preview",
       "status": "Match Details"
     },
     {
@@ -342,6 +342,58 @@
       "status": "Match Details"
     },
     {
+      "title": "Chhattisgarh vs Goa Elite Group D",
+      "team1": {
+        "name": "Chhattisgarh",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Goa Elite Group D",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Chhattisgarh vs Goa Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Kerala vs Assam Elite Group C",
+      "team1": {
+        "name": "Kerala",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Assam Elite Group C",
+        "flag": "https://flagcdn.com/w80/za.png"
+      },
+      "score": "Kerala vs Assam Elite Group C",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bengal vs Uttar Pradesh Elite Group A",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Uttar Pradesh Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Uttar Pradesh Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Delhi vs Tamil Nadu Elite Group B",
+      "team1": {
+        "name": "Delhi",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Tamil Nadu Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Delhi vs Tamil Nadu Elite Group B",
+      "status": "Match Details"
+    },
+    {
       "title": "Services vs Manipur Plate",
       "team1": {
         "name": "Services",
@@ -498,29 +550,42 @@
       "status": "Match Details"
     },
     {
-      "title": "Queensland vs New South Wales 13th Match",
+      "title": "Queensland vs New South Wales LIVE 13th Match",
       "team1": {
         "name": "Queensland",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
       "team2": {
-        "name": "New South Wales 13th Match",
+        "name": "New South Wales LIVE 13th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Queensland vs New South Wales 13th Match",
+      "score": "Queensland vs New South Wales LIVE 13th Match",
       "status": "Match Details"
     },
     {
-      "title": "Western Australia vs Tasmania 14th Match",
+      "title": "Tasmania vs Western Australia LIVE 14th Match",
       "team1": {
-        "name": "Western Australia",
+        "name": "Tasmania",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Western Australia LIVE 14th Match",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "score": "Tasmania vs Western Australia LIVE 14th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "South Australia vs Victoria 15th Match",
+      "team1": {
+        "name": "South Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Tasmania 14th Match",
+        "name": "Victoria 15th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Western Australia vs Tasmania 14th Match",
+      "score": "South Australia vs Victoria 15th Match",
       "status": "Match Details"
     },
     {
@@ -534,19 +599,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Dolphins vs Western Province 10th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "Titans vs Warriors 9th Match",
-      "team1": {
-        "name": "Titans",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Warriors 9th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Titans vs Warriors 9th Match",
       "status": "Match Details"
     },
     {
@@ -573,6 +625,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Lions vs North West - Eastvaal Renault Dragons 12th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Titans vs Warriors 9th Match",
+      "team1": {
+        "name": "Titans",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Warriors 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Titans vs Warriors 9th Match",
       "status": "Match Details"
     },
     {
@@ -706,55 +771,68 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia Women vs Indonesia Women 4th Match",
+      "title": "Malaysia Women vs Indonesia Women LIVE 4th Match",
       "team1": {
         "name": "Malaysia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Indonesia Women 4th Match",
+        "name": "Indonesia Women LIVE 4th Match",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "Malaysia Women vs Indonesia Women 4th Match",
+      "score": "Malaysia Women vs Indonesia Women LIVE 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "3rd Match • Dubai, Dubai International Cricket Stadium Abu Dhabi Knight Riders ADKR 167-6 (20) Dubai Capitals DCP 112 (17.5) Abu Dhabi Knight Riders won by 55 runs",
+      "title": "China Women vs Indonesia Women 5th Match",
       "team1": {
-        "name": "3rd Match • Dubai, Dubai International Cricket Stadium Abu Dhabi Knight Riders ADKR 167",
+        "name": "China Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "6 (20) Dubai Capitals DCP 112 (17.5) Abu Dhabi Knight Riders won by 55 runs",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Indonesia Women 5th Match",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "3rd Match • Dubai, Dubai International Cricket Stadium Abu Dhabi Knight Riders ADKR 167-6 (20) Dubai Capitals DCP 112 (17.5) Abu Dhabi Knight Riders won by 55 runs",
+      "score": "China Women vs Indonesia Women 5th Match",
       "status": "Match Details"
     },
     {
-      "title": "8th Match, Group B • Doha, West End Park International Cricket Stadium Pakistan A PAKA 313 (49.2) India A INDA 265 (49.1) Pakistan A won by 48 runs",
+      "title": "9th Match • Pretoria, LC de Villiers Oval Titans TIT 202 & 372-6 d Warriors WAR 178 & 102 Titans won by 294 runs",
       "team1": {
-        "name": "8th Match, Group B • Doha, West End Park International Cricket Stadium Pakistan A PAKA 313 (49.2) India A INDA 265 (49.1) Pakistan A won by 48 runs",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "9th Match • Pretoria, LC de Villiers Oval Titans TIT 202 & 372",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 d Warriors WAR 178 & 102 Titans won by 294 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "9th Match • Pretoria, LC de Villiers Oval Titans TIT 202 & 372-6 d Warriors WAR 178 & 102 Titans won by 294 runs",
+      "status": "Match Details"
+    },
+    {
+      "title": "10th Match • Durban, Kingsmead Dolphins DOL 235 & 294 Western Province WPR 251 & 253 Dolphins won by 25 runs",
+      "team1": {
+        "name": "10th Match • Durban, Kingsmead Dolphins DOL 235 & 294 Western Province WPR 251 & 253 Dolphins won by 25 runs",
+        "flag": "https://flagcdn.com/w80/bd.png"
       },
       "team2": {
         "name": "Team 2",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "8th Match, Group B • Doha, West End Park International Cricket Stadium Pakistan A PAKA 313 (49.2) India A INDA 265 (49.1) Pakistan A won by 48 runs",
+      "score": "10th Match • Durban, Kingsmead Dolphins DOL 235 & 294 Western Province WPR 251 & 253 Dolphins won by 25 runs",
       "status": "Match Details"
     },
     {
-      "title": "8th Match • Polokwane, Polokwane Cricket Club KwaZulu-Natal Inland Tuskers KZNIN 314-6 (50) Limpopo LIMPO 215 (43.2) KwaZulu - Natal Inland Tuskers won by 99 runs",
+      "title": "7th Match • Oudtshoorn, Recreation Ground South Western Districts SWD 267-9 (50) Border BOR 140 (33) South Western Districts won by 127 runs",
       "team1": {
-        "name": "8th Match • Polokwane, Polokwane Cricket Club KwaZulu",
+        "name": "7th Match • Oudtshoorn, Recreation Ground South Western Districts SWD 267",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Natal Inland Tuskers KZNIN 314",
+        "name": "9 (50) Border BOR 140 (33) South Western Districts won by 127 runs",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "8th Match • Polokwane, Polokwane Cricket Club KwaZulu-Natal Inland Tuskers KZNIN 314-6 (50) Limpopo LIMPO 215 (43.2) KwaZulu - Natal Inland Tuskers won by 99 runs",
+      "score": "7th Match • Oudtshoorn, Recreation Ground South Western Districts SWD 267-9 (50) Border BOR 140 (33) South Western Districts won by 127 runs",
       "status": "Match Details"
     }
   ]
