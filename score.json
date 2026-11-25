@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-25 14:31:50 UTC",
-  "total_matches": 48,
+  "last_updated": "2026-11-25 23:16:09 UTC",
+  "total_matches": 49,
   "matches": [
     {
-      "title": "DCP vs DV - DV opt to bowl",
+      "title": "DCP vs DV - DCP won",
       "team1": {
         "name": "DCP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
@@ -13,7 +13,7 @@
         "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "DCP vs DV - DV opt to bowl",
+      "score": "DCP vs DV - DCP won",
       "status": "Match Details"
     },
     {
@@ -30,19 +30,6 @@
       "status": "Match Details"
     },
     {
-      "title": "BHR vs ANDW - ANDW opt to bowl",
-      "team1": {
-        "name": "BHR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ANDW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "BHR vs ANDW - ANDW opt to bowl",
-      "status": "Match Details"
-    },
-    {
       "title": "SLA vs INDA - Preview",
       "team1": {
         "name": "SLA",
@@ -56,16 +43,42 @@
       "status": "Match Details"
     },
     {
-      "title": "BRHW vs MLRW - MLRW won",
+      "title": "BHR vs ANDW - ANDW won",
       "team1": {
-        "name": "BRHW",
+        "name": "BHR",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MLRW",
+        "name": "ANDW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BRHW vs MLRW - MLRW won",
+      "score": "BHR vs ANDW - ANDW won",
+      "status": "Match Details"
+    },
+    {
+      "title": "ADKR vs MIE - Preview",
+      "team1": {
+        "name": "ADKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MIE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "ADKR vs MIE - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "New Zealand vs India 2nd Test",
+      "team1": {
+        "name": "New Zealand",
+        "flag": "https://flagcdn.com/w80/nz.png"
+      },
+      "team2": {
+        "name": "India 2nd Test",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "New Zealand vs India 2nd Test",
       "status": "Match Details"
     },
     {
@@ -79,19 +92,6 @@
         "flag": "https://flagcdn.com/w80/za.png"
       },
       "score": "Bangladesh vs South Africa 2nd Test",
-      "status": "Match Details"
-    },
-    {
-      "title": "MI Emirates vs Gulf Giants 5th Match",
-      "team1": {
-        "name": "MI Emirates",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Gulf Giants 5th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MI Emirates vs Gulf Giants 5th Match",
       "status": "Match Details"
     },
     {
@@ -251,19 +251,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Punjab vs Bihar Elite Group B",
-      "team1": {
-        "name": "Punjab",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Bihar Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Punjab vs Bihar Elite Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Chandigarh vs Jharkhand Elite Group A",
       "team1": {
         "name": "Chandigarh",
@@ -274,6 +261,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Chandigarh vs Jharkhand Elite Group A",
+      "status": "Match Details"
+    },
+    {
+      "title": "Punjab vs Bihar Elite Group B",
+      "team1": {
+        "name": "Punjab",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Bihar Elite Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Punjab vs Bihar Elite Group B",
       "status": "Match Details"
     },
     {
@@ -329,19 +329,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Pakistan A vs Nepal 12th Match, Group B",
-      "team1": {
-        "name": "Pakistan A",
-        "flag": "https://flagcdn.com/w80/pk.png"
-      },
-      "team2": {
-        "name": "Nepal 12th Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Pakistan A vs Nepal 12th Match, Group B",
-      "status": "Match Details"
-    },
-    {
       "title": "Sri Lanka A vs India A 1st Semi-Final (A1 v B2)",
       "team1": {
         "name": "Sri Lanka A",
@@ -352,6 +339,32 @@
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "score": "Sri Lanka A vs India A 1st Semi-Final (A1 v B2)",
+      "status": "Match Details"
+    },
+    {
+      "title": "Northern Districts vs Central Districts 4th Match",
+      "team1": {
+        "name": "Northern Districts",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Central Districts 4th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Northern Districts vs Central Districts 4th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Otago vs Wellington 5th Match",
+      "team1": {
+        "name": "Otago",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Wellington 5th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Otago vs Wellington 5th Match",
       "status": "Match Details"
     },
     {
@@ -446,16 +459,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bihar Rising vs Andhra Warriors LIVE 1st Match, Group B",
+      "title": "Bihar Rising vs Andhra Warriors 1st Match, Group B",
       "team1": {
         "name": "Bihar Rising",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Andhra Warriors LIVE 1st Match, Group B",
+        "name": "Andhra Warriors 1st Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Bihar Rising vs Andhra Warriors LIVE 1st Match, Group B",
+      "score": "Bihar Rising vs Andhra Warriors 1st Match, Group B",
       "status": "Match Details"
     },
     {
@@ -498,16 +511,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe A vs Ireland A LIVE 4th unofficial ODI",
+      "title": "Andaman Admirals vs UP Kings 5th Match, Group B",
+      "team1": {
+        "name": "Andaman Admirals",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UP Kings 5th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Andaman Admirals vs UP Kings 5th Match, Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Zimbabwe A vs Ireland A 4th unofficial ODI",
       "team1": {
         "name": "Zimbabwe A",
         "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Ireland A LIVE 4th unofficial ODI",
+        "name": "Ireland A 4th unofficial ODI",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Zimbabwe A vs Ireland A LIVE 4th unofficial ODI",
+      "score": "Zimbabwe A vs Ireland A 4th unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -602,29 +628,16 @@
       "status": "Match Details"
     },
     {
-      "title": "2nd Test • Centurion, SuperSport Park Bangladesh BAN 91 & 184 South Africa RSA 494-7 d South Africa won by an innings and 219 runs",
+      "title": "6th Match • Dubai, Dubai International Cricket Stadium Dubai Capitals DCP 164-7 (20) Desert Vipers DV 119 (17.5) Dubai Capitals won by 45 runs",
       "team1": {
-        "name": "2nd Test • Centurion, SuperSport Park Bangladesh BAN 91 & 184 South Africa RSA 494",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "7 d South Africa won by an innings and 219 runs",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "2nd Test • Centurion, SuperSport Park Bangladesh BAN 91 & 184 South Africa RSA 494-7 d South Africa won by an innings and 219 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "33rd Match • Melbourne, Junction Oval Brisbane Heat Women BRHW 137-8 (20) Melbourne Renegades Women MLRW 138-7 (20) Melbourne Renegades Women won by 3 wkts",
-      "team1": {
-        "name": "33rd Match • Melbourne, Junction Oval Brisbane Heat Women BRHW 137",
-        "flag": "https://flagcdn.com/w80/bd.png"
-      },
-      "team2": {
-        "name": "8 (20) Melbourne Renegades Women MLRW 138",
+        "name": "6th Match • Dubai, Dubai International Cricket Stadium Dubai Capitals DCP 164",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "33rd Match • Melbourne, Junction Oval Brisbane Heat Women BRHW 137-8 (20) Melbourne Renegades Women MLRW 138-7 (20) Melbourne Renegades Women won by 3 wkts",
+      "team2": {
+        "name": "7 (20) Desert Vipers DV 119 (17.5) Dubai Capitals won by 45 runs",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "6th Match • Dubai, Dubai International Cricket Stadium Dubai Capitals DCP 164-7 (20) Desert Vipers DV 119 (17.5) Dubai Capitals won by 45 runs",
       "status": "Match Details"
     }
   ]
