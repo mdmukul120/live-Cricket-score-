@@ -1,21 +1,8 @@
 {
   "status": "success",
-  "last_updated": "2026-11-25 23:16:09 UTC",
+  "last_updated": "2026-11-26 05:11:49 UTC",
   "total_matches": 49,
   "matches": [
-    {
-      "title": "DCP vs DV - DCP won",
-      "team1": {
-        "name": "DCP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "DV",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "DCP vs DV - DCP won",
-      "status": "Match Details"
-    },
     {
       "title": "BAN vs RSA - RSA won",
       "team1": {
@@ -43,29 +30,42 @@
       "status": "Match Details"
     },
     {
-      "title": "BHR vs ANDW - ANDW won",
+      "title": "SYTW vs ADSW - ADSW opt to bowl",
       "team1": {
-        "name": "BHR",
+        "name": "SYTW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "ANDW",
+        "name": "ADSW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "BHR vs ANDW - ANDW won",
+      "score": "SYTW vs ADSW - ADSW opt to bowl",
       "status": "Match Details"
     },
     {
-      "title": "ADKR vs MIE - Preview",
+      "title": "DCP vs DV - DCP won",
       "team1": {
-        "name": "ADKR",
+        "name": "DCP",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "MIE",
+        "name": "DV",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "ADKR vs MIE - Preview",
+      "score": "DCP vs DV - DCP won",
+      "status": "Match Details"
+    },
+    {
+      "title": "MUM vs UTK - Need 115 off 50b",
+      "team1": {
+        "name": "MUM",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "UTK",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MUM vs UTK - Need 115 off 50b",
       "status": "Match Details"
     },
     {
@@ -121,55 +121,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Uttarakhand vs Mumbai Elite Group D",
+      "title": "Mumbai vs Uttarakhand LIVE Elite Group D",
       "team1": {
-        "name": "Uttarakhand",
+        "name": "Mumbai",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Mumbai Elite Group D",
+        "name": "Uttarakhand LIVE Elite Group D",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Uttarakhand vs Mumbai Elite Group D",
+      "score": "Mumbai vs Uttarakhand LIVE Elite Group D",
       "status": "Match Details"
     },
     {
-      "title": "Madhya Pradesh vs Puducherry Elite Group C",
+      "title": "Madhya Pradesh vs Puducherry LIVE Elite Group C",
       "team1": {
         "name": "Madhya Pradesh",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Puducherry Elite Group C",
+        "name": "Puducherry LIVE Elite Group C",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Madhya Pradesh vs Puducherry Elite Group C",
+      "score": "Madhya Pradesh vs Puducherry LIVE Elite Group C",
       "status": "Match Details"
     },
     {
-      "title": "Karnataka vs Baroda Elite Group A",
-      "team1": {
-        "name": "Karnataka",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Baroda Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Karnataka vs Baroda Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jammu and Kashmir vs Haryana Elite Group B",
+      "title": "Jammu and Kashmir vs Haryana LIVE Elite Group B",
       "team1": {
         "name": "Jammu and Kashmir",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Haryana Elite Group B",
+        "name": "Haryana LIVE Elite Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Jammu and Kashmir vs Haryana Elite Group B",
+      "score": "Jammu and Kashmir vs Haryana LIVE Elite Group B",
+      "status": "Match Details"
+    },
+    {
+      "title": "Baroda vs Karnataka Elite Group A",
+      "team1": {
+        "name": "Baroda",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Karnataka Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Baroda vs Karnataka Elite Group A",
       "status": "Match Details"
     },
     {
@@ -394,16 +394,16 @@
       "status": "Match Details"
     },
     {
-      "title": "South Australia vs Victoria 15th Match",
+      "title": "South Australia vs Victoria LIVE 15th Match",
       "team1": {
         "name": "South Australia",
         "flag": "https://flagcdn.com/w80/au.png"
       },
       "team2": {
-        "name": "Victoria 15th Match",
+        "name": "Victoria LIVE 15th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "South Australia vs Victoria 15th Match",
+      "score": "South Australia vs Victoria LIVE 15th Match",
       "status": "Match Details"
     },
     {
@@ -563,16 +563,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Sydney Thunder Women vs Adelaide Strikers Women 34th Match",
+      "title": "Sydney Thunder Women vs Adelaide Strikers Women LIVE 34th Match",
       "team1": {
         "name": "Sydney Thunder Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Adelaide Strikers Women 34th Match",
+        "name": "Adelaide Strikers Women LIVE 34th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sydney Thunder Women vs Adelaide Strikers Women 34th Match",
+      "score": "Sydney Thunder Women vs Adelaide Strikers Women LIVE 34th Match",
       "status": "Match Details"
     },
     {
@@ -628,16 +628,16 @@
       "status": "Match Details"
     },
     {
-      "title": "6th Match • Dubai, Dubai International Cricket Stadium Dubai Capitals DCP 164-7 (20) Desert Vipers DV 119 (17.5) Dubai Capitals won by 45 runs",
+      "title": "TBC vs TBC Final",
       "team1": {
-        "name": "6th Match • Dubai, Dubai International Cricket Stadium Dubai Capitals DCP 164",
+        "name": "TBC",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "7 (20) Desert Vipers DV 119 (17.5) Dubai Capitals won by 45 runs",
+        "name": "TBC Final",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "6th Match • Dubai, Dubai International Cricket Stadium Dubai Capitals DCP 164-7 (20) Desert Vipers DV 119 (17.5) Dubai Capitals won by 45 runs",
+      "score": "TBC vs TBC Final",
       "status": "Match Details"
     }
   ]
