@@ -1,36 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-26 15:23:13 UTC",
-  "total_matches": 64,
+  "last_updated": "2026-11-26 23:56:31 UTC",
+  "total_matches": 53,
   "matches": [
     {
-      "title": "INDA vs SLA - Need 188 to win",
-      "team1": {
-        "name": "INDA",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "SLA",
-        "flag": "https://flagcdn.com/w80/lk.png"
-      },
-      "score": "INDA vs SLA - Need 188 to win",
-      "status": "Match Details"
-    },
-    {
-      "title": "MIE vs ADKR - ADKR opt to bowl",
-      "team1": {
-        "name": "MIE",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "ADKR",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "MIE vs ADKR - ADKR opt to bowl",
-      "status": "Match Details"
-    },
-    {
-      "title": "NZ vs IND - Preview",
+      "title": "NZ vs IND - IND opt to bowl",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -39,7 +13,33 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Preview",
+      "score": "NZ vs IND - IND opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "INDA vs SLA - SLA won",
+      "team1": {
+        "name": "INDA",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "team2": {
+        "name": "SLA",
+        "flag": "https://flagcdn.com/w80/lk.png"
+      },
+      "score": "INDA vs SLA - SLA won",
+      "status": "Match Details"
+    },
+    {
+      "title": "MIE vs ADKR - MIE won",
+      "team1": {
+        "name": "MIE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "ADKR",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "MIE vs ADKR - MIE won",
       "status": "Match Details"
     },
     {
@@ -56,29 +56,29 @@
       "status": "Match Details"
     },
     {
-      "title": "TN vs SAUR - TN won",
+      "title": "MLSW vs SYSW - SYSW won",
       "team1": {
-        "name": "TN",
+        "name": "MLSW",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "SAUR",
-        "flag": "https://flagcdn.com/w80/za.png"
+        "name": "SYSW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "TN vs SAUR - TN won",
+      "score": "MLSW vs SYSW - SYSW won",
       "status": "Match Details"
     },
     {
-      "title": "New Zealand vs India 2nd Test",
+      "title": "New Zealand vs India LIVE 2nd Test",
       "team1": {
         "name": "New Zealand",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "India 2nd Test",
+        "name": "India LIVE 2nd Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand vs India 2nd Test",
+      "score": "New Zealand vs India LIVE 2nd Test",
       "status": "Match Details"
     },
     {
@@ -108,29 +108,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Dubai Capitals vs Desert Vipers 6th Match",
-      "team1": {
-        "name": "Dubai Capitals",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Desert Vipers 6th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Dubai Capitals vs Desert Vipers 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "MI Emirates vs Abu Dhabi Knight Riders LIVE 7th Match",
+      "title": "MI Emirates vs Abu Dhabi Knight Riders 7th Match",
       "team1": {
         "name": "MI Emirates",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Abu Dhabi Knight Riders LIVE 7th Match",
+        "name": "Abu Dhabi Knight Riders 7th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "MI Emirates vs Abu Dhabi Knight Riders LIVE 7th Match",
+      "score": "MI Emirates vs Abu Dhabi Knight Riders 7th Match",
       "status": "Match Details"
     },
     {
@@ -199,6 +186,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Bengal vs Rajasthan Elite Group A",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Rajasthan Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Rajasthan Elite Group A",
+      "status": "Match Details"
+    },
+    {
       "title": "Railways vs Delhi Elite Group B",
       "team1": {
         "name": "Railways",
@@ -235,19 +235,6 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Vidarbha vs Chhattisgarh Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Rajasthan Elite Group A",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Rajasthan Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Rajasthan Elite Group A",
       "status": "Match Details"
     },
     {
@@ -355,16 +342,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India A vs Sri Lanka A LIVE 1st Semi-Final (A1 v B2)",
+      "title": "India A vs Sri Lanka A 1st Semi-Final (A1 v B2)",
       "team1": {
         "name": "India A",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "Sri Lanka A LIVE 1st Semi",
+        "name": "Sri Lanka A 1st Semi",
         "flag": "https://flagcdn.com/w80/lk.png"
       },
-      "score": "India A vs Sri Lanka A LIVE 1st Semi-Final (A1 v B2)",
+      "score": "India A vs Sri Lanka A 1st Semi-Final (A1 v B2)",
       "status": "Match Details"
     },
     {
@@ -404,6 +391,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Otago vs Wellington 5th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Auckland vs Canterbury 6th Match",
+      "team1": {
+        "name": "Auckland",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Canterbury 6th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Auckland vs Canterbury 6th Match",
       "status": "Match Details"
     },
     {
@@ -485,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Bihar Rising vs Andhra Warriors 1st Match, Group B",
+      "title": "Zimbabwe A vs Ireland A 5th unofficial ODI",
       "team1": {
-        "name": "Bihar Rising",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Zimbabwe A",
+        "flag": "https://flagcdn.com/w80/zw.png"
       },
       "team2": {
-        "name": "Andhra Warriors 1st Match, Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "Ireland A 5th unofficial ODI",
+        "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Bihar Rising vs Andhra Warriors 1st Match, Group B",
+      "score": "Zimbabwe A vs Ireland A 5th unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -524,29 +524,29 @@
       "status": "Match Details"
     },
     {
-      "title": "J&K Northern Warriors vs Chandigarh Royal Strikers LIVE 4th Match, Group B",
+      "title": "J&K Northern Warriors vs Chandigarh Royal Strikers 4th Match, Group B",
       "team1": {
         "name": "J&K Northern Warriors",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Chandigarh Royal Strikers LIVE 4th Match, Group B",
+        "name": "Chandigarh Royal Strikers 4th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "J&K Northern Warriors vs Chandigarh Royal Strikers LIVE 4th Match, Group B",
+      "score": "J&K Northern Warriors vs Chandigarh Royal Strikers 4th Match, Group B",
       "status": "Match Details"
     },
     {
-      "title": "Andaman Admirals vs UP Kings 5th Match, Group B",
+      "title": "UP Kings vs Andaman Admirals 5th Match, Group B",
       "team1": {
-        "name": "Andaman Admirals",
+        "name": "UP Kings",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "UP Kings 5th Match, Group B",
+        "name": "Andaman Admirals 5th Match, Group B",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Andaman Admirals vs UP Kings 5th Match, Group B",
+      "score": "UP Kings vs Andaman Admirals 5th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -589,29 +589,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe A vs Ireland A 4th unofficial ODI",
+      "title": "Andaman Admirals vs Chandigarh Royal Strikers 9th Match, Group B",
       "team1": {
-        "name": "Zimbabwe A",
-        "flag": "https://flagcdn.com/w80/zw.png"
+        "name": "Andaman Admirals",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Ireland A 4th unofficial ODI",
-        "flag": "https://flagcdn.com/w80/ie.png"
+        "name": "Chandigarh Royal Strikers 9th Match, Group B",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Zimbabwe A vs Ireland A 4th unofficial ODI",
-      "status": "Match Details"
-    },
-    {
-      "title": "Zimbabwe A vs Ireland A 5th unofficial ODI",
-      "team1": {
-        "name": "Zimbabwe A",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "Ireland A 5th unofficial ODI",
-        "flag": "https://flagcdn.com/w80/ie.png"
-      },
-      "score": "Zimbabwe A vs Ireland A 5th unofficial ODI",
+      "score": "Andaman Admirals vs Chandigarh Royal Strikers 9th Match, Group B",
       "status": "Match Details"
     },
     {
@@ -667,16 +654,16 @@
       "status": "Match Details"
     },
     {
-      "title": "India Women U19 vs England Women U19 LIVE 1st unofficial T20I",
+      "title": "India Women U19 vs England Women U19 1st unofficial T20I",
       "team1": {
         "name": "India Women U19",
         "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "England Women U19 LIVE 1st unofficial T20I",
+        "name": "England Women U19 1st unofficial T20I",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "India Women U19 vs England Women U19 LIVE 1st unofficial T20I",
+      "score": "India Women U19 vs England Women U19 1st unofficial T20I",
       "status": "Match Details"
     },
     {
@@ -693,146 +680,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Elite Group A • Mumbai, Wankhede Stadium Mizoram MIZ 149-6 (20) Uttar Pradesh UP 152-4 (16.4) Uttar Pradesh won by 6 wkts",
+      "title": "5th Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 104-7 (9) Andaman Admirals AMA 54-8 (9) UP Kings won by 50 runs",
       "team1": {
-        "name": "Elite Group A • Mumbai, Wankhede Stadium Mizoram MIZ 149",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "6 (20) Uttar Pradesh UP 152",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group A • Mumbai, Wankhede Stadium Mizoram MIZ 149-6 (20) Uttar Pradesh UP 152-4 (16.4) Uttar Pradesh won by 6 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group D • Kolkata, Eden Gardens Gujarat GUJ 194-5 (20) Goa GOA 162-9 (20) Gujarat won by 32 runs",
-      "team1": {
-        "name": "Elite Group D • Kolkata, Eden Gardens Gujarat GUJ 194",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "5 (20) Goa GOA 162",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group D • Kolkata, Eden Gardens Gujarat GUJ 194-5 (20) Goa GOA 162-9 (20) Gujarat won by 32 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group B • Indore, Holkar Stadium Tamil Nadu TN 192-8 (20) Saurashtra SAUR 154 (16.4) Tamil Nadu won by 38 runs",
-      "team1": {
-        "name": "Elite Group B • Indore, Holkar Stadium Tamil Nadu TN 192",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "8 (20) Saurashtra SAUR 154 (16.4) Tamil Nadu won by 38 runs",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Elite Group B • Indore, Holkar Stadium Tamil Nadu TN 192-8 (20) Saurashtra SAUR 154 (16.4) Tamil Nadu won by 38 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group C • New Chandigarh, PCA International Cricket Stadium, Ground A Tripura TRI 170-9 (20) Assam ASM 165-7 (20) Tripura won by 5 runs",
-      "team1": {
-        "name": "Elite Group C • New Chandigarh, PCA International Cricket Stadium, Ground A Tripura TRI 170",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "9 (20) Assam ASM 165",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "score": "Elite Group C • New Chandigarh, PCA International Cricket Stadium, Ground A Tripura TRI 170-9 (20) Assam ASM 165-7 (20) Tripura won by 5 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group A • Mumbai, Sharad Pawar Cricket Academy BKC Chandigarh CDG 174-7 (20) Jharkhand JHKD 175-3 (19.3) Jharkhand won by 7 wkts",
-      "team1": {
-        "name": "Elite Group A • Mumbai, Sharad Pawar Cricket Academy BKC Chandigarh CDG 174",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Jharkhand JHKD 175",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group A • Mumbai, Sharad Pawar Cricket Academy BKC Chandigarh CDG 174-7 (20) Jharkhand JHKD 175-3 (19.3) Jharkhand won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group B • Indore, Daly College Ground Bihar BIH 151-7 (20) Punjab PUN 152-6 (13.1) Punjab won by 4 wkts",
-      "team1": {
-        "name": "Elite Group B • Indore, Daly College Ground Bihar BIH 151",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (20) Punjab PUN 152",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group B • Indore, Daly College Ground Bihar BIH 151-7 (20) Punjab PUN 152-6 (13.1) Punjab won by 4 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group C • Mohali, Punjab Cricket Association IS Bindra Stadium Maharashtra MAH 180-7 (20) Andhra AP 181-3 (19.2) Andhra won by 7 wkts",
-      "team1": {
-        "name": "Elite Group C • Mohali, Punjab Cricket Association IS Bindra Stadium Maharashtra MAH 180",
-        "flag": "https://flagcdn.com/w80/in.png"
-      },
-      "team2": {
-        "name": "7 (20) Andhra AP 181",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group C • Mohali, Punjab Cricket Association IS Bindra Stadium Maharashtra MAH 180-7 (20) Andhra AP 181-3 (19.2) Andhra won by 7 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "Elite Group D • Kolkata, Jadavpur University Campus 2nd Ground Odisha ODSA 206-8 (20) Hyderabad HYD 207-5 (19.1) Hyderabad won by 5 wkts",
-      "team1": {
-        "name": "Elite Group D • Kolkata, Jadavpur University Campus 2nd Ground Odisha ODSA 206",
-        "flag": "https://flagcdn.com/w80/za.png"
-      },
-      "team2": {
-        "name": "8 (20) Hyderabad HYD 207",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Elite Group D • Kolkata, Jadavpur University Campus 2nd Ground Odisha ODSA 206-8 (20) Hyderabad HYD 207-5 (19.1) Hyderabad won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "3rd Match, Group B • Bengaluru, Acharya Stadium Haryana Phoenix HYP 109-5 (9) Andaman Admirals AMA 70-7 (9) Haryana Phoenix won by 39 runs",
-      "team1": {
-        "name": "3rd Match, Group B • Bengaluru, Acharya Stadium Haryana Phoenix HYP 109",
+        "name": "5th Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 104",
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "team2": {
-        "name": "5 (9) Andaman Admirals AMA 70",
+        "name": "7 (9) Andaman Admirals AMA 54",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "3rd Match, Group B • Bengaluru, Acharya Stadium Haryana Phoenix HYP 109-5 (9) Andaman Admirals AMA 70-7 (9) Haryana Phoenix won by 39 runs",
-      "status": "Match Details"
-    },
-    {
-      "title": "2nd Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 72-8 (9) Telangana Singhams TGS 73-5 (8) Telangana Singhams won by 5 wkts",
-      "team1": {
-        "name": "2nd Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 72",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "8 (9) Telangana Singhams TGS 73",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "2nd Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 72-8 (9) Telangana Singhams TGS 73-5 (8) Telangana Singhams won by 5 wkts",
-      "status": "Match Details"
-    },
-    {
-      "title": "35th Match • Sydney, North Sydney Oval Melbourne Stars Women MLSW 160-7 (20) Sydney Sixers Women SYSW 161-4 (19.4) Sydney Sixers Women won by 6 wkts",
-      "team1": {
-        "name": "35th Match • Sydney, North Sydney Oval Melbourne Stars Women MLSW 160",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "7 (20) Sydney Sixers Women SYSW 161",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "35th Match • Sydney, North Sydney Oval Melbourne Stars Women MLSW 160-7 (20) Sydney Sixers Women SYSW 161-4 (19.4) Sydney Sixers Women won by 6 wkts",
+      "score": "5th Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 104-7 (9) Andaman Admirals AMA 54-8 (9) UP Kings won by 50 runs",
       "status": "Match Details"
     }
   ]
