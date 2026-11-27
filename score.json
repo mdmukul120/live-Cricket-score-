@@ -1,10 +1,10 @@
 {
   "status": "success",
-  "last_updated": "2026-11-26 23:56:31 UTC",
-  "total_matches": 53,
+  "last_updated": "2026-11-27 08:02:05 UTC",
+  "total_matches": 50,
   "matches": [
     {
-      "title": "NZ vs IND - IND opt to bowl",
+      "title": "NZ vs IND - Stumps",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +13,20 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - IND opt to bowl",
+      "score": "NZ vs IND - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "AUS vs ENG - ENG opt to bowl",
+      "team1": {
+        "name": "AUS",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "ENG",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "AUS vs ENG - ENG opt to bowl",
       "status": "Match Details"
     },
     {
@@ -43,19 +56,6 @@
       "status": "Match Details"
     },
     {
-      "title": "AUS vs ENG - Preview",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "AUS vs ENG - Preview",
-      "status": "Match Details"
-    },
-    {
       "title": "MLSW vs SYSW - SYSW won",
       "team1": {
         "name": "MLSW",
@@ -69,16 +69,16 @@
       "status": "Match Details"
     },
     {
-      "title": "New Zealand vs India LIVE 2nd Test",
+      "title": "New Zealand vs India 2nd Test",
       "team1": {
         "name": "New Zealand",
         "flag": "https://flagcdn.com/w80/nz.png"
       },
       "team2": {
-        "name": "India LIVE 2nd Test",
+        "name": "India 2nd Test",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "New Zealand vs India LIVE 2nd Test",
+      "score": "New Zealand vs India 2nd Test",
       "status": "Match Details"
     },
     {
@@ -134,71 +134,6 @@
       "status": "Match Details"
     },
     {
-      "title": "Mumbai vs Uttarakhand Elite Group D",
-      "team1": {
-        "name": "Mumbai",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Uttarakhand Elite Group D",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Mumbai vs Uttarakhand Elite Group D",
-      "status": "Match Details"
-    },
-    {
-      "title": "Madhya Pradesh vs Puducherry Elite Group C",
-      "team1": {
-        "name": "Madhya Pradesh",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Puducherry Elite Group C",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Madhya Pradesh vs Puducherry Elite Group C",
-      "status": "Match Details"
-    },
-    {
-      "title": "Baroda vs Karnataka Elite Group A",
-      "team1": {
-        "name": "Baroda",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Karnataka Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Baroda vs Karnataka Elite Group A",
-      "status": "Match Details"
-    },
-    {
-      "title": "Jammu and Kashmir vs Haryana Elite Group B",
-      "team1": {
-        "name": "Jammu and Kashmir",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "Haryana Elite Group B",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Jammu and Kashmir vs Haryana Elite Group B",
-      "status": "Match Details"
-    },
-    {
-      "title": "Bengal vs Rajasthan Elite Group A",
-      "team1": {
-        "name": "Bengal",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "Rajasthan Elite Group A",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "Bengal vs Rajasthan Elite Group A",
-      "status": "Match Details"
-    },
-    {
       "title": "Railways vs Delhi Elite Group B",
       "team1": {
         "name": "Railways",
@@ -235,6 +170,19 @@
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "score": "Vidarbha vs Chhattisgarh Elite Group D",
+      "status": "Match Details"
+    },
+    {
+      "title": "Bengal vs Rajasthan Elite Group A",
+      "team1": {
+        "name": "Bengal",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "team2": {
+        "name": "Rajasthan Elite Group A",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Bengal vs Rajasthan Elite Group A",
       "status": "Match Details"
     },
     {
@@ -368,29 +316,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Northern Districts vs Central Districts 4th Match",
+      "title": "Central Districts vs Northern Districts 4th Match",
       "team1": {
-        "name": "Northern Districts",
+        "name": "Central Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Central Districts 4th Match",
+        "name": "Northern Districts 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Northern Districts vs Central Districts 4th Match",
+      "score": "Central Districts vs Northern Districts 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "Otago vs Wellington 5th Match",
+      "title": "Wellington vs Otago 5th Match",
       "team1": {
-        "name": "Otago",
+        "name": "Wellington",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Wellington 5th Match",
+        "name": "Otago 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Otago vs Wellington 5th Match",
+      "score": "Wellington vs Otago 5th Match",
       "status": "Match Details"
     },
     {
@@ -485,16 +433,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Zimbabwe A vs Ireland A 5th unofficial ODI",
+      "title": "Ireland A vs Zimbabwe A LIVE 5th unofficial ODI",
       "team1": {
-        "name": "Zimbabwe A",
-        "flag": "https://flagcdn.com/w80/zw.png"
-      },
-      "team2": {
-        "name": "Ireland A 5th unofficial ODI",
+        "name": "Ireland A",
         "flag": "https://flagcdn.com/w80/ie.png"
       },
-      "score": "Zimbabwe A vs Ireland A 5th unofficial ODI",
+      "team2": {
+        "name": "Zimbabwe A LIVE 5th unofficial ODI",
+        "flag": "https://flagcdn.com/w80/zw.png"
+      },
+      "score": "Ireland A vs Zimbabwe A LIVE 5th unofficial ODI",
       "status": "Match Details"
     },
     {
@@ -667,29 +615,42 @@
       "status": "Match Details"
     },
     {
-      "title": "TBC vs TBC Final",
+      "title": "India Women U19 vs England Women U19 2nd unofficial T20I",
       "team1": {
-        "name": "TBC",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "India Women U19",
+        "flag": "https://flagcdn.com/w80/in.png"
       },
       "team2": {
-        "name": "TBC Final",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
+        "name": "England Women U19 2nd unofficial T20I",
+        "flag": "https://flagcdn.com/w80/gb.png"
       },
-      "score": "TBC vs TBC Final",
+      "score": "India Women U19 vs England Women U19 2nd unofficial T20I",
       "status": "Match Details"
     },
     {
-      "title": "5th Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 104-7 (9) Andaman Admirals AMA 54-8 (9) UP Kings won by 50 runs",
+      "title": "Malaysia Women vs Indonesia Women Final",
       "team1": {
-        "name": "5th Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 104",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "team2": {
-        "name": "7 (9) Andaman Admirals AMA 54",
+        "name": "Malaysia Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "5th Match, Group B • Bengaluru, Acharya Stadium UP Kings UPK 104-7 (9) Andaman Admirals AMA 54-8 (9) UP Kings won by 50 runs",
+      "team2": {
+        "name": "Indonesia Women Final",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Malaysia Women vs Indonesia Women Final",
+      "status": "Match Details"
+    },
+    {
+      "title": "Final • Kuala Lumpur, Bayuemas Oval Malaysia Women MLYW 67-6 (13) Indonesia Women IDNW 68-2 (10.3) Indonesia Women won by 8 wkts - 13 overs game due to rain",
+      "team1": {
+        "name": "Final • Kuala Lumpur, Bayuemas Oval Malaysia Women MLYW 67",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "6 (13) Indonesia Women IDNW 68",
+        "flag": "https://flagcdn.com/w80/in.png"
+      },
+      "score": "Final • Kuala Lumpur, Bayuemas Oval Malaysia Women MLYW 67-6 (13) Indonesia Women IDNW 68-2 (10.3) Indonesia Women won by 8 wkts - 13 overs game due to rain",
       "status": "Match Details"
     }
   ]
