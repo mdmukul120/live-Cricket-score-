@@ -1,10 +1,23 @@
 {
   "status": "success",
-  "last_updated": "2026-11-28 01:26:29 UTC",
-  "total_matches": 36,
+  "last_updated": "2026-11-28 09:21:19 UTC",
+  "total_matches": 38,
   "matches": [
     {
-      "title": "NZ vs IND - Innings Break",
+      "title": "DV vs MIE - Preview",
+      "team1": {
+        "name": "DV",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "MIE",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "DV vs MIE - Preview",
+      "status": "Match Details"
+    },
+    {
+      "title": "NZ vs IND - Stumps",
       "team1": {
         "name": "NZ",
         "flag": "https://flagcdn.com/w80/nz.png"
@@ -13,7 +26,33 @@
         "name": "IND",
         "flag": "https://flagcdn.com/w80/in.png"
       },
-      "score": "NZ vs IND - Innings Break",
+      "score": "NZ vs IND - Stumps",
+      "status": "Match Details"
+    },
+    {
+      "title": "SYSW vs SYTW - SYTW opt to bowl",
+      "team1": {
+        "name": "SYSW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "SYTW",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "SYSW vs SYTW - SYTW opt to bowl",
+      "status": "Match Details"
+    },
+    {
+      "title": "DCP vs GG - Preview",
+      "team1": {
+        "name": "DCP",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "GG",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "DCP vs GG - Preview",
       "status": "Match Details"
     },
     {
@@ -27,45 +66,6 @@
         "flag": "https://flagcdn.com/w80/pk.png"
       },
       "score": "BANA vs PAKA - PAKA won",
-      "status": "Match Details"
-    },
-    {
-      "title": "DCP vs SW - SW won",
-      "team1": {
-        "name": "DCP",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "SW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "DCP vs SW - SW won",
-      "status": "Match Details"
-    },
-    {
-      "title": "AUS vs ENG - ENG won",
-      "team1": {
-        "name": "AUS",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "ENG",
-        "flag": "https://flagcdn.com/w80/gb.png"
-      },
-      "score": "AUS vs ENG - ENG won",
-      "status": "Match Details"
-    },
-    {
-      "title": "PRSW vs HBHW - PRSW won",
-      "team1": {
-        "name": "PRSW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "team2": {
-        "name": "HBHW",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "PRSW vs HBHW - PRSW won",
       "status": "Match Details"
     },
     {
@@ -92,6 +92,19 @@
         "flag": "https://flagcdn.com/w80/gb.png"
       },
       "score": "Australia vs England 3rd T20I",
+      "status": "Match Details"
+    },
+    {
+      "title": "Australia vs England 4th T20I",
+      "team1": {
+        "name": "Australia",
+        "flag": "https://flagcdn.com/w80/au.png"
+      },
+      "team2": {
+        "name": "England 4th T20I",
+        "flag": "https://flagcdn.com/w80/gb.png"
+      },
+      "score": "Australia vs England 4th T20I",
       "status": "Match Details"
     },
     {
@@ -160,55 +173,55 @@
       "status": "Match Details"
     },
     {
-      "title": "Central Districts vs Northern Districts LIVE 4th Match",
+      "title": "Eastern Storm vs Northern Cape 9th Match",
+      "team1": {
+        "name": "Eastern Storm",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Northern Cape 9th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Eastern Storm vs Northern Cape 9th Match",
+      "status": "Match Details"
+    },
+    {
+      "title": "Central Districts vs Northern Districts 4th Match",
       "team1": {
         "name": "Central Districts",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Northern Districts LIVE 4th Match",
+        "name": "Northern Districts 4th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Central Districts vs Northern Districts LIVE 4th Match",
+      "score": "Central Districts vs Northern Districts 4th Match",
       "status": "Match Details"
     },
     {
-      "title": "Wellington vs Otago LIVE 5th Match",
+      "title": "Wellington vs Otago 5th Match",
       "team1": {
         "name": "Wellington",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Otago LIVE 5th Match",
+        "name": "Otago 5th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Wellington vs Otago LIVE 5th Match",
+      "score": "Wellington vs Otago 5th Match",
       "status": "Match Details"
     },
     {
-      "title": "Canterbury vs Auckland LIVE 6th Match",
+      "title": "Canterbury vs Auckland 6th Match",
       "team1": {
         "name": "Canterbury",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Auckland LIVE 6th Match",
+        "name": "Auckland 6th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Canterbury vs Auckland LIVE 6th Match",
-      "status": "Match Details"
-    },
-    {
-      "title": "South Australia vs Victoria 15th Match",
-      "team1": {
-        "name": "South Australia",
-        "flag": "https://flagcdn.com/w80/au.png"
-      },
-      "team2": {
-        "name": "Victoria 15th Match",
-        "flag": "https://via.placeholder.com/80?text=FLAG"
-      },
-      "score": "South Australia vs Victoria 15th Match",
+      "score": "Canterbury vs Auckland 6th Match",
       "status": "Match Details"
     },
     {
@@ -407,29 +420,29 @@
       "status": "Match Details"
     },
     {
-      "title": "Melbourne Renegades Women vs Melbourne Stars Women 37th Match",
+      "title": "Melbourne Stars Women vs Melbourne Renegades Women 37th Match",
       "team1": {
-        "name": "Melbourne Renegades Women",
+        "name": "Melbourne Stars Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Melbourne Stars Women 37th Match",
+        "name": "Melbourne Renegades Women 37th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Melbourne Renegades Women vs Melbourne Stars Women 37th Match",
+      "score": "Melbourne Stars Women vs Melbourne Renegades Women 37th Match",
       "status": "Match Details"
     },
     {
-      "title": "Sydney Thunder Women vs Sydney Sixers Women 38th Match",
+      "title": "Sydney Sixers Women vs Sydney Thunder Women LIVE 38th Match",
       "team1": {
-        "name": "Sydney Thunder Women",
+        "name": "Sydney Sixers Women",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Sydney Sixers Women 38th Match",
+        "name": "Sydney Thunder Women LIVE 38th Match",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Sydney Thunder Women vs Sydney Sixers Women 38th Match",
+      "score": "Sydney Sixers Women vs Sydney Thunder Women LIVE 38th Match",
       "status": "Match Details"
     },
     {
@@ -446,6 +459,19 @@
       "status": "Match Details"
     },
     {
+      "title": "Adelaide Strikers Women vs Hobart Hurricanes Women 40th Match",
+      "team1": {
+        "name": "Adelaide Strikers Women",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "team2": {
+        "name": "Hobart Hurricanes Women 40th Match",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
+      },
+      "score": "Adelaide Strikers Women vs Hobart Hurricanes Women 40th Match",
+      "status": "Match Details"
+    },
+    {
       "title": "India Women U19 vs England Women U19 2nd unofficial T20I",
       "team1": {
         "name": "India Women U19",
@@ -459,16 +485,16 @@
       "status": "Match Details"
     },
     {
-      "title": "Malaysia Women vs Indonesia Women Final",
+      "title": "37th Match • Melbourne, Junction Oval Melbourne Stars Women MLSW 75-0 (8.5) Melbourne Renegades Women MLRW 103-5 (7.5) Melbourne Renegades Women won by 5 wkts (DLS Method)",
       "team1": {
-        "name": "Malaysia Women",
+        "name": "37th Match • Melbourne, Junction Oval Melbourne Stars Women MLSW 75",
         "flag": "https://via.placeholder.com/80?text=FLAG"
       },
       "team2": {
-        "name": "Indonesia Women Final",
-        "flag": "https://flagcdn.com/w80/in.png"
+        "name": "0 (8.5) Melbourne Renegades Women MLRW 103",
+        "flag": "https://via.placeholder.com/80?text=FLAG"
       },
-      "score": "Malaysia Women vs Indonesia Women Final",
+      "score": "37th Match • Melbourne, Junction Oval Melbourne Stars Women MLSW 75-0 (8.5) Melbourne Renegades Women MLRW 103-5 (7.5) Melbourne Renegades Women won by 5 wkts (DLS Method)",
       "status": "Match Details"
     }
   ]
